@@ -6,6 +6,6 @@ I consider myself a versatile professional with a large IT background and over 2
 
 Find me on: 
 
-- GitHub
-- Twitter 
-- LinkedIn
+- [Personal Web Site](http://leandrodaniel.com/) 
+- [Twitter](https://twitter.com/leandronet) 
+- [LinkedIn](https://www.linkedin.com/in/leandrodaniel/)
