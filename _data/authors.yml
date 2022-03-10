@@ -1,0 +1,53 @@
+# Authors
+
+Deeployer:
+  name        : "Deeployer"
+  bio         : "Data Science: data analytics, predictive analysis, data mining, machine learning, deep learning, statistics and more."
+  avatar      : "/assets/images/Deeployer-Logo-Hexagon-Avatar.png"
+  location    : "São Paulo / Brazil"  
+  links:
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.linkedin.com/company/deeployer/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/deeployer"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/deeployer"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/deeployer"
+
+Leandro Daniel:
+  name        : "Leandro Daniel"
+  bio         : "Dad, husband, systems architect, developer, deeployer and amateur musician."
+  avatar      : "/assets/images/avatar-leandro.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:leandro.daniel@deeployer.com"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.linkedin.com/in/leandrodaniel"      
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/leandronet"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ldaniel"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/leandro.o.daniel"
+
+John Doe:
+  name        : "John Doe"
+  bio         : "Hey, you!"
+  avatar      : "/assets/images/bio-photo.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:cornelius@thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/rhymeswithsackit"
