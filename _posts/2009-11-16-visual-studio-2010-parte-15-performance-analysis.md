@@ -5,7 +5,7 @@ date: '2009-11-16T01:07:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Visual-Studio-2010-(parte-15)-e28093-Performance-Analysis.aspx
-permalink: /index.php/visual-studio-2010-parte-15-performance-analysis/
+permalink: /visual-studio-2010-parte-15-performance-analysis/
 categories:
     - Post
     - 'Visual Studio'

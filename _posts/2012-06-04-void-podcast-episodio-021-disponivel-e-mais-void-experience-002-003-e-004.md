@@ -5,7 +5,7 @@ date: '2012-06-04T09:51:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Void-Podcast-episodio-021-disponivel-e-mais-Void-eXperience-002-003-e-004!.aspx
-permalink: /index.php/void-podcast-episodio-021-disponivel-e-mais-void-experience-002-003-e-004/
+permalink: /void-podcast-episodio-021-disponivel-e-mais-void-experience-002-003-e-004/
 image: /wp-content/uploads/2012/06/VoidLogo-Twitter-2.png
 categories:
     - Comunidade

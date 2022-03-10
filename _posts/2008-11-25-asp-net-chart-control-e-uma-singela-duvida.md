@@ -5,7 +5,7 @@ date: '2008-11-25T23:29:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/ASPNET-Chart-Control-(e-uma-singela-duvida).aspx
-permalink: /index.php/asp-net-chart-control-e-uma-singela-duvida/
+permalink: /asp-net-chart-control-e-uma-singela-duvida/
 categories:
     - ASP.NET
     - Post

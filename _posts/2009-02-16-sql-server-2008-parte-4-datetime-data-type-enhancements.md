@@ -5,7 +5,7 @@ date: '2009-02-16T23:58:13-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/SQL-Server-2008-(parte-4)-Datetime-Data-Type-Enhancements.aspx
-permalink: /index.php/sql-server-2008-parte-4-datetime-data-type-enhancements/
+permalink: /sql-server-2008-parte-4-datetime-data-type-enhancements/
 categories:
     - Post
     - 'SQL Server'

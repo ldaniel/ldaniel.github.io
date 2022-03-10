@@ -5,7 +5,7 @@ date: '2011-04-05T15:26:24-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Desenvolvimento-com-SharePoint-2010.aspx
-permalink: /index.php/desenvolvimento-com-sharepoint-2010/
+permalink: /desenvolvimento-com-sharepoint-2010/
 categories:
     - Post
     - SharePoint

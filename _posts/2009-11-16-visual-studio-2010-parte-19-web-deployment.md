@@ -5,7 +5,7 @@ date: '2009-11-16T01:13:22-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Visual-Studio-2010-(parte-19)-e28093-Web-Deployment.aspx
-permalink: /index.php/visual-studio-2010-parte-19-web-deployment/
+permalink: /visual-studio-2010-parte-19-web-deployment/
 categories:
     - Post
     - 'Visual Studio'

@@ -5,7 +5,7 @@ date: '2010-04-23T21:58:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Dica-de-framework-de-IA-e-Computer-Vision.aspx
-permalink: /index.php/dica-de-framework-de-ia-e-computer-vision/
+permalink: /dica-de-framework-de-ia-e-computer-vision/
 categories:
     - Dicas
     - Post

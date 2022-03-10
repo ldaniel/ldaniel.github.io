@@ -5,7 +5,7 @@ date: '2010-09-10T13:06:14-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Tech-Ed-2010-Cobrindo-o-evento-para-a-net-Magazine!.aspx
-permalink: /index.php/tech-ed-2010-cobrindo-o-evento-para-a-net-magazine/
+permalink: /tech-ed-2010-cobrindo-o-evento-para-a-net-magazine/
 categories:
     - Comunidade
     - Eventos

@@ -5,7 +5,7 @@ date: '2009-11-17T01:02:47-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Visual-Studio-2010-(parte-31)-e28093-ASPNET-AJAX-4-(Live-Bindings).aspx
-permalink: /index.php/visual-studio-2010-parte-31-asp-net-ajax-4-live-bindings/
+permalink: /visual-studio-2010-parte-31-asp-net-ajax-4-live-bindings/
 categories:
     - Post
     - 'Visual Studio'

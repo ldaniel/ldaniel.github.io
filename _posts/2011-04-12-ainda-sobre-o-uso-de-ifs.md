@@ -5,7 +5,7 @@ date: '2011-04-12T13:21:44-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Ainda-sobre-uso-de-IFs.aspx
-permalink: /index.php/ainda-sobre-o-uso-de-ifs/
+permalink: /ainda-sobre-o-uso-de-ifs/
 categories:
     - 'C#'
     - Post

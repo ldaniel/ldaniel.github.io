@@ -5,7 +5,7 @@ date: '2012-09-30T23:50:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Architecture-Principles.aspx
-permalink: /index.php/architecture-principles/
+permalink: /architecture-principles/
 categories:
     - Arquitetura
     - Post

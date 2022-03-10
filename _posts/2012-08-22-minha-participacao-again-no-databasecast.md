@@ -5,7 +5,7 @@ date: '2012-08-22T10:06:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Minha-participacao-(again)-no-Databasecast.aspx
-permalink: /index.php/minha-participacao-again-no-databasecast/
+permalink: /minha-participacao-again-no-databasecast/
 image: /wp-content/uploads/2013/04/databasecastPodcastETL.png
 categories:
     - Comunidade

@@ -5,7 +5,7 @@ date: '2009-09-07T23:03:30-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Computadores-antigos.aspx
-permalink: /index.php/computadores-antigos/
+permalink: /computadores-antigos/
 categories:
     - Dicas
     - Post

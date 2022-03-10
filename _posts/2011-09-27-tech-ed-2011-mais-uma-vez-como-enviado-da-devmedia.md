@@ -5,7 +5,7 @@ date: '2011-09-27T20:58:42-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Tech-Ed-2011-Mais-uma-vez-como-enviado-da-DevMedia!.aspx
-permalink: /index.php/tech-ed-2011-mais-uma-vez-como-enviado-da-devmedia/
+permalink: /tech-ed-2011-mais-uma-vez-como-enviado-da-devmedia/
 image: /wp-content/uploads/2011/09/TechEd2011.png
 categories:
     - Comunidade

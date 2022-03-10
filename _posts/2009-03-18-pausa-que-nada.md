@@ -5,7 +5,7 @@ date: '2009-03-18T00:06:43-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Pausa-Que-nadae280a6.aspx
-permalink: /index.php/pausa-que-nada/
+permalink: /pausa-que-nada/
 categories:
     - Informativo
     - Post

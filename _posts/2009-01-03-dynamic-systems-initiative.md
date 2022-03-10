@@ -5,7 +5,7 @@ date: '2009-01-03T18:46:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Dynamic-Systems-Initiative.aspx
-permalink: /index.php/dynamic-systems-initiative/
+permalink: /dynamic-systems-initiative/
 categories:
     - Post
     - Virtualização

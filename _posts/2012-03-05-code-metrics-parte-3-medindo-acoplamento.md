@@ -5,7 +5,7 @@ date: '2012-03-05T10:50:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Code-metrics-(parte-3)-Medindo-acoplamento.aspx
-permalink: /index.php/code-metrics-parte-3-medindo-acoplamento/
+permalink: /code-metrics-parte-3-medindo-acoplamento/
 categories:
     - Arquitetura
     - Post

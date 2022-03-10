@@ -5,7 +5,7 @@ date: '2009-08-04T21:57:12-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Alteracao-no-endereco-de-RSS-do-Reverb.aspx
-permalink: /index.php/alteracao-no-endereco-de-rss-do-reverb/
+permalink: /alteracao-no-endereco-de-rss-do-reverb/
 categories:
     - Informativo
     - Post

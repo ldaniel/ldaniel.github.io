@@ -5,7 +5,7 @@ date: '2012-04-17T10:29:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Architects-roles-(parte-3)-Pensando-em-funcao-de-as-is-e-to-be.aspx
-permalink: /index.php/architects-roles-parte-3-um-pe-no-as-is-e-outro-no-to-be/
+permalink: /architects-roles-parte-3-um-pe-no-as-is-e-outro-no-to-be/
 categories:
     - Arquitetura
     - Carreira

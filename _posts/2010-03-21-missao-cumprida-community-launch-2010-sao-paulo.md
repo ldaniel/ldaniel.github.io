@@ -5,7 +5,7 @@ date: '2010-03-21T14:20:28-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Missao-cumprida-Community-Launch-2010-(Sao-Paulo).aspx
-permalink: /index.php/missao-cumprida-community-launch-2010-sao-paulo/
+permalink: /missao-cumprida-community-launch-2010-sao-paulo/
 categories:
     - Comunidade
     - Eventos

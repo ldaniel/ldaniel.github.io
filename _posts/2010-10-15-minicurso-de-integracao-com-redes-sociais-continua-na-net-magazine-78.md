@@ -5,7 +5,7 @@ date: '2010-10-15T02:24:35-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Minicurso-de-integracao-com-Redes-Socias-continua-na-net-Magazine-78.aspx
-permalink: /index.php/minicurso-de-integracao-com-redes-sociais-continua-na-net-magazine-78/
+permalink: /minicurso-de-integracao-com-redes-sociais-continua-na-net-magazine-78/
 image: /wp-content/uploads/2012/10/capa_net78_G.jpg
 categories:
     - '.net Magazine'

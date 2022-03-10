@@ -5,7 +5,7 @@ date: '2009-09-09T22:18:05-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Encontrando-numeros-em-uma-string-com-Regex.aspx
-permalink: /index.php/encontrando-numeros-em-uma-string-com-regex/
+permalink: /encontrando-numeros-em-uma-string-com-regex/
 categories:
     - 'C#'
     - Post

@@ -5,7 +5,7 @@ date: '2009-03-24T00:15:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Uma-pagina-IE8e280a6-pressione-F12.aspx
-permalink: /index.php/uma-pagina-ie8-pressione-f12/
+permalink: /uma-pagina-ie8-pressione-f12/
 categories:
     - Dicas
     - Post

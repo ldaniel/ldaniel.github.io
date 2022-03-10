@@ -5,7 +5,7 @@ date: '2009-03-16T00:49:39-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Diga-e2809cHello-world!e2809d-em-diversas-linguagens-de-programacao.aspx
-permalink: /index.php/diga-hello-world-em-diversas-linguagens-de-programacao/
+permalink: /diga-hello-world-em-diversas-linguagens-de-programacao/
 categories:
     - 'Off'
     - Post

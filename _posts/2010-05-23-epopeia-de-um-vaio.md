@@ -5,7 +5,7 @@ date: '2010-05-23T11:24:12-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Epopeia-de-um-Vaio.aspx
-permalink: /index.php/epopeia-de-um-vaio/
+permalink: /epopeia-de-um-vaio/
 categories:
     - 'Off'
     - Post

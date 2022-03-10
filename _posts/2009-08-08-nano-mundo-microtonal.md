@@ -5,7 +5,7 @@ date: '2009-08-08T13:27:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Nano-mundo-microtonal.aspx
-permalink: /index.php/nano-mundo-microtonal/
+permalink: /nano-mundo-microtonal/
 categories:
     - Distortion
     - Post

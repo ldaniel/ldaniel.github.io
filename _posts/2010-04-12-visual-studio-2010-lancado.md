@@ -5,7 +5,7 @@ date: '2010-04-12T15:00:09-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Visual-Studio-2010-lancado.aspx
-permalink: /index.php/visual-studio-2010-lancado/
+permalink: /visual-studio-2010-lancado/
 categories:
     - Informativo
     - Post

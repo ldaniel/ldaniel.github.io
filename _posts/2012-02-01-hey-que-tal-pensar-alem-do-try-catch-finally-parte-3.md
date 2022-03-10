@@ -5,7 +5,7 @@ date: '2012-02-01T15:14:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Hey-que-tal-pensar-alem-do-Try-Catch-Finally-(parte-3).aspx
-permalink: /index.php/hey-que-tal-pensar-alem-do-try-catch-finally-parte-3/
+permalink: /hey-que-tal-pensar-alem-do-try-catch-finally-parte-3/
 categories:
     - Arquitetura
     - Post

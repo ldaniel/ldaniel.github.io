@@ -5,7 +5,7 @@ date: '2010-05-23T12:03:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Templo-Boss.aspx
-permalink: /index.php/templo-boss/
+permalink: /templo-boss/
 categories:
     - Distortion
     - Post

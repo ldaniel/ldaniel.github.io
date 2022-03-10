@@ -5,7 +5,7 @@ date: '2013-01-31T12:31:55-03:00'
 author: 'Leandro Daniel'
 
 guid: 'http://leandrodaniel.com/?p=626'
-permalink: /index.php/videos-do-tdc-2012-sao-paulo/
+permalink: /videos-do-tdc-2012-sao-paulo/
 image: /wp-content/uploads/2013/04/video2012.png
 categories:
     - Arquitetura

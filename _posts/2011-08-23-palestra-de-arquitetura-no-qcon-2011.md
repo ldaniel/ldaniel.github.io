@@ -5,7 +5,7 @@ date: '2011-08-23T09:41:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Palestra-de-arquitetura-no-QCon-2011!.aspx
-permalink: /index.php/palestra-de-arquitetura-no-qcon-2011/
+permalink: /palestra-de-arquitetura-no-qcon-2011/
 categories:
     - Comunidade
     - Eventos

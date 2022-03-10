@@ -5,7 +5,7 @@ date: '2009-01-05T20:11:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/SQL-Services.aspx
-permalink: /index.php/sql-services/
+permalink: /sql-services/
 categories:
     - Post
     - 'SQL Server'

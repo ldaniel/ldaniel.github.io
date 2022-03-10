@@ -5,7 +5,7 @@ date: '2009-07-16T22:52:14-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Visual-Studio-2010-nao-resistie280a6.aspx
-permalink: /index.php/visual-studio-2010-nao-resisti/
+permalink: /visual-studio-2010-nao-resisti/
 categories:
     - Post
     - 'Visual Studio'

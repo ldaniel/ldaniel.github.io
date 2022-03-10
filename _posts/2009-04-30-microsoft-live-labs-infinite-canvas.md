@@ -5,7 +5,7 @@ date: '2009-04-30T23:59:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Live-Labs-Infinite-Canvas.aspx
-permalink: /index.php/microsoft-live-labs-infinite-canvas/
+permalink: /microsoft-live-labs-infinite-canvas/
 categories:
     - 'Microsoft Live Labs'
     - Post

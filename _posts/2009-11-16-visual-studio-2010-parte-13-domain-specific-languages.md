@@ -5,7 +5,7 @@ date: '2009-11-16T01:02:51-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Visual-Studio-2010-(parte-13)-e28093-Domain-Specific-Languages.aspx
-permalink: /index.php/visual-studio-2010-parte-13-domain-specific-languages/
+permalink: /visual-studio-2010-parte-13-domain-specific-languages/
 categories:
     - Post
     - 'Visual Studio'

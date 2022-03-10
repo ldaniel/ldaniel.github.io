@@ -5,7 +5,7 @@ date: '2009-04-23T22:10:04-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Enterprise-Library-5-com-lancamento-previsto-para-2010.aspx
-permalink: /index.php/enterprise-library-5-com-lancamento-previsto-para-2010/
+permalink: /enterprise-library-5-com-lancamento-previsto-para-2010/
 categories:
     - Informativo
     - Post

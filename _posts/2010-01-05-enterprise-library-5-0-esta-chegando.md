@@ -5,7 +5,7 @@ date: '2010-01-05T01:21:02-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Enterprise-Library-50-esta-chegando!.aspx
-permalink: /index.php/enterprise-library-5-0-esta-chegando/
+permalink: /enterprise-library-5-0-esta-chegando/
 categories:
     - 'Enterprise Library'
     - Post

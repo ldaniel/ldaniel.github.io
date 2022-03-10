@@ -5,7 +5,7 @@ date: '2011-09-06T21:26:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Microsoft-NET-Gadgeteer.aspx
-permalink: /index.php/microsoft-net-gadgeteer/
+permalink: /microsoft-net-gadgeteer/
 categories:
     - Hardware
     - Post

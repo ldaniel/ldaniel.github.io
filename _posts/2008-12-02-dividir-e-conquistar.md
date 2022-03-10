@@ -5,7 +5,7 @@ date: '2008-12-02T23:21:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Dividir-e-conquistar.aspx
-permalink: /index.php/dividir-e-conquistar/
+permalink: /dividir-e-conquistar/
 categories:
     - Post
     - 'SQL Server'

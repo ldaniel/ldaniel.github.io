@@ -5,7 +5,7 @@ date: '2011-11-14T10:21:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Void-Podcast-episodios-009-ao-012-disponiveis!.aspx
-permalink: /index.php/void-podcast-episodios-009-ao-012-disponiveis/
+permalink: /void-podcast-episodios-009-ao-012-disponiveis/
 image: /wp-content/uploads/2012/06/VoidLogo-Twitter-2.png
 categories:
     - Comunidade

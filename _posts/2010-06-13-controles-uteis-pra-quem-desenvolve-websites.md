@@ -5,7 +5,7 @@ date: '2010-06-13T23:24:26-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Controles-uteis-pra-quem-desenvolve-websites.aspx
-permalink: /index.php/controles-uteis-pra-quem-desenvolve-websites/
+permalink: /controles-uteis-pra-quem-desenvolve-websites/
 categories:
     - ASP.NET
     - Dicas

@@ -5,7 +5,7 @@ date: '2009-04-19T13:30:32-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Resultados-da-priorizacao-do-product-backlog-da-Enterprise-Library-5.aspx
-permalink: /index.php/resultados-da-priorizacao-do-product-backlog-da-enterprise-library-5/
+permalink: /resultados-da-priorizacao-do-product-backlog-da-enterprise-library-5/
 categories:
     - Arquitetura
     - 'Enterprise Library'

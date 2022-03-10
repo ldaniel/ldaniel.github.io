@@ -5,7 +5,7 @@ date: '2012-05-10T13:15:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Code-metrics-(parte-9)-Ferramentas.aspx
-permalink: /index.php/code-metrics-parte-9-ferramentas/
+permalink: /code-metrics-parte-9-ferramentas/
 categories:
     - Arquitetura
     - Post

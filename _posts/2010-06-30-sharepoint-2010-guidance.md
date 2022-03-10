@@ -5,7 +5,7 @@ date: '2010-06-30T16:04:23-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/SharePoint-2010-Guidance.aspx
-permalink: /index.php/sharepoint-2010-guidance/
+permalink: /sharepoint-2010-guidance/
 categories:
     - Post
     - SharePoint

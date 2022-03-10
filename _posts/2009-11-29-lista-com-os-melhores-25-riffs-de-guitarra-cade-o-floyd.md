@@ -5,7 +5,7 @@ date: '2009-11-29T22:02:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Lista-com-os-melhores-25-riffs-de-guitarra-cade-o-Floyd.aspx
-permalink: /index.php/lista-com-os-melhores-25-riffs-de-guitarra-cade-o-floyd/
+permalink: /lista-com-os-melhores-25-riffs-de-guitarra-cade-o-floyd/
 categories:
     - Distortion
     - Post

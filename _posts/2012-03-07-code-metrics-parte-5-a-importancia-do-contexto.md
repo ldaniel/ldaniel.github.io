@@ -5,7 +5,7 @@ date: '2012-03-07T11:05:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Code-metrics-(parte-5)-A-importancia-do-contexto.aspx
-permalink: /index.php/code-metrics-parte-5-a-importancia-do-contexto/
+permalink: /code-metrics-parte-5-a-importancia-do-contexto/
 categories:
     - Arquitetura
     - Post

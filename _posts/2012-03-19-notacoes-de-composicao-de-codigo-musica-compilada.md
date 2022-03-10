@@ -5,7 +5,7 @@ date: '2012-03-19T11:40:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Sinais.aspx
-permalink: /index.php/notacoes-de-composicao-de-codigo-musica-compilada/
+permalink: /notacoes-de-composicao-de-codigo-musica-compilada/
 categories:
     - Distortion
     - Post

@@ -5,7 +5,7 @@ date: '2010-08-31T20:28:24-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/WCF-Load-Test.aspx
-permalink: /index.php/wcf-load-test/
+permalink: /wcf-load-test/
 categories:
     - Post
     - WCF

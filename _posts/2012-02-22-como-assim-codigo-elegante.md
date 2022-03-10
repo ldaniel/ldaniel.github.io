@@ -5,7 +5,7 @@ date: '2012-02-22T13:48:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Como-assim-codigo-elegante.aspx
-permalink: /index.php/como-assim-codigo-elegante/
+permalink: /como-assim-codigo-elegante/
 categories:
     - Dicas
     - Post

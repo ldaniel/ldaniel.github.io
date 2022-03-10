@@ -5,7 +5,7 @@ date: '2011-05-11T12:55:33-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Lightning-talk-de-Design-Emergente-na-InfoQ.aspx
-permalink: /index.php/lightning-talk-de-design-emergente-na-infoq/
+permalink: /lightning-talk-de-design-emergente-na-infoq/
 categories:
     - '.Net Architects'
     - Comunidade

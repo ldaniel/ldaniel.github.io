@@ -5,7 +5,7 @@ date: '2011-04-30T21:04:32-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Expansao-e-novas-publicacoes-da-DevMedia.aspx
-permalink: /index.php/expansao-e-novas-publicacoes-da-devmedia/
+permalink: /expansao-e-novas-publicacoes-da-devmedia/
 categories:
     - Comunidade
     - Informativo

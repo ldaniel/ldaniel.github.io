@@ -5,7 +5,7 @@ date: '2012-03-06T13:27:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Code-metrics-(parte-4)-Medindo-Qualidade.aspx
-permalink: /index.php/code-metrics-parte-4-indicadores-de-qualidade-atraves-de-metricas/
+permalink: /code-metrics-parte-4-indicadores-de-qualidade-atraves-de-metricas/
 categories:
     - Arquitetura
     - Post

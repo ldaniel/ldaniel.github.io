@@ -5,7 +5,7 @@ date: '2009-03-20T23:52:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/SQL-Server-2008-(parte-7)-e28093-Filtered-Indexes.aspx
-permalink: /index.php/sql-server-2008-parte-7-filtered-indexes/
+permalink: /sql-server-2008-parte-7-filtered-indexes/
 categories:
     - Post
     - 'SQL Server'

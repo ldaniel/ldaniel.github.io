@@ -5,7 +5,7 @@ date: '2012-01-09T15:19:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Em-arquitetura-existe-decisao-puramente-tecnica.aspx
-permalink: /index.php/existe-decisao-arquitetural-puramente-tecnica/
+permalink: /existe-decisao-arquitetural-puramente-tecnica/
 categories:
     - Arquitetura
     - Post

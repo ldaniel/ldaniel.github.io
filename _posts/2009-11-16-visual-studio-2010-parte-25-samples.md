@@ -5,7 +5,7 @@ date: '2009-11-16T01:22:39-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Visual-Studio-2010-(parte-25)-e28093-Samples.aspx
-permalink: /index.php/visual-studio-2010-parte-25-samples/
+permalink: /visual-studio-2010-parte-25-samples/
 categories:
     - Post
     - 'Visual Studio'

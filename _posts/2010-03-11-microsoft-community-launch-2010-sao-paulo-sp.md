@@ -5,7 +5,7 @@ date: '2010-03-11T21:14:52-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Microsoft-Community-Launch-2010-Sao-Paulo-SP.aspx
-permalink: /index.php/microsoft-community-launch-2010-sao-paulo-sp/
+permalink: /microsoft-community-launch-2010-sao-paulo-sp/
 categories:
     - Comunidade
     - Eventos

@@ -5,7 +5,7 @@ date: '2009-03-31T22:31:07-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Scrum-com-motivos-e-tudo-mais!.aspx
-permalink: /index.php/scrum-com-motivos-e-tudo-mais/
+permalink: /scrum-com-motivos-e-tudo-mais/
 categories:
     - Post
     - Scrum

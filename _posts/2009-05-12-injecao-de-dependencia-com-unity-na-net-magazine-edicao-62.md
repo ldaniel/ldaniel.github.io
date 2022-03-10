@@ -5,7 +5,7 @@ date: '2009-05-12T23:29:11-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Injecao-de-Dependencia-com-Unity-na-net-Magazine-edicao-62.aspx
-permalink: /index.php/injecao-de-dependencia-com-unity-na-net-magazine-edicao-62/
+permalink: /injecao-de-dependencia-com-unity-na-net-magazine-edicao-62/
 image: /wp-content/uploads/2012/10/capa_net62_G.jpg
 categories:
     - '.net Magazine'

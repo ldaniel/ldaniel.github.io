@@ -5,7 +5,7 @@ date: '2011-08-22T20:00:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/TDC-2011-Florianopolis-Slides-da-palestra-Entendendo-a-Arquitetura-Evolucionaria.aspx
-permalink: /index.php/tdc-2011-florianopolis-slides-da-palestra-entendendo-a-arquitetura-evolucionaria/
+permalink: /tdc-2011-florianopolis-slides-da-palestra-entendendo-a-arquitetura-evolucionaria/
 categories:
     - Arquitetura
     - Comunidade

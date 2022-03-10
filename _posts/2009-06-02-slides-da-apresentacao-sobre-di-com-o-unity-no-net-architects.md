@@ -5,7 +5,7 @@ date: '2009-06-02T17:34:49-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Slides-da-apresentacao-sobre-DI-com-o-Unity-no-Net-Architects.aspx
-permalink: /index.php/slides-da-apresentacao-sobre-di-com-o-unity-no-net-architects/
+permalink: /slides-da-apresentacao-sobre-di-com-o-unity-no-net-architects/
 categories:
     - '.Net Architects'
     - Arquitetura

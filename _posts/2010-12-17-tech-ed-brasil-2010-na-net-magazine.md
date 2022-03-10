@@ -5,7 +5,7 @@ date: '2010-12-17T15:15:03-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Tech-Ed-Brasil-2010-na-net-Magazine.aspx
-permalink: /index.php/tech-ed-brasil-2010-na-net-magazine/
+permalink: /tech-ed-brasil-2010-na-net-magazine/
 image: /wp-content/uploads/2012/10/capa_net80_G.jpg
 categories:
     - '.net Magazine'

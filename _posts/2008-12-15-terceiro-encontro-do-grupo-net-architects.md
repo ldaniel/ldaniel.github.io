@@ -5,7 +5,7 @@ date: '2008-12-15T23:42:33-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Terceiro-encontro-do-grupo-Net-Architects.aspx
-permalink: /index.php/terceiro-encontro-do-grupo-net-architects/
+permalink: /terceiro-encontro-do-grupo-net-architects/
 categories:
     - '.Net Architects'
     - Comunidade

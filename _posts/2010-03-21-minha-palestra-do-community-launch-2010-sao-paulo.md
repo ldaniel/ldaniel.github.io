@@ -5,7 +5,7 @@ date: '2010-03-21T15:28:19-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Minha-palestra-do-Community-Launch-2010-(Sao-Paulo).aspx
-permalink: /index.php/minha-palestra-do-community-launch-2010-sao-paulo/
+permalink: /minha-palestra-do-community-launch-2010-sao-paulo/
 categories:
     - Comunidade
     - Eventos

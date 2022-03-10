@@ -5,7 +5,7 @@ date: '2009-06-13T09:49:34-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Songsmith.aspx
-permalink: /index.php/songsmith/
+permalink: /songsmith/
 categories:
     - Dicas
     - Post

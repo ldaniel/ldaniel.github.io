@@ -5,7 +5,7 @@ date: '2010-03-09T03:03:44-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Microsoft-Live-Labs-Pivot.aspx
-permalink: /index.php/microsoft-live-labs-pivot/
+permalink: /microsoft-live-labs-pivot/
 categories:
     - 'Microsoft Live Labs'
     - Post

@@ -5,7 +5,7 @@ date: '2009-02-18T23:53:52-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/SQL-Server-2008-(parte-5)-Hierarchyid-Data-Type.aspx
-permalink: /index.php/sql-server-2008-parte-5-hierarchyid-data-type/
+permalink: /sql-server-2008-parte-5-hierarchyid-data-type/
 categories:
     - Post
     - 'SQL Server'

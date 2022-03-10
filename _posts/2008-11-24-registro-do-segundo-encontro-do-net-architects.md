@@ -5,7 +5,7 @@ date: '2008-11-24T23:54:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Registro-do-segundo-encontro-do-Net-Architects.aspx
-permalink: /index.php/registro-do-segundo-encontro-do-net-architects/
+permalink: /registro-do-segundo-encontro-do-net-architects/
 categories:
     - '.Net Architects'
     - Comunidade

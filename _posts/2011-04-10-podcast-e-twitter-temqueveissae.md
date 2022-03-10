@@ -5,7 +5,7 @@ date: '2011-04-10T14:51:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Podcast-e-Twitter-temqueveissae.aspx
-permalink: /index.php/podcast-e-twitter-temqueveissae/
+permalink: /podcast-e-twitter-temqueveissae/
 categories:
     - Informativo
     - Post

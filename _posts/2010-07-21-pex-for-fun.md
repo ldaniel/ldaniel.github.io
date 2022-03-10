@@ -5,7 +5,7 @@ date: '2010-07-21T11:45:23-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Pex-for-fun.aspx
-permalink: /index.php/pex-for-fun/
+permalink: /pex-for-fun/
 categories:
     - Dicas
     - Post

@@ -5,7 +5,7 @@ date: '2009-11-13T18:58:11-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Visual-Studio-2010-(parte-3)-e28093-Code-Snippets.aspx
-permalink: /index.php/visual-studio-2010-parte-3-code-snippets/
+permalink: /visual-studio-2010-parte-3-code-snippets/
 categories:
     - Post
     - 'Visual Studio'

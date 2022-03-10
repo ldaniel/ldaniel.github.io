@@ -5,7 +5,7 @@ date: '2009-01-02T16:57:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Video-do-terceiro-encontro-do-Net-Architects.aspx
-permalink: /index.php/video-do-terceiro-encontro-do-net-architects/
+permalink: /video-do-terceiro-encontro-do-net-architects/
 categories:
     - '.Net Architects'
     - Arquitetura

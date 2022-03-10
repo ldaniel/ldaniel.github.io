@@ -5,7 +5,7 @@ date: '2009-08-06T17:32:09-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Coletando-informacoes-de-um-site-SharePoint.aspx
-permalink: /index.php/coletando-informacoes-de-um-site-sharepoint/
+permalink: /coletando-informacoes-de-um-site-sharepoint/
 categories:
     - Post
     - SharePoint

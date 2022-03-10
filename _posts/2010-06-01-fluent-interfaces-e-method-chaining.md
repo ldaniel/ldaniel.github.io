@@ -5,7 +5,7 @@ date: '2010-06-01T11:33:14-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Fluent-Interfaces-e-Method-Chaining.aspx
-permalink: /index.php/fluent-interfaces-e-method-chaining/
+permalink: /fluent-interfaces-e-method-chaining/
 categories:
     - 'C#'
     - Post

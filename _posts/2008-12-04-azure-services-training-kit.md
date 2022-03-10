@@ -5,7 +5,7 @@ date: '2008-12-04T19:10:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Azure-Services-Training-Kit.aspx
-permalink: /index.php/azure-services-training-kit/
+permalink: /azure-services-training-kit/
 categories:
     - Azure
     - Post

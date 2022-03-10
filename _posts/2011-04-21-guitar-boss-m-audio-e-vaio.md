@@ -5,7 +5,7 @@ date: '2011-04-21T14:57:46-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Guitar-Boss-M-Audio-e-Vaio.aspx
-permalink: /index.php/guitar-boss-m-audio-e-vaio/
+permalink: /guitar-boss-m-audio-e-vaio/
 categories:
     - Distortion
     - Post

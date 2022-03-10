@@ -5,7 +5,7 @@ date: '2010-09-23T14:58:49-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Minicurso-de-integracao-com-Redes-Socias-na-net-Magazine-77.aspx
-permalink: /index.php/minicurso-de-integracao-com-redes-socias-na-net-magazine-77/
+permalink: /minicurso-de-integracao-com-redes-socias-na-net-magazine-77/
 image: /wp-content/uploads/2012/10/capa_net77_G.jpg
 categories:
     - '.net Magazine'

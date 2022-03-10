@@ -5,7 +5,7 @@ date: '2009-09-07T00:42:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Microtons-a-moda-Tournemire.aspx
-permalink: /index.php/microtons-a-moda-tournemire/
+permalink: /microtons-a-moda-tournemire/
 categories:
     - Distortion
     - Post

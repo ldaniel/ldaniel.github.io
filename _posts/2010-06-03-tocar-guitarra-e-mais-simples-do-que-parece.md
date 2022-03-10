@@ -5,7 +5,7 @@ date: '2010-06-03T10:54:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Tocar-guitarra-e-mais-simples-do-que-parece.aspx
-permalink: /index.php/tocar-guitarra-e-mais-simples-do-que-parece/
+permalink: /tocar-guitarra-e-mais-simples-do-que-parece/
 categories:
     - Distortion
     - Post

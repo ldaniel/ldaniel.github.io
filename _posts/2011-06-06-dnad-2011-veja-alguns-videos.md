@@ -5,7 +5,7 @@ date: '2011-06-06T15:03:49-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/DNAD-2011–Veja-alguns-videos.aspx
-permalink: /index.php/dnad-2011-veja-alguns-videos/
+permalink: /dnad-2011-veja-alguns-videos/
 categories:
     - '.Net Architects'
     - Comunidade

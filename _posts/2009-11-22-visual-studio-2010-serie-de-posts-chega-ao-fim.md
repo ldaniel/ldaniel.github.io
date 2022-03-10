@@ -5,7 +5,7 @@ date: '2009-11-22T23:35:26-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Visual-Studio-2010-e28093-Serie-de-posts-chega-ao-fim.aspx
-permalink: /index.php/visual-studio-2010-serie-de-posts-chega-ao-fim/
+permalink: /visual-studio-2010-serie-de-posts-chega-ao-fim/
 categories:
     - Post
     - 'Visual Studio'

@@ -5,7 +5,7 @@ date: '2009-12-06T23:01:15-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Homenagem-em-F.aspx
-permalink: /index.php/homenagem-em-f/
+permalink: /homenagem-em-f/
 categories:
     - 'Off'
     - Post

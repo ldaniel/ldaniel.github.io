@@ -5,7 +5,7 @@ date: '2011-08-02T14:39:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/TDC2011-Floripa-esta-chegando!.aspx
-permalink: /index.php/tdc2011-floripa-esta-chegando/
+permalink: /tdc2011-floripa-esta-chegando/
 categories:
     - Comunidade
     - Eventos

@@ -5,7 +5,7 @@ date: '2009-09-06T16:37:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Decimo-quarto-encontro-do-grupo-Net-Architects.aspx
-permalink: /index.php/decimo-quarto-encontro-do-grupo-net-architects/
+permalink: /decimo-quarto-encontro-do-grupo-net-architects/
 categories:
     - '.Net Architects'
     - Comunidade

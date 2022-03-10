@@ -5,7 +5,7 @@ date: '2011-12-05T22:46:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Pois-e-responsabilidade-social.aspx
-permalink: /index.php/pois-e-responsabilidade-social/
+permalink: /pois-e-responsabilidade-social/
 categories:
     - Post
     - Reverberando

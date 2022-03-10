@@ -5,7 +5,7 @@ date: '2009-11-16T23:04:36-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Visual-Studio-2010-(parte-26)-e28093-IronPhyton.aspx
-permalink: /index.php/visual-studio-2010-parte-26-ironphyton/
+permalink: /visual-studio-2010-parte-26-ironphyton/
 categories:
     - Post
     - 'Visual Studio'

@@ -5,7 +5,7 @@ date: '2011-05-30T20:08:21-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Void-Podcast-esta-no-ar!.aspx
-permalink: /index.php/void-podcast-esta-no-ar/
+permalink: /void-podcast-esta-no-ar/
 image: /wp-content/uploads/2012/06/VoidLogo-Twitter-2.png
 categories:
     - Comunidade

@@ -5,7 +5,7 @@ date: '2011-06-06T11:54:08-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/DNAD-2011-Minha-palestra-sobre-Arquitetura-Evolucionaria.aspx
-permalink: /index.php/dnad-2011-minha-palestra-sobre-arquitetura-evolucionaria/
+permalink: /dnad-2011-minha-palestra-sobre-arquitetura-evolucionaria/
 categories:
     - '.Net Architects'
     - Arquitetura

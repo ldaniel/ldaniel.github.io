@@ -5,7 +5,7 @@ date: '2009-05-10T23:36:06-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/EntLib-(parte-6)-e28093-Interceptacao-de-chamada-de-interface-com-o-Unity.aspx
-permalink: /index.php/entlib-parte-6-interceptacao-de-chamada-de-interface-com-o-unity/
+permalink: /entlib-parte-6-interceptacao-de-chamada-de-interface-com-o-unity/
 categories:
     - Arquitetura
     - 'Enterprise Library'

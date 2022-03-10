@@ -5,7 +5,7 @@ date: '2011-08-30T15:28:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Refletindo-sobre-funcoes-e-niveis-de-arquitetura-em-uma-empresa.aspx
-permalink: /index.php/refletindo-sobre-funcoes-e-niveis-de-arquitetura-em-uma-empresa/
+permalink: /refletindo-sobre-funcoes-e-niveis-de-arquitetura-em-uma-empresa/
 categories:
     - Arquitetura
     - Post

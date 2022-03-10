@@ -5,7 +5,7 @@ date: '2012-01-23T13:15:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Void-Podcast-episodios-013-ao-016-disponiveis!.aspx
-permalink: /index.php/void-podcast-episodios-013-ao-016-disponiveis/
+permalink: /void-podcast-episodios-013-ao-016-disponiveis/
 image: /wp-content/uploads/2012/06/VoidLogo-Twitter-2.png
 categories:
     - Comunidade

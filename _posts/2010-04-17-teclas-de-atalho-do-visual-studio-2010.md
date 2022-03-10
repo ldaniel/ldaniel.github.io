@@ -5,7 +5,7 @@ date: '2010-04-17T08:38:15-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Teclas-de-atalho-do-Visual-Studio-2010.aspx
-permalink: /index.php/teclas-de-atalho-do-visual-studio-2010/
+permalink: /teclas-de-atalho-do-visual-studio-2010/
 categories:
     - Dicas
     - Post

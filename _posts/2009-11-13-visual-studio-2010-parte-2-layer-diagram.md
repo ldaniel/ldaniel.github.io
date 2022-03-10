@@ -5,7 +5,7 @@ date: '2009-11-13T13:50:10-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Visual-Studio-2010-(parte-2)-e28093-Layer-Diagram.aspx
-permalink: /index.php/visual-studio-2010-parte-2-layer-diagram/
+permalink: /visual-studio-2010-parte-2-layer-diagram/
 categories:
     - Post
     - 'Visual Studio'

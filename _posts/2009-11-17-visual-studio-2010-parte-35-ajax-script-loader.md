@@ -5,7 +5,7 @@ date: '2009-11-17T02:26:27-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Visual-Studio-2010-(parte-35)-e28093-Ajax-Script-Loader.aspx
-permalink: /index.php/visual-studio-2010-parte-35-ajax-script-loader/
+permalink: /visual-studio-2010-parte-35-ajax-script-loader/
 categories:
     - Post
     - 'Visual Studio'

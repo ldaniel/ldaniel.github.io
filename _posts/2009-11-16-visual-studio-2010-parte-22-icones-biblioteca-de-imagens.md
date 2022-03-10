@@ -5,7 +5,7 @@ date: '2009-11-16T01:19:10-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Visual-Studio-2010-(parte-22)-e28093-Icones-Biblioteca-de-imagens.aspx
-permalink: /index.php/visual-studio-2010-parte-22-icones-biblioteca-de-imagens/
+permalink: /visual-studio-2010-parte-22-icones-biblioteca-de-imagens/
 categories:
     - Post
     - 'Visual Studio'

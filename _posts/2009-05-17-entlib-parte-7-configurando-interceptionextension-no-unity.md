@@ -5,7 +5,7 @@ date: '2009-05-17T23:45:03-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/EntLib-(parte-7)-e28093-Configurando-InterceptionExtension-no-Unity.aspx
-permalink: /index.php/entlib-parte-7-configurando-interceptionextension-no-unity/
+permalink: /entlib-parte-7-configurando-interceptionextension-no-unity/
 categories:
     - Arquitetura
     - 'Enterprise Library'

@@ -5,7 +5,7 @@ date: '2009-11-12T15:33:06-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Serie-de-posts-sobre-Visual-Studio-2010.aspx
-permalink: /index.php/serie-de-posts-sobre-visual-studio-2010/
+permalink: /serie-de-posts-sobre-visual-studio-2010/
 categories:
     - Post
     - 'Visual Studio'

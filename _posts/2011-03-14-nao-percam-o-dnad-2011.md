@@ -5,7 +5,7 @@ date: '2011-03-14T12:00:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Nao-percam-o-DNAD-2011!.aspx
-permalink: /index.php/nao-percam-o-dnad-2011/
+permalink: /nao-percam-o-dnad-2011/
 categories:
     - '.Net Architects'
     - Arquitetura

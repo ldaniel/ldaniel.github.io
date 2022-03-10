@@ -5,7 +5,7 @@ date: '2009-08-06T00:34:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Pseudo-sinestesia-com-AutoPan.aspx
-permalink: /index.php/pseudo-sinestesia-com-autopan/
+permalink: /pseudo-sinestesia-com-autopan/
 categories:
     - Distortion
     - Post

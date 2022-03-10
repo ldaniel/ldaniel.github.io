@@ -5,7 +5,7 @@ date: '2009-06-29T13:46:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/DNAD-2009-Code-Snippets-do-Unity.aspx
-permalink: /index.php/dnad-2009-code-snippets-do-unity/
+permalink: /dnad-2009-code-snippets-do-unity/
 categories:
     - '.Net Architects'
     - Comunidade

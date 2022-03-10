@@ -5,7 +5,7 @@ date: '2011-03-19T00:04:26-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/All-In-One-Code-Framework.aspx
-permalink: /index.php/all-in-one-code-framework/
+permalink: /all-in-one-code-framework/
 categories:
     - Informativo
     - Post

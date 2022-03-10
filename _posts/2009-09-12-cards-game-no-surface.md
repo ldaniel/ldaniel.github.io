@@ -5,7 +5,7 @@ date: '2009-09-12T18:24:56-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Cards-Game-no-Surface.aspx
-permalink: /index.php/cards-game-no-surface/
+permalink: /cards-game-no-surface/
 categories:
     - Informativo
     - Post

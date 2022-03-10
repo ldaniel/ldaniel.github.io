@@ -5,7 +5,7 @@ date: '2010-01-28T17:32:01-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Coding-Dojo-da-iniciativa-aos-resultados!.aspx
-permalink: /index.php/coding-dojo-da-iniciativa-aos-resultados/
+permalink: /coding-dojo-da-iniciativa-aos-resultados/
 categories:
     - 'Coding Dojo'
     - Post

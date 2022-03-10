@@ -5,7 +5,7 @@ date: '2012-02-07T17:32:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Etica-e-desenvolvimento-de-software.aspx
-permalink: /index.php/etica-e-desenvolvimento-de-software/
+permalink: /etica-e-desenvolvimento-de-software/
 categories:
     - Carreira
     - Post

@@ -5,7 +5,7 @@ date: '2009-05-06T23:57:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/O-exemplo-da-Injecao-de-Dependencia-na-tomada-de-decisao-de-um-arquiteto.aspx
-permalink: /index.php/o-exemplo-da-injecao-de-dependencia-na-tomada-de-decisao-de-um-arquiteto/
+permalink: /o-exemplo-da-injecao-de-dependencia-na-tomada-de-decisao-de-um-arquiteto/
 categories:
     - Arquitetura
     - Post

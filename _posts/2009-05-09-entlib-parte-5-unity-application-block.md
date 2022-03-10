@@ -5,7 +5,7 @@ date: '2009-05-09T22:53:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/EntLib-(parte-5)-e28093-Unity-Application-Block.aspx
-permalink: /index.php/entlib-parte-5-unity-application-block/
+permalink: /entlib-parte-5-unity-application-block/
 categories:
     - Arquitetura
     - 'Enterprise Library'

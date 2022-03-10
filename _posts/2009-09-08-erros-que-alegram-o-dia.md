@@ -5,7 +5,7 @@ date: '2009-09-08T22:53:04-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Erros-que-alegram-o-diae280a6.aspx
-permalink: /index.php/erros-que-alegram-o-dia/
+permalink: /erros-que-alegram-o-dia/
 categories:
     - ASP.NET
     - Post

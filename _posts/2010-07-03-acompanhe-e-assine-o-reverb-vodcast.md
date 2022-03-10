@@ -5,7 +5,7 @@ date: '2010-07-03T13:41:26-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Acompanhe-e-assine-o-Reverb-Vodcast!.aspx
-permalink: /index.php/acompanhe-e-assine-o-reverb-vodcast/
+permalink: /acompanhe-e-assine-o-reverb-vodcast/
 image: /wp-content/uploads/2010/07/Reverb_logo.png
 categories:
     - Comunidade

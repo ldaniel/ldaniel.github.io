@@ -5,7 +5,7 @@ date: '2008-12-20T00:44:11-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Se-nao-pode-vence-los-iNove!.aspx
-permalink: /index.php/se-nao-pode-vence-los-inove/
+permalink: /se-nao-pode-vence-los-inove/
 categories:
     - Informativo
     - Post

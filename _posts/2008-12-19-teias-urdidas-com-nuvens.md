@@ -5,7 +5,7 @@ date: '2008-12-19T09:05:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Teias-urdidas-com-nuvens.aspx
-permalink: /index.php/teias-urdidas-com-nuvens/
+permalink: /teias-urdidas-com-nuvens/
 categories:
     - Arquitetura
     - Azure

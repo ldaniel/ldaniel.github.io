@@ -5,7 +5,7 @@ date: '2010-10-24T15:06:57-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Microsoft-Small-Basic.aspx
-permalink: /index.php/jogo-de-tetris-feito-no-microsoft-small-basic/
+permalink: /jogo-de-tetris-feito-no-microsoft-small-basic/
 categories:
     - Informativo
     - Post

@@ -5,7 +5,7 @@ date: '2009-11-16T01:16:27-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Visual-Studio-2010-(parte-20)-e28093-Dotfuscator-Community-Edition.aspx
-permalink: /index.php/visual-studio-2010-parte-20-dotfuscator-community-edition/
+permalink: /visual-studio-2010-parte-20-dotfuscator-community-edition/
 categories:
     - Post
     - 'Visual Studio'

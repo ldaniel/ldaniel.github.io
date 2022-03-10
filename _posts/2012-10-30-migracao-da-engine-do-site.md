@@ -5,7 +5,7 @@ date: '2012-10-30T16:08:21-03:00'
 author: 'Leandro Daniel'
 
 guid: 'http://leandrodaniel.com/?p=579'
-permalink: /index.php/migracao-da-engine-do-site/
+permalink: /migracao-da-engine-do-site/
 image: /wp-content/uploads/2012/10/rotterdamHouses.png
 categories:
     - Informativo

@@ -5,7 +5,7 @@ date: '2009-03-26T23:19:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/SQL-Server-2008-(parte-9)-e28093-Compound-Operators.aspx
-permalink: /index.php/sql-server-2008-parte-9-compound-operators/
+permalink: /sql-server-2008-parte-9-compound-operators/
 categories:
     - Post
     - 'SQL Server'

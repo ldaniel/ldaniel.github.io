@@ -5,7 +5,7 @@ date: '2009-11-26T00:31:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Video-recomendado-Kewti-(microtonal-Jazz).aspx
-permalink: /index.php/video-recomendado-kewti-microtonal-jazz/
+permalink: /video-recomendado-kewti-microtonal-jazz/
 categories:
     - Distortion
     - Post

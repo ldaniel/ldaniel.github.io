@@ -5,7 +5,7 @@ date: '2009-03-30T21:19:52-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/SQL-Server-2008-(parte-10)-e28093-Report-Builder-20.aspx
-permalink: /index.php/sql-server-2008-parte-10-report-builder-2-0/
+permalink: /sql-server-2008-parte-10-report-builder-2-0/
 categories:
     - Post
     - 'SQL Server'

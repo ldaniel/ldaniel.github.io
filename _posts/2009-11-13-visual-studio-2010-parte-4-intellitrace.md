@@ -5,7 +5,7 @@ date: '2009-11-13T19:47:37-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Visual-Studio-2010-(parte-4)-e28093-IntelliTrace.aspx
-permalink: /index.php/visual-studio-2010-parte-4-intellitrace/
+permalink: /visual-studio-2010-parte-4-intellitrace/
 categories:
     - Post
     - 'Visual Studio'

@@ -5,7 +5,7 @@ date: '2009-12-24T16:57:20-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/BlogPause2010.aspx
-permalink: /index.php/blog-pause/
+permalink: /blog-pause/
 categories:
     - Informativo
     - Post

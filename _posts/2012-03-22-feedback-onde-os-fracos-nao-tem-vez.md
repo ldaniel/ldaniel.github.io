@@ -5,7 +5,7 @@ date: '2012-03-22T09:54:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Sobre-Feedback.aspx
-permalink: /index.php/feedback-onde-os-fracos-nao-tem-vez/
+permalink: /feedback-onde-os-fracos-nao-tem-vez/
 categories:
     - Post
     - Reverberando

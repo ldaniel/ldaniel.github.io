@@ -5,7 +5,7 @@ date: '2009-06-30T22:42:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/DNAD-2009-Minha-palestra-sobre-Injecao-de-Dependencia.aspx
-permalink: /index.php/dnad-2009-minha-palestra-sobre-injecao-de-dependencia/
+permalink: /dnad-2009-minha-palestra-sobre-injecao-de-dependencia/
 categories:
     - '.Net Architects'
     - Arquitetura

@@ -5,7 +5,7 @@ date: '2012-04-12T13:36:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Code-metrics-(parte-8)-RelacaoMetricasTestesDesign.aspx
-permalink: /index.php/code-metrics-parte-8-relacao-entre-testes-design-e-metricas/
+permalink: /code-metrics-parte-8-relacao-entre-testes-design-e-metricas/
 categories:
     - Arquitetura
     - Post

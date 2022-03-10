@@ -5,7 +5,7 @@ date: '2008-11-30T18:41:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Por-favor-me-deem-um-motivo!.aspx
-permalink: /index.php/por-favor-me-deem-um-motivo/
+permalink: /por-favor-me-deem-um-motivo/
 categories:
     - Post
     - Reverberando

@@ -5,7 +5,7 @@ date: '2009-04-12T02:30:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Ajude-a-priorizar-o-product-backlog-da-EntLib-5.aspx
-permalink: /index.php/ajude-a-priorizar-o-product-backlog-da-entlib-5/
+permalink: /ajude-a-priorizar-o-product-backlog-da-entlib-5/
 categories:
     - 'Enterprise Library'
     - Post

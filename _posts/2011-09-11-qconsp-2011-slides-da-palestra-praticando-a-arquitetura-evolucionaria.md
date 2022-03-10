@@ -5,7 +5,7 @@ date: '2011-09-11T11:41:44-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/QConSP-2011-Slides-da-palestra-Praticando-a-Arquitetura-Evolucionaria.aspx
-permalink: /index.php/qconsp-2011-slides-da-palestra-praticando-a-arquitetura-evolucionaria/
+permalink: /qconsp-2011-slides-da-palestra-praticando-a-arquitetura-evolucionaria/
 categories:
     - Arquitetura
     - Comunidade

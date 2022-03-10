@@ -5,7 +5,7 @@ date: '2009-11-17T00:58:52-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Visual-Studio-2010-(parte-30)-e28093-ASPNET-AJAX-4-(Declarative-instantiation).aspx
-permalink: /index.php/visual-studio-2010-parte-30-asp-net-ajax-4-declarative-instantiation/
+permalink: /visual-studio-2010-parte-30-asp-net-ajax-4-declarative-instantiation/
 categories:
     - Post
     - 'Visual Studio'

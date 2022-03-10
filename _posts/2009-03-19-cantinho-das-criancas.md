@@ -5,7 +5,7 @@ date: '2009-03-19T23:17:56-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Cantinho-das-criancas!!.aspx
-permalink: /index.php/cantinho-das-criancas/
+permalink: /cantinho-das-criancas/
 categories:
     - Post
     - Reverberando

@@ -5,7 +5,7 @@ date: '2009-01-10T16:29:32-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Meu-reino-por-um-notebook-multitouch!.aspx
-permalink: /index.php/meu-reino-por-um-notebook-multitouch/
+permalink: /meu-reino-por-um-notebook-multitouch/
 categories:
     - Post
     - Windows

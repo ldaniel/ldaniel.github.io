@@ -5,7 +5,7 @@ date: '2009-02-20T01:09:56-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Softwares-escritos-no-estilo-e2809cRube-Goldberg-Machinee2809d.aspx
-permalink: /index.php/softwares-escritos-no-estilo-rube-goldberg-machine/
+permalink: /softwares-escritos-no-estilo-rube-goldberg-machine/
 categories:
     - Post
     - Reverberando

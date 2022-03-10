@@ -5,7 +5,7 @@ date: '2011-02-05T20:38:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Livros-recomendados.aspx
-permalink: /index.php/livros-recomendados/
+permalink: /livros-recomendados/
 categories:
     - Distortion
     - Post

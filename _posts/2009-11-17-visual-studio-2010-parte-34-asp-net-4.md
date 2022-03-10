@@ -5,7 +5,7 @@ date: '2009-11-17T02:17:43-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Visual-Studio-2010-(parte-34)-e28093-ASPNET-4.aspx
-permalink: /index.php/visual-studio-2010-parte-34-asp-net-4/
+permalink: /visual-studio-2010-parte-34-asp-net-4/
 categories:
     - Post
     - 'Visual Studio'

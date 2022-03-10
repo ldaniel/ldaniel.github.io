@@ -5,7 +5,7 @@ date: '2009-11-17T02:39:11-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Visual-Studio-2010-(parte-36)-e28093-Configuracoes-do-IntelliTrace.aspx
-permalink: /index.php/visual-studio-2010-parte-36-configurando-o-intellitrace/
+permalink: /visual-studio-2010-parte-36-configurando-o-intellitrace/
 categories:
     - Post
     - 'Visual Studio'

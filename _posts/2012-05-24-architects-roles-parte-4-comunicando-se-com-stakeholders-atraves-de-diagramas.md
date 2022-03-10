@@ -5,7 +5,7 @@ date: '2012-05-24T13:47:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Architects-roles-(parte-4)-Comunicando-se-com-stakeholders-atraves-de-diagramas.aspx
-permalink: /index.php/architects-roles-parte-4-comunicando-se-com-stakeholders-atraves-de-diagramas/
+permalink: /architects-roles-parte-4-comunicando-se-com-stakeholders-atraves-de-diagramas/
 categories:
     - Arquitetura
     - Post

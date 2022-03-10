@@ -5,7 +5,7 @@ date: '2011-10-03T14:20:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Palestras-na-FIT-e-na-IFSP.aspx
-permalink: /index.php/palestras-na-fit-e-na-ifsp/
+permalink: /palestras-na-fit-e-na-ifsp/
 image: /wp-content/uploads/2013/04/palestraIF.png
 categories:
     - Arquitetura

@@ -5,7 +5,7 @@ date: '2009-11-15T19:32:11-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Visual-Studio-2010-(parte-5)-e28093-Visual-Web-Part.aspx
-permalink: /index.php/visual-studio-2010-parte-5-visual-web-part/
+permalink: /visual-studio-2010-parte-5-visual-web-part/
 categories:
     - Post
     - 'Visual Studio'

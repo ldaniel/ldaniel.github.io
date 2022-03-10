@@ -5,7 +5,7 @@ date: '2012-02-27T10:33:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Code-metrics-(parte-1)-Um-aliado-do-arquiteto.aspx
-permalink: /index.php/code-metrics-parte-1-metricas-de-codigo-sao-aliadas-do-arquiteto/
+permalink: /code-metrics-parte-1-metricas-de-codigo-sao-aliadas-do-arquiteto/
 categories:
     - Arquitetura
     - Post

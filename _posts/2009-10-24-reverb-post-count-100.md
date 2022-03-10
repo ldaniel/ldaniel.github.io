@@ -5,7 +5,7 @@ date: '2009-10-24T23:50:58-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/ReverbPostCount-3d-1003b.aspx
-permalink: /index.php/reverb-post-count-100/
+permalink: /reverb-post-count-100/
 categories:
     - Informativo
     - Post

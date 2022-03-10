@@ -5,7 +5,7 @@ date: '2008-12-08T23:08:15-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Virtualizacao.aspx
-permalink: /index.php/virtualizacao/
+permalink: /virtualizacao/
 categories:
     - Arquitetura
     - Post

@@ -5,7 +5,7 @@ date: '2009-11-17T03:25:41-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Visual-Studio-2010-(parte-38)-e28093-Extensible-Output-Caching.aspx
-permalink: /index.php/visual-studio-2010-parte-38-extensible-output-caching/
+permalink: /visual-studio-2010-parte-38-extensible-output-caching/
 categories:
     - Post
     - 'Visual Studio'

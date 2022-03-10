@@ -5,7 +5,7 @@ date: '2010-08-26T14:58:53-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/WCFExtras.aspx
-permalink: /index.php/wcfextras/
+permalink: /wcfextras/
 categories:
     - Post
     - WCF

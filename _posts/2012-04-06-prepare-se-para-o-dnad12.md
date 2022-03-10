@@ -5,7 +5,7 @@ date: '2012-04-06T15:50:25-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Prepare-se-para-o-DNAD12!.aspx
-permalink: /index.php/prepare-se-para-o-dnad12/
+permalink: /prepare-se-para-o-dnad12/
 image: /wp-content/uploads/2012/04/dnad12_euvou_250x250.png
 categories:
     - '.Net Architects'

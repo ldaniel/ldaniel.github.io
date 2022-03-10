@@ -5,7 +5,7 @@ date: '2009-08-18T21:32:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Musica-e-abstrata.aspx
-permalink: /index.php/musica-e-abstrata/
+permalink: /musica-e-abstrata/
 categories:
     - Distortion
     - Post

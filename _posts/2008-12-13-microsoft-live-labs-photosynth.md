@@ -5,7 +5,7 @@ date: '2008-12-13T16:44:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Microsoft-Live-Labs-Photosynth.aspx
-permalink: /index.php/microsoft-live-labs-photosynth/
+permalink: /microsoft-live-labs-photosynth/
 categories:
     - 'Microsoft Live Labs'
     - Post

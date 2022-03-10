@@ -5,7 +5,7 @@ date: '2012-07-07T01:45:48-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/TDC-2012–Slides-da-minha-apresentacao-fotos-e-mais!.aspx
-permalink: /index.php/tdc-2012-slides-da-minha-apresentacao-fotos-e-mais/
+permalink: /tdc-2012-slides-da-minha-apresentacao-fotos-e-mais/
 image: /wp-content/uploads/2013/04/slidetdc2012.png
 categories:
     - Arquitetura

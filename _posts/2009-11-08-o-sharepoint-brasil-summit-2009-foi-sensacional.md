@@ -5,7 +5,7 @@ date: '2009-11-08T23:53:19-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/O-SharePoint-Brasil-Summit-2009-foi-sensacional!.aspx
-permalink: /index.php/o-sharepoint-brasil-summit-2009-foi-sensacional/
+permalink: /o-sharepoint-brasil-summit-2009-foi-sensacional/
 categories:
     - Comunidade
     - Eventos

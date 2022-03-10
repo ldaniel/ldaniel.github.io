@@ -5,7 +5,7 @@ date: '2009-07-14T23:40:57-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Comparativo-entre-frameworks-de-IoC.aspx
-permalink: /index.php/comparativo-entre-frameworks-de-ioc/
+permalink: /comparativo-entre-frameworks-de-ioc/
 categories:
     - 'Enterprise Library'
     - Post

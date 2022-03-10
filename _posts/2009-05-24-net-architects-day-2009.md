@@ -5,7 +5,7 @@ date: '2009-05-24T00:01:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/NET-Architects-Day-2009.aspx
-permalink: /index.php/net-architects-day-2009/
+permalink: /net-architects-day-2009/
 categories:
     - '.Net Architects'
     - Arquitetura

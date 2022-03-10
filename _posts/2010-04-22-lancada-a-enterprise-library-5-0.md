@@ -5,7 +5,7 @@ date: '2010-04-22T09:54:49-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Lancada-a-Enterprise-Library-50.aspx
-permalink: /index.php/lancada-a-enterprise-library-5-0/
+permalink: /lancada-a-enterprise-library-5-0/
 categories:
     - 'Enterprise Library'
     - Post

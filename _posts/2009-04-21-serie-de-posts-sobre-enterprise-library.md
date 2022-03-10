@@ -5,7 +5,7 @@ date: '2009-04-21T20:31:22-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Serie-de-posts-sobre-Enterprise-Library.aspx
-permalink: /index.php/serie-de-posts-sobre-enterprise-library/
+permalink: /serie-de-posts-sobre-enterprise-library/
 categories:
     - 'Enterprise Library'
     - Post

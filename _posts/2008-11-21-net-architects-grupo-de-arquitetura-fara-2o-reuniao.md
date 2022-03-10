@@ -5,7 +5,7 @@ date: '2008-11-21T22:01:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Net-Architects-grupo-de-arquitetura-fara-2c2ba-reuniao.aspx
-permalink: /index.php/net-architects-grupo-de-arquitetura-fara-2o-reuniao/
+permalink: /net-architects-grupo-de-arquitetura-fara-2o-reuniao/
 categories:
     - '.Net Architects'
     - Post

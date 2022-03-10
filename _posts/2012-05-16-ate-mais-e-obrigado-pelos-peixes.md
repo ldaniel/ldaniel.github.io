@@ -5,7 +5,7 @@ date: '2012-05-16T11:31:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Ate-mais-e-obrigado-pelos-peixes!.aspx
-permalink: /index.php/ate-mais-e-obrigado-pelos-peixes/
+permalink: /ate-mais-e-obrigado-pelos-peixes/
 image: /wp-content/uploads/2013/04/ateMaisObrigadoPeixes.png
 categories:
     - Comunidade

@@ -5,7 +5,7 @@ date: '2008-11-24T23:40:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/SharePoint-Guidance.aspx
-permalink: /index.php/sharepoint-guidance/
+permalink: /sharepoint-guidance/
 categories:
     - Arquitetura
     - Post

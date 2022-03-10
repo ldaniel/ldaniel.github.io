@@ -5,7 +5,7 @@ date: '2009-08-28T15:04:04-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/E-era-muito-pior-no-SQL-Server-2000e280a6.aspx
-permalink: /index.php/e-era-muito-pior-no-sql-server-2000/
+permalink: /e-era-muito-pior-no-sql-server-2000/
 categories:
     - Post
     - 'SQL Server'

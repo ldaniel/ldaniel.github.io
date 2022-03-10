@@ -5,7 +5,7 @@ date: '2011-06-06T16:27:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/DNAD-2011–Veja-algumas-fotos.aspx
-permalink: /index.php/dnad-2011-veja-algumas-fotos/
+permalink: /dnad-2011-veja-algumas-fotos/
 categories:
     - '.Net Architects'
     - Comunidade

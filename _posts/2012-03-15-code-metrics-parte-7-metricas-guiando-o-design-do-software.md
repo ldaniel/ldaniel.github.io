@@ -5,7 +5,7 @@ date: '2012-03-15T13:23:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Code-metrics-(parte-7)-Metricas-guiando-o-design-do-software.aspx
-permalink: /index.php/code-metrics-parte-7-metricas-guiando-o-design-do-software/
+permalink: /code-metrics-parte-7-metricas-guiando-o-design-do-software/
 categories:
     - Arquitetura
     - Post

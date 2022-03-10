@@ -5,7 +5,7 @@ date: '2009-07-15T00:04:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Pra-quem-gosta-de-estudar-coisas-novas.aspx
-permalink: /index.php/pra-quem-gosta-de-estudar-coisas-novas/
+permalink: /pra-quem-gosta-de-estudar-coisas-novas/
 categories:
     - Dicas
     - Post

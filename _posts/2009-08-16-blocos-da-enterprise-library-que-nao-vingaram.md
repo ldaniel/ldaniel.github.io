@@ -5,7 +5,7 @@ date: '2009-08-16T22:07:09-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Blocos-da-Enterprise-Library-que-nao-vingarame280a6.aspx
-permalink: /index.php/blocos-da-enterprise-library-que-nao-vingaram/
+permalink: /blocos-da-enterprise-library-que-nao-vingaram/
 categories:
     - 'Enterprise Library'
     - Post

@@ -5,7 +5,7 @@ date: '2008-12-16T23:13:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Application-Architecture-Guide-20-(release-final).aspx
-permalink: /index.php/application-architecture-guide-2-0-release-final/
+permalink: /application-architecture-guide-2-0-release-final/
 categories:
     - Arquitetura
     - Post

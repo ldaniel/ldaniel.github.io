@@ -5,7 +5,7 @@ date: '2012-02-29T13:14:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Code-metrics-(parte-2)-Conhecendo-algumas-metricas.aspx
-permalink: /index.php/code-metrics-parte-2-conhecendo-algumas-metricas/
+permalink: /code-metrics-parte-2-conhecendo-algumas-metricas/
 categories:
     - Arquitetura
     - Post

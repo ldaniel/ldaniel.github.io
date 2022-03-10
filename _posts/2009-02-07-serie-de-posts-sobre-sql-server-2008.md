@@ -5,7 +5,7 @@ date: '2009-02-07T21:42:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/SQL-Server-2008-Programmability-Enhancements.aspx
-permalink: /index.php/serie-de-posts-sobre-sql-server-2008/
+permalink: /serie-de-posts-sobre-sql-server-2008/
 categories:
     - Post
     - 'SQL Server'

@@ -5,7 +5,7 @@ date: '2009-01-18T20:01:07-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/SOA-e-a-crise-economica.aspx
-permalink: /index.php/soa-e-a-crise-economica/
+permalink: /soa-e-a-crise-economica/
 categories:
     - Arquitetura
     - Post

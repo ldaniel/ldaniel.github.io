@@ -5,7 +5,7 @@ date: '2010-11-09T10:22:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Inscricoes-abertas-para-o-NET-Architects-Day-2010.aspx
-permalink: /index.php/inscricoes-abertas-para-o-net-architects-day-2010/
+permalink: /inscricoes-abertas-para-o-net-architects-day-2010/
 categories:
     - '.Net Architects'
     - Arquitetura

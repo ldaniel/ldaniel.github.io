@@ -5,7 +5,7 @@ date: '2010-10-01T11:19:44-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Happy-Binary-Day!2.aspx
-permalink: /index.php/happy-binary-day/
+permalink: /happy-binary-day/
 categories:
     - 'Off'
     - Post

@@ -5,7 +5,7 @@ date: '2011-08-31T15:49:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Content-Metamodel-Overview-referencia-rapida-para-arquitetos.aspx
-permalink: /index.php/content-metamodel-overview-referencia-rapida-para-arquitetos/
+permalink: /content-metamodel-overview-referencia-rapida-para-arquitetos/
 categories:
     - Arquitetura
     - Post

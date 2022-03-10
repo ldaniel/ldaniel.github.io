@@ -5,7 +5,7 @@ date: '2012-06-11T21:53:05-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/TDC2012-esta-chegando!.aspx
-permalink: /index.php/tdc2012-esta-chegando/
+permalink: /tdc2012-esta-chegando/
 image: /wp-content/uploads/2013/01/banner-TDC2012-sampa-180x150.png
 categories:
     - Comunidade

@@ -5,7 +5,7 @@ date: '2009-08-07T08:00:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Pensar-e-um-fazer!.aspx
-permalink: /index.php/pensar-e-um-fazer/
+permalink: /pensar-e-um-fazer/
 categories:
     - Distortion
     - Post

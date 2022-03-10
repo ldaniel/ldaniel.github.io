@@ -5,7 +5,7 @@ date: '2010-06-21T22:30:17-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Lancada-a-Easy-net-Magazine-2.aspx
-permalink: /index.php/lancada-a-easy-net-magazine-2/
+permalink: /lancada-a-easy-net-magazine-2/
 image: /wp-content/uploads/2012/10/capa_easynet2_g.jpg
 categories:
     - Artigos

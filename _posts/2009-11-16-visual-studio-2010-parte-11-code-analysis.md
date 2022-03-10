@@ -5,7 +5,7 @@ date: '2009-11-16T01:00:35-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Visual-Studio-2010-(parte-11)-e28093-Code-Analysis.aspx
-permalink: /index.php/visual-studio-2010-parte-11-code-analysis/
+permalink: /visual-studio-2010-parte-11-code-analysis/
 categories:
     - Post
     - 'Visual Studio'

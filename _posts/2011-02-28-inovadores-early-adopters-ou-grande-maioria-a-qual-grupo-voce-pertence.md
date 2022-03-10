@@ -5,7 +5,7 @@ date: '2011-02-28T11:57:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Inovador-ou-early-adopter.aspx
-permalink: /index.php/inovadores-early-adopters-ou-grande-maioria-a-qual-grupo-voce-pertence/
+permalink: /inovadores-early-adopters-ou-grande-maioria-a-qual-grupo-voce-pertence/
 categories:
     - Post
     - Reverberando

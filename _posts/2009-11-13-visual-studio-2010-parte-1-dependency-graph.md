@@ -5,7 +5,7 @@ date: '2009-11-13T13:12:43-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Visual-Studio-2010-(parte-1)-e28093-Dependency-Graph.aspx
-permalink: /index.php/visual-studio-2010-parte-1-dependency-graph/
+permalink: /visual-studio-2010-parte-1-dependency-graph/
 categories:
     - Post
     - 'Visual Studio'

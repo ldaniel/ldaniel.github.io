@@ -5,7 +5,7 @@ date: '2009-03-25T23:25:00-03:00'
 author: 'Leandro Daniel'
 
 guid: /post/Scrum-entao!.aspx
-permalink: /index.php/scrum-entao/
+permalink: /scrum-entao/
 categories:
     - Post
     - Scrum
