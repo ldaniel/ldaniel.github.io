@@ -3,7 +3,7 @@ id: 269
 title: 'Meu reino por um notebook multitouch!'
 date: '2009-01-10T16:29:32-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Meu-reino-por-um-notebook-multitouch!.aspx
 permalink: /index.php/meu-reino-por-um-notebook-multitouch/
 categories:

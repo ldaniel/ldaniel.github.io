@@ -3,7 +3,7 @@ id: 285
 title: 'Dividir é conquistar'
 date: '2008-12-02T23:21:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Dividir-e-conquistar.aspx
 permalink: /index.php/dividir-e-conquistar/
 categories:

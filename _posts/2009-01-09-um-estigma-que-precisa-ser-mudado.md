@@ -3,7 +3,7 @@ id: 270
 title: 'Um estigma que precisa ser mudado'
 date: '2009-01-09T23:42:09-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Um-estigma-que-precisa-ser-mudado.aspx
 permalink: /index.php/um-estigma-que-precisa-ser-mudado/
 categories:

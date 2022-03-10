@@ -3,7 +3,7 @@ id: 244
 title: 'Ajude a priorizar o product backlog da EntLib 5'
 date: '2009-04-12T02:30:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Ajude-a-priorizar-o-product-backlog-da-EntLib-5.aspx
 permalink: /index.php/ajude-a-priorizar-o-product-backlog-da-entlib-5/
 categories:

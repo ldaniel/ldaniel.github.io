@@ -3,7 +3,7 @@ id: 168
 title: 'Visual Studio 2010 (parte 18) – Extension Manager'
 date: '2009-11-16T01:12:30-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Visual-Studio-2010-(parte-18)-e28093-Extension-Manager.aspx
 permalink: /index.php/visual-studio-2010-parte-18-extension-manager/
 categories:

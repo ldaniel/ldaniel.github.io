@@ -3,7 +3,7 @@ id: 247
 title: 'Scrum, com motivos e tudo mais!'
 date: '2009-03-31T22:31:07-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Scrum-com-motivos-e-tudo-mais!.aspx
 permalink: /index.php/scrum-com-motivos-e-tudo-mais/
 categories:

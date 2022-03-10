@@ -3,7 +3,7 @@ id: 21
 title: 'Notações de composição de código (música compilada)'
 date: '2012-03-19T11:40:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Sinais.aspx
 permalink: /index.php/notacoes-de-composicao-de-codigo-musica-compilada/
 categories:

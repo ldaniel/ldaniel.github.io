@@ -3,7 +3,7 @@ id: 29
 title: 'Code metrics (parte 1) &#8211; Métricas de código são aliadas do arquiteto'
 date: '2012-02-27T10:33:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Code-metrics-(parte-1)-Um-aliado-do-arquiteto.aspx
 permalink: /index.php/code-metrics-parte-1-metricas-de-codigo-sao-aliadas-do-arquiteto/
 categories:

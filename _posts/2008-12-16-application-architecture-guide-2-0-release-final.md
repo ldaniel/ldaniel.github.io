@@ -3,7 +3,7 @@ id: 276
 title: 'Application Architecture Guide 2.0 (release final)'
 date: '2008-12-16T23:13:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Application-Architecture-Guide-20-(release-final).aspx
 permalink: /index.php/application-architecture-guide-2-0-release-final/
 categories:

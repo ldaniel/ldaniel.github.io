@@ -3,7 +3,7 @@ id: 218
 title: '.Net Architects agora tem podcasts!'
 date: '2009-06-20T05:26:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Net-Architects-agora-tem-podcasts!.aspx
 permalink: /index.php/net-architects-agora-tem-podcasts/
 image: /wp-content/uploads/2010/07/DotNetArchitects_logo.jpg

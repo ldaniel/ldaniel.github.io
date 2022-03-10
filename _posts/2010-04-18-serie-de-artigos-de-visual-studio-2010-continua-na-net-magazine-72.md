@@ -3,7 +3,7 @@ id: 124
 title: 'Série de artigos de Visual Studio 2010 continua na .net Magazine 72'
 date: '2010-04-18T22:30:57-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Serie-de-artigos-de-Visual-Studio-2010-continua-na-net-Magazine-72.aspx
 permalink: /index.php/serie-de-artigos-de-visual-studio-2010-continua-na-net-magazine-72/
 image: /wp-content/uploads/2012/10/capa_net72_G.jpg

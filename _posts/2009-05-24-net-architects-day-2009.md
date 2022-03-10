@@ -3,7 +3,7 @@ id: 224
 title: '.NET Architects Day 2009'
 date: '2009-05-24T00:01:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/NET-Architects-Day-2009.aspx
 permalink: /index.php/net-architects-day-2009/
 categories:

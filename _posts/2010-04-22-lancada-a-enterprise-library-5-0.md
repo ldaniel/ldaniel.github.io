@@ -3,7 +3,7 @@ id: 122
 title: 'Lançada a Enterprise Library 5.0'
 date: '2010-04-22T09:54:49-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Lancada-a-Enterprise-Library-50.aspx
 permalink: /index.php/lancada-a-enterprise-library-5-0/
 categories:

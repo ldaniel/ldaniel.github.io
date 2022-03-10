@@ -3,7 +3,7 @@ id: 189
 title: 'Reverb.Post.Count = 100;'
 date: '2009-10-24T23:50:58-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/ReverbPostCount-3d-1003b.aspx
 permalink: /index.php/reverb-post-count-100/
 categories:

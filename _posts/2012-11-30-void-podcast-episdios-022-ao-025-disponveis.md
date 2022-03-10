@@ -3,7 +3,7 @@ id: 604
 title: 'Void Podcast: epis&oacute;dios #022 ao #025 dispon&iacute;veis!'
 date: '2012-11-30T23:50:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: 'http://leandrodaniel.com/?p=604'
 permalink: /index.php/void-podcast-episdios-022-ao-025-disponveis/
 image: /wp-content/uploads/2012/11/Screenshot_31_03_13_20_15-10.png

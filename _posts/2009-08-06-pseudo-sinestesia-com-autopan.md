@@ -3,7 +3,7 @@ id: 206
 title: 'Pseudo-sinestesia com AutoPan'
 date: '2009-08-06T00:34:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Pseudo-sinestesia-com-AutoPan.aspx
 permalink: /index.php/pseudo-sinestesia-com-autopan/
 categories:

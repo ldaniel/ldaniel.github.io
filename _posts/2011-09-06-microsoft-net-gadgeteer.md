@@ -3,7 +3,7 @@ id: 47
 title: 'Microsoft .NET Gadgeteer'
 date: '2011-09-06T21:26:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Microsoft-NET-Gadgeteer.aspx
 permalink: /index.php/microsoft-net-gadgeteer/
 categories:

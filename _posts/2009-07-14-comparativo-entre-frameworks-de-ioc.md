@@ -3,7 +3,7 @@ id: 214
 title: 'Comparativo entre frameworks de IoC'
 date: '2009-07-14T23:40:57-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Comparativo-entre-frameworks-de-IoC.aspx
 permalink: /index.php/comparativo-entre-frameworks-de-ioc/
 categories:

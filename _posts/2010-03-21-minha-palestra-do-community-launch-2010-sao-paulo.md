@@ -3,7 +3,7 @@ id: 128
 title: 'Minha palestra do Community Launch 2010 (São Paulo)'
 date: '2010-03-21T15:28:19-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Minha-palestra-do-Community-Launch-2010-(Sao-Paulo).aspx
 permalink: /index.php/minha-palestra-do-community-launch-2010-sao-paulo/
 categories:

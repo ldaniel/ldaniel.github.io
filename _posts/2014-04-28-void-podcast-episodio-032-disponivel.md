@@ -3,7 +3,7 @@ id: 1476
 title: 'Void Podcast: episódio #032 disponível!'
 date: '2014-04-28T08:58:44-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: 'http://leandrodaniel.com/?p=1476'
 permalink: /index.php/void-podcast-episodio-032-disponivel/
 image: /wp-content/uploads/2013/02/Screenshot_31_03_13_20_07.png

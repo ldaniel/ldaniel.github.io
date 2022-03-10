@@ -3,7 +3,7 @@ id: 83
 title: 'DNAD 2010: Minha lightning talk sobre Design emergente pelas métricas'
 date: '2010-11-22T00:36:03-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/DNAD-2010-Minha-lightning-talk-sobre-Design-emergente-pelas-metricas.aspx
 permalink: /index.php/dnad-2010-minha-lightning-talk-sobre-design-emergente-pelas-metricas/
 categories:

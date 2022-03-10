@@ -3,7 +3,7 @@ id: 219
 title: 'Microsoft Anti-Cross Site Scripting Library'
 date: '2009-06-14T22:12:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Microsoft-Anti-Cross-Site-Scripting-Library.aspx
 permalink: /index.php/microsoft-anti-cross-site-scripting-library/
 categories:

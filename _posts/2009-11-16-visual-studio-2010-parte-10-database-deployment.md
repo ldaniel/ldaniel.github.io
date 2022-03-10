@@ -3,7 +3,7 @@ id: 176
 title: 'Visual Studio 2010 (parte 10) – Database Deployment'
 date: '2009-11-16T00:58:04-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Visual-Studio-2010-(parte-10)-e28093-Database-Deployment.aspx
 permalink: /index.php/visual-studio-2010-parte-10-database-deployment/
 categories:

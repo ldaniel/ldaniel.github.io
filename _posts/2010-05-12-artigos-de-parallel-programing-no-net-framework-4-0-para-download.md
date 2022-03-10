@@ -3,7 +3,7 @@ id: 118
 title: 'Artigos de Parallel Programing no .NET Framework 4.0 para download'
 date: '2010-05-12T10:58:16-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Artigos-de-Parallel-Programing-no-NET-Framework-40-para-download.aspx
 permalink: /index.php/artigos-de-parallel-programing-no-net-framework-4-0-para-download/
 categories:

@@ -3,7 +3,7 @@ id: 76
 title: 'Não percam o DNAD 2011!'
 date: '2011-03-14T12:00:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Nao-percam-o-DNAD-2011!.aspx
 permalink: /index.php/nao-percam-o-dnad-2011/
 categories:

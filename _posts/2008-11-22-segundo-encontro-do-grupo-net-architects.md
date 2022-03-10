@@ -3,7 +3,7 @@ id: 292
 title: 'Segundo encontro do grupo .Net Architects'
 date: '2008-11-22T21:44:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Segundo-encontro-do-grupo-Net-Architects.aspx
 permalink: /index.php/segundo-encontro-do-grupo-net-architects/
 categories:

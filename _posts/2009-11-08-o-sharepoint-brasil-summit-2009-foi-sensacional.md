@@ -3,7 +3,7 @@ id: 188
 title: 'O SharePoint Brasil Summit 2009 foi sensacional!'
 date: '2009-11-08T23:53:19-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/O-SharePoint-Brasil-Summit-2009-foi-sensacional!.aspx
 permalink: /index.php/o-sharepoint-brasil-summit-2009-foi-sensacional/
 categories:

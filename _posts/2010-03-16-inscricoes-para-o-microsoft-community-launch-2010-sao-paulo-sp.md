@@ -3,7 +3,7 @@ id: 131
 title: 'Inscrições para o Microsoft Community Launch 2010 &#8211; São Paulo &#8211; SP'
 date: '2010-03-16T09:22:13-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Inscricoes-para-o-Microsoft-Community-Launch-2010-Sao-Paulo-SP.aspx
 permalink: /index.php/inscricoes-para-o-microsoft-community-launch-2010-sao-paulo-sp/
 categories:

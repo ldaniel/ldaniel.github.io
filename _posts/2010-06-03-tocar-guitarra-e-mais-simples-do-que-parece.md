@@ -3,7 +3,7 @@ id: 112
 title: 'Tocar guitarra é mais simples do que parece'
 date: '2010-06-03T10:54:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Tocar-guitarra-e-mais-simples-do-que-parece.aspx
 permalink: /index.php/tocar-guitarra-e-mais-simples-do-que-parece/
 categories:

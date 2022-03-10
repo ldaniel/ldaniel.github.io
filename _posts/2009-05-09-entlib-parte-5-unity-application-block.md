@@ -3,7 +3,7 @@ id: 229
 title: 'EntLib (parte 5) – Unity Application Block'
 date: '2009-05-09T22:53:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/EntLib-(parte-5)-e28093-Unity-Application-Block.aspx
 permalink: /index.php/entlib-parte-5-unity-application-block/
 categories:

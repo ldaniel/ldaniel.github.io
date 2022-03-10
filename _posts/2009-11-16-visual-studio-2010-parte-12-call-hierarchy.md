@@ -3,7 +3,7 @@ id: 174
 title: 'Visual Studio 2010 (parte 12) – Call Hierarchy'
 date: '2009-11-16T01:01:42-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Visual-Studio-2010-(parte-12)-e28093-Call-Hierarchy.aspx
 permalink: /index.php/visual-studio-2010-parte-12-call-hierarchy/
 categories:

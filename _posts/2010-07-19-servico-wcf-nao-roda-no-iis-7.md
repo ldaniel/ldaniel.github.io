@@ -3,7 +3,7 @@ id: 102
 title: 'Serviço WCF não roda no IIS 7'
 date: '2010-07-19T10:43:32-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Servico-WCF-nao-roda-no-IIS-7.aspx
 permalink: /index.php/servico-wcf-nao-roda-no-iis-7/
 categories:

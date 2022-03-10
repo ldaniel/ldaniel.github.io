@@ -3,7 +3,7 @@ id: 92
 title: 'Happy Binary Day!'
 date: '2010-10-01T11:19:44-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Happy-Binary-Day!2.aspx
 permalink: /index.php/happy-binary-day/
 categories:

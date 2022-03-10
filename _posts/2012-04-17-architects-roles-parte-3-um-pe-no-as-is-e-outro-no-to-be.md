@@ -3,7 +3,7 @@ id: 14
 title: 'Architect&#8217;s roles (parte 3): Um pé no &#8220;as is&#8221; e outro no &#8220;to be&#8221;'
 date: '2012-04-17T10:29:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Architects-roles-(parte-3)-Pensando-em-funcao-de-as-is-e-to-be.aspx
 permalink: /index.php/architects-roles-parte-3-um-pe-no-as-is-e-outro-no-to-be/
 categories:

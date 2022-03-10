@@ -3,7 +3,7 @@ id: 90
 title: 'Origem do termo Spam'
 date: '2010-10-21T23:30:47-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Origem-do-termo-Spam.aspx
 permalink: /index.php/origem-do-termo-spam/
 categories:

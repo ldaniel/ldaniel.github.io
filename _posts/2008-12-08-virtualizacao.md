@@ -3,7 +3,7 @@ id: 281
 title: Virtualização
 date: '2008-12-08T23:08:15-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Virtualizacao.aspx
 permalink: /index.php/virtualizacao/
 categories:

@@ -3,7 +3,7 @@ id: 101
 title: 'Pex for fun'
 date: '2010-07-21T11:45:23-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Pex-for-fun.aspx
 permalink: /index.php/pex-for-fun/
 categories:

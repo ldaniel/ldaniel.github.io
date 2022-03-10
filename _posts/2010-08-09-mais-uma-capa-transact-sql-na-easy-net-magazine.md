@@ -3,7 +3,7 @@ id: 100
 title: 'Mais uma capa: Transact-SQL na Easy .net Magazine'
 date: '2010-08-09T10:58:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Mais-uma-capa-Transact-SQL-na-Easy-net-Magazine.aspx
 permalink: /index.php/mais-uma-capa-transact-sql-na-easy-net-magazine/
 image: /wp-content/uploads/2012/10/capa_easynet3_g.jpg

@@ -3,7 +3,7 @@ id: 136
 title: 'Enterprise Library 5.0 está chegando!'
 date: '2010-01-05T01:21:02-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Enterprise-Library-50-esta-chegando!.aspx
 permalink: /index.php/enterprise-library-5-0-esta-chegando/
 categories:

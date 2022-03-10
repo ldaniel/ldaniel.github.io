@@ -3,7 +3,7 @@ id: 240
 title: 'Enterprise Library 5 com lançamento previsto para 2010'
 date: '2009-04-23T22:10:04-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Enterprise-Library-5-com-lancamento-previsto-para-2010.aspx
 permalink: /index.php/enterprise-library-5-com-lancamento-previsto-para-2010/
 categories:

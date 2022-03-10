@@ -3,7 +3,7 @@ id: 117
 title: 'Epopéia de um Vaio'
 date: '2010-05-23T11:24:12-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Epopeia-de-um-Vaio.aspx
 permalink: /index.php/epopeia-de-um-vaio/
 categories:

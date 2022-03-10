@@ -3,7 +3,7 @@ id: 137
 title: Blog.Pause();
 date: '2009-12-24T16:57:20-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/BlogPause2010.aspx
 permalink: /index.php/blog-pause/
 categories:

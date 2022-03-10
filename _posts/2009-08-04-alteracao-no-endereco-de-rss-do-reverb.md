@@ -3,7 +3,7 @@ id: 207
 title: 'Alteração no endereço de RSS do Reverb'
 date: '2009-08-04T21:57:12-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Alteracao-no-endereco-de-RSS-do-Reverb.aspx
 permalink: /index.php/alteracao-no-endereco-de-rss-do-reverb/
 categories:

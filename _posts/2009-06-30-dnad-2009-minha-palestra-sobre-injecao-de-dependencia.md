@@ -3,7 +3,7 @@ id: 215
 title: 'DNAD 2009: Minha palestra sobre Injeção de Dependência'
 date: '2009-06-30T22:42:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/DNAD-2009-Minha-palestra-sobre-Injecao-de-Dependencia.aspx
 permalink: /index.php/dnad-2009-minha-palestra-sobre-injecao-de-dependencia/
 categories:

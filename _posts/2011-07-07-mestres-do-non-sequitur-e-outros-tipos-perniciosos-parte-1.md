@@ -3,7 +3,7 @@ id: 62
 title: 'Mestres do non sequitur e outros tipos perniciosos – Parte 1'
 date: '2011-07-07T09:56:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Mestres-do-non-sequitur-e-outros-tipos-perniciosos-–-Parte-1.aspx
 permalink: /index.php/mestres-do-non-sequitur-e-outros-tipos-perniciosos-parte-1/
 categories:

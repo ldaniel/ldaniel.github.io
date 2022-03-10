@@ -3,7 +3,7 @@ id: 262
 title: 'SQL Server 2008 (parte 3) &#8211; Security Enhancements'
 date: '2009-02-11T23:44:04-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/SQL-Server-2008-Programmability-Enhancements-(parte-3).aspx
 permalink: /index.php/sql-server-2008-parte-3-security-enhancements/
 categories:

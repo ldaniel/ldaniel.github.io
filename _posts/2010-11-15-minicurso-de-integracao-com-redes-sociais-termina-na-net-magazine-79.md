@@ -3,7 +3,7 @@ id: 84
 title: 'Minicurso de integração com Redes Sociais termina na .net Magazine 79'
 date: '2010-11-15T23:10:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Minicurso-de-integracao-com-Redes-Sociais-termina-na-net-Magazine-79.aspx
 permalink: /index.php/minicurso-de-integracao-com-redes-sociais-termina-na-net-magazine-79/
 image: /wp-content/uploads/2010/11/capa_net79_G.jpg

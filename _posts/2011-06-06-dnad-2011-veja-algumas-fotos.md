@@ -3,7 +3,7 @@ id: 65
 title: 'DNAD 2011–Veja algumas fotos'
 date: '2011-06-06T16:27:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/DNAD-2011–Veja-algumas-fotos.aspx
 permalink: /index.php/dnad-2011-veja-algumas-fotos/
 categories:

@@ -3,7 +3,7 @@ id: 24
 title: 'Curriculos que eu gostaria de ver'
 date: '2012-03-07T13:44:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Curriculos-que-eu-gostaria-de-ver.aspx
 permalink: /index.php/curriculos-que-eu-gostaria-de-ver/
 categories:

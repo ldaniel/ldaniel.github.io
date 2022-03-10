@@ -3,7 +3,7 @@ id: 202
 title: 'Décimo terceiro encontro do grupo .Net Architects'
 date: '2009-08-08T23:01:55-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Decimo-terceiro-encontro-do-grupo-Net-Architects.aspx
 permalink: /index.php/decimo-terceiro-encontro-do-grupo-net-architects/
 categories:

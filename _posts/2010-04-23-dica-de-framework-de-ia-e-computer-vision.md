@@ -3,7 +3,7 @@ id: 121
 title: 'Dica de framework de IA e Computer Vision'
 date: '2010-04-23T21:58:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Dica-de-framework-de-IA-e-Computer-Vision.aspx
 permalink: /index.php/dica-de-framework-de-ia-e-computer-vision/
 categories:

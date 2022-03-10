@@ -3,7 +3,7 @@ id: 282
 title: 'SQL Server 2008 Upgrade Technical Reference Guide'
 date: '2008-12-06T14:02:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/SQL-Server-2008-Upgrade-Technical-Reference-Guide.aspx
 permalink: /index.php/sql-server-2008-upgrade-technical-reference-guide/
 categories:

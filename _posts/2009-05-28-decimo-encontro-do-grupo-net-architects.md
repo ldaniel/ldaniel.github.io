@@ -3,7 +3,7 @@ id: 223
 title: 'Décimo encontro do grupo .Net Architects'
 date: '2009-05-28T22:06:11-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Decimo-encontro-do-grupo-Net-Architects.aspx
 permalink: /index.php/decimo-encontro-do-grupo-net-architects/
 categories:

@@ -3,7 +3,7 @@ id: 154
 title: 'Visual Studio 2010 (parte 32) – ASP.NET AJAX 4 (Client Templates)'
 date: '2009-11-17T01:16:22-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Visual-Studio-2010-(parte-32)-e28093-ASPNET-AJAX-4-(Client-Templates).aspx
 permalink: /index.php/visual-studio-2010-parte-32-asp-net-ajax-4-client-templates/
 categories:

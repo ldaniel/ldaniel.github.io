@@ -3,7 +3,7 @@ id: 239
 title: 'EntLib (parte 1) – Organizando os arquivos de configuração'
 date: '2009-04-23T23:34:53-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/EntLib-(parte-1)-e28093-Organizando-os-arquivos-de-configuracao.aspx
 permalink: /index.php/entlib-parte-1-organizando-os-arquivos-de-configuracao/
 categories:

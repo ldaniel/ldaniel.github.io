@@ -3,7 +3,7 @@ id: 203
 title: 'Nano mundo microtonal'
 date: '2009-08-08T13:27:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Nano-mundo-microtonal.aspx
 permalink: /index.php/nano-mundo-microtonal/
 categories:

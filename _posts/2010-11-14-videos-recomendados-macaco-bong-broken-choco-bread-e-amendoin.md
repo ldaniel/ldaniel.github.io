@@ -3,7 +3,7 @@ id: 85
 title: 'Vídeos recomendados: Macaco Bong (Broken Choco Bread e Amendoin)'
 date: '2010-11-14T17:02:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Video-recomendado-Macaco-Bong-(Amendoin).aspx
 permalink: /index.php/videos-recomendados-macaco-bong-broken-choco-bread-e-amendoin/
 categories:

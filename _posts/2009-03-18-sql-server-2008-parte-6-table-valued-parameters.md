@@ -3,7 +3,7 @@ id: 255
 title: 'SQL Server 2008 (parte 6) – Table-Valued Parameters'
 date: '2009-03-18T23:09:07-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/SQL-Server-2008-(parte-6)-e28093-Table-Valued-Parameters.aspx
 permalink: /index.php/sql-server-2008-parte-6-table-valued-parameters/
 categories:

@@ -3,7 +3,7 @@ id: 23
 title: 'Code metrics (parte 6) &#8211; Queryable Source Code'
 date: '2012-03-12T10:14:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Code-metrics-(parte-6)-Queryable-Source-Code.aspx
 permalink: /index.php/code-metrics-parte-6-queryable-source-code/
 categories:

@@ -3,7 +3,7 @@ id: 134
 title: 'Meu artigo de PLINQ é capa da .net Magazine 70!'
 date: '2010-02-10T13:08:40-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Meu-artigo-de-PLINQ-e-capa-da-net-Magazine-70!.aspx
 permalink: /index.php/meu-artigo-de-plinq-e-capa-da-net-magazine-70/
 image: /wp-content/uploads/2012/10/capa_net70_G.jpg

@@ -3,7 +3,7 @@ id: 200
 title: 'Música é abstrata'
 date: '2009-08-18T21:32:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Musica-e-abstrata.aspx
 permalink: /index.php/musica-e-abstrata/
 categories:

@@ -3,7 +3,7 @@ id: 138
 title: 'Framework de testes para  VS 2010'
 date: '2009-12-16T22:52:24-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Framework-de-teste-para-VS-2010.aspx
 permalink: /index.php/framework-de-testes-para-vs-2010/
 categories:

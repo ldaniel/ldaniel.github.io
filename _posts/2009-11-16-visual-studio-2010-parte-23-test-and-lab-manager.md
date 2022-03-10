@@ -3,7 +3,7 @@ id: 163
 title: 'Visual Studio 2010 (parte 23) – Test and Lab Manager'
 date: '2009-11-16T01:20:54-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Visual-Studio-2010-(parte-23)-e28093-Test-and-Lab-Manager.aspx
 permalink: /index.php/visual-studio-2010-parte-23-test-and-lab-manager/
 categories:

@@ -3,7 +3,7 @@ id: 211
 title: 'SharePoint Services 3.0 SDK'
 date: '2009-07-28T14:29:01-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/SharePoint-Services-30-SDK.aspx
 permalink: /index.php/sharepoint-services-3-0-sdk/
 categories:

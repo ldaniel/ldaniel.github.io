@@ -3,7 +3,7 @@ id: 157
 title: 'Visual Studio 2010 (parte 29) &#8211; PLINQ'
 date: '2009-11-17T00:33:45-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Visual-Studio-2010-(parte-29)-PLINQ.aspx
 permalink: /index.php/visual-studio-2010-parte-29-plinq/
 categories:

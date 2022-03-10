@@ -3,7 +3,7 @@ id: 116
 title: 'Templo Boss'
 date: '2010-05-23T12:03:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Templo-Boss.aspx
 permalink: /index.php/templo-boss/
 categories:

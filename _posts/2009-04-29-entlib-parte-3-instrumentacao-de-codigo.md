@@ -3,7 +3,7 @@ id: 236
 title: 'EntLib (parte 3) – Instrumentação de código'
 date: '2009-04-29T23:22:20-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/EntLib-(parte-3)-e28093-Instrumentacao-de-codigo.aspx
 permalink: /index.php/entlib-parte-3-instrumentacao-de-codigo/
 categories:

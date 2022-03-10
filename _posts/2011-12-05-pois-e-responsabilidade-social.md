@@ -3,7 +3,7 @@ id: 40
 title: 'Pois é, responsabilidade social'
 date: '2011-12-05T22:46:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Pois-e-responsabilidade-social.aspx
 permalink: /index.php/pois-e-responsabilidade-social/
 categories:

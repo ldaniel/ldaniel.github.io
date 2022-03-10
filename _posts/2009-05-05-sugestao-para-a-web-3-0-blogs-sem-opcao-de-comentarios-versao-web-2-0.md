@@ -3,7 +3,7 @@ id: 232
 title: 'Sugestão para a Web 3.0: blogs sem opção de Comentários (versão Web 2.0)'
 date: '2009-05-05T01:15:40-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Sugestao-para-a-Web-30-blogs-sem-opcao-de-Comentarios-(versao-Web-20).aspx
 permalink: /index.php/sugestao-para-a-web-3-0-blogs-sem-opcao-de-comentarios-versao-web-2-0/
 categories:

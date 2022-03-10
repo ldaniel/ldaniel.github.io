@@ -3,7 +3,7 @@ id: 221
 title: 'Slides da apresentação sobre DI com o Unity no .Net Architects'
 date: '2009-06-02T17:34:49-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Slides-da-apresentacao-sobre-DI-com-o-Unity-no-Net-Architects.aspx
 permalink: /index.php/slides-da-apresentacao-sobre-di-com-o-unity-no-net-architects/
 categories:

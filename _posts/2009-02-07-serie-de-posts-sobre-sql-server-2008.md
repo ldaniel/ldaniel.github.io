@@ -3,7 +3,7 @@ id: 265
 title: 'Série de posts sobre SQL Server 2008'
 date: '2009-02-07T21:42:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/SQL-Server-2008-Programmability-Enhancements.aspx
 permalink: /index.php/serie-de-posts-sobre-sql-server-2008/
 categories:

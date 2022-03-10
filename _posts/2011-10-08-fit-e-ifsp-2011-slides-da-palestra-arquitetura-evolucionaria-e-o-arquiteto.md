@@ -3,7 +3,7 @@ id: 43
 title: 'FIT e IFSP 2011: Slides da palestra Arquitetura (evolucionária) e o arquiteto'
 date: '2011-10-08T15:37:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/FIT-2011-Slides-da-palestra-Arquitetura-(evolucionaria)-e-o-arquiteto.aspx
 permalink: /index.php/fit-e-ifsp-2011-slides-da-palestra-arquitetura-evolucionaria-e-o-arquiteto/
 image: /wp-content/uploads/2013/04/palestraFIT.png

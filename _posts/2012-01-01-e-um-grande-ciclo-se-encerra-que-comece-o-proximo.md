@@ -3,7 +3,7 @@ id: 39
 title: 'E um grande ciclo se encerra. Que comece o próximo!'
 date: '2012-01-01T03:40:19-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/E-um-grande-ciclo-se-encerra!.aspx
 permalink: /index.php/e-um-grande-ciclo-se-encerra-que-comece-o-proximo/
 categories:

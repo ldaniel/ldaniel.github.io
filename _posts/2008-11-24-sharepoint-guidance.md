@@ -3,7 +3,7 @@ id: 291
 title: 'SharePoint Guidance'
 date: '2008-11-24T23:40:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/SharePoint-Guidance.aspx
 permalink: /index.php/sharepoint-guidance/
 categories:

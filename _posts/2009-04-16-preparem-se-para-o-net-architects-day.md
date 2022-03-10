@@ -3,7 +3,7 @@ id: 243
 title: 'Preparem-se para o .NET Architects Day!'
 date: '2009-04-16T22:29:03-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Preparem-se-para-o-NET-Architects-Day!.aspx
 permalink: /index.php/preparem-se-para-o-net-architects-day/
 categories:

@@ -3,7 +3,7 @@ id: 96
 title: 'Tech-Ed 2010: Cobrindo o evento para a .net Magazine!'
 date: '2010-09-10T13:06:14-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Tech-Ed-2010-Cobrindo-o-evento-para-a-net-Magazine!.aspx
 permalink: /index.php/tech-ed-2010-cobrindo-o-evento-para-a-net-magazine/
 categories:

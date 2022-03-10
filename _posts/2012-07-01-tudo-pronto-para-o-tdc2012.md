@@ -3,7 +3,7 @@ id: 8
 title: 'Tudo pronto para o #TDC2012!'
 date: '2012-07-01T21:01:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Tudo-pronto-pro-TDC2012!.aspx
 permalink: /index.php/tudo-pronto-para-o-tdc2012/
 image: /wp-content/uploads/2013/01/banner-TDC2012-sampa-180x150.png

@@ -3,7 +3,7 @@ id: 194
 title: 'Vídeo recomendado: Sun Ra “Calling Planet Earth”'
 date: '2009-09-08T00:38:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Video-recomendado-Sun-Ra-e2809cCalling-Planet-Earthe2809d.aspx
 permalink: /index.php/video-recomendado-sun-ra-calling-planet-earth/
 categories:

@@ -3,7 +3,7 @@ id: 172
 title: 'Visual Studio 2010 (parte 14) – Web.config Transformation'
 date: '2009-11-16T01:05:22-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Visual-Studio-2010-(parte-14)-e28093-Webconfig-Transformation.aspx
 permalink: /index.php/visual-studio-2010-parte-14-web-config-transformation/
 categories:

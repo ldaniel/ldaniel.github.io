@@ -3,7 +3,7 @@ id: 294
 title: 'Application Architecture Guide 2.0 (beta 2)'
 date: '2008-11-20T23:26:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Application-Architecture-Guide-20-(beta-2).aspx
 permalink: /index.php/application-architecture-guide-2-0-beta-2/
 categories:

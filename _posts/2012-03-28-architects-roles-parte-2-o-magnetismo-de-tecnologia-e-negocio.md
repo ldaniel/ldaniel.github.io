@@ -3,7 +3,7 @@ id: 18
 title: 'Architect&#8217;s roles (parte 2): O magnetismo de tecnologia e negócio'
 date: '2012-03-28T16:15:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Architects-roles-(parte-2)-O-magnetismo-de-tecnologia-e-negocio.aspx
 permalink: /index.php/architects-roles-parte-2-o-magnetismo-de-tecnologia-e-negocio/
 categories:

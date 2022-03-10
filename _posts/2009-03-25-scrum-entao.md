@@ -3,7 +3,7 @@ id: 250
 title: 'Scrum então!'
 date: '2009-03-25T23:25:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Scrum-entao!.aspx
 permalink: /index.php/scrum-entao/
 categories:

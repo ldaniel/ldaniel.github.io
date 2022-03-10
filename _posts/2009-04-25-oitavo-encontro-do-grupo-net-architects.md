@@ -3,7 +3,7 @@ id: 238
 title: 'Oitavo encontro do grupo .Net Architects'
 date: '2009-04-25T15:04:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Oitavo-encontro-do-grupo-Net-Architects.aspx
 permalink: /index.php/oitavo-encontro-do-grupo-net-architects/
 categories:

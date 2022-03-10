@@ -3,7 +3,7 @@ id: 241
 title: 'Série de posts sobre Enterprise Library'
 date: '2009-04-21T20:31:22-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Serie-de-posts-sobre-Enterprise-Library.aspx
 permalink: /index.php/serie-de-posts-sobre-enterprise-library/
 categories:

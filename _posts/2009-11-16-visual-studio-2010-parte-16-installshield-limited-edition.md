@@ -3,7 +3,7 @@ id: 170
 title: 'Visual Studio 2010 (parte 16) – InstallShield Limited Edition'
 date: '2009-11-16T01:08:32-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Visual-Studio-2010-(parte-16)-e28093-InstallShield-Limited-Edition.aspx
 permalink: /index.php/visual-studio-2010-parte-16-installshield-limited-edition/
 categories:

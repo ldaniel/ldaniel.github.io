@@ -3,7 +3,7 @@ id: 230
 title: 'Engenharia de Software Conference'
 date: '2009-05-08T23:50:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Engenharia-de-Software-Conference.aspx
 permalink: /index.php/engenharia-de-software-conference/
 categories:

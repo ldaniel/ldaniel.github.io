@@ -3,7 +3,7 @@ id: 158
 title: 'Visual Studio 2010 (parte 28) &#8211; Office Interop'
 date: '2009-11-16T23:56:57-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Visual-Studio-2010-(parte-28)-Office-Interop.aspx
 permalink: /index.php/visual-studio-2010-parte-28-office-interop/
 categories:

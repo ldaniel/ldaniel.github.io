@@ -3,7 +3,7 @@ id: 178
 title: 'Visual Studio 2010 (parte 8) – LINQ to SharePoint'
 date: '2009-11-16T00:53:54-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Visual-Studio-2010-(parte-8)-e28093-LINQ-to-SharePoint.aspx
 permalink: /index.php/visual-studio-2010-parte-8-linq-to-sharepoint/
 categories:

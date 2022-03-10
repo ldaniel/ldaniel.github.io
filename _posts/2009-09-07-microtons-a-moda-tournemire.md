@@ -3,7 +3,7 @@ id: 196
 title: 'Microtons à moda Tournemire'
 date: '2009-09-07T00:42:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Microtons-a-moda-Tournemire.aspx
 permalink: /index.php/microtons-a-moda-tournemire/
 categories:

@@ -3,7 +3,7 @@ id: 280
 title: '.Net Architects: grupo de arquitetura fará 3º reunião'
 date: '2008-12-09T05:49:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Net-Architects-grupo-de-arquitetura-fara-3c2ba-reuniao.aspx
 permalink: /index.php/net-architects-grupo-de-arquitetura-fara-3o-reuniao/
 categories:

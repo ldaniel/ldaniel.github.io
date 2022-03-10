@@ -3,7 +3,7 @@ id: 27
 title: 'Code metrics (parte 3) &#8211; Medindo acoplamento'
 date: '2012-03-05T10:50:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Code-metrics-(parte-3)-Medindo-acoplamento.aspx
 permalink: /index.php/code-metrics-parte-3-medindo-acoplamento/
 categories:

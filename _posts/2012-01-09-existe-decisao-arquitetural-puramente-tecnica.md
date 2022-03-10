@@ -3,7 +3,7 @@ id: 38
 title: 'Existe decisão arquitetural puramente técnica?'
 date: '2012-01-09T15:19:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Em-arquitetura-existe-decisao-puramente-tecnica.aspx
 permalink: /index.php/existe-decisao-arquitetural-puramente-tecnica/
 categories:

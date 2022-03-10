@@ -3,7 +3,7 @@ id: 166
 title: 'Visual Studio 2010 (parte 20) – Dotfuscator Community Edition'
 date: '2009-11-16T01:16:27-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Visual-Studio-2010-(parte-20)-e28093-Dotfuscator-Community-Edition.aspx
 permalink: /index.php/visual-studio-2010-parte-20-dotfuscator-community-edition/
 categories:

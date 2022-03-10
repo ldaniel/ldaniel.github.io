@@ -3,7 +3,7 @@ id: 25
 title: 'Code metrics (parte 5) &#8211; A importância do contexto'
 date: '2012-03-07T11:05:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Code-metrics-(parte-5)-A-importancia-do-contexto.aspx
 permalink: /index.php/code-metrics-parte-5-a-importancia-do-contexto/
 categories:

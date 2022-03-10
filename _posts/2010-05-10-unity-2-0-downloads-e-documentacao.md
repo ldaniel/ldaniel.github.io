@@ -3,7 +3,7 @@ id: 119
 title: 'Unity 2.0 – Downloads e documentação'
 date: '2010-05-10T22:20:04-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Unity-20-e28093-Download-e-documentacao.aspx
 permalink: /index.php/unity-2-0-downloads-e-documentacao/
 categories:

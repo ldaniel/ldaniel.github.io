@@ -3,7 +3,7 @@ id: 217
 title: 'Como foi o .Net Architects Day 2009? Sensacional!'
 date: '2009-06-28T23:43:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Como-foi-o-Net-Architects-Day-2009-Sensacional!.aspx
 permalink: /index.php/como-foi-o-net-architects-day-2009-sensacional/
 categories:

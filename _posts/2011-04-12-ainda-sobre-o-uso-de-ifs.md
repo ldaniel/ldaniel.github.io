@@ -3,7 +3,7 @@ id: 72
 title: 'Ainda sobre o uso de IFs'
 date: '2011-04-12T13:21:44-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Ainda-sobre-uso-de-IFs.aspx
 permalink: /index.php/ainda-sobre-o-uso-de-ifs/
 categories:

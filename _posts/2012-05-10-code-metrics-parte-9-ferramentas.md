@@ -3,7 +3,7 @@ id: 13
 title: 'Code metrics (parte 9) &#8211; Ferramentas'
 date: '2012-05-10T13:15:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Code-metrics-(parte-9)-Ferramentas.aspx
 permalink: /index.php/code-metrics-parte-9-ferramentas/
 categories:

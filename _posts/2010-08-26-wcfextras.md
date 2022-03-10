@@ -3,7 +3,7 @@ id: 98
 title: WCFExtras
 date: '2010-08-26T14:58:53-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/WCFExtras.aspx
 permalink: /index.php/wcfextras/
 categories:

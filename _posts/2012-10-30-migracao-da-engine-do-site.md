@@ -3,7 +3,7 @@ id: 579
 title: 'Migração da engine do site'
 date: '2012-10-30T16:08:21-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: 'http://leandrodaniel.com/?p=579'
 permalink: /index.php/migracao-da-engine-do-site/
 image: /wp-content/uploads/2012/10/rotterdamHouses.png

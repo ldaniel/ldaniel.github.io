@@ -3,7 +3,7 @@ id: 275
 title: 'Teias urdidas com nuvens'
 date: '2008-12-19T09:05:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Teias-urdidas-com-nuvens.aspx
 permalink: /index.php/teias-urdidas-com-nuvens/
 categories:

@@ -3,7 +3,7 @@ id: 34
 title: 'Hey, que tal pensar além do Try&#8230; Catch&#8230; Finally? (parte 3)'
 date: '2012-02-01T15:14:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Hey-que-tal-pensar-alem-do-Try-Catch-Finally-(parte-3).aspx
 permalink: /index.php/hey-que-tal-pensar-alem-do-try-catch-finally-parte-3/
 categories:

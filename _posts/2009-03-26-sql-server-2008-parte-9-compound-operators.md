@@ -3,7 +3,7 @@ id: 249
 title: 'SQL Server 2008 (parte 9) – Compound Operators'
 date: '2009-03-26T23:19:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/SQL-Server-2008-(parte-9)-e28093-Compound-Operators.aspx
 permalink: /index.php/sql-server-2008-parte-9-compound-operators/
 categories:

@@ -3,7 +3,7 @@ id: 89
 title: 'Jogo de Tetris feito no Microsoft Small Basic'
 date: '2010-10-24T15:06:57-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Microsoft-Small-Basic.aspx
 permalink: /index.php/jogo-de-tetris-feito-no-microsoft-small-basic/
 categories:

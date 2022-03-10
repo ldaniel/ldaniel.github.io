@@ -3,7 +3,7 @@ id: 31
 title: 'Como assim código elegante?'
 date: '2012-02-22T13:48:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Como-assim-codigo-elegante.aspx
 permalink: /index.php/como-assim-codigo-elegante/
 categories:

@@ -3,7 +3,7 @@ id: 104
 title: 'Reverb Vodcast #1 – NDepend x Unused Methods'
 date: '2010-07-03T13:55:41-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Reverb-Vodcast-1-e28093-NDepend-x-Unused-Methods.aspx
 permalink: /index.php/reverb-vodcast-1-ndepend-x-unused-methods/
 image: /wp-content/uploads/2010/07/Reverb_logo.png

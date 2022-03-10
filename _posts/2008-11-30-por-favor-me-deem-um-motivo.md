@@ -3,7 +3,7 @@ id: 286
 title: 'Por favor, me dêem um motivo!'
 date: '2008-11-30T18:41:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Por-favor-me-deem-um-motivo!.aspx
 permalink: /index.php/por-favor-me-deem-um-motivo/
 categories:

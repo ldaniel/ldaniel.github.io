@@ -3,7 +3,7 @@ id: 165
 title: 'Visual Studio 2010 (parte 21) – Nova propriedade ClientIDMode'
 date: '2009-11-16T01:17:11-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Visual-Studio-2010-(parte-21)-e28093-Nova-propriedade-ClientIDMode-no-ASPNET.aspx
 permalink: /index.php/visual-studio-2010-parte-21-nova-propriedade-clientidmode/
 categories:

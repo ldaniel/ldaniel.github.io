@@ -3,7 +3,7 @@ id: 60
 title: 'TDC 2011: Slides da Lightning Talk sobre Arquitetura Evolucionária'
 date: '2011-07-09T09:18:11-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/TDC-2011-Slides-da-Lightning-Talk-sobre-Arquitetura-Evolucionaria.aspx
 permalink: /index.php/tdc-2011-slides-da-lightning-talk-sobre-arquitetura-evolucionaria/
 categories:

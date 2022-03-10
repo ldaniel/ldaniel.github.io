@@ -3,7 +3,7 @@ id: 252
 title: 'SQL Server 2008 (parte 8) – Sparce Columns'
 date: '2009-03-23T08:15:39-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/SQL-Server-2008-(parte-8)-e28093-Sparce-Columns.aspx
 permalink: /index.php/sql-server-2008-parte-8-sparce-columns/
 categories:

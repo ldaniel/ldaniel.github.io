@@ -3,7 +3,7 @@ id: 235
 title: 'EntLib (parte 4) – Como criptografar valores de configurações'
 date: '2009-04-30T23:21:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/EntLib-(parte-4)-e28093-Como-criptografar-valores-de-configuracoes.aspx
 permalink: /index.php/entlib-parte-4-como-criptografar-valores-de-configuracoes/
 categories:

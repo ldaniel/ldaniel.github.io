@@ -3,7 +3,7 @@ id: 110
 title: 'Evento codificando.net 2010 com participação do .Net Architects'
 date: '2010-06-09T10:53:56-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Evento-codificandonet-2010-com-participacao-do-Net-Architects.aspx
 permalink: /index.php/evento-codificando-net-2010-com-participacao-do-net-architects/
 categories:

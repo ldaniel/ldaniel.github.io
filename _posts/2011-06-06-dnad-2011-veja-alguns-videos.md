@@ -3,7 +3,7 @@ id: 66
 title: 'DNAD 2011–Veja alguns vídeos'
 date: '2011-06-06T15:03:49-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/DNAD-2011–Veja-alguns-videos.aspx
 permalink: /index.php/dnad-2011-veja-alguns-videos/
 categories:

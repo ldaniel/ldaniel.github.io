@@ -3,7 +3,7 @@ id: 745
 title: 'Void Podcast: episódios #026 ao #029 disponíveis!'
 date: '2013-02-28T17:23:44-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: 'http://leandrodaniel.com/?p=745'
 permalink: /index.php/void-podcast-episodios-026-ao-029-disponiveis/
 image: /wp-content/uploads/2013/02/Screenshot_31_03_13_20_07.png

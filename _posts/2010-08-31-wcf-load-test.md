@@ -3,7 +3,7 @@ id: 97
 title: 'WCF Load Test'
 date: '2010-08-31T20:28:24-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/WCF-Load-Test.aspx
 permalink: /index.php/wcf-load-test/
 categories:

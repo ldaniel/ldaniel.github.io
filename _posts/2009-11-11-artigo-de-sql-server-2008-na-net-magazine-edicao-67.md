@@ -3,7 +3,7 @@ id: 187
 title: 'Artigo de SQL Server 2008 na .net Magazine edição 67'
 date: '2009-11-11T16:58:03-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Artigo-de-SQL-Server-2008-na-net-Magazine-edicao-67.aspx
 permalink: /index.php/artigo-de-sql-server-2008-na-net-magazine-edicao-67/
 image: /wp-content/uploads/2012/10/capa_net67_G.jpg

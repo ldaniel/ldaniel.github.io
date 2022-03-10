@@ -3,7 +3,7 @@ id: 126
 title: 'Visual Studio 2010 lançado!'
 date: '2010-04-12T15:00:09-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Visual-Studio-2010-lancado.aspx
 permalink: /index.php/visual-studio-2010-lancado/
 categories:

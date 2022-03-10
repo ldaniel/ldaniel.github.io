@@ -3,7 +3,7 @@ id: 192
 title: 'Encontrando números em uma string com Regex'
 date: '2009-09-09T22:18:05-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Encontrando-numeros-em-uma-string-com-Regex.aspx
 permalink: /index.php/encontrando-numeros-em-uma-string-com-regex/
 categories:

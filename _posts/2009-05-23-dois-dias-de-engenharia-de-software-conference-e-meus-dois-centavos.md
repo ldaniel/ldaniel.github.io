@@ -3,7 +3,7 @@ id: 225
 title: 'Dois dias de Engenharia de Software Conference e meus dois centavos'
 date: '2009-05-23T22:50:47-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Dois-dias-de-Engenharia-de-Software-Conference-e-meus-dois-centavos.aspx
 permalink: /index.php/dois-dias-de-engenharia-de-software-conference-e-meus-dois-centavos/
 categories:

@@ -3,7 +3,7 @@ id: 32
 title: 'Ética e desenvolvimento de software'
 date: '2012-02-07T17:32:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Etica-e-desenvolvimento-de-software.aspx
 permalink: /index.php/etica-e-desenvolvimento-de-software/
 categories:

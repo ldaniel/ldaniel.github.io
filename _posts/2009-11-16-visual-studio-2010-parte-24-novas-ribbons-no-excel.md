@@ -3,7 +3,7 @@ id: 162
 title: 'Visual Studio 2010 (parte 24) – Novas ribbons no Excel'
 date: '2009-11-16T01:21:50-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Visual-Studio-2010-(parte-24)-e28093-Novas-ribbons-no-Excel.aspx
 permalink: /index.php/visual-studio-2010-parte-24-novas-ribbons-no-excel/
 categories:

@@ -3,7 +3,7 @@ id: 133
 title: 'Microsoft Live Labs: Pivot'
 date: '2010-03-09T03:03:44-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Microsoft-Live-Labs-Pivot.aspx
 permalink: /index.php/microsoft-live-labs-pivot/
 categories:

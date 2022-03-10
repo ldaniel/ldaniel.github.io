@@ -3,7 +3,7 @@ id: 212
 title: 'Visual Studio 2010, não resisti…'
 date: '2009-07-16T22:52:14-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Visual-Studio-2010-nao-resistie280a6.aspx
 permalink: /index.php/visual-studio-2010-nao-resisti/
 categories:

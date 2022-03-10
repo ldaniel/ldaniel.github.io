@@ -3,7 +3,7 @@ id: 234
 title: 'Microsoft Live Labs: Infinite Canvas'
 date: '2009-04-30T23:59:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Live-Labs-Infinite-Canvas.aspx
 permalink: /index.php/microsoft-live-labs-infinite-canvas/
 categories:

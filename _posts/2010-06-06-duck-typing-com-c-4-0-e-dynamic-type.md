@@ -3,7 +3,7 @@ id: 111
 title: 'Duck Typing com C# 4.0 e Dynamic Type'
 date: '2010-06-06T21:22:30-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Duck-Typing-com-C-40-e-Dynamic-Type.aspx
 permalink: /index.php/duck-typing-com-c-4-0-e-dynamic-type/
 categories:

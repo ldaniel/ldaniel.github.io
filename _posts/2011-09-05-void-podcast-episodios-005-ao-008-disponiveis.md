@@ -3,7 +3,7 @@ id: 48
 title: 'Void Podcast: episódios #005 ao #008 disponíveis!'
 date: '2011-09-05T09:39:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Void-Podcast-episodios-005-ao-008-disponiveis!.aspx
 permalink: /index.php/void-podcast-episodios-005-ao-008-disponiveis/
 image: /wp-content/uploads/2012/06/VoidLogo-Twitter-2.png

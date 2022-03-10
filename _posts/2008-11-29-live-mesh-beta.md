@@ -3,7 +3,7 @@ id: 287
 title: 'Live Mesh Beta'
 date: '2008-11-29T22:14:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Live-Mesh-Beta.aspx
 permalink: /index.php/live-mesh-beta/
 categories:

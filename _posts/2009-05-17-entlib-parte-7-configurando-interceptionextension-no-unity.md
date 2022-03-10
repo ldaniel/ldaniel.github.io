@@ -3,7 +3,7 @@ id: 226
 title: 'EntLib (parte 7) – Configurando InterceptionExtension no Unity'
 date: '2009-05-17T23:45:03-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/EntLib-(parte-7)-e28093-Configurando-InterceptionExtension-no-Unity.aspx
 permalink: /index.php/entlib-parte-7-configurando-interceptionextension-no-unity/
 categories:

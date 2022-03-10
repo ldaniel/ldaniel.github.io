@@ -3,7 +3,7 @@ id: 16
 title: 'Void Podcast: episódios #017 ao #020 disponíveis!'
 date: '2012-04-07T22:30:35-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Void-Podcast-episodios-017-ao-020-disponiveis!.aspx
 permalink: /index.php/void-podcast-episodios-017-ao-020-disponiveis/
 image: /wp-content/uploads/2012/06/VoidLogo-Twitter-2.png

@@ -3,7 +3,7 @@ id: 146
 title: 'Visual Studio 2010 (parte 40) – Power Commands'
 date: '2009-11-17T04:14:06-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Visual-Studio-2010-(parte-40)-e28093-Power-Commands.aspx
 permalink: /index.php/visual-studio-2010-parte-40-power-commands/
 categories:

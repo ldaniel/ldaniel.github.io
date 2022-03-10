@@ -3,7 +3,7 @@ id: 5
 title: 'Architecture Principles'
 date: '2012-09-30T23:50:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Architecture-Principles.aspx
 permalink: /index.php/architecture-principles/
 categories:

@@ -3,7 +3,7 @@ id: 73
 title: 'Podcast e Twitter: #temquevêissaê'
 date: '2011-04-10T14:51:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Podcast-e-Twitter-temqueveissae.aspx
 permalink: /index.php/podcast-e-twitter-temqueveissae/
 categories:

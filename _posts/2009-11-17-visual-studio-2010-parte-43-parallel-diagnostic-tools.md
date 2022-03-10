@@ -3,7 +3,7 @@ id: 143
 title: 'Visual Studio 2010 (parte 43) – Parallel Diagnostic Tools'
 date: '2009-11-17T15:16:16-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Visual-Studio-2010-(parte-43)-e28093-Parallel-Diagnostic-Tools.aspx
 permalink: /index.php/visual-studio-2010-parte-43-parallel-diagnostic-tools/
 categories:

@@ -3,7 +3,7 @@ id: 51
 title: 'Palestra de arquitetura no QCon 2011!'
 date: '2011-08-23T09:41:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Palestra-de-arquitetura-no-QCon-2011!.aspx
 permalink: /index.php/palestra-de-arquitetura-no-qcon-2011/
 categories:

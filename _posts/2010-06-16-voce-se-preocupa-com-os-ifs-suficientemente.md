@@ -3,7 +3,7 @@ id: 108
 title: 'Você se preocupa com os IFs, suficientemente?'
 date: '2010-06-16T16:47:33-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Voce-se-preocupa-com-os-IFs-suficientemente.aspx
 permalink: /index.php/voce-se-preocupa-com-os-ifs-suficientemente/
 categories:

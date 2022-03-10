@@ -3,7 +3,7 @@ id: 254
 title: 'Cantinho das crianças?!?!'
 date: '2009-03-19T23:17:56-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Cantinho-das-criancas!!.aspx
 permalink: /index.php/cantinho-das-criancas/
 categories:

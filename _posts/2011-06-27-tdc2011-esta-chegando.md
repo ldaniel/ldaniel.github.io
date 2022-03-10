@@ -3,7 +3,7 @@ id: 63
 title: 'TDC2011 está chegando!'
 date: '2011-06-27T15:57:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/TDC2011-esta-chegando.aspx
 permalink: /index.php/tdc2011-esta-chegando/
 categories:

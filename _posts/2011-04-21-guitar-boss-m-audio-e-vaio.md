@@ -3,7 +3,7 @@ id: 71
 title: '#Guitar, #Boss, #M-Audio e #Vaio'
 date: '2011-04-21T14:57:46-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Guitar-Boss-M-Audio-e-Vaio.aspx
 permalink: /index.php/guitar-boss-m-audio-e-vaio/
 categories:

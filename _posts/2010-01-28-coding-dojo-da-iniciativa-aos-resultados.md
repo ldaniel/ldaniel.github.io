@@ -3,7 +3,7 @@ id: 135
 title: 'Coding Dojo: da iniciativa aos resultados!'
 date: '2010-01-28T17:32:01-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Coding-Dojo-da-iniciativa-aos-resultados!.aspx
 permalink: /index.php/coding-dojo-da-iniciativa-aos-resultados/
 categories:

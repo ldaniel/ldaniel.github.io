@@ -3,7 +3,7 @@ id: 278
 title: 'Microsoft Live Labs: Photosynth'
 date: '2008-12-13T16:44:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Microsoft-Live-Labs-Photosynth.aspx
 permalink: /index.php/microsoft-live-labs-photosynth/
 categories:

@@ -3,7 +3,7 @@ id: 78
 title: 'Inovadores, early adopters ou grande maioria: A qual grupo você pertence?'
 date: '2011-02-28T11:57:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Inovador-ou-early-adopter.aspx
 permalink: /index.php/inovadores-early-adopters-ou-grande-maioria-a-qual-grupo-voce-pertence/
 categories:

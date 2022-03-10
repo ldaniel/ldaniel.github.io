@@ -3,7 +3,7 @@ id: 246
 title: 'SQL Server 2008 &#8211; Série de posts chega ao fim'
 date: '2009-04-10T23:55:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/SQL-Server-2008-Serie-de-posts-chega-ao-fim.aspx
 permalink: /index.php/sql-server-2008-serie-de-posts-chega-ao-fim/
 categories:

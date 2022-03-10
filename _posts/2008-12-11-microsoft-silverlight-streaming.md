@@ -3,7 +3,7 @@ id: 279
 title: 'Microsoft Silverlight Streaming'
 date: '2008-12-11T11:36:26-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Microsoft-Silverlight-Streaming.aspx
 permalink: /index.php/microsoft-silverlight-streaming/
 categories:

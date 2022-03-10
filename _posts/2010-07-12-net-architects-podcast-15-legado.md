@@ -3,7 +3,7 @@ id: 103
 title: '.Net Architects Podcast 15 &#8211; Legado'
 date: '2010-07-12T20:50:50-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Net-Architects-Podcast-15-Legado.aspx
 permalink: /index.php/net-architects-podcast-15-legado/
 image: /wp-content/uploads/2010/07/DotNetArchitects_logo.jpg

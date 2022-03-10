@@ -3,7 +3,7 @@ id: 15
 title: 'Code metrics (parte 8) &#8211; Relação entre testes, design e métricas'
 date: '2012-04-12T13:36:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Code-metrics-(parte-8)-RelacaoMetricasTestesDesign.aspx
 permalink: /index.php/code-metrics-parte-8-relacao-entre-testes-design-e-metricas/
 categories:

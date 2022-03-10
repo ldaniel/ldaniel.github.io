@@ -3,7 +3,7 @@ id: 289
 title: 'ASP.NET Chart Control (e uma singela dúvida)'
 date: '2008-11-25T23:29:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/ASPNET-Chart-Control-(e-uma-singela-duvida).aspx
 permalink: /index.php/asp-net-chart-control-e-uma-singela-duvida/
 categories:

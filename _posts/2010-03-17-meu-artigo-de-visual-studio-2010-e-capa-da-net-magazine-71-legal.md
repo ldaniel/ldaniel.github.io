@@ -3,7 +3,7 @@ id: 130
 title: 'Meu artigo de Visual Studio 2010 é capa da .net Magazine 71! Legal!!!'
 date: '2010-03-17T21:49:51-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Meu-artigo-de-Visual-Studio-2010-e-capa-net-Magazine-71!-Legal!!!.aspx
 permalink: /index.php/meu-artigo-de-visual-studio-2010-e-capa-da-net-magazine-71-legal/
 image: /wp-content/uploads/2012/10/capa_net71_G.jpg

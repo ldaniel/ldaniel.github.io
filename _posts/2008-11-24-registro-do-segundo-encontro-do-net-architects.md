@@ -3,7 +3,7 @@ id: 290
 title: 'Registro do segundo encontro do .Net Architects'
 date: '2008-11-24T23:54:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Registro-do-segundo-encontro-do-Net-Architects.aspx
 permalink: /index.php/registro-do-segundo-encontro-do-net-architects/
 categories:

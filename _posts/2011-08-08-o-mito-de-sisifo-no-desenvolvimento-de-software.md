@@ -3,7 +3,7 @@ id: 53
 title: 'O mito de Sísifo no desenvolvimento de software'
 date: '2011-08-08T21:01:47-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/O-mito-de-Sisifo-no-desenvolvimento-de-software.aspx
 permalink: /index.php/o-mito-de-sisifo-no-desenvolvimento-de-software/
 categories:

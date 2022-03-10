@@ -3,7 +3,7 @@ id: 159
 title: 'Visual Studio 2010 (parte 27) &#8211; Covariance e Contravariance'
 date: '2009-11-16T23:46:06-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Visual-Studio-2010-(parte-27)-Covariance-e-Contravariance.aspx
 permalink: /index.php/visual-studio-2010-parte-27-covariance-e-contravariance/
 categories:

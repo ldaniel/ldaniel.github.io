@@ -3,7 +3,7 @@ id: 99
 title: 'Biblioteca de apoio para criação de cliente JavaScript de WCF'
 date: '2010-08-23T15:25:28-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Biblioteca-de-apoio-para-criacao-de-cliente-JavaScript-de-WCF.aspx
 permalink: /index.php/biblioteca-de-apoio-para-criacao-de-cliente-javascript-de-wcf/
 categories:

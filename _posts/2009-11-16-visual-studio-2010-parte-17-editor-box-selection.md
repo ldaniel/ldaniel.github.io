@@ -3,7 +3,7 @@ id: 169
 title: 'Visual Studio 2010 (parte 17) – Editor Box Selection'
 date: '2009-11-16T01:11:24-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Visual-Studio-2010-(parte-17)-e28093-Editor-Box-Selection.aspx
 permalink: /index.php/visual-studio-2010-parte-17-editor-box-selection/
 categories:

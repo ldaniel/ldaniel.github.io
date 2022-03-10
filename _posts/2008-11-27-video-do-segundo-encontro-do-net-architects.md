@@ -3,7 +3,7 @@ id: 288
 title: 'Vídeo do segundo encontro do .Net Architects'
 date: '2008-11-27T23:28:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Video-do-segundo-encontro-do-Net-Architects.aspx
 permalink: /index.php/video-do-segundo-encontro-do-net-architects/
 categories:

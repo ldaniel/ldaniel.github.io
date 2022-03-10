@@ -3,7 +3,7 @@ id: 145
 title: 'Visual Studio 2010 (parte 41) – Arquitetura da programação paralela'
 date: '2009-11-17T14:41:21-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Visual-Studio-2010-(parte-41)-e28093-Arquitetura-da-programacao-paralela.aspx
 permalink: /index.php/visual-studio-2010-parte-41-arquitetura-da-programacao-paralela/
 categories:

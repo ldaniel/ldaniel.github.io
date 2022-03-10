@@ -3,7 +3,7 @@ id: 271
 title: 'SQL Services'
 date: '2009-01-05T20:11:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/SQL-Services.aspx
 permalink: /index.php/sql-services/
 categories:

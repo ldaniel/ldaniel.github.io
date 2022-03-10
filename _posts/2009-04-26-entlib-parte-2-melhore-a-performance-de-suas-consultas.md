@@ -3,7 +3,7 @@ id: 237
 title: 'EntLib (parte 2) – Melhore a performance de suas consultas'
 date: '2009-04-26T03:09:40-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/EntLib-(parte-2)-e28093-Melhore-a-performance-de-suas-consultas.aspx
 permalink: /index.php/entlib-parte-2-melhore-a-performance-de-suas-consultas/
 categories:

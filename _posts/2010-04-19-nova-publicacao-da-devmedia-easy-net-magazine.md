@@ -3,7 +3,7 @@ id: 123
 title: 'Nova publicação da DevMedia: Easy .net Magazine'
 date: '2010-04-19T22:11:45-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Nova-publicacao-da-DevMedia-Easy-net-Magazine.aspx
 permalink: /index.php/nova-publicacao-da-devmedia-easy-net-magazine/
 image: /wp-content/uploads/2012/10/capa_easynet1_g.jpg

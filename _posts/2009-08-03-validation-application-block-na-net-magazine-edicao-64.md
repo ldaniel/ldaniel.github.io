@@ -3,7 +3,7 @@ id: 208
 title: 'Validation Application Block na .net Magazine edição 64'
 date: '2009-08-03T16:47:52-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Validation-Application-Block-na-net-Magazine-edicao-64.aspx
 permalink: /index.php/validation-application-block-na-net-magazine-edicao-64/
 image: /wp-content/uploads/2012/10/capa_net64_G.jpg

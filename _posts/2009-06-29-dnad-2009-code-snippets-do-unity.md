@@ -3,7 +3,7 @@ id: 216
 title: 'DNAD 2009: Code Snippets do Unity'
 date: '2009-06-29T13:46:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/DNAD-2009-Code-Snippets-do-Unity.aspx
 permalink: /index.php/dnad-2009-code-snippets-do-unity/
 categories:

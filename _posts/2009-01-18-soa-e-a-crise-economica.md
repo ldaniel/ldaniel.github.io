@@ -3,7 +3,7 @@ id: 268
 title: 'SOA e a crise econômica'
 date: '2009-01-18T20:01:07-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/SOA-e-a-crise-economica.aspx
 permalink: /index.php/soa-e-a-crise-economica/
 categories:

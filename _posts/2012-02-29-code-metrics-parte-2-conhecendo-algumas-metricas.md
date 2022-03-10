@@ -3,7 +3,7 @@ id: 28
 title: 'Code metrics (parte 2) &#8211; Conhecendo algumas métricas'
 date: '2012-02-29T13:14:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Code-metrics-(parte-2)-Conhecendo-algumas-metricas.aspx
 permalink: /index.php/code-metrics-parte-2-conhecendo-algumas-metricas/
 categories:

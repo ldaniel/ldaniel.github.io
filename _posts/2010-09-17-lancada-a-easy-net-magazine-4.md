@@ -3,7 +3,7 @@ id: 95
 title: 'Lançada a Easy .net Magazine 4'
 date: '2010-09-17T11:45:06-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Lancada-a-Easy-net-Magazine-4.aspx
 permalink: /index.php/lancada-a-easy-net-magazine-4/
 image: /wp-content/uploads/2012/10/capa_easynet4_g.jpg

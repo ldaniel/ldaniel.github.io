@@ -3,7 +3,7 @@ id: 49
 title: 'Content Metamodel Overview: referência rápida para arquitetos'
 date: '2011-08-31T15:49:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Content-Metamodel-Overview-referencia-rapida-para-arquitetos.aspx
 permalink: /index.php/content-metamodel-overview-referencia-rapida-para-arquitetos/
 categories:

@@ -3,7 +3,7 @@ id: 220
 title: Songsmith
 date: '2009-06-13T09:49:34-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Songsmith.aspx
 permalink: /index.php/songsmith/
 categories:

@@ -3,7 +3,7 @@ id: 185
 title: 'Visual Studio 2010 (parte 1) – Dependency Graph'
 date: '2009-11-13T13:12:43-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Visual-Studio-2010-(parte-1)-e28093-Dependency-Graph.aspx
 permalink: /index.php/visual-studio-2010-parte-1-dependency-graph/
 categories:

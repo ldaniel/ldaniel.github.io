@@ -3,7 +3,7 @@ id: 64
 title: 'Void Podcast: segundo episódio no ar!'
 date: '2011-06-13T10:52:40-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Void-Podcast-segundo-episodio-no-ar!.aspx
 permalink: /index.php/void-podcast-segundo-episodio-no-ar/
 image: /wp-content/uploads/2012/06/VoidLogo-Twitter-2.png

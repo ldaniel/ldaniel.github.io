@@ -3,7 +3,7 @@ id: 177
 title: 'Visual Studio 2010 (parte 9) – Dynamic Objects'
 date: '2009-11-16T00:57:10-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Visual-Studio-2010-(parte-9)-e28093-Dynamic-Objects.aspx
 permalink: /index.php/visual-studio-2010-parte-9-dynamic-objects/
 categories:

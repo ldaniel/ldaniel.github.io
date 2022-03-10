@@ -3,7 +3,7 @@ id: 120
 title: '.net Magazine: Série de artigos de Visual Studio 2010 chega ao fim'
 date: '2010-05-07T22:53:14-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/net-Magazine-Serie-de-artigos-de-Visual-Studio-2010-chega-ao-fim.aspx
 permalink: /index.php/net-magazine-serie-de-artigos-de-visual-studio-2010-chega-ao-fim/
 image: /wp-content/uploads/2012/10/capa_net73_G.jpg

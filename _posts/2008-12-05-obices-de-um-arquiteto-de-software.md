@@ -3,7 +3,7 @@ id: 283
 title: 'Óbices de um arquiteto de software'
 date: '2008-12-05T11:01:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Obices-de-um-arquiteto-de-software.aspx
 permalink: /index.php/obices-de-um-arquiteto-de-software/
 categories:

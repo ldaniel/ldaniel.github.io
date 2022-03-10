@@ -3,7 +3,7 @@ id: 199
 title: 'Parte 2 do artigo de VAB na .net Magazine edição 65'
 date: '2009-08-25T20:33:47-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Parte-2-do-artigo-de-VAB-na-net-Magazine-edicao-65.aspx
 permalink: /index.php/parte-2-do-artigo-de-vab-na-net-magazine-edicao-65/
 image: /wp-content/uploads/2012/10/capa_net65_G.jpg

@@ -3,7 +3,7 @@ id: 222
 title: 'Inscrições abertas para o .NET Architects Day 2009'
 date: '2009-05-30T22:12:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Inscricoes-abertas-para-o-NET-Architects-Day-2009.aspx
 permalink: /index.php/inscricoes-abertas-para-o-net-architects-day-2009/
 categories:

@@ -3,7 +3,7 @@ id: 228
 title: 'EntLib (parte 6) – Interceptação de chamada de interface com o Unity'
 date: '2009-05-10T23:36:06-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/EntLib-(parte-6)-e28093-Interceptacao-de-chamada-de-interface-com-o-Unity.aspx
 permalink: /index.php/entlib-parte-6-interceptacao-de-chamada-de-interface-com-o-unity/
 categories:

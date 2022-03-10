@@ -3,7 +3,7 @@ id: 19
 title: 'Architect&#8217;s roles (parte 1): Papel x Visão'
 date: '2012-03-27T10:25:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Architects-roles-(parte-1)-.aspx
 permalink: /index.php/architects-roles-parte-1-papel-x-visao/
 categories:

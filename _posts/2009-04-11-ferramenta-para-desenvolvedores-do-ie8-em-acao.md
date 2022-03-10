@@ -3,7 +3,7 @@ id: 245
 title: 'Ferramenta para desenvolvedores do IE8 em ação'
 date: '2009-04-11T14:52:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Ferramenta-para-desenvolvedores-do-IE8-em-acao.aspx
 permalink: /index.php/ferramenta-para-desenvolvedores-do-ie8-em-acao/
 categories:

@@ -3,7 +3,7 @@ id: 94
 title: 'Algumas fotos do Tech-Ed 2010'
 date: '2010-09-19T14:26:15-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Algumas-fotos-do-Tech-Ed-2010.aspx
 permalink: /index.php/algumas-fotos-do-tech-ed-2010/
 categories:

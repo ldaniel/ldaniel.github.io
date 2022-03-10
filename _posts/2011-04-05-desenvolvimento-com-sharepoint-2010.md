@@ -3,7 +3,7 @@ id: 74
 title: 'Desenvolvimento com SharePoint 2010'
 date: '2011-04-05T15:26:24-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Desenvolvimento-com-SharePoint-2010.aspx
 permalink: /index.php/desenvolvimento-com-sharepoint-2010/
 categories:

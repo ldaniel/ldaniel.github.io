@@ -3,7 +3,7 @@ id: 80
 title: 'SQL Server: Aprenda a usar BCP (esqueça o C# de vez em quando)'
 date: '2011-01-26T12:28:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Aprenda-a-usar-BCP.aspx
 permalink: /index.php/sql-server-aprenda-a-usar-bcp-esqueca-o-c-de-vez-em-quando/
 categories:

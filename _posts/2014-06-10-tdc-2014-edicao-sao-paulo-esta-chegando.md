@@ -3,7 +3,7 @@ id: 1526
 title: 'TDC 2014 edição São Paulo está chegando!'
 date: '2014-06-10T10:59:56-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: 'http://leandrodaniel.com/?p=1526'
 permalink: /index.php/tdc-2014-edicao-sao-paulo-esta-chegando/
 image: /wp-content/uploads/2014/06/logo-tdc2014-vertical-preto_120x100.png

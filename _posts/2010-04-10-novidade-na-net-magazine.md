@@ -3,7 +3,7 @@ id: 127
 title: 'Novidade na .net Magazine'
 date: '2010-04-10T19:21:50-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Novidade-na-net-Magazine.aspx
 permalink: /index.php/novidade-na-net-magazine/
 image: /wp-content/uploads/2010/04/devmedialogo.png

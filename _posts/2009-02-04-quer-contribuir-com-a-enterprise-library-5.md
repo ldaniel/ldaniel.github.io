@@ -3,7 +3,7 @@ id: 266
 title: 'Quer contribuir com a Enterprise Library 5?'
 date: '2009-02-04T22:34:00-03:00'
 author: 'Leandro Daniel'
-layout: post
+
 guid: /post/Quer-contribuir-com-a-Enterprise-Library-5.aspx
 permalink: /index.php/quer-contribuir-com-a-enterprise-library-5/
 categories:
