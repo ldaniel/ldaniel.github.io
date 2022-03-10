@@ -5,7 +5,7 @@ date: '2008-11-19T06:41:00-03:00'
 author: 'Leandro Daniel'
 layout: post
 guid: /post/BlogStart()3b.aspx
-permalink: /index.php/blog-start/
+permalink: /blog-start/
 categories:
     - Informativo
     - Post
