@@ -7,7 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/E-era-muito-pior-no-SQL-Server-2000e280a6.aspx
 permalink: /e-era-muito-pior-no-sql-server-2000/
 categories:
-    - Post
+    - Articles
+    - IT
+tags:
+    - pt-br
     - 'SQL Server'
 ---
 
