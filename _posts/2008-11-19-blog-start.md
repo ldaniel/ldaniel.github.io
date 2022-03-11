@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/BlogStart()3b.aspx
 permalink: /blog-start/
 categories:
+    - IT
+tags:
+    - pt-br
     - Informativo
-    - Post
 ---
 
 Sim, finalmente escrevo o post inaugural do meu blog! Sei que existe muita informação disponível sobre tecnologia na Internet, e por isso mesmo quero contribuir com minhas opiniões e experiências.
