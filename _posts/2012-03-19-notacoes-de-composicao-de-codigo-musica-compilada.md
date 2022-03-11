@@ -7,11 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Sinais.aspx
 permalink: /notacoes-de-composicao-de-codigo-musica-compilada/
 categories:
+    - Music
+tags:
+    - pt-br
     - Distortion
-    - Post
-    - Reverberando
-tags: 
-  - Distortion
 ---
 
 | ![](http://leandrodaniel.com/pics/stophand.png) | **Disclaimer**  Este post é uma elucubração livre, sem maiores pretensões. O texto contém uma mescla de fatos e percepções, sem qualquer preocupação com a forma.  Sinta-se livre para ignorá-lo.  -&gt; em tempo, nenhum panda foi sacrificado durante a elaboração do texto, e claro, nenhuma droga ilícita fora utilizada =)  \#mundopoliticamentecorretosucks |
