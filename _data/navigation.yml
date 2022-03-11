@@ -14,12 +14,8 @@ main:
 about:
   - title: What's here?
     children:
-      - title: "our vision"
-        url: "https://deeployer.com/about/#our-vision"
-      - title: "our values"
-        url: "https://deeployer.com/about/#our-values"
-      - title: "our mission"
-        url: "https://deeployer.com/about/#our-mission"
-      - title: "code of conduct"
-        url: "https://deeployer.com/about/#code-of-conduct"
+      - title: "about me"
+        url: "/about/#about-me"
+      - title: "certifications"
+        url: "/about/#certifications"
 
