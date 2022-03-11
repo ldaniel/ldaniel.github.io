@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/SQL-Server-2008-(parte-6)-e28093-Table-Valued-Parameters.aspx
 permalink: /sql-server-2008-parte-6-table-valued-parameters/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - 'SQL Server'
 ---
 
