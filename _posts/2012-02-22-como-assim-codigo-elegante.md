@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Como-assim-codigo-elegante.aspx
 permalink: /como-assim-codigo-elegante/
 categories:
+    - IT
+tags:
+    - pt-br
     - Dicas
-    - Post
 ---
 
 Em minha (arrogante) opinião, em geral, existe algum consenso mínimo sobre o que é um código elegante de fato. No entanto, tenho visto alguns exemplos de “códigos elegantes” que adicionam complexidade, verbosidade e outras questões incômodas. É bem verdade que existem algumas coisas – em qualquer linguagem de desenvolvimento – que levam o código de “Que aceitável!” para o nível “Wow! Que impressionante!”.
