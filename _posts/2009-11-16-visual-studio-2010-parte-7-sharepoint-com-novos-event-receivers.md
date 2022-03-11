@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/Visual-Studio-2010-(parte-7)-e28093-SharePoint-com-novos-Event-Receivers.aspx
 permalink: /visual-studio-2010-parte-7-sharepoint-com-novos-event-receivers/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - 'Visual Studio'
 ---
 
