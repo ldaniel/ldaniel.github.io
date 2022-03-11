@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Servico-WCF-nao-roda-no-IIS-7.aspx
 permalink: /servico-wcf-nao-roda-no-iis-7/
 categories:
+    - IT
+tags:
+    - pt-br
     - Dicas
-    - Post
 ---
 
 Essa é uma dica simples pra quem está iniciando no desenvolvimento com WCF. Caso apareça uma mensagem indicando que não é possível processar arquivos com a extensão “\*.svc” vá na opção de **Recursos do Windows** (*Painel de Controle \\ Todos os Itens do Painel de Controle \\ Programas e Recursos \\ Ativar ou desativar recursos do Windows*) e marque as opções destacadas abaixo.
