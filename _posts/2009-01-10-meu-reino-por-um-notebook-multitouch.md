@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/Meu-reino-por-um-notebook-multitouch!.aspx
 permalink: /meu-reino-por-um-notebook-multitouch/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - Windows
 ---
 
