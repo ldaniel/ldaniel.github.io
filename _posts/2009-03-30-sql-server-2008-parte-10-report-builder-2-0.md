@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/SQL-Server-2008-(parte-10)-e28093-Report-Builder-20.aspx
 permalink: /sql-server-2008-parte-10-report-builder-2-0/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - 'SQL Server'
 ---
 
