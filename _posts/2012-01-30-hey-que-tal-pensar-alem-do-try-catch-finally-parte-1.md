@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Hey-que-tal-pensar-alem-do-Try-Catch-Finally.aspx
 permalink: /hey-que-tal-pensar-alem-do-try-catch-finally-parte-1/
 categories:
+    - IT
+tags:
+    - pt-br
     - Arquitetura
-    - Post
 ---
 
 Não adianta. Toda vez que preciso explicar para algum desenvolvedor o que significa de fato “tratamento de exceções” fico constrangido. Na verdade, é um constrangimento alheio, já que quase sempre a pessoa se mostra surpresa ao final de uma conversa desse tipo.
