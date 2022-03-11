@@ -27,17 +27,33 @@ Although I do not consider so important, I have some certifications.
   <tr>
     <td>
 <img src="http://leandrodaniel.com/wp-content/uploads/2012/10/MCP.gif " alt="MCP" title="MCP" />&nbsp;&nbsp;&nbsp;<img src="http://leandrodaniel.com/wp-content/uploads/2012/10/MCAD.gif" alt="MCAD" title="MCAD" />&nbsp;&nbsp;&nbsp;<img src="http://leandrodaniel.com/wp-content/uploads/2012/10/MCSD.gif" alt="MCSD" title="MCSD" /> 
-<br />
+  <tr>
+    <td>
 <img src="http://leandrodaniel.com/wp-content/uploads/2012/10/MCITPrgb_1257.png" alt="MCITP" title="MCITP" />
-<br />
+</td>
+  </tr>
+      <tr>
+    <td>
 <img src="http://leandrodaniel.com/wp-content/uploads/2012/10/mct.png" alt="MCT" title="MCT" />
-<br />
-<img src="http://leandrodaniel.com/wp-content/uploads/2012/10/MCTSrgb_1271_1.png" alt="MCTS" title="MCTS" />
-<br />
+</td>
+  </tr>
+      <tr>
+    <td>
+      <img src="http://leandrodaniel.com/wp-content/uploads/2012/10/MCTSrgb_1271_1.png" alt="MCTS" title="MCTS" />
+</td>
+  </tr>
+      <tr>
+    <td>
 <img src="http://leandrodaniel.com/wp-content/uploads/2012/10/csm.png" alt="CSM" title="CSM" />
-<br />
+</td>
+  </tr>
+      <tr>
+    <td>
 <img src="http://leandrodaniel.com/wp-content/uploads/2014/06/PRINCE2-Practitioner-Training.jpg" alt="PRINCE2" title="PRINCE2" />
-<br />
+</td>
+  </tr>
+      <tr>
+    <td>
 <img src="http://leandrodaniel.com/wp-content/uploads/2014/06/PRINCE2-Foundation-Training.jpg" alt="PRINCE2" title="PRINCE2" />      
     </td>
   </tr>
