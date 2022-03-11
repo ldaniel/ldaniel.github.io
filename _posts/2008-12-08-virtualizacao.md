@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Virtualizacao.aspx
 permalink: /virtualizacao/
 categories:
+    - IT
+tags:
+    - pt-br
     - Arquitetura
-    - Post
     - Virtualização
 ---
 
