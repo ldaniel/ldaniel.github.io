@@ -8,9 +8,12 @@ guid: /post/Void-Podcast-episodios-009-ao-012-disponiveis!.aspx
 permalink: /void-podcast-episodios-009-ao-012-disponiveis/
 image: /wp-content/uploads/2012/06/VoidLogo-Twitter-2.png
 categories:
+    - IT
+    - Podcasts
+tags:
+    - pt-br
     - Comunidade
     - Podcasts
-    - Post
 ---
 
 ![](http://leandrodaniel.com/pics/VoidBanner.png)
