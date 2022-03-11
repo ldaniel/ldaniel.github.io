@@ -7,10 +7,13 @@ author: 'Leandro Daniel'
 guid: /post/TDC-2011-Florianopolis-Slides-da-palestra-Entendendo-a-Arquitetura-Evolucionaria.aspx
 permalink: /tdc-2011-florianopolis-slides-da-palestra-entendendo-a-arquitetura-evolucionaria/
 categories:
+    - IT
+    - Speaking
+tags:
+    - pt-br
     - Arquitetura
     - Comunidade
     - Palestras
-    - Post
 ---
 
 Segue a minha apresentação feita no TDC 2011 Florianópolis (The Developer’s Conference 2011) sobre Arquitetura Evolucionária. Caso queira entrar em contato para tirar alguma dúvida, fique a vontade.
