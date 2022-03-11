@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Happy-Binary-Day!2.aspx
 permalink: /happy-binary-day/
 categories:
+    - IT
+tags:
+    - pt-br
     - 'Off'
-    - Post
 ---
 
 [![binaryDay](http://leandrodaniel.com/pics/binaryDay_thumb_1.jpg "binaryDay")](http://leandrodaniel.com/pics/binaryDay_1.jpg)
