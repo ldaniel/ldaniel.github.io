@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Code-metrics-(parte-1)-Um-aliado-do-arquiteto.aspx
 permalink: /code-metrics-parte-1-metricas-de-codigo-sao-aliadas-do-arquiteto/
 categories:
+    - IT
+tags:
+    - pt-br
     - Arquitetura
-    - Post
 ---
 
 Há tempos estava querendo escrever a respeito de métricas de código. Trata-se de um assunto interessantíssimo e carente de informações, na minha opinião.
