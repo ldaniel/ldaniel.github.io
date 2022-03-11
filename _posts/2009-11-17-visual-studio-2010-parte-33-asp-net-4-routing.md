@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/Visual-Studio-2010-(parte-33)-e28093-ASPNET-4-(Routing).aspx
 permalink: /visual-studio-2010-parte-33-asp-net-4-routing/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - 'Visual Studio'
 ---
 
