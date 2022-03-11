@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Enterprise-Library-50-esta-chegando!.aspx
 permalink: /enterprise-library-5-0-esta-chegando/
 categories:
+    - IT
+tags:
+    - pt-br
     - 'Enterprise Library'
-    - Post
 ---
 
 [![DevGuide_PDC_Preview_CSharp_Edition_small](http://leandrodaniel.com/pics/WindowsLiveWriter/EnterpriseLibrary5.0estchegando/260D9FBD/DevGuide_PDC_Preview_CSharp_Edition_small_thumb.png "DevGuide_PDC_Preview_CSharp_Edition_small")](http://leandrodaniel.com/pics/WindowsLiveWriter/EnterpriseLibrary5.0estchegando/3498C1AF/DevGuide_PDC_Preview_CSharp_Edition_small.png)
