@@ -7,9 +7,11 @@ author: 'Leandro Daniel'
 guid: /post/Architects-roles-(parte-1)-.aspx
 permalink: /architects-roles-parte-1-papel-x-visao/
 categories:
+    - IT
+tags:
+    - pt-br
     - Arquitetura
     - Carreira
-    - Post
 ---
 
 Numa mescla entre o que já estudei a respeito e a vivência como arquiteto ([primeiro como consultor e agora dentro de uma instituição financeira internacional](http://leandrodaniel.com/page/sobre)), colocarei nessa série de posts diversos conceitos, percepções e fatos relacionados com os papéis de um arquiteto de TI (ou de negócio).
