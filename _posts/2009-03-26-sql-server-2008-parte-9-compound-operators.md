@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/SQL-Server-2008-(parte-9)-e28093-Compound-Operators.aspx
 permalink: /sql-server-2008-parte-9-compound-operators/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - 'SQL Server'
 ---
 
