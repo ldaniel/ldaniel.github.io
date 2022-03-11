@@ -15,7 +15,6 @@ about:
   - title: What's here?
     children:
       - title: "about me"
-        url: "/about/#about-me"
+        url: "/about/#hi-im-leandro-daniel"
       - title: "certifications"
-        url: "/about/#certifications"
-
+        url: "/about/#i-have-this-certifications"
