@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/Visual-Studio-2010-(parte-26)-e28093-IronPhyton.aspx
 permalink: /visual-studio-2010-parte-26-ironphyton/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - 'Visual Studio'
 ---
 
