@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/SharePoint-Services-30-SDK.aspx
 permalink: /sharepoint-services-3-0-sdk/
 categories:
+    - IT
+tags:
+    - pt-br
     - Dicas
-    - Post
     - SharePoint
 ---
 
