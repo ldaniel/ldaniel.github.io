@@ -7,9 +7,11 @@ author: 'Leandro Daniel'
 guid: /post/EntLib-(parte-5)-e28093-Unity-Application-Block.aspx
 permalink: /entlib-parte-5-unity-application-block/
 categories:
+    - IT
+tags:
+    - pt-br
     - Arquitetura
     - 'Enterprise Library'
-    - Post
 ---
 
 Aproveitando o embalo do meu post dessa semana sobre o [padrão de injeção de dependência](http://www.leandrodaniel.com/post/O-exemplo-da-Injecao-de-Dependencia-na-tomada-de-decisao-de-um-arquiteto), vamos ver o bloco da Enterprise Library responsável por prover essa funcionalidade, chamado *Unity Application Block*. Criado inicialmente como um projeto separado no [CodePlex](http://www.codeplex.com/unity) foi incorporado a Enterprise Library na versão 4.0.
