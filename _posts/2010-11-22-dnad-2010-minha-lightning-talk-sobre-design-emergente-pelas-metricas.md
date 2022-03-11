@@ -7,11 +7,14 @@ author: 'Leandro Daniel'
 guid: /post/DNAD-2010-Minha-lightning-talk-sobre-Design-emergente-pelas-metricas.aspx
 permalink: /dnad-2010-minha-lightning-talk-sobre-design-emergente-pelas-metricas/
 categories:
+    - IT
+    - Speaking
+tags:
+    - pt-br
     - '.Net Architects'
     - Arquitetura
     - Comunidade
     - Palestras
-    - Post
 ---
 
 Pra quem foi no DNAD 2010 e se interessou na lightning talk sobre “Design emergente pelas métricas”, segue a apresentação e várias referências para estudo. Se você quiser entrar em contato comigo para falar sobre esse tema, basta [clicar aqui](http://www.leandrodaniel.com/contact).
