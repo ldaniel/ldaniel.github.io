@@ -7,9 +7,11 @@ author: 'Leandro Daniel'
 guid: /post/Controles-uteis-pra-quem-desenvolve-websites.aspx
 permalink: /controles-uteis-pra-quem-desenvolve-websites/
 categories:
+    - IT
+tags:
+    - pt-br
     - ASP.NET
     - Dicas
-    - Post
 ---
 
 Segue uma seleção de links contendo diversos controles e bibliotecas úteis para utilização em seu desenvolvimento web.
