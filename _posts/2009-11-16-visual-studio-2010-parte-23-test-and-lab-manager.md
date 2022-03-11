@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/Visual-Studio-2010-(parte-23)-e28093-Test-and-Lab-Manager.aspx
 permalink: /visual-studio-2010-parte-23-test-and-lab-manager/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - 'Visual Studio'
 ---
 
