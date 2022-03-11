@@ -1,6 +1,6 @@
 ---
 layout: single
-author_profile: false
+author_profile: true
 title: "About me"
 header:
   image: "/assets/images/leandrodaniel-header.png"
