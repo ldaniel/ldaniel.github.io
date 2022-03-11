@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/Visual-Studio-2010-(parte-37)-e28093-WPF-4-suportara-multitouch.aspx
 permalink: /visual-studio-2010-parte-37-wpf-4-suportara-multitouch/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - 'Visual Studio'
 ---
 
