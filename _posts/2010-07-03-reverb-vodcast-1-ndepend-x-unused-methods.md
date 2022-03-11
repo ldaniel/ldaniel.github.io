@@ -8,9 +8,12 @@ guid: /post/Reverb-Vodcast-1-e28093-NDepend-x-Unused-Methods.aspx
 permalink: /reverb-vodcast-1-ndepend-x-unused-methods/
 image: /wp-content/uploads/2010/07/Reverb_logo.png
 categories:
+    - IT
+    - Podcasts
+tags:
+    - pt-br
     - Comunidade
     - Podcasts
-    - Post
 ---
 
 Esse é o primeiro Reverb Vodcast, em um formato um pouco diferente de outros *vodcasts*, para demonstrar o uso de ferramentas e tecnologias relacionadas ao desenvolvimento de software.
