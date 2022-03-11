@@ -8,10 +8,13 @@ guid: /post/Meu-artigo-de-Visual-Studio-2010-e-capa-net-Magazine-71!-Legal!!!.as
 permalink: /meu-artigo-de-visual-studio-2010-e-capa-da-net-magazine-71-legal/
 image: /wp-content/uploads/2012/10/capa_net71_G.jpg
 categories:
+    - Articles
+    - IT
+tags:
+    - pt-br
     - '.net Magazine'
     - Artigos
     - Comunidade
-    - Post
 ---
 
 ![capa_net71_G](http://leandrodaniel.com/pics/capa_net71_G_2.jpg "capa_net71_G")
