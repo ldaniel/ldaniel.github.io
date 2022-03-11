@@ -8,9 +8,12 @@ guid: /post/Void-Podcast-episodios-005-ao-008-disponiveis!.aspx
 permalink: /void-podcast-episodios-005-ao-008-disponiveis/
 image: /wp-content/uploads/2012/06/VoidLogo-Twitter-2.png
 categories:
+    - IT
+    - Podcasts
+tags:
+    - pt-br
     - Comunidade
     - Podcasts
-    - Post
 ---
 
 [**Void Podcast #005 – Nossa (maltratada) Língua Portuguesa**  ](http://voidpodcast.com/2011/07/15/void-podcast-005-nossa-maltratada-lingua-portuguesa/)Neste episódio – um dos mais desconexos com a tecnologia – conversamos um pouco sobre a importância do bem falar e bem escrever na nossa querida língua portuguesa. Será que uma boa gramática, um bom texto, bons e-mails fazem parte dos requisitos de um profissional de TI? Até que ponto escrever de forma errada está ligado com ser ou não um bom programador? O hábito de ler – livros não técnicos principalmente – é algo importante, sabemos. E o que fazer para adquirir este hábito e/ou o gosto pela leitura? Como isso pode nos tornar profissionais melhores?
