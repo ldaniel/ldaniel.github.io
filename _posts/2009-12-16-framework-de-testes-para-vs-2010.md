@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/Framework-de-teste-para-VS-2010.aspx
 permalink: /framework-de-testes-para-vs-2010/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - 'Visual Studio'
 ---
 
