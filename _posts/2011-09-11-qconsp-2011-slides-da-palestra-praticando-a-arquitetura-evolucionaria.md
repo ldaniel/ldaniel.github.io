@@ -7,10 +7,13 @@ author: 'Leandro Daniel'
 guid: /post/QConSP-2011-Slides-da-palestra-Praticando-a-Arquitetura-Evolucionaria.aspx
 permalink: /qconsp-2011-slides-da-palestra-praticando-a-arquitetura-evolucionaria/
 categories:
+    - IT
+    - Speaking
+tags:
+    - pt-br
     - Arquitetura
     - Comunidade
     - Palestras
-    - Post
 ---
 
 Segue a minha apresentação feita na QCon 2011 sobre Arquitetura Evolucionária. Caso queira entrar em contato para tirar alguma dúvida, fique a vontade.
