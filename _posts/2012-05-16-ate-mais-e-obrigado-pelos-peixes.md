@@ -8,8 +8,10 @@ guid: /post/Ate-mais-e-obrigado-pelos-peixes!.aspx
 permalink: /ate-mais-e-obrigado-pelos-peixes/
 image: /wp-content/uploads/2013/04/ateMaisObrigadoPeixes.png
 categories:
+    - IT
+tags:
+    - pt-br
     - Comunidade
-    - Post
     - Reverberando
 ---
 
