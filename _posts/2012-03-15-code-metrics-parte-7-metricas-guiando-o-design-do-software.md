@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Code-metrics-(parte-7)-Metricas-guiando-o-design-do-software.aspx
 permalink: /code-metrics-parte-7-metricas-guiando-o-design-do-software/
 categories:
+    - IT
+tags:
+    - pt-br
     - Arquitetura
-    - Post
 ---
 
 Não vou chover no molhado. De verdade? Prefiro indicar alguns posts de autores que já trataram do assunto.
