@@ -7,9 +7,11 @@ author: 'Leandro Daniel'
 guid: /post/Preparem-se-para-o-NET-Architects-Day!.aspx
 permalink: /preparem-se-para-o-net-architects-day/
 categories:
+    - IT
+tags:
+    - pt-br
     - '.Net Architects'
     - Comunidade
-    - Post
 ---
 
 Já estamos a todo vapor preparando o primeiro evento do grupo de discussão e estudos sobre arquitetura de software.
