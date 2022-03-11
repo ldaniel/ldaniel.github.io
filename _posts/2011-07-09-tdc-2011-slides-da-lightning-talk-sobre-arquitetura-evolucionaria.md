@@ -7,10 +7,13 @@ author: 'Leandro Daniel'
 guid: /post/TDC-2011-Slides-da-Lightning-Talk-sobre-Arquitetura-Evolucionaria.aspx
 permalink: /tdc-2011-slides-da-lightning-talk-sobre-arquitetura-evolucionaria/
 categories:
+    - IT
+    - Speaking
+tags:
+    - pt-br
     - Arquitetura
     - Comunidade
     - Palestras
-    - Post
 ---
 
 Segue a minha apresentação feita no [**TDC 2011**](http://thedevelopersconference.com.br/#geral) (The Developer’s Conference 2011) sobre Arquitetura Evolucionária. Caso queira entrar em contato para tirar alguma dúvida, [fique a vontade](http://www.leandrodaniel.com/contact).
