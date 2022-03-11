@@ -8,10 +8,13 @@ guid: /post/Lancada-a-Easy-net-Magazine-7.aspx
 permalink: /lancada-a-easy-net-magazine-7/
 image: /wp-content/uploads/2012/10/capa_easynet7_g.jpg
 categories:
+    - Articles
+    - IT
+tags:
+    - pt-br
     - Artigos
     - Comunidade
     - 'Easy .net Magazine'
-    - Post
 ---
 
 [![capa_easynet7_G](http://leandrodaniel.com/pics/capa_easynet7_G_thumb_1.jpg "capa_easynet7_G")](http://leandrodaniel.com/pics/capa_easynet7_G_1.jpg)
