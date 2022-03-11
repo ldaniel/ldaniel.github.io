@@ -7,10 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/E-um-grande-ciclo-se-encerra!.aspx
 permalink: /e-um-grande-ciclo-se-encerra-que-comece-o-proximo/
 categories:
-    - Post
-    - Reverberando
-tags: 
-  - Distortion
+    - IT
+tags:
+    - pt-br
 ---
 
 Não, não falo do ano de 2011. Não sou daqueles que se emociona gratuitamente com a virada do ano novo, acreditando que tudo será diferente. Refiro-me a um ciclo muito maior, que remonta uma fase de minha vida onde exerci a profissão de consultor. Onde iniciei um blog técnico com o intuito de aprender enquanto tentava ensinar. Falo da fase onde comecei a escrever artigos técnicos e acabei me tornando editor técnico de duas revistas. Quero relembrar esse grande ciclo onde participei ativamente de comunidades técnicas, organizei eventos e até palestrei.
