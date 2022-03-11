@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/Inovador-ou-early-adopter.aspx
 permalink: /inovadores-early-adopters-ou-grande-maioria-a-qual-grupo-voce-pertence/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - Reverberando
 ---
 
