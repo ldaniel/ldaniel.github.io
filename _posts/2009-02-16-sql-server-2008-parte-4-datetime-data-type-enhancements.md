@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/SQL-Server-2008-(parte-4)-Datetime-Data-Type-Enhancements.aspx
 permalink: /sql-server-2008-parte-4-datetime-data-type-enhancements/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - 'SQL Server'
 ---
 
