@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Lancada-a-Enterprise-Library-50.aspx
 permalink: /lancada-a-enterprise-library-5-0/
 categories:
+    - IT
+tags:
+    - pt-br
     - 'Enterprise Library'
-    - Post
 ---
 
 [![DevGuide_PDC_Preview_CSharp_Edition_small](http://leandrodaniel.com/pics/DevGuide_PDC_Preview_CSharp_Edition_small_1.png "DevGuide_PDC_Preview_CSharp_Edition_small")](http://entlib.codeplex.com/wikipage?title=EntLib5%20Developer%20Notes)
