@@ -1,6 +1,7 @@
 ---
-layout: single
+layout: splash
 author_profile: true
+title: ""
 permalink: /about/
 sidebar:
   nav: "about"
