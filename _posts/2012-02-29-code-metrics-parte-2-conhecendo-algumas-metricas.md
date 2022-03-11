@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Code-metrics-(parte-2)-Conhecendo-algumas-metricas.aspx
 permalink: /code-metrics-parte-2-conhecendo-algumas-metricas/
 categories:
+    - IT
+tags:
+    - pt-br
     - Arquitetura
-    - Post
 ---
 
 Se você ainda não se convenceu de que [métricas de código são aliadas de um arquiteto](http://leandrodaniel.com/index.php/Code-metrics-(parte-1)-Um-aliado-do-arquiteto), conheça nos tópicos a seguir 2 exemplos simples.
