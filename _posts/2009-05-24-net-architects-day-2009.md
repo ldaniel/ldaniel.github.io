@@ -7,11 +7,13 @@ author: 'Leandro Daniel'
 guid: /post/NET-Architects-Day-2009.aspx
 permalink: /net-architects-day-2009/
 categories:
+    - IT
+tags:
+    - pt-br
     - '.Net Architects'
     - Arquitetura
     - Comunidade
     - Eventos
-    - Post
 ---
 
 Convido a todos os interessados em arquitetura de software a participarem do primeiro evento do grupo [.NET Architects](http://www.dotnetarchitects.net/dotnetarchitects/).
