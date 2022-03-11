@@ -8,10 +8,13 @@ guid: /post/Tech-Ed-Brasil-2010-na-net-Magazine.aspx
 permalink: /tech-ed-brasil-2010-na-net-magazine/
 image: /wp-content/uploads/2012/10/capa_net80_G.jpg
 categories:
+    - Articles
+    - IT
+tags:
+    - pt-br
     - '.net Magazine'
     - Artigos
     - Comunidade
-    - Post
 ---
 
 [![capa_net80_G](http://leandrodaniel.com/pics/capa_net80_G_thumb.jpg "capa_net80_G")](http://leandrodaniel.com/pics/capa_net80_G_1.jpg)
