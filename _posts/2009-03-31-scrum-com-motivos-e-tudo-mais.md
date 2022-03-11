@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/Scrum-com-motivos-e-tudo-mais!.aspx
 permalink: /scrum-com-motivos-e-tudo-mais/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - Scrum
 ---
 
