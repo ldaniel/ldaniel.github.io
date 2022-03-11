@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Songsmith.aspx
 permalink: /songsmith/
 categories:
+    - IT
+tags:
+    - pt-br
     - Dicas
-    - Post
 ---
 
 [![logo_songsmith](http://leandrodaniel.com/pics/WindowsLiveWriter/Songsmith/596056EC/logo_songsmith.jpg "logo_songsmith")](http://research.microsoft.com/en-us/um/redmond/projects/songsmith/index.html)Acompanho o Microsoft Research para saber o que os caras andam aprontando, e sempre me perguntei quando algo interessante relacionado a música surgiria.
