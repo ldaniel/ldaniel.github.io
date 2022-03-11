@@ -12,7 +12,7 @@ main:
 
 # sidebar menu links
 about:
-  - title: What's here?
+  - title: what's here?
     children:
       - title: "about me"
         url: "/about/#hi-im-leandro-daniel"
@@ -22,15 +22,21 @@ about:
 
 # sidebar menu links
 posts:
-  - title: What's here?
+  - title: see the posts
     children:
       - title: "by year"
         url: "/year-archive/"
-      - title: "categories"
+      - title: "by categories"
         url: "/categories/"
-      - title: "podcasts"
-        url: "categories/#podcasts"
+      - title: "by tags"
+        url: "/tags/"
+  - title: main topics
+    children:
       - title: "articles"
-        url: "categories/#artigos"
+        url: "/categories/#publicacoes"
       - title: "music"
-        url: "categories/#distortion"
+        url: "/categories/#distortion"
+      - title: "palestras"
+        url: "/categories/#palestras"
+      - title: "podcasts"
+        url: "/categories/#podcasts"
