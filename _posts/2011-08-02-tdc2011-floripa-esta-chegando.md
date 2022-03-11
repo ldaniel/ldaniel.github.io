@@ -18,7 +18,7 @@ tags:
 
 [![ The Developers Conference 2011, um evento organizado pela Globalcode](http://www.leandrodaniel.com/themes/lod3/img/banner-TDC2011-600x75.png " The Developers Conference 2011, um evento organizado pela Globalcode")](http://www.thedevelopersconference.com.br)
 
-É com grande prazer que anuncio que minha palestra foi aceita na trilha de arquitetura do TDC 2011 Florianópolis coordenada pelo Alberto Lemos ([Dr. Spock](http://twitter.com/drspockbr), do universo Java, rapá!).
+É com grande prazer que anuncio que minha palestra foi aceita na trilha de arquitetura do TDC 2011 Florianópolis coordenada pelo Alberto Lemos ([Dr. Spock](http://twitter.com/drspockbr), do universo Java, rapá!). 
 
 O TDC2011 São Paulo foi um enorme sucesso, e a edição Florianópolis promete repetir a dose. O TDC 2011 é um evento organizado pela [Globalcode](http://www.globalcode.com.br) sob o comando do competente e empolgante casal [Vinicius Senger](http://twitter.com/vsenger) e [Yara Senger](http://twitter.com/yarasenger) (sério, você os conhece e fica empolgado com qualquer coisa que eles realizam na comunidade técnica).
 
