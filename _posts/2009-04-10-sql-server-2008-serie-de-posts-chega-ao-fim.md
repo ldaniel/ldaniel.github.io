@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/SQL-Server-2008-Serie-de-posts-chega-ao-fim.aspx
 permalink: /sql-server-2008-serie-de-posts-chega-ao-fim/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - 'SQL Server'
 ---
 
