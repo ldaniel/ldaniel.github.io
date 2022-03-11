@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Application-Architecture-Guide-20-(release-final).aspx
 permalink: /application-architecture-guide-2-0-release-final/
 categories:
+    - IT
+tags:
+    - pt-br
     - Arquitetura
-    - Post
 ---
 
 Mês passado coloquei aqui no blog um [post sobre o Application Architecture Guide 2.0](/blog/post/Application-Architecture-Guide-20-(beta-2)), bem a novidade é que ontem saiu o release final no [CodePlex](http://www.codeplex.com/AppArchGuide).
