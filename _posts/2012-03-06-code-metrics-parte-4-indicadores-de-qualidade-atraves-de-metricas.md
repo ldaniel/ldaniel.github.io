@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Code-metrics-(parte-4)-Medindo-Qualidade.aspx
 permalink: /code-metrics-parte-4-indicadores-de-qualidade-atraves-de-metricas/
 categories:
+    - IT
+tags:
+    - pt-br
     - Arquitetura
-    - Post
 ---
 
 Até aqui vimos um pequeno conjunto de métricas simples que podem ser extraídas do código-fonte de um software. São elas:
