@@ -7,11 +7,13 @@ author: 'Leandro Daniel'
 guid: /post/Por-favor-me-deem-um-motivo!.aspx
 permalink: /por-favor-me-deem-um-motivo/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - Reverberando
 ---
 
- Ultimamente tenho conversado muito sobre metodologias com vários colegas, e apesar de observar distintas abordagens e técnicas sendo utilizadas cheguei a conclusão que *ainda* estamos num estágio pueril no que se refere a eficácia do desenvolvimento de softwares. Concordo que as tecnologias de hoje exigem maiores habilidades técnicas elevando a complexidade de construção de um programa sensivelmente, e muito foi aprendido com os erros do passado, contudo persiste um hiato entre o desejável, o possível e o real.
+Ultimamente tenho conversado muito sobre metodologias com vários colegas, e apesar de observar distintas abordagens e técnicas sendo utilizadas cheguei a conclusão que *ainda* estamos num estágio pueril no que se refere a eficácia do desenvolvimento de softwares. Concordo que as tecnologias de hoje exigem maiores habilidades técnicas elevando a complexidade de construção de um programa sensivelmente, e muito foi aprendido com os erros do passado, contudo persiste um hiato entre o desejável, o possível e o real.
 
  Peço desculpas aos leitores que, como eu, já se cansaram de ler a "piadinha" a seguir, mas ela ilustra bem o que comentei:
 
