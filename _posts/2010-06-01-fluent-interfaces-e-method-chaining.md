@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Fluent-Interfaces-e-Method-Chaining.aspx
 permalink: /fluent-interfaces-e-method-chaining/
 categories:
+    - IT
+tags:
+    - pt-br
     - 'C#'
-    - Post
 ---
 
 Conversando com um amigo que não conhecia *Fluent Interfaces,* acabei criando um exemplo simples para explicar o conceito, e achei bacana postar aqui a solução. *Fluent Interfaces* (ou interfaces fluentes) é uma técnica para escrita de interfaces que descrevam suas classes, métodos e propriedades. Elas recebem este nome porque a sua semântica é clara, seja individualmente, seja seguindo a sequência lógica da execução.
