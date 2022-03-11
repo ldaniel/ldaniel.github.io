@@ -7,10 +7,13 @@ author: 'Leandro Daniel'
 guid: /post/DNAD-2011–Veja-alguns-videos.aspx
 permalink: /dnad-2011-veja-alguns-videos/
 categories:
+    - IT
+    - Speaking
+tags:
+    - pt-br
     - '.Net Architects'
     - Comunidade
     - Eventos
-    - Post
     - Vídeos
 ---
 
