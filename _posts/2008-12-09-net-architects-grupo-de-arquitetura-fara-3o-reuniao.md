@@ -7,9 +7,11 @@ author: 'Leandro Daniel'
 guid: /post/Net-Architects-grupo-de-arquitetura-fara-3c2ba-reuniao.aspx
 permalink: /net-architects-grupo-de-arquitetura-fara-3o-reuniao/
 categories:
+    - IT
+tags:
+    - pt-br
     - '.Net Architects'
     - Comunidade
-    - Post
 ---
 
 A terceira reunião do grupo de arquitetura .Net Architects será dia 13/12, maiores informações podem ser vistas no [site do grupo](http://dotnetarchitects.net/dotnetarchitects/post/Terceira-reuniao-e-neste-sabado). Neste encontro falaremos sobre DDD, com apresentação do tema pelo Giovanni Bassi. No [grupo de discussões](http://groups.google.com/group/dotnetarchitects?hl=pt-br) você pode conferir os últimos tópicos abordados. Minha expectativa é que este encontro seja tão bom quanto o anterior.
