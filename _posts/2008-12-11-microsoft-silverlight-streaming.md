@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/Microsoft-Silverlight-Streaming.aspx
 permalink: /microsoft-silverlight-streaming/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - Silverlight
 ---
 
