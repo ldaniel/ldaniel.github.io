@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/Visual-Studio-2010-(parte-32)-e28093-ASPNET-AJAX-4-(Client-Templates).aspx
 permalink: /visual-studio-2010-parte-32-asp-net-ajax-4-client-templates/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - 'Visual Studio'
 ---
 
