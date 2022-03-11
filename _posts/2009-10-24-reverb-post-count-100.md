@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/ReverbPostCount-3d-1003b.aspx
 permalink: /reverb-post-count-100/
 categories:
+    - IT
+tags:
+    - pt-br
     - Informativo
-    - Post
 ---
 
 Esse é o centésimo post do Reverb, o que pra mim é uma marca muito significativa! O blog tem em torno de 150 visitas diárias (o que é muito pouco, é verdade, mas são leitores fiéis, isso que importa!).
