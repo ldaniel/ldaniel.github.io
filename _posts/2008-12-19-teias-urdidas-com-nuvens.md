@@ -7,9 +7,11 @@ author: 'Leandro Daniel'
 guid: /post/Teias-urdidas-com-nuvens.aspx
 permalink: /teias-urdidas-com-nuvens/
 categories:
+    - IT
+tags:
+    - pt-br
     - Arquitetura
     - Azure
-    - Post
     - Reverberando
 ---
 
