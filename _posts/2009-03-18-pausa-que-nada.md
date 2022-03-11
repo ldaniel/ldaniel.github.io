@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Pausa-Que-nadae280a6.aspx
 permalink: /pausa-que-nada/
 categories:
+    - IT
+tags:
+    - pt-br
     - Informativo
-    - Post
 ---
 
 Após um mês sem escrever [sobre as novidades do SQL Server 2008](http://www.leandrodaniel.com//?tag=/sql+server+2008) volto a partir de amanhã a publicar novos posts da série. A pausa foi necessária para que eu focasse em alguns projetos inéditos para mim, nesse tempo também fiz um breve descanso de 10 dias (também conhecido como férias-de-profissional-de-TI).
