@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/Softwares-escritos-no-estilo-e2809cRube-Goldberg-Machinee2809d.aspx
 permalink: /softwares-escritos-no-estilo-rube-goldberg-machine/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - Reverberando
 ---
 
