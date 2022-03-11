@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/O-mito-de-Sisifo-no-desenvolvimento-de-software.aspx
 permalink: /o-mito-de-sisifo-no-desenvolvimento-de-software/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - Reverberando
 ---
 
