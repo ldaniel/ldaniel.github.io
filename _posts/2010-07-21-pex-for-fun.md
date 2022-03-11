@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Pex-for-fun.aspx
 permalink: /pex-for-fun/
 categories:
+    - IT
+tags:
+    - pt-br
     - Dicas
-    - Post
 ---
 
 Sempre achei a ideia do Pex fantástica. Ele se propõe a criar testes unitários automatizados a partir da análise do comportamento do código, combinando analises dinâmicas e estáticas. Como resultado ele cria um *set* de testes com alta cobertura de código (*code coverage*).
