@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/Visual-Studio-2010-(parte-42)-e28093-Estruturas-de-dados-para-programacao-paralela.aspx
 permalink: /visual-studio-2010-parte-42-novas-classes-para-programacao-paralela/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - 'Visual Studio'
 ---
 
