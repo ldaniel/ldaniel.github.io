@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/SQL-Server-2008-Upgrade-Technical-Reference-Guide.aspx
 permalink: /sql-server-2008-upgrade-technical-reference-guide/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - 'SQL Server'
 ---
 
