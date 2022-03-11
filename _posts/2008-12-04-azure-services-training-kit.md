@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Azure-Services-Training-Kit.aspx
 permalink: /azure-services-training-kit/
 categories:
+    - IT
+tags:
+    - pt-br
     - Azure
-    - Post
 ---
 
 Acabei de instalar o Training Kit para o Azure, segue link para o download:
