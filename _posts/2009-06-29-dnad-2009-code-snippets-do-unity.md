@@ -7,10 +7,12 @@ author: 'Leandro Daniel'
 guid: /post/DNAD-2009-Code-Snippets-do-Unity.aspx
 permalink: /dnad-2009-code-snippets-do-unity/
 categories:
+    - IT
+tags:
+    - pt-br
     - '.Net Architects'
     - Comunidade
     - Palestras
-    - Post
 ---
 
  Algumas pessoas me pediram os *code snippets* que utilizei na minha palestra sobre Injeção de Dependência com o Unity no **.Net Architects Day 2009**, bem, coloquei a seguir para download:
