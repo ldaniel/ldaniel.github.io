@@ -8,10 +8,13 @@ guid: /post/FIT-2011-Slides-da-palestra-Arquitetura-(evolucionaria)-e-o-arquitet
 permalink: /fit-e-ifsp-2011-slides-da-palestra-arquitetura-evolucionaria-e-o-arquiteto/
 image: /wp-content/uploads/2013/04/palestraFIT.png
 categories:
+    - IT
+    - Speaking
+tags:
+    - pt-br
     - Arquitetura
     - Comunidade
     - Palestras
-    - Post
 ---
 
 Segue a minha apresentação feita na 4ª Semana Integrada / Faculdade Impacta 2011 sobre Arquitetura Evolucionária e o Arquiteto de Software. A receptividade foi muito boa, fiquei surpreso com o interesse dos presentes (que lotaram a sala). Deixo aqui o meu agradecimento ao [Roberto Baptista](http://www.emphasys.com.br) pelo convite, foi muito bacana!
