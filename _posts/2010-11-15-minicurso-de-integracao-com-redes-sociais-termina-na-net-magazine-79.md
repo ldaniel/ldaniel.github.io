@@ -8,9 +8,12 @@ guid: /post/Minicurso-de-integracao-com-Redes-Sociais-termina-na-net-Magazine-79
 permalink: /minicurso-de-integracao-com-redes-sociais-termina-na-net-magazine-79/
 image: /wp-content/uploads/2010/11/capa_net79_G.jpg
 categories:
+    - Articles
+    - IT
+tags:
+    - pt-br
     - '.net Magazine'
     - Artigos
-    - Post
 ---
 
 [![capa_net79_g](http://leandrodaniel.com/pics/capa_net79_g_thumb_2.jpg "capa_net79_g")](http://leandrodaniel.com/pics/capa_net79_g_2.jpg)
