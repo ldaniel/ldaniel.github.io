@@ -22,23 +22,23 @@ about:
 
 # sidebar menu links
 posts:
-  - title: see the posts
+  - title: See the posts
     children:
-      - title: "by year"
+      - title: "By year"
         url: "/year-archive/"
-      - title: "by categories"
+      - title: "By categories"
         url: "/categories/"
-      - title: "by tags"
+      - title: "By tags"
         url: "/tags/"
-  - title: main topics
+  - title: Main topics
     children:
-      - title: "articles"
+      - title: "Articles"
         url: "/categories/#articles"
-      - title: "it"
+      - title: "IT"
         url: "/categories/#it"
-      - title: "music"
+      - title: "Music"
         url: "/categories/#music"
-      - title: "speaking"
+      - title: "Speaking"
         url: "/categories/#speaking"
-      - title: "podcasts"
+      - title: "Podcasts"
         url: "/categories/#podcasts"
