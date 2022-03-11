@@ -7,9 +7,11 @@ author: 'Leandro Daniel'
 guid: /post/Tech-Ed-2010-Cobrindo-o-evento-para-a-net-Magazine!.aspx
 permalink: /tech-ed-2010-cobrindo-o-evento-para-a-net-magazine/
 categories:
+    - IT
+tags:
+    - pt-br
     - Comunidade
     - Eventos
-    - Post
 ---
 
 [![botton_c_250x250](http://leandrodaniel.com/pics/botton_c_250x250_thumb.png "botton_c_250x250")](http://leandrodaniel.com/pics/botton_c_250x250.png) Graças a parceria que tenho com a [DevMedia](http://www.devmedia.com.br/) (sou Editor Técnico e Autor na revista [.net Magazine](http://www.devmedia.com.br/assgold/listmag.asp?site=1) e também Autor na revista [Easy .net Magazine](http://www.devmedia.com.br/assgold/listmag.asp?site=59)) estarei no evento Tech-Ed 2010 com a missão de montar um artigo para a revista.
