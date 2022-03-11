@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/SharePoint-Guidance.aspx
 permalink: /sharepoint-guidance/
 categories:
+    - IT
+tags:
+    - pt-br
     - Arquitetura
-    - Post
 ---
 
 A Microsoft disponibilizou este mês no MSDN (patterns &amp; practices) o [SharePoint Guidance](http://msdn.microsoft.com/en-us/library/dd203468), o download direto pode ser feito [aqui](http://www.microsoft.com/downloads/details.aspx?FamilyId=C3722DBA-6EE7-4E0E-82B5-FDAF3C5EC927&displaylang=en). O instalador cria várias soluções de exemplo (com código fonte) e ainda disponibiliza um Help contendo padrões de desenvolvimento para o SharePoint, cenários, muitos “how to”, orientações para deploy, instruções para criação de um ambiente de desenvolvimento e outras diversas informações úteis.
