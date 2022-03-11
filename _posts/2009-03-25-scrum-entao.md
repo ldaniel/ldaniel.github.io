@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/Scrum-entao!.aspx
 permalink: /scrum-entao/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - Scrum
 ---
 
