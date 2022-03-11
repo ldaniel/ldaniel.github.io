@@ -19,7 +19,7 @@ Se você não leu os posts anteriores da série, faça agora.
 - [Parte 2 – Falácia no estilo “bichinhos de Deus”](http://www.leandrodaniel.com/post/Mestres-do-non-sequitur-e-outros-tipos-perniciosos-%E2%80%93-Parte-2)
 - [Parte 3 – Falácia no estilo “bullshit”](http://www.leandrodaniel.com/post/Mestres-do-non-sequitur-e-outros-tipos-perniciosos-%E2%80%93-Parte-3)
 
-### Falácia no estilo “early adopter”
+### Falácia no estilo “early adopter” 
 
 [Early adopters](http://www.leandrodaniel.com/post/Inovador-ou-early-adopter) são usuários que rapidamente adotam novas tecnologias, baseado no impulso inicial de pessoas inovadoras (leia [post explicativo aqui](http://www.leandrodaniel.com/post/Inovador-ou-early-adopter)).
 
