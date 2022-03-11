@@ -7,10 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Tocar-guitarra-e-mais-simples-do-que-parece.aspx
 permalink: /tocar-guitarra-e-mais-simples-do-que-parece/
 categories:
+    - Music
+tags:
+    - pt-br
     - Distortion
-    - Post
-tags: 
-  - Distortion
 ---
 
 Mas nem sempre.
