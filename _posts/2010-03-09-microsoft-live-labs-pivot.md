@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Microsoft-Live-Labs-Pivot.aspx
 permalink: /microsoft-live-labs-pivot/
 categories:
+    - IT
+tags:
+    - pt-br
     - 'Microsoft Live Labs'
-    - Post
 ---
 
 [![logo-pivot](http://leandrodaniel.com/pics/logo-pivot_thumb.png "logo-pivot")](http://leandrodaniel.com/pics/logo-pivot.png)Mais uma vez fui conferir as novidades do Microsoft Live Labs, e agora encontrei um projeto chamado [Pivot](http://www.getpivot.com/). A ideia é tornar mais fácil interagirmos com grande quantidades (coleções) de dados de forma simples e divertida.
