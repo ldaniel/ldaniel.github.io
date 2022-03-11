@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/EntLib-(parte-2)-e28093-Melhore-a-performance-de-suas-consultas.aspx
 permalink: /entlib-parte-2-melhore-a-performance-de-suas-consultas/
 categories:
+    - IT
+tags:
+    - pt-br
     - 'Enterprise Library'
-    - Post
 ---
 
 Todo mundo sabe que na maioria das vezes o maior custo para recuperarmos informações numa aplicação está na consulta ao banco de dados. Entenda por “custo” a demanda de infra necessária para obter ou até mesmo persistir dados no contexto da aplicação bem como o tempo de resposta para executar tais operações, o que impacta diretamente na performance geral da aplicação. Uma das técnicas utilizadas para evitarmos consultas desnecessárias ao servidor de banco de dados é o armazenamento temporário em cache, onde os dados são disponibilizados em uma área da memória do servidor de aplicação.
