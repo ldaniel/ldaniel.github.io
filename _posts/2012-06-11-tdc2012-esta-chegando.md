@@ -8,9 +8,13 @@ guid: /post/TDC2012-esta-chegando!.aspx
 permalink: /tdc2012-esta-chegando/
 image: /wp-content/uploads/2013/01/banner-TDC2012-sampa-180x150.png
 categories:
+    - IT
+    - Speaking
+tags:
+    - pt-br
     - Comunidade
     - Eventos
-    - Post
+    - Palestras
 ---
 
 O TDC 2012 é um evento organizado pela [Globalcode](http://www.globalcode.com.br/) sob o comando do competente e empolgante casal [Vinicius Senger](http://twitter.com/vsenger) e [Yara Senger](http://twitter.com/yarasenger) (sério, você os conhece e fica empolgado com qualquer coisa que eles realizam na comunidade técnica). O evento cresceu absurdamente se comparado à edição do ano passado, onde tive o prazer de palestrar em [São Paulo](http://www.leandrodaniel.com/post/TDC2011-esta-chegando) e [Florianópolis](http://www.leandrodaniel.com/post/TDC2011-Floripa-esta-chegando!).
