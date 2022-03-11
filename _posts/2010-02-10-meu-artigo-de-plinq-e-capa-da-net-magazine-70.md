@@ -8,10 +8,13 @@ guid: /post/Meu-artigo-de-PLINQ-e-capa-da-net-Magazine-70!.aspx
 permalink: /meu-artigo-de-plinq-e-capa-da-net-magazine-70/
 image: /wp-content/uploads/2012/10/capa_net70_G.jpg
 categories:
+    - Articles
+    - IT
+tags:
+    - pt-br
     - '.net Magazine'
     - Artigos
     - Comunidade
-    - Post
 ---
 
 [![capa_net70_G](http://leandrodaniel.com/pics/WindowsLiveWriter/MeuartigodePLINQcapada.netMagazine70/4EA1874F/capa_net70_G_thumb.jpg "capa_net70_G")](http://leandrodaniel.com/pics/WindowsLiveWriter/MeuartigodePLINQcapada.netMagazine70/26031B48/capa_net70_G.jpg)
