@@ -3,7 +3,7 @@ layout: single
 author_profile: false
 title: "About me"
 header:
-  image: "/assets/images/deeployer-website-headers-about.png"
+  image: "/assets/images/leandrodaniel-header.png"
 permalink: /about/
 sidebar:
   nav: "about"
