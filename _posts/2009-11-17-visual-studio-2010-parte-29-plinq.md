@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/Visual-Studio-2010-(parte-29)-PLINQ.aspx
 permalink: /visual-studio-2010-parte-29-plinq/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - 'Visual Studio'
 ---
 
