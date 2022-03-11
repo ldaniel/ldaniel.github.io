@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/Visual-Studio-2010-(parte-15)-e28093-Performance-Analysis.aspx
 permalink: /visual-studio-2010-parte-15-performance-analysis/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - 'Visual Studio'
 ---
 
