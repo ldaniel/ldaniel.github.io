@@ -7,9 +7,11 @@ author: 'Leandro Daniel'
 guid: /post/Architects-roles-(parte-2)-O-magnetismo-de-tecnologia-e-negocio.aspx
 permalink: /architects-roles-parte-2-o-magnetismo-de-tecnologia-e-negocio/
 categories:
+    - IT
+tags:
+    - pt-br
     - Arquitetura
     - Carreira
-    - Post
 ---
 
 Vimos como a diferença de atuação entre os [tipos de arquiteto](http://leandrodaniel.com/index.php/Refletindo-sobre-funcoes-e-niveis-de-arquitetura-em-uma-empresa) determina o [alcance de suas visões](http://leandrodaniel.com/index.php/Architects-roles-(parte-1)-) numa organização. Evidentemente, a própria estrutura organizacional, seu tamanho, área de atuação e abrangência, fundamentará a necessidade de um ou mais papéis de arquitetura.
