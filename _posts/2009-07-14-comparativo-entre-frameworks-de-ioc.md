@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Comparativo-entre-frameworks-de-IoC.aspx
 permalink: /comparativo-entre-frameworks-de-ioc/
 categories:
+    - IT
+tags:
+    - pt-br
     - 'Enterprise Library'
-    - Post
 ---
 
 Durante [minha palestra](http://www.leandrodaniel.com//post/DNAD-2009-Minha-palestra-sobre-Injecao-de-Dependencia) sobre Injeção de Dependência com o Unity no DNAD 2009 o [Juliano Oliveira](http://programandoem.net/) comentou sobre um estudo comparativo realizado entre alguns frameworks de DI.
