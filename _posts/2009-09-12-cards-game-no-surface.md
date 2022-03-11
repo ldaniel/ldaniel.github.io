@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Cards-Game-no-Surface.aspx
 permalink: /cards-game-no-surface/
 categories:
+    - IT
+tags:
+    - pt-br
     - Informativo
-    - Post
 ---
 
 Vídeo bem legal do Surface, tirado do projeto [Surface Academy 2009 Toolkit](http://surfaceacademy2009.codeplex.com/) do [CodePlex](http://www.codeplex.com/), confiram:
