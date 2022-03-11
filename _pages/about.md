@@ -1,7 +1,6 @@
 ---
 layout: single
 author_profile: true
-title: "About"
 permalink: /about/
 sidebar:
   nav: "about"

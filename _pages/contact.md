@@ -1,8 +1,6 @@
 ---
-layout: splash
-author_profile: false
-header:
-  image: "/assets/images/leandrodaniel-header.png"
+layout: single
+author_profile: true
 permalink: /contact/
 ---
 
