@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/All-In-One-Code-Framework.aspx
 permalink: /all-in-one-code-framework/
 categories:
+    - IT
+tags:
+    - pt-br
     - Informativo
-    - Post
 ---
 
 No site do [CodePlex](http://www.codeplex.com/) o overview do [All-In-One Code Framework](http://1code.codeplex.com/) mais parece uma propaganda das Organizações Tabajara. Contudo, a ideia pode ser muito útil para desenvolvedores que precisam de exemplos de código em uma biblioteca centralizada.
