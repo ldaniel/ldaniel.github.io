@@ -7,10 +7,12 @@ author: 'Leandro Daniel'
 guid: /post/Lightning-talk-de-Design-Emergente-na-InfoQ.aspx
 permalink: /lightning-talk-de-design-emergente-na-infoq/
 categories:
+    - IT
+tags:
+    - pt-br
     - '.Net Architects'
     - Comunidade
     - Palestras
-    - Post
 ---
 
 Acaba de ser publicado no site [InfoQ](http://www.infoq.com/br/presentations/dnad-lightning-leandro) [esta lightning talk](http://www.infoq.com/br/presentations/dnad-lightning-leandro) que fiz no DNAD10.
