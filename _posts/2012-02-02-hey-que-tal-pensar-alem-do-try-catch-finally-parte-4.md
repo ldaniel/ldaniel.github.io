@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Hey-que-tal-pensar-alem-do-Try-Catch-Finally-(parte-4).aspx
 permalink: /hey-que-tal-pensar-alem-do-try-catch-finally-parte-4/
 categories:
+    - IT
+tags:
+    - pt-br
     - Arquitetura
-    - Post
 ---
 
 E aqui estou para fechar esta série de posts. Vimos no primeiro a [diferença entre erro e exceção](http://www.leandrodaniel.com/post/Hey-que-tal-pensar-alem-do-Try-Catch-Finally), e no segundo tivemos um [vislumbre da amplitude do assunto “Exception Handling”](http://www.leandrodaniel.com/post/Hey-que-tal-pensar-alem-do-Try-Catch-Finally-(parte-2)). No último post tomamos contatos com [jargões comuns em tratamento de exceções](http://www.leandrodaniel.com/post/Hey-que-tal-pensar-alem-do-Try-Catch-Finally-(parte-3)) além de conhecer alguns [anti-patterns](http://www.leandrodaniel.com/post/Hey-que-tal-pensar-alem-do-Try-Catch-Finally-(parte-3)).
