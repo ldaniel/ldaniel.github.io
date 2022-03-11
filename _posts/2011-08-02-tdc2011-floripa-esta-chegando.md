@@ -7,10 +7,13 @@ author: 'Leandro Daniel'
 guid: /post/TDC2011-Floripa-esta-chegando!.aspx
 permalink: /tdc2011-floripa-esta-chegando/
 categories:
+    - IT
+    - Speaking
+tags:
+    - pt-br
     - Comunidade
     - Eventos
     - Palestras
-    - Post
 ---
 
 [![ The Developers Conference 2011, um evento organizado pela Globalcode](http://www.leandrodaniel.com/themes/lod3/img/banner-TDC2011-600x75.png " The Developers Conference 2011, um evento organizado pela Globalcode")](http://www.thedevelopersconference.com.br)
