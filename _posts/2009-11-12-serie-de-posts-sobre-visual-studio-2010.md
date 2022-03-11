@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/Serie-de-posts-sobre-Visual-Studio-2010.aspx
 permalink: /serie-de-posts-sobre-visual-studio-2010/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - 'Visual Studio'
 ---
 
