@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/Visual-Studio-2010-(parte-5)-e28093-Visual-Web-Part.aspx
 permalink: /visual-studio-2010-parte-5-visual-web-part/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - 'Visual Studio'
 ---
 
