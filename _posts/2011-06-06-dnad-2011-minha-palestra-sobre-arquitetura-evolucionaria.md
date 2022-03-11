@@ -7,11 +7,14 @@ author: 'Leandro Daniel'
 guid: /post/DNAD-2011-Minha-palestra-sobre-Arquitetura-Evolucionaria.aspx
 permalink: /dnad-2011-minha-palestra-sobre-arquitetura-evolucionaria/
 categories:
+    - IT
+    - Speaking
+tags:
+    - pt-br
     - '.Net Architects'
     - Arquitetura
     - Comunidade
     - Palestras
-    - Post
 ---
 
 Segue a minha apresentação feita no **.Net Architects Days 2011** sobre Arquitetura Evolucionária. Caso queira entrar em contato para tirar alguma dúvida, [fique a vontade](http://www.leandrodaniel.com/contact).
