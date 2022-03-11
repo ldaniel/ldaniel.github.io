@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Hey-que-tal-pensar-alem-do-Try-Catch-Finally-(parte-3).aspx
 permalink: /hey-que-tal-pensar-alem-do-try-catch-finally-parte-3/
 categories:
+    - IT
+tags:
+    - pt-br
     - Arquitetura
-    - Post
 ---
 
 Muito bem! Vimos no [primeiro post da série ](http://www.leandrodaniel.com/post/Hey-que-tal-pensar-alem-do-Try-Catch-Finally)a diferença entre erro e exceção, e no último tivemos um [vislumbre da amplitude do assunto “Exception Handling”](http://www.leandrodaniel.com/post/Hey-que-tal-pensar-alem-do-Try-Catch-Finally-(parte-2)). Estamos preparados para avançar um pouco mais nessa jornada e tomar contato com os…
