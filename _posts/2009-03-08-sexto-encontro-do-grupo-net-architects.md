@@ -7,9 +7,11 @@ author: 'Leandro Daniel'
 guid: /post/Sexto-encontro-do-grupo-Net-Architects.aspx
 permalink: /sexto-encontro-do-grupo-net-architects/
 categories:
+    - IT
+tags:
+    - pt-br
     - '.Net Architects'
     - Comunidade
-    - Post
 ---
 
 Participei ontem na UNIP do sexto encontro do grupo de estudos de arquitetura [.Net Architects](http://www.dotnetarchitects.net/), onde o [Fábio Akita](http://www.akitaonrails.com/) fez uma excelente apresentação sobre Ruby on Rails, explicando aspectos importantes da linguagem e do framework. O Akita é a maior referência para os *Railers* no Brasil, e seu blog contém uma série de posts sobre o assunto. Pelo que pude constatar a comunidade de Ruby é muito ativa, conferindo uma evolução constante para o framework Rails.
