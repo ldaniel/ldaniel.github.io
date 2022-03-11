@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Code-metrics-(parte-6)-Queryable-Source-Code.aspx
 permalink: /code-metrics-parte-6-queryable-source-code/
 categories:
+    - IT
+tags:
+    - pt-br
     - Arquitetura
-    - Post
 ---
 
 Retomando [nossa jornada](http://leandrodaniel.com/?tag=/Code+Metrics) após um breve hiato (gripe =S), vamos transportar o uso de métricas de código para um interessante patamar: ***"queryable source code"***.
