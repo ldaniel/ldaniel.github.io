@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/Visual-Studio-2010-(parte-20)-e28093-Dotfuscator-Community-Edition.aspx
 permalink: /visual-studio-2010-parte-20-dotfuscator-community-edition/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - 'Visual Studio'
 ---
 
