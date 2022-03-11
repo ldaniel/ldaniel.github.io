@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Erros-que-alegram-o-diae280a6.aspx
 permalink: /erros-que-alegram-o-dia/
 categories:
+    - IT
+tags:
+    - pt-br
     - ASP.NET
-    - Post
 ---
 
 Esse post era pra ter saído na sexta-feira passada, mas não tive tempo no dia, então vai hoje mesmo. Estava eu no final do expediente – o que pode significar num bom dia um horário entre 18h e 20h 🙂 – escrevendo um código de complexidade razoável, quando me deparei com o seguinte erro:
