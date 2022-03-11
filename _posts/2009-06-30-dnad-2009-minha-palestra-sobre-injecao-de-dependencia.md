@@ -7,11 +7,14 @@ author: 'Leandro Daniel'
 guid: /post/DNAD-2009-Minha-palestra-sobre-Injecao-de-Dependencia.aspx
 permalink: /dnad-2009-minha-palestra-sobre-injecao-de-dependencia/
 categories:
+    - IT
+    - Speaking
+tags:
+    - pt-br
     - '.Net Architects'
     - Arquitetura
     - Comunidade
     - Palestras
-    - Post
 ---
 
 Segue a minha apresentação feita no **.Net Architects Day 2009** sobre injeção de dependência com o Unity.
