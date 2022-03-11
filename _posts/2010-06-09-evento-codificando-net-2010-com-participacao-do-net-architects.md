@@ -7,11 +7,14 @@ author: 'Leandro Daniel'
 guid: /post/Evento-codificandonet-2010-com-participacao-do-Net-Architects.aspx
 permalink: /evento-codificando-net-2010-com-participacao-do-net-architects/
 categories:
+    - IT
+    - Speaking
+tags:
+    - pt-br
     - Arquitetura
     - Comunidade
     - Eventos
     - Palestras
-    - Post
 ---
 
 A comunidade [codificando.net](http://comunidade.codificando.net/) realizará no [dia 19/06 um grande evento](http://www.codificandomagazine.net/codificando2010/Grade) onde será apresentado o que existe de mais novo em tecnologia de desenvolvimento por profissionais de grande capacidade e experiência!
