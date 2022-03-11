@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Duck-Typing-com-C-40-e-Dynamic-Type.aspx
 permalink: /duck-typing-com-c-4-0-e-dynamic-type/
 categories:
+    - IT
+tags:
+    - pt-br
     - 'C#'
-    - Post
 ---
 
 O estilo *Duck Typing* é muito comum para programadores de linguagens dinâmicas, como por exemplo, Ruby. Ele permite que um objeto seja passado para um método que espera um certo tipo, mesmo que o objeto não seja deste tipo. Popularmente, o *Duck Typing* é definido pela frase a seguir:
