@@ -7,9 +7,11 @@ author: 'Leandro Daniel'
 guid: /post/Decimo-terceiro-encontro-do-grupo-Net-Architects.aspx
 permalink: /decimo-terceiro-encontro-do-grupo-net-architects/
 categories:
+    - IT
+tags:
+    - pt-br
     - '.Net Architects'
     - Comunidade
-    - Post
 ---
 
 Hoje participei de mais um encontro do [.Net Architects](http://dotnetarchitects.net/page/Historico-das-reunioes-presenciais) onde tivemos a oportunidade de conhecer sobre MDD (Model Driven Development) e a plataforma “Oslo” da Microsoft apresentado pelo arquiteto da Microsoft [Waldemir Cambiucci](http://blogs.msdn.com/wcamb).
