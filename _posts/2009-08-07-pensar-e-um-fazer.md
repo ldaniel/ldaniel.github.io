@@ -9,6 +9,8 @@ permalink: /pensar-e-um-fazer/
 categories:
     - Distortion
     - Post
+tags: 
+  - Distortion
 ---
 
 Uma das coisas legais da virtualização dos pedais para guitarra em softwares é a capacidade de combinar múltiplos efeitos numa gravação, algumas vezes fazendo combinações do mesmo efeito. “Hã? Como assim?” Eu explico.

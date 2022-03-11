@@ -9,6 +9,8 @@ permalink: /lista-com-os-melhores-25-riffs-de-guitarra-cade-o-floyd/
 categories:
     - Distortion
     - Post
+tags: 
+  - Distortion
 ---
 
 Nessa semana que passou o meu amigo [Alexandre Mantovani](http://system.mantov.net) me mandou um e-mail com o link do resultado de uma pesquisa realizada com mais de cinco mil leitores que elegeram [os 25 melhores riffs de guitarra de todos os tempos](http://g1.globo.com/Noticias/Musica/0,,MUL1394469-7085,00-MUSICA+DE+JIMI+HENDRIX+TEM+MELHOR+RIFF+DE+GUITARRA+DE+TODOS+OS+TEMPOS.htm).

@@ -9,6 +9,8 @@ permalink: /pseudo-sinestesia-com-autopan/
 categories:
     - Distortion
     - Post
+tags: 
+  - Distortion
 ---
 
 A primeira vez que tive conhecimento sobre o que era a sinestesia foi num livro do neurologista Oliver Sacks. Um sinestésico tem a capacidade de relacionar planos sensoriais distintos. Lembro-me de uma vez que assisti em um canal da Discovery (Discovery-qualquer-coisa) que uma flautista chamada Elisabeth Sulston tinha um tipo extremo de sinestesia, pois associava música com cores e paladar ao mesmo tempo. Mais ou menos assim: Sexta menor tinha gosto de creme, Segunda maior era amargo (quem gosta de segunda-feira, né? … É piada sem graça, foi mal), Terça menor tinha gosto salgado para ela. Bacana, não?

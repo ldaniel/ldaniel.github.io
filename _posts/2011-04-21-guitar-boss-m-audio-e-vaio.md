@@ -9,6 +9,8 @@ permalink: /guitar-boss-m-audio-e-vaio/
 categories:
     - Distortion
     - Post
+tags: 
+  - Distortion
 ---
 
 Afinal, feriadão é pra descansar, né? ![Smiley piscando](http://leandrodaniel.com/pics/wlEmoticon-winkingsmile.png)

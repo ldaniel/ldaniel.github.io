@@ -9,6 +9,8 @@ permalink: /tocar-guitarra-e-mais-simples-do-que-parece/
 categories:
     - Distortion
     - Post
+tags: 
+  - Distortion
 ---
 
 Mas nem sempre.

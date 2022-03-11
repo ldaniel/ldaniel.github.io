@@ -9,6 +9,8 @@ permalink: /templo-boss/
 categories:
     - Distortion
     - Post
+tags: 
+  - Distortion
 ---
 
 Simplesmente, um site fenomenal! Tem de tudo, catálogos de várias épocas, pesquisa por número serial, propagandas que saíram em revistas, além de todas as informações técnicas sobre cada pedal.

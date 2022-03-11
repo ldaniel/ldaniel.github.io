@@ -9,6 +9,8 @@ permalink: /musica-e-abstrata/
 categories:
     - Distortion
     - Post
+tags: 
+  - Distortion
 ---
 
 > A música pode ter uma perfeição maravilhosa, formal, quase matemática, e pode ser dotada de comovente ternura, pungência e beleza. Mas não precisa ter nenhum significado. Podemos recordar uma música, dar-lhe a vida da imaginação (ou mesmo da alucinação) simplesmente porque gostamos dela. É razão o bastante.

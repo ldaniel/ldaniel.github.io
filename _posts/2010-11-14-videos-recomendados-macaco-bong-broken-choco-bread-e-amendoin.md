@@ -9,6 +9,8 @@ permalink: /videos-recomendados-macaco-bong-broken-choco-bread-e-amendoin/
 categories:
     - Distortion
     - Post
+tags: 
+  - Distortion
 ---
 
 <object height="405" width="640"><param name="movie" value="http://www.youtube.com/v/M0N3xRxfL7Q&hl=pt-br&fs=1&color1=0x2b405b&color2=0x6b8ab6&border=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed allowfullscreen="true" allowscriptaccess="always" height="405" src="http://www.youtube.com/v/M0N3xRxfL7Q&hl=pt-br&fs=1&color1=0x2b405b&color2=0x6b8ab6&border=1" type="application/x-shockwave-flash" width="640"></embed></object>
