@@ -24,6 +24,8 @@ about:
 posts:
   - title: What's here?
     children:
+      - title: "by year"
+        url: "/year-archive/"
       - title: "categories"
         url: "/categories/"
       - title: "podcasts"
