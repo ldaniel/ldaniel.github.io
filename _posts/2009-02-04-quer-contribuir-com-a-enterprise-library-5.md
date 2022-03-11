@@ -7,9 +7,11 @@ author: 'Leandro Daniel'
 guid: /post/Quer-contribuir-com-a-Enterprise-Library-5.aspx
 permalink: /quer-contribuir-com-a-enterprise-library-5/
 categories:
+    - IT
+tags:
+    - pt-br
     - Comunidade
     - 'Enterprise Library'
-    - Post
 ---
 
  ![pnp_logo](http://leandrodaniel.com/pics/WindowsLiveWriter/QuercontribuircomaEnterpriseLibrary5_2244/pnp_logo_4a739e1e-37b3-4a4b-b409-dc51d3b6fdd8.gif "pnp_logo")
