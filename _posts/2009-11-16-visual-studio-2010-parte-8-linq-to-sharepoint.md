@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/Visual-Studio-2010-(parte-8)-e28093-LINQ-to-SharePoint.aspx
 permalink: /visual-studio-2010-parte-8-linq-to-sharepoint/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - 'Visual Studio'
 ---
 
