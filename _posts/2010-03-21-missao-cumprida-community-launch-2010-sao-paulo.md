@@ -7,10 +7,13 @@ author: 'Leandro Daniel'
 guid: /post/Missao-cumprida-Community-Launch-2010-(Sao-Paulo).aspx
 permalink: /missao-cumprida-community-launch-2010-sao-paulo/
 categories:
+    - IT
+    - Speaking
+tags:
+    - pt-br
     - Comunidade
     - Eventos
     - Palestras
-    - Post
 ---
 
 Ontem palestrei no Community Launch 2010 – evento que faz parte da [Copa Microsoft de Talentos](http://talentosmicrosoft.com.br). Tivemos uma sessão geral de abertura (foto abaixo) com a Microsoft, transmitida via Live Meeting, para todas as cidades participantes. Eles apresentaram os objetivos da Copa e a importância da participação das comunidades espalhadas por todo o país.
