@@ -18,3 +18,13 @@ about:
         url: "/about/#hi-im-leandro-daniel"
       - title: "certifications"
         url: "/about/#i-have-this-certifications"
+
+
+# sidebar menu links
+posts:
+  - title: What's here?
+    children:
+      - title: "categories"
+        url: "/categories/"
+      - title: "certifications"
+        url: "/about/#i-have-this-certifications"
