@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Em-arquitetura-existe-decisao-puramente-tecnica.aspx
 permalink: /existe-decisao-arquitetural-puramente-tecnica/
 categories:
+    - IT
+tags:
+    - pt-br
     - Arquitetura
-    - Post
 ---
 
 Um arquiteto nunca deve decidir sobre uma arquitetura de forma arbitrária ou mesmo impensada. Todas as alternativas devem ser consideradas, fracionando o sistema (solução) em elementos e relações que possibilitarão o atendimento aos atributos de qualidade.
