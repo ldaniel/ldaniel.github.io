@@ -7,11 +7,14 @@ author: 'Leandro Daniel'
 guid: /post/Inscricoes-abertas-para-o-NET-Architects-Day-2010.aspx
 permalink: /inscricoes-abertas-para-o-net-architects-day-2010/
 categories:
+    - IT
+    - Speaking
+tags:
+    - pt-br
     - '.Net Architects'
     - Arquitetura
     - Comunidade
     - Eventos
-    - Post
 ---
 
 O site para as inscrições do .NET Architects Day 2010 está disponível no seguinte endereço:
