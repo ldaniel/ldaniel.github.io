@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/Dynamic-Systems-Initiative.aspx
 permalink: /dynamic-systems-initiative/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - Virtualização
 ---
 
