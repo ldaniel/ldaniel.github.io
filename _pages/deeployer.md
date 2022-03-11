@@ -3,7 +3,7 @@ id: 1665
 title: Deeployer
 date: '2020-04-21T13:07:39-03:00'
 author: 'Leandro Daniel'
-layout: page
+layout: single
 guid: 'http://leandrodaniel.com/?page_id=1665'
 permalink: /deeployer/
 ---
