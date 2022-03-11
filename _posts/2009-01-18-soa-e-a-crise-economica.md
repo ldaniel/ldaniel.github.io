@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/SOA-e-a-crise-economica.aspx
 permalink: /soa-e-a-crise-economica/
 categories:
+    - IT
+tags:
+    - pt-br
     - Arquitetura
-    - Post
 ---
 
 Acredito que a grande maioria já deva ter lido sobre a [morte da SOA](http://apsblog.burtongroup.com/2009/01/soa-is-dead-long-live-services.html) preconizada para este ano com o advento da crise econômica, [muitos comentaram a respeito](http://www.infoq.com/news/2009/01/is-soa-dead). Pode uma arquitetura dita "evolucionária" (inclusive pela própria Microsoft) em tão pouco tempo ser declarada como morta? Não é incongruente dizer que novas plataformas, arquiteturas e soluções rapidamente tomarão o mercado (S+S, cloud computing, por exemplo), mas como as empresas que investiram numa arquitetura orientada a serviços podem reaver os investimentos uma vez que essa abordagem requer tanto esforço e preparação? O quanto desse cenário atual foi consequência do baixo conhecimento técnico e do forte apelo comercial para a implementação de SOA como forma de retorno a longo prazo?
