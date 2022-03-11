@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/Visual-Studio-2010-(parte-2)-e28093-Layer-Diagram.aspx
 permalink: /visual-studio-2010-parte-2-layer-diagram/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - 'Visual Studio'
 ---
 
