@@ -7,10 +7,12 @@ author: 'Leandro Daniel'
 guid: /post/Decimo-quarto-encontro-do-grupo-Net-Architects.aspx
 permalink: /decimo-quarto-encontro-do-grupo-net-architects/
 categories:
+    - IT
+tags:
+    - pt-br
     - '.Net Architects'
     - Comunidade
     - 'Enterprise Library'
-    - Post
 ---
 
 Ontem participei de outro encontro do .Net Architects onde o [Luciano Condé](http://blogs.msdn.com/conde/) (arquiteto de soluções da Microsoft) falou pra nós sobre o ***Application Architecture Guide,*** tivemos a oportunidade de discutir sobre arquitetura e experiências vividas pelos presentes na reunião. Gostei muito do encontro, a palestra do Condé foi excelente!
