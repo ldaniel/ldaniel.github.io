@@ -7,9 +7,11 @@ author: 'Leandro Daniel'
 guid: /post/Terceiro-encontro-do-grupo-Net-Architects.aspx
 permalink: /terceiro-encontro-do-grupo-net-architects/
 categories:
+    - IT
+tags:
+    - pt-br
     - '.Net Architects'
     - Comunidade
-    - Post
 ---
 
 Sábado passado participei do terceiro encontro do grupo de arquitetura [.Net Architects](http://www.dotnetarchitects.net/) na UNIP. Desta vez tivemos o [Giovanni Bassi](http://unplugged.giggio.net/) palestrando sobre [DDD](http://domaindrivendesign.org/books/index.html) (Domain-Drive Design), foi uma excelente apresentação desta abordagem de desenvolvimento que vem ganhando força com sua adoção em diversos projetos aqui no Brasil. Novamente o encontro foi gravado, e tão logo esteja disponível informarei aqui no blog o link para vocês conferirem. O grupo também discutiu sobre o evento que será realizado no ano que vem, onde farei parte como responsável pelo conteúdo.
