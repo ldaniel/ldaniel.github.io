@@ -7,10 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Microtons-a-moda-Tournemire.aspx
 permalink: /microtons-a-moda-tournemire/
 categories:
+    - Music
+tags:
+    - pt-br
     - Distortion
-    - Post
-tags: 
-  - Distortion
 ---
 
 Tenho a sorte de poder conversar sobre música com diversas pessoas dos mais variados estilos e escolas musicais, dentre elas o Thomas Fiedler que toca [sousafone](http://pt.wikipedia.org/wiki/Sousafone) em uma banda de jazz chamada [Swiss College Dixie Band](http://www.swissdixie.com/). Após visitar o Distortion, o Thomas enviou-me um e-mail, no qual destaco abaixo a seguinte contribuição:
