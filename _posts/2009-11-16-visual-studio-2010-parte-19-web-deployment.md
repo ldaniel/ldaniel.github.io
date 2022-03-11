@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/Visual-Studio-2010-(parte-19)-e28093-Web-Deployment.aspx
 permalink: /visual-studio-2010-parte-19-web-deployment/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - 'Visual Studio'
 ---
 
