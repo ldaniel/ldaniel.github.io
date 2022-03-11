@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Ajude-a-priorizar-o-product-backlog-da-EntLib-5.aspx
 permalink: /ajude-a-priorizar-o-product-backlog-da-entlib-5/
 categories:
+    - IT
+tags:
+    - pt-br
     - 'Enterprise Library'
-    - Post
     - Scrum
 ---
 
