@@ -8,9 +8,12 @@ guid: /post/Parte-2-do-artigo-de-VAB-na-net-Magazine-edicao-65.aspx
 permalink: /parte-2-do-artigo-de-vab-na-net-magazine-edicao-65/
 image: /wp-content/uploads/2012/10/capa_net65_G.jpg
 categories:
+    - Articles
+    - IT
+tags:
+    - pt-br
     - '.net Magazine'
     - Artigos
-    - Post
 ---
 
 [![capa_netMag65](http://leandrodaniel.com/pics/WindowsLiveWriter/Parte2doartigodeVABna.netMagazineedio65/1E8564D6/capa_netMag65_thumb.jpg "capa_netMag65")](http://leandrodaniel.com/pics/WindowsLiveWriter/Parte2doartigodeVABna.netMagazineedio65/3FE50A72/capa_netMag65.jpg)
