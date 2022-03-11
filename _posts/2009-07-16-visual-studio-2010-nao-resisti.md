@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Visual-Studio-2010-nao-resistie280a6.aspx
 permalink: /visual-studio-2010-nao-resisti/
 categories:
+    - IT
+tags:
+    - pt-br
     - Post
-    - 'Visual Studio'
 ---
 
 Eu até tentei acompanhar as novidades da próxima versão do Visual Studio somente em blogs e pelos comentários de amigos, mas não resisti. 🙂
