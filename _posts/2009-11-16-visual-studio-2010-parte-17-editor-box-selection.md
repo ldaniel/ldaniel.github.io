@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/Visual-Studio-2010-(parte-17)-e28093-Editor-Box-Selection.aspx
 permalink: /visual-studio-2010-parte-17-editor-box-selection/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - 'Visual Studio'
 ---
 
