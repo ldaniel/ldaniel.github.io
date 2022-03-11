@@ -3,13 +3,14 @@ id: 226
 title: 'EntLib (parte 7) – Configurando InterceptionExtension no Unity'
 date: '2009-05-17T23:45:03-03:00'
 author: 'Leandro Daniel'
-
 guid: /post/EntLib-(parte-7)-e28093-Configurando-InterceptionExtension-no-Unity.aspx
 permalink: /entlib-parte-7-configurando-interceptionextension-no-unity/
 categories:
+    - IT
+tags:
+    - pt-br
     - Arquitetura
     - 'Enterprise Library'
-    - Post
 ---
 
 No meu [último post da série sobre a Enterprise Library](http://www.leandrodaniel.com//post/EntLib-(parte-6)-e28093-Interceptacao-de-chamada-de-interface-com-o-Unity) expliquei como podemos utilizar a extensão de biblioteca ***InterceptionExtension*** do Unity para aplicar interceptação na chamada da interface ***ILogger*** aplicando uma característica **AOP** no *container*. O exemplo levava em consideração que a definição fosse realizada em tempo de execução. Veremos agora como podemos modificar o exemplo anterior colocando todas as definições no arquivo de configuração da aplicação.
