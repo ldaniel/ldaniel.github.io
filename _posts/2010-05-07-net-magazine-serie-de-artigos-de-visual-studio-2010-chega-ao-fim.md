@@ -8,10 +8,13 @@ guid: /post/net-Magazine-Serie-de-artigos-de-Visual-Studio-2010-chega-ao-fim.asp
 permalink: /net-magazine-serie-de-artigos-de-visual-studio-2010-chega-ao-fim/
 image: /wp-content/uploads/2012/10/capa_net73_G.jpg
 categories:
+    - Articles
+    - IT
+tags:
+    - pt-br
     - '.net Magazine'
     - Artigos
     - Comunidade
-    - Post
 ---
 
 [![capa_net73_G](http://leandrodaniel.com/pics/capa_net73_G_thumb.jpg "capa_net73_G")](http://leandrodaniel.com/pics/capa_net73_G_2.jpg) A .net Magazine 73 já está disponível no site da [DevMedia](http://www.devmedia.com.br/assgold/listmag.asp?site=1) e chega trazendo a terceira e última parte da série de artigos sobre o Visual Studio 2010 e do .NET Framework 4.0. O artigo mostra as novidades para desenvolvimento no SharePoint 2010, o suporte à programação utilizando paralelismo de processadores, a nova linguagem de programação F#, entre outros recursos inovadores.
