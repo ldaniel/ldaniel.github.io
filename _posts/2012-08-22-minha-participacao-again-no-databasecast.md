@@ -8,9 +8,12 @@ guid: /post/Minha-participacao-(again)-no-Databasecast.aspx
 permalink: /minha-participacao-again-no-databasecast/
 image: /wp-content/uploads/2013/04/databasecastPodcastETL.png
 categories:
+    - IT
+    - Podcasts
+tags:
+    - pt-br
     - Comunidade
     - Podcasts
-    - Post
 ---
 
 A primeira vez que participei do DatabaseCast foi no [episódio 14](http://imasters.com.br/artigo/21943/banco-de-dados/databasecast-14-o-banco-de-dados-na-arquitetura), para falar de banco de dados na arquitetura (na ocasião, com o [VoidPodcast](http://voidpodcast.com) em peso). Desta vez, participei sozinho de um episódio: [DatabaseCast #25: Processo ETL](http://imasters.com.br/artigo/25370/banco-de-dados/databasecast-25-processo-etl).
