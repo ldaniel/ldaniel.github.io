@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Blocos-da-Enterprise-Library-que-nao-vingarame280a6.aspx
 permalink: /blocos-da-enterprise-library-que-nao-vingaram/
 categories:
+    - IT
+tags:
+    - pt-br
     - 'Enterprise Library'
-    - Post
 ---
 
 Alguém já usou?
