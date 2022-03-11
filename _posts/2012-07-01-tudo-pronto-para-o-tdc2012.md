@@ -8,9 +8,13 @@ guid: /post/Tudo-pronto-pro-TDC2012!.aspx
 permalink: /tudo-pronto-para-o-tdc2012/
 image: /wp-content/uploads/2013/01/banner-TDC2012-sampa-180x150.png
 categories:
+    - IT
+    - Speaking
+tags:
+    - pt-br
     - Comunidade
     - Eventos
-    - Post
+    - Palestras
 ---
 
 É isso aí! Está chegando o maior e mais diversificado evento de TI do país: TDC2012! A trilha de arquitetura está animal, confira:
