@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Pra-quem-gosta-de-estudar-coisas-novas.aspx
 permalink: /pra-quem-gosta-de-estudar-coisas-novas/
 categories:
+    - IT
+tags:
+    - pt-br
     - Dicas
-    - Post
 ---
 
 Algumas dicas:
