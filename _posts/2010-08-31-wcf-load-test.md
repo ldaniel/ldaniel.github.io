@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/WCF-Load-Test.aspx
 permalink: /wcf-load-test/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - WCF
 ---
 
