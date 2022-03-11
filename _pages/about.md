@@ -23,6 +23,9 @@ I’ve worked since middle of 2011 as a Systems Architect Specialist at [Raboban
 
 Although I do not consider so important, I have some certifications.
 
+<table cellspacing="0" cellpadding="0" style="border: 0px; width: 100%">
+  <tr>
+    <td>
 <img src="http://leandrodaniel.com/wp-content/uploads/2012/10/MCP.gif " alt="MCP" title="MCP" />&nbsp;&nbsp;&nbsp;<img src="http://leandrodaniel.com/wp-content/uploads/2012/10/MCAD.gif" alt="MCAD" title="MCAD" />&nbsp;&nbsp;&nbsp;<img src="http://leandrodaniel.com/wp-content/uploads/2012/10/MCSD.gif" alt="MCSD" title="MCSD" /> 
 
 <img src="http://leandrodaniel.com/wp-content/uploads/2012/10/MCITPrgb_1257.png" alt="MCITP" title="MCITP" />
@@ -36,3 +39,8 @@ Although I do not consider so important, I have some certifications.
 <img src="http://leandrodaniel.com/wp-content/uploads/2014/06/PRINCE2-Practitioner-Training.jpg" alt="PRINCE2" title="PRINCE2" />
 
 <img src="http://leandrodaniel.com/wp-content/uploads/2014/06/PRINCE2-Foundation-Training.jpg" alt="PRINCE2" title="PRINCE2" />
+      
+    </td>
+  </tr>
+</table>
+
