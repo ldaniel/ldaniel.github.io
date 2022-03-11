@@ -7,9 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/Pensar-e-um-fazer!.aspx
 permalink: /pensar-e-um-fazer/
 categories:
-    - Distortion
-    - Post
-tags: 
+  - Music
+tags:
+  - pt-br
   - Distortion
 ---
 
