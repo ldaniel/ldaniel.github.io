@@ -7,9 +7,11 @@ author: 'Leandro Daniel'
 guid: /post/O-SharePoint-Brasil-Summit-2009-foi-sensacional!.aspx
 permalink: /o-sharepoint-brasil-summit-2009-foi-sensacional/
 categories:
+    - IT
+tags:
+    - pt-br
     - Comunidade
     - Eventos
-    - Post
     - SharePoint
 ---
 
