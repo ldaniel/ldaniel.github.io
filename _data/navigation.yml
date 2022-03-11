@@ -26,5 +26,9 @@ posts:
     children:
       - title: "categories"
         url: "/categories/"
-      - title: "certifications"
-        url: "/about/#i-have-this-certifications"
+      - title: "podcasts"
+        url: "categories/#podcasts"
+      - title: "articles"
+        url: "categories/#artigos"
+      - title: "music"
+        url: "categories/#distortion"
