@@ -3,15 +3,17 @@ id: 91
 title: 'Minicurso de integração com Redes Sociais continua na .net Magazine 78'
 date: '2010-10-15T02:24:35-03:00'
 author: 'Leandro Daniel'
-
 guid: /post/Minicurso-de-integracao-com-Redes-Socias-continua-na-net-Magazine-78.aspx
 permalink: /minicurso-de-integracao-com-redes-sociais-continua-na-net-magazine-78/
 image: /wp-content/uploads/2012/10/capa_net78_G.jpg
 categories:
+    - Articles
+    - IT
+tags:
+    - pt-br
     - '.net Magazine'
     - Artigos
     - Comunidade
-    - Post
 ---
 
 [![capa_net78_g](http://leandrodaniel.com/pics/capa_net78_g_3.jpg "capa_net78_g")](http://www.devmedia.com.br/resumo/default.asp?ed=78&site=1)
