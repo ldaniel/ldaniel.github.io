@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/SQL-Server-2008-Programmability-Enhancements-(parte-2).aspx
 permalink: /sql-server-2008-parte-2-programmability-enhancements/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - 'SQL Server'
 ---
 
