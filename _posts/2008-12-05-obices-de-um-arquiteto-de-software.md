@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/Obices-de-um-arquiteto-de-software.aspx
 permalink: /obices-de-um-arquiteto-de-software/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - Reverberando
 ---
 
