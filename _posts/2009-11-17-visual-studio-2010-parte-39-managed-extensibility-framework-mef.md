@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/Visual-Studio-2010-(parte-39)-e28093-Managed-Extensibility-Framework-(MEF).aspx
 permalink: /visual-studio-2010-parte-39-managed-extensibility-framework-mef/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - 'Visual Studio'
 ---
 
