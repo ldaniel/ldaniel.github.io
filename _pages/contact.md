@@ -1,6 +1,7 @@
 ---
-layout: splash
+layout: single
 author_profile: true
+title: ""
 permalink: /contact/
 ---
 
