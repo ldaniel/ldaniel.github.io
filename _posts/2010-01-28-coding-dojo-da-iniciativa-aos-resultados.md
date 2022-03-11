@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Coding-Dojo-da-iniciativa-aos-resultados!.aspx
 permalink: /coding-dojo-da-iniciativa-aos-resultados/
 categories:
+    - IT
+tags:
+    - pt-br
     - 'Coding Dojo'
-    - Post
 ---
 
 [![Ninja](http://leandrodaniel.com/pics/WindowsLiveWriter/CodingDojo/1F603635/Ninja_thumb.jpg "Ninja")](http://leandrodaniel.com/pics/WindowsLiveWriter/CodingDojo/0427DD34/Ninja.jpg)
