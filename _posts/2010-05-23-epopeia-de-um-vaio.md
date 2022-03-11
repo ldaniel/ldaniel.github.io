@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Epopeia-de-um-Vaio.aspx
 permalink: /epopeia-de-um-vaio/
 categories:
+    - IT
+tags:
+    - pt-br
     - 'Off'
-    - Post
 ---
 
 **Parte I**
