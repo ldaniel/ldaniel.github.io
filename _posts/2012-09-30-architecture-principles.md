@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Architecture-Principles.aspx
 permalink: /architecture-principles/
 categories:
+    - IT
+tags:
+    - pt-br
     - Arquitetura
-    - Post
 ---
 
 Chamamos de “princípio” toda e qualquer regra geral e/ou orientação que se destina a ser duradoura e raramente alterada. Para a arquitetura corporativa, um princípio informa e apoia a maneira no qual uma organização cumpre sua missão.
