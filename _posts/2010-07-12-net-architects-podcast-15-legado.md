@@ -8,9 +8,12 @@ guid: /post/Net-Architects-Podcast-15-Legado.aspx
 permalink: /net-architects-podcast-15-legado/
 image: /wp-content/uploads/2010/07/DotNetArchitects_logo.jpg
 categories:
+    - IT
+    - Podcasts
+tags:
+    - pt-br
     - Comunidade
     - Podcasts
-    - Post
 ---
 
 [Neste episódio](http://podcast.dotnetarchitects.net/2010/07/podcast-15-legado/) Alexandre Valente, Emmanuel Brandão, Giovanni Bassi, Leandro Daniel e Vinicius Quaiato discutem o tema legado, esse tema surgiu de alguns tweets entre Leandro Daniel , Vinicius Quaiato e Emmanuel Brandão.
