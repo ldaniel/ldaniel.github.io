@@ -8,9 +8,12 @@ guid: /post/Void-Podcast-esta-no-ar!.aspx
 permalink: /void-podcast-esta-no-ar/
 image: /wp-content/uploads/2012/06/VoidLogo-Twitter-2.png
 categories:
+    - IT
+    - Podcasts
+tags:
+    - pt-br
     - Comunidade
     - Podcasts
-    - Post
 ---
 
 A ideia desse podcast nasceu em uma das reuniões online para acerto de nossa palestra no DNAD. Nosso desejo é poder envolver mais pessoas nas nossas discussões. O nome “Void” é uma referência direta ao tipo com mesmo nome presente em muitas linguagens populares.
