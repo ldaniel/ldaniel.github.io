@@ -7,10 +7,13 @@ author: 'Leandro Daniel'
 guid: /post/Microsoft-Community-Launch-2010-Sao-Paulo-SP.aspx
 permalink: /microsoft-community-launch-2010-sao-paulo-sp/
 categories:
+    - IT
+    - Speaking
+tags:
+    - pt-br
     - Comunidade
     - Eventos
     - Palestras
-    - Post
 ---
 
 Dia 20 de março a Microsoft realizará um grande evento com o apoio da comunidade para divulgar e apresentar diversas novidades.
