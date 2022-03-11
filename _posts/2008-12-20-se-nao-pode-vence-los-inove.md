@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Se-nao-pode-vence-los-iNove!.aspx
 permalink: /se-nao-pode-vence-los-inove/
 categories:
+    - IT
+tags:
+    - pt-br
     - Informativo
-    - Post
 ---
 
 Depois de muito batalhar para deixar o layout do meu blog compatível com o IE6, IE7, IE8, FireFox, Chrome e Safari resolvi adotar um tema que encontrei no site [NeoEase](http://www.neoease.com/themes/), o iNove, só não consegui achar o nome do autor. Bem, seja lá quem for, OBRIGADO!
