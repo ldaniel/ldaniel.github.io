@@ -7,10 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Nano-mundo-microtonal.aspx
 permalink: /nano-mundo-microtonal/
 categories:
+    - Music
+tags:
+    - pt-br
     - Distortion
-    - Post
-tags: 
-  - Distortion
 ---
 
 Sempre que posso realizo alguns estudos sobre diferentes estilos de música, instrumentos inusitados, e formas sonoras diferentes, mas às vezes me deparo com mundos musicais totalmente novos, como foi o caso da música microtonal. Foi por acaso o meu primeiro contato com a música microtonal, e o mais interessante é que eu ouvia algumas bandas microtonais sem saber.
