@@ -3,14 +3,13 @@ id: 200
 title: 'Música é abstrata'
 date: '2009-08-18T21:32:00-03:00'
 author: 'Leandro Daniel'
-
 guid: /post/Musica-e-abstrata.aspx
 permalink: /musica-e-abstrata/
 categories:
+    - Music
+tags:
+    - pt-br
     - Distortion
-    - Post
-tags: 
-  - Distortion
 ---
 
 > A música pode ter uma perfeição maravilhosa, formal, quase matemática, e pode ser dotada de comovente ternura, pungência e beleza. Mas não precisa ter nenhum significado. Podemos recordar uma música, dar-lhe a vida da imaginação (ou mesmo da alucinação) simplesmente porque gostamos dela. É razão o bastante.
