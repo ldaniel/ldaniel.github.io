@@ -23,7 +23,7 @@ I’ve worked since middle of 2011 as a Systems Architect Specialist at [Raboban
 
 Although I do not consider so important, I have some certifications.
 
-<table cellspacing="0" cellpadding="0" style="border:0px; width:100%; background-color:#FFFFFF; color:#FFFFFF;">
+<table cellspacing="0" cellpadding="0" style="border:0px; background-color:#FFFFFF; color:#FFFFFF;">
   <tr>
     <td>
 <img src="http://leandrodaniel.com/wp-content/uploads/2012/10/MCP.gif " alt="MCP" title="MCP" />&nbsp;&nbsp;&nbsp;<img src="http://leandrodaniel.com/wp-content/uploads/2012/10/MCAD.gif" alt="MCAD" title="MCAD" />&nbsp;&nbsp;&nbsp;<img src="http://leandrodaniel.com/wp-content/uploads/2012/10/MCSD.gif" alt="MCSD" title="MCSD" /> 
