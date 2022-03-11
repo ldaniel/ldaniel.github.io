@@ -6,7 +6,6 @@ author: 'Leandro Daniel'
 layout: splash
 header:
   image: "/assets/images/deeployer-header.png"
-guid: 'http://leandrodaniel.com/?page_id=1665'
 permalink: /deeployer/
 ---
 
@@ -17,9 +16,8 @@ permalink: /deeployer/
         </td>
         <td style="text-align: left; width: 50%">
             <h2>What does a data scientist do?</h2>
-            <p>Most data scientists in the industry have advanced and training in statistics, math, and computer science. Their experience is a vast horizon that also extends to data visualization, data mining, and information management. It is fairly common for them to have previous experience in infrastructure design, cloud computing, and data warehousing.
-            <br />            
-            More at <a href="https://deeployer.com/">https://deeployer.com/</a>.
+            <p>Most data scientists in the industry have advanced and training in statistics, math, and computer science. Their experience is a vast horizon that also extends to data visualization, data mining, and information management. It is fairly common for them to have previous experience in infrastructure design, cloud computing, and data warehousing.</p>
+            <p>More at <a href="https://deeployer.com/">https://deeployer.com/</a>.</p>
         </td>
     </tr>
     <tr>
@@ -39,8 +37,7 @@ permalink: /deeployer/
                     </li>
                 </ul>
             </p>
-            <br />            
-            More at <a href="https://deeployer.com/">https://deeployer.com/</a>.
+            <p>More at <a href="https://deeployer.com/">https://deeployer.com/</a>.</p>
         </td>
         <td style="text-align: left; width: 50%">
             <img src="https://deeployer.com/assets/images/02.jpg" style="border-radius: 50%; width: 300px;" alt="Data Science">
@@ -53,8 +50,7 @@ permalink: /deeployer/
         <td style="text-align: keft; width: 50%">
             <h2 class="display-5">What’s in it for you?</h2>
             <p>Data science can add value to any business who can use their data well. From statistics and insights across workflows and hiring new candidates, to helping senior staff make better-informed decisions, data science is valuable to any company in any industry.</p>
-            <br />            
-            More at <a href="https://deeployer.com/">https://deeployer.com/</a>.
+            <p>More at <a href="https://deeployer.com/">https://deeployer.com/</a>.</p>
         </td>
     </tr>
 </table>
