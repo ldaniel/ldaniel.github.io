@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/Desenvolvimento-com-SharePoint-2010.aspx
 permalink: /desenvolvimento-com-sharepoint-2010/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - SharePoint
 ---
 
