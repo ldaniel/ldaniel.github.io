@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Voce-se-preocupa-com-os-IFs-suficientemente.aspx
 permalink: /voce-se-preocupa-com-os-ifs-suficientemente/
 categories:
+    - IT
+tags:
+    - pt-br
     - 'C#'
-    - Post
 ---
 
 Um dos problemas combatidos pela utilização de boas práticas de desenvolvimento, e que parece ser bastante comum, é a negligência. Aquela falta de atenção, seja por desleixo, ou por desconhecimento, que faz pequenos detalhes se tornarem desastrosos.
