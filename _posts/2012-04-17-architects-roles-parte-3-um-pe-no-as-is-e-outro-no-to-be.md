@@ -7,9 +7,11 @@ author: 'Leandro Daniel'
 guid: /post/Architects-roles-(parte-3)-Pensando-em-funcao-de-as-is-e-to-be.aspx
 permalink: /architects-roles-parte-3-um-pe-no-as-is-e-outro-no-to-be/
 categories:
+    - IT
+tags:
+    - pt-br
     - Arquitetura
     - Carreira
-    - Post
 ---
 
 Uma das grandes virtudes do arquiteto de TI é conseguir controlar a dissonância entre o **agora** e sua **visão de futuro**. Esses dois “momentos”, por assim dizer, devem ser levados em consideração em qualquer decisão relacionada a arquitetura. Chamamos a visão do **agora** de “as is” e a **visão de futuro** de “to be” (ou ainda “AS-IS” e “TO-BE”).
