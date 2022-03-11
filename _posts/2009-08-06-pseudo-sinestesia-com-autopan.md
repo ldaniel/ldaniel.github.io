@@ -7,9 +7,8 @@ author: 'Leandro Daniel'
 guid: /post/Pseudo-sinestesia-com-AutoPan.aspx
 permalink: /pseudo-sinestesia-com-autopan/
 categories:
-    - Distortion
-    - Post
-tags: 
+    - Music
+tags:
   - Distortion
 ---
 
