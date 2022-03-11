@@ -8,10 +8,13 @@ guid: /post/Artigo-de-SQL-Server-2008-na-net-Magazine-edicao-67.aspx
 permalink: /artigo-de-sql-server-2008-na-net-magazine-edicao-67/
 image: /wp-content/uploads/2012/10/capa_net67_G.jpg
 categories:
+    - Articles
+    - IT
+tags:
+    - pt-br
     - '.net Magazine'
     - Artigos
     - Comunidade
-    - Post
 ---
 
 [![capa_net67_G](http://leandrodaniel.com/pics/WindowsLiveWriter/ArtigodeSQLServer2008n.netMagazineedio67/5464AFA6/capa_net67_G_thumb.jpg "capa_net67_G")](http://leandrodaniel.com/pics/WindowsLiveWriter/ArtigodeSQLServer2008n.netMagazineedio67/7DD8F0E6/capa_net67_G.jpg)
