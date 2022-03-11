@@ -7,9 +7,11 @@ author: 'Leandro Daniel'
 guid: /post/Video-do-segundo-encontro-do-Net-Architects.aspx
 permalink: /video-do-segundo-encontro-do-net-architects/
 categories:
+    - IT
+tags:
+    - pt-br
     - '.Net Architects'
     - Comunidade
-    - Post
     - Vídeos
 ---
 
