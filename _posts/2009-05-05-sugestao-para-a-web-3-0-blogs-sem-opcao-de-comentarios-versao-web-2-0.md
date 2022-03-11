@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/Sugestao-para-a-Web-30-blogs-sem-opcao-de-Comentarios-(versao-Web-20).aspx
 permalink: /sugestao-para-a-web-3-0-blogs-sem-opcao-de-comentarios-versao-web-2-0/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - Reverberando
 ---
 
