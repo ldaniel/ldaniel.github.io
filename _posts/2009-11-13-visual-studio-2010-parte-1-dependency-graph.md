@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/Visual-Studio-2010-(parte-1)-e28093-Dependency-Graph.aspx
 permalink: /visual-studio-2010-parte-1-dependency-graph/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - 'Visual Studio'
 ---
 
