@@ -7,9 +7,11 @@ author: 'Leandro Daniel'
 guid: /post/Segundo-encontro-do-grupo-Net-Architects.aspx
 permalink: /segundo-encontro-do-grupo-net-architects/
 categories:
+    - IT
+tags:
+    - pt-br
     - '.Net Architects'
     - Comunidade
-    - Post
 ---
 
 Participei hoje do segundo encontro do grupo de arquitetura [.Net Architects](http://www.dotnetarchitects.net/) na UNIP. Entre outros assuntos discutimos Metodologia ágil e Scrum, onde Antônio Zegunis (TucaZ) [apresentou ](http://blog.tucaz.net/2008/11/22/slides-apresentacao-encontros-e-desencontros-na-adocao-de-scrum/)para todos a experiência adquirida na utilização da metodologia na empresa onde trabalha.
