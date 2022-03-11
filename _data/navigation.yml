@@ -33,11 +33,11 @@ posts:
   - title: main topics
     children:
       - title: "articles"
-        url: "/categories/#publicacoes"
+        url: "/categories/#articles"
       - title: "music"
         url: "/categories/#distortion"
       - title: "speaking"
-        url: "/categories/#palestras"
+        url: "/categories/#speaking"
       - title: "it"
         url: "/categories/#it"
       - title: "podcasts"
