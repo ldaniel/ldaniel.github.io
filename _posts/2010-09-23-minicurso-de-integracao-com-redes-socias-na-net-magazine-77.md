@@ -8,10 +8,13 @@ guid: /post/Minicurso-de-integracao-com-Redes-Socias-na-net-Magazine-77.aspx
 permalink: /minicurso-de-integracao-com-redes-socias-na-net-magazine-77/
 image: /wp-content/uploads/2012/10/capa_net77_G.jpg
 categories:
+    - Articles
+    - IT
+tags:
+    - pt-br
     - '.net Magazine'
     - Artigos
     - Comunidade
-    - Post
 ---
 
 ![capa_net77_g](http://leandrodaniel.com/pics/capa_net77_g_1.jpg "capa_net77_g")Já está disponível nas bancas a [edição número 77 da revista .net Magazine](http://www.devmedia.com.br/post-18004-Revista--net-Magazine-Edicao-77.html). Neste número contei com a parceria do [Alexandre Mantovani](http://system.mantov.net/), grande amigo (irmão) nessa longa jornada pelo estranho e fascinante mundo de TI.
