@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Code-metrics-(parte-5)-A-importancia-do-contexto.aspx
 permalink: /code-metrics-parte-5-a-importancia-do-contexto/
 categories:
+    - IT
+tags:
+    - pt-br
     - Arquitetura
-    - Post
 ---
 
 A essa altura, espero tê-lo convencido de que [<span style="color: #2970a6">métricas de código são aliadas de um arquiteto</span>](http://leandrodaniel.com/index.php/Code-metrics-(parte-1)-Um-aliado-do-arquiteto). Já conhecemos as métricas [<span style="color: #2970a6">LOC e CC</span>](http://leandrodaniel.com/index.php/Code-metrics-(parte-2)-Conhecendo-algumas-metricas), e através de outras duas métricas apresentadas ([Ca e Ce](http://leandrodaniel.com/index.php/Code-metrics-(parte-3)-Medindo-acoplamento)) entendemos como o indicador [I (instability)](http://leandrodaniel.com/index.php/Code-metrics-(parte-4)-Medindo-Qualidade) é produzido.
