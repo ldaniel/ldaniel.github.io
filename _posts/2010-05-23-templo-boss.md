@@ -7,10 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Templo-Boss.aspx
 permalink: /templo-boss/
 categories:
+    - Music
+tags:
+    - pt-br
     - Distortion
-    - Post
-tags: 
-  - Distortion
 ---
 
 Simplesmente, um site fenomenal! Tem de tudo, catálogos de várias épocas, pesquisa por número serial, propagandas que saíram em revistas, além de todas as informações técnicas sobre cada pedal.
