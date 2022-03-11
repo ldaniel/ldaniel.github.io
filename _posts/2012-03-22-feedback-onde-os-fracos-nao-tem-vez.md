@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/Sobre-Feedback.aspx
 permalink: /feedback-onde-os-fracos-nao-tem-vez/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - Reverberando
 ---
 
