@@ -13,7 +13,7 @@ tags:
     - Arquitetura
 ---
 
-Sempre insisti que as habilidades não-técnicas de um arquiteto são importantíssimas! Não adianta ser super competente tecnicamente mas um ogro na hora de relacionar-se com as pessoas. Da mesma forma, pouco importa se você não consegue entender os princípios ágeis com relação a documentação, invariavelmente, você precisará dela em algum momento: quanto antes você aceitar isso, melhor.
+Sempre insisti que as habilidades não-técnicas de um arquiteto são importantíssimas! Não adianta ser super competente tecnicamente mas um ogro na hora de relacionar-se com as pessoas. Da mesma forma, pouco importa se você não consegue entender os princípios ágeis com relação a documentação, invariavelmente, você precisará dela em algum momento: quanto antes você aceitar isso, melhor. 
 
 Isso posto, gostaria de falar sobre documentação e comunicação través de diagramas. Pseudo-agilistas, desenvolvedores xiitas e outros tipos bizarros: tudo ok? Até aqui, sem crise, espero. O que? O tempo fechou? Hummm… nesse caso, [clique aqui](http://leandrodaniel.com/pics/NothingToDoHereBlackWithText.png).
 
