@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Serie-de-posts-sobre-Enterprise-Library.aspx
 permalink: /serie-de-posts-sobre-enterprise-library/
 categories:
+    - IT
+tags:
+    - pt-br
     - 'Enterprise Library'
-    - Post
 ---
 
 [![PatternsPractices](http://leandrodaniel.com/pics/WindowsLiveWriter/SriedepostssobreEnterpriseLibrary/21C2B53D/PatternsPractices_thumb.gif "PatternsPractices")](http://leandrodaniel.com/pics/WindowsLiveWriter/SriedepostssobreEnterpriseLibrary/1F862C81/PatternsPractices.gif)
