@@ -8,9 +8,12 @@ guid: /post/Injecao-de-Dependencia-com-Unity-na-net-Magazine-edicao-62.aspx
 permalink: /injecao-de-dependencia-com-unity-na-net-magazine-edicao-62/
 image: /wp-content/uploads/2012/10/capa_net62_G.jpg
 categories:
+    - Articles
+    - IT    
+tags:
+    - pt-br
     - '.net Magazine'
     - Artigos
-    - Post
 ---
 
 [![.net Magazine edição 62](http://leandrodaniel.com/pics/WindowsLiveWriter/InjeodeDependnciacomUn.netMagazineedio62/665D5393/capa_netMag62.jpg ".net Magazine edição 62")](http://www.devmedia.com.br/resumo/default.asp?ed=62&site=1)
