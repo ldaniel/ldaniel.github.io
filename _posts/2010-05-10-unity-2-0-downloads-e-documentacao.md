@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Unity-20-e28093-Download-e-documentacao.aspx
 permalink: /unity-2-0-downloads-e-documentacao/
 categories:
+    - IT
+tags:
+    - pt-br
     - 'Enterprise Library'
-    - Post
 ---
 
 A Microsoft disponibilizou na última semana os downloads do Unity Application Block 2.0 e sua documentação:
