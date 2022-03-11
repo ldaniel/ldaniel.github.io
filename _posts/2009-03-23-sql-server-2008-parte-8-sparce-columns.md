@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/SQL-Server-2008-(parte-8)-e28093-Sparce-Columns.aspx
 permalink: /sql-server-2008-parte-8-sparce-columns/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - 'SQL Server'
 ---
 
