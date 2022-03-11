@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Architects-roles-(parte-4)-Comunicando-se-com-stakeholders-atraves-de-diagramas.aspx
 permalink: /architects-roles-parte-4-comunicando-se-com-stakeholders-atraves-de-diagramas/
 categories:
+    - IT
+tags:
+    - pt-br
     - Arquitetura
-    - Post
 ---
 
 Sempre insisti que as habilidades não-técnicas de um arquiteto são importantíssimas! Não adianta ser super competente tecnicamente mas um ogro na hora de relacionar-se com as pessoas. Da mesma forma, pouco importa se você não consegue entender os princípios ágeis com relação a documentação, invariavelmente, você precisará dela em algum momento: quanto antes você aceitar isso, melhor.
