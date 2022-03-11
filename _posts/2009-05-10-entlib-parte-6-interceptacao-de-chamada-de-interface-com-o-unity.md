@@ -7,9 +7,11 @@ author: 'Leandro Daniel'
 guid: /post/EntLib-(parte-6)-e28093-Interceptacao-de-chamada-de-interface-com-o-Unity.aspx
 permalink: /entlib-parte-6-interceptacao-de-chamada-de-interface-com-o-unity/
 categories:
+    - IT
+tags:
+    - pt-br
     - Arquitetura
     - 'Enterprise Library'
-    - Post
 ---
 
 Dentro do desenvolvimento de software chamamos de “*cross-cutting* *concerns”* tudo aquilo que faz parte do nosso código provendo funcionalidades comuns entre diversas classes (entre camadas lógicas, por exemplo). Exemplificando, poderíamos dizer que itens como segurança, *log*, instrumentação de código, são preocupações que atravessam nossas classes, daí dizermos “*cross-cutting concerns*” ou preocupações transversais.
