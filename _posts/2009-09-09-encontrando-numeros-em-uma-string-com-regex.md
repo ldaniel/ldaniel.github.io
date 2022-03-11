@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Encontrando-numeros-em-uma-string-com-Regex.aspx
 permalink: /encontrando-numeros-em-uma-string-com-regex/
 categories:
+    - IT
+tags:
+    - pt-br
     - 'C#'
-    - Post
 ---
 
 Como *regex* são úteis! Quer ver um exemplo? Hoje eu precisava encontrar números inteiros dentro de uma *string*, queria fazer de um jeito rápido e fácil e sugeriram-me usar a classe **Regex** do **System.Text.RegularExpressions**.
