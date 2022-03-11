@@ -8,10 +8,13 @@ guid: /post/Lancada-a-Easy-net-Magazine-2.aspx
 permalink: /lancada-a-easy-net-magazine-2/
 image: /wp-content/uploads/2012/10/capa_easynet2_g.jpg
 categories:
+    - Articles
+    - IT
+tags:
+    - pt-br
     - Artigos
     - Comunidade
     - 'Easy .net Magazine'
-    - Post
 ---
 
 [![capa_easynet2_g](http://leandrodaniel.com/pics/capa_easynet2_g_thumb.jpg "capa_easynet2_g")](http://leandrodaniel.com/pics/capa_easynet2_g.jpg) Acaba de ser lançada a segunda edição da revista [Easy .net Magazine](http://www.devmedia.com.br/assgold/listmag.asp?site=59) da [DevMedia](http://www.devmedia.com.br). A revista é voltada para o público iniciante, que está tendo os primeiros contatos com tecnologias de desenvolvimento. É possível ler todos os artigos através do [Leitor Digital do portal](http://www.devmedia.com.br/websys.3/webreader.asp?cat=59&revista=easynetmag_2#a-2665).
