@@ -3,13 +3,14 @@ id: 225
 title: 'Dois dias de Engenharia de Software Conference e meus dois centavos'
 date: '2009-05-23T22:50:47-03:00'
 author: 'Leandro Daniel'
-
 guid: /post/Dois-dias-de-Engenharia-de-Software-Conference-e-meus-dois-centavos.aspx
 permalink: /dois-dias-de-engenharia-de-software-conference-e-meus-dois-centavos/
 categories:
+    - IT
+tags:
+    - pt-br
     - Comunidade
     - Eventos
-    - Post
 ---
 
 Terminou hoje a ***Engenharia de Software Conference***, e [como comentei aqui](http://www.leandrodaniel.com//post/Engenharia-de-Software-Conference), tive a oportunidade de assistir palestras muito interessantes, sob diversos aspectos. O evento contou com três salas com palestras simultâneas, e como haviam alguns amigos do .Net Architects presentes ficou fácil trocar informações sobre as palestras em tempo real (cheguei a mudar de palestra após uma troca de torpedos).
