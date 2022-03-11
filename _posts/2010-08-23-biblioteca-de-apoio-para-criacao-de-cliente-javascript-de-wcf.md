@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/Biblioteca-de-apoio-para-criacao-de-cliente-JavaScript-de-WCF.aspx
 permalink: /biblioteca-de-apoio-para-criacao-de-cliente-javascript-de-wcf/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - WCF
 ---
 
