@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/EntLib-(parte-4)-e28093-Como-criptografar-valores-de-configuracoes.aspx
 permalink: /entlib-parte-4-como-criptografar-valores-de-configuracoes/
 categories:
+    - IT
+tags:
+    - pt-br
     - 'Enterprise Library'
-    - Post
 ---
 
 Essa é rápida, em dois passos:
