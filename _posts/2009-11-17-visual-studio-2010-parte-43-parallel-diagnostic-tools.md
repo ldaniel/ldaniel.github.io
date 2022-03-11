@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/Visual-Studio-2010-(parte-43)-e28093-Parallel-Diagnostic-Tools.aspx
 permalink: /visual-studio-2010-parte-43-parallel-diagnostic-tools/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - 'Visual Studio'
 ---
 
