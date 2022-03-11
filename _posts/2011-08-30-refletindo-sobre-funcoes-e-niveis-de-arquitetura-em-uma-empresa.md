@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Refletindo-sobre-funcoes-e-niveis-de-arquitetura-em-uma-empresa.aspx
 permalink: /refletindo-sobre-funcoes-e-niveis-de-arquitetura-em-uma-empresa/
 categories:
+    - IT
+tags:
+    - pt-br
     - Arquitetura
-    - Post
 ---
 
 Em Junho de 2007, o [IASA](http://www.iasahome.org) (Global IT Architects Association), estudou diferentes tipos de arquitetos de variados setores da indústria para chegar a uma série de recomendações gerais para as funções de um arquiteto de TI dentro de uma empresa.
