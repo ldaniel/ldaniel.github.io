@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Etica-e-desenvolvimento-de-software.aspx
 permalink: /etica-e-desenvolvimento-de-software/
 categories:
+    - IT
+tags:
+    - pt-br
     - Carreira
-    - Post
 ---
 
 No último episódio do [Void Podcast](http://voidpodcast.com/2012/02/05/void-podcast-017-strawberry-brownfields-forever/), tocamos no assunto “ética no desenvolvimento de software” (em especial por parte de consultorias e fornecedores de produtos e serviços de software). Relacionamos a falta de ética como um dos grandes óbices para a reversão de um quadro de *[brownfield](http://en.wikipedia.org/wiki/Brownfield_(software_development))* para *greenfield*.
