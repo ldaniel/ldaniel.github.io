@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/Mestres-do-non-sequitur-e-outros-tipos-perniciosos-–-Parte-2.aspx
 permalink: /mestres-do-non-sequitur-e-outros-tipos-perniciosos-parte-2/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - Reverberando
 ---
 
