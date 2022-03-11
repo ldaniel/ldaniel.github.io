@@ -7,10 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Video-recomendado-Kewti-(microtonal-Jazz).aspx
 permalink: /video-recomendado-kewti-microtonal-jazz/
 categories:
+    - Music
+tags:
+    - pt-br
     - Distortion
-    - Post
-tags: 
-  - Distortion
 ---
 
 <object height="405" width="640"><param name="movie" value="http://www.youtube.com/v/j7LIuLUgua8&hl=pt-br&fs=1&color1=0x2b405b&color2=0x6b8ab6&border=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param></object>
