@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Application-Architecture-Guide-20-(beta-2).aspx
 permalink: /application-architecture-guide-2-0-beta-2/
 categories:
+    - IT
+tags:
+    - pt-br
     - Arquitetura
-    - Post
 ---
 
 Recentemente baixei do CodePlex a versão beta 1 do [Application Architecture Guide 2.0](http://www.codeplex.com/AppArchGuide), um guia muito útil para quem desenvolve soluções baseadas em tecnologias e produtos da Microsoft. O diagrama a seguir mostra o escopo abrangido pelo livro:
