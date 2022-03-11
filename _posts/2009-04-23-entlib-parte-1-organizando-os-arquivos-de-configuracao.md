@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/EntLib-(parte-1)-e28093-Organizando-os-arquivos-de-configuracao.aspx
 permalink: /entlib-parte-1-organizando-os-arquivos-de-configuracao/
 categories:
+    - IT
+tags:
+    - pt-br
     - 'Enterprise Library'
-    - Post
 ---
 
 Se pegarmos um arquivo de configuração de uma aplicação web feita em .NET Framework 1.1 e compararmos com um *web.config* atual veremos que a quantidade de elementos e tags dentro do XML cresceu consideravelmente. Com o passar dos anos novas implementações e melhorias no .NET Framework ampliaram as possibilidades de configuração de um projeto, dividindo os desenvolvedores em dois grupos distintos: os que gostam e os que odeiam arquivos de configuração XML.
