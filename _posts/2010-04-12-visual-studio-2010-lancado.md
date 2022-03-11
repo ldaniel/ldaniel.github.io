@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Visual-Studio-2010-lancado.aspx
 permalink: /visual-studio-2010-lancado/
 categories:
+    - IT
+tags:
+    - pt-br
     - Informativo
-    - Post
     - 'Visual Studio'
 ---
 
