@@ -8,10 +8,13 @@ guid: /post/Nova-publicacao-da-DevMedia-Easy-net-Magazine.aspx
 permalink: /nova-publicacao-da-devmedia-easy-net-magazine/
 image: /wp-content/uploads/2012/10/capa_easynet1_g.jpg
 categories:
+    - Articles
+    - IT
+tags:
+    - pt-br
     - Artigos
     - Comunidade
     - 'Easy .net Magazine'
-    - Post
 ---
 
 ![capa_easynet1_G](http://leandrodaniel.com/pics/capa_easynet1_G_thumb.jpg "capa_easynet1_G")A [DevMedia](http://www.devmedia.com.br) acaba de lançar mais uma publicação: [Easy .net Magazine](http://www.devmedia.com.br/assgold/listmag.asp?site=59). A revista é voltada para o público iniciante, que está tendo os primeiros contatos com tecnologias de desenvolvimento. A primeira edição está [disponível no site da DevMedia totalmente grátis](http://www.devmedia.com.br/resumo/default.asp?ed=1&site=59).
