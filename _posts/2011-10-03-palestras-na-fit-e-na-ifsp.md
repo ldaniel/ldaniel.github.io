@@ -8,11 +8,14 @@ guid: /post/Palestras-na-FIT-e-na-IFSP.aspx
 permalink: /palestras-na-fit-e-na-ifsp/
 image: /wp-content/uploads/2013/04/palestraIF.png
 categories:
+    - IT
+    - Speaking
+tags:
+    - pt-br
     - Arquitetura
     - Comunidade
     - Eventos
     - Palestras
-    - Post
 ---
 
 Durante o mês de outubro farei duas palestras para estudantes universitários, falando sobre arquitetura de software e o papel do arquiteto.
