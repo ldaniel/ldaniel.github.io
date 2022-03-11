@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Teclas-de-atalho-do-Visual-Studio-2010.aspx
 permalink: /teclas-de-atalho-do-visual-studio-2010/
 categories:
+    - IT
+tags:
+    - pt-br
     - Dicas
-    - Post
     - 'Visual Studio'
 ---
 
