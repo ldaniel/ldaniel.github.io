@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/Visual-Studio-2010-e28093-Serie-de-posts-chega-ao-fim.aspx
 permalink: /visual-studio-2010-serie-de-posts-chega-ao-fim/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - 'Visual Studio'
 ---
 
