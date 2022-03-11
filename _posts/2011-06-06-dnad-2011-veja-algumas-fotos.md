@@ -7,10 +7,13 @@ author: 'Leandro Daniel'
 guid: /post/DNAD-2011–Veja-algumas-fotos.aspx
 permalink: /dnad-2011-veja-algumas-fotos/
 categories:
+    - IT
+    - Speaking
+tags:
+    - pt-br
     - '.Net Architects'
     - Comunidade
     - Eventos
-    - Post
 ---
 
 Veja algumas fotos do evento clicando na imagem abaixo.
