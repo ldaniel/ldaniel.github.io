@@ -8,9 +8,12 @@ guid: /post/Void-Podcast-episodio-021-disponivel-e-mais-Void-eXperience-002-003-
 permalink: /void-podcast-episodio-021-disponivel-e-mais-void-experience-002-003-e-004/
 image: /wp-content/uploads/2012/06/VoidLogo-Twitter-2.png
 categories:
+    - IT
+    - Podcasts
+tags:
+    - pt-br
     - Comunidade
     - Podcasts
-    - Post
 ---
 
 ![](http://leandrodaniel.com/pics/VoidBanner.png)
