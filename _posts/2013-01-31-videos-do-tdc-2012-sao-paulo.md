@@ -8,11 +8,13 @@ guid: 'http://leandrodaniel.com/?p=626'
 permalink: /videos-do-tdc-2012-sao-paulo/
 image: /wp-content/uploads/2013/04/video2012.png
 categories:
+    - IT
+    - Speaking
+tags:
+    - pt-br
     - Arquitetura
     - Comunidade
     - Palestras
-    - Post
-tags:
     - 'Code metrics'
 ---
 
