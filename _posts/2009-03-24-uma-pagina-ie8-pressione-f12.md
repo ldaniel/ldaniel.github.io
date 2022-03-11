@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Uma-pagina-IE8e280a6-pressione-F12.aspx
 permalink: /uma-pagina-ie8-pressione-f12/
 categories:
+    - IT
+tags:
+    - pt-br
     - Dicas
-    - Post
 ---
 
 Podem falar o que quiser, eu achei fantástico!
