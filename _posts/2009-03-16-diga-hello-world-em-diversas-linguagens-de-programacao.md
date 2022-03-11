@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Diga-e2809cHello-world!e2809d-em-diversas-linguagens-de-programacao.aspx
 permalink: /diga-hello-world-em-diversas-linguagens-de-programacao/
 categories:
+    - IT
+tags:
+    - pt-br
     - 'Off'
-    - Post
 ---
 
 Tive a oportunidade de assistir nesse mês uma palestra do Fábio Akita sobre *[Rails para arquitetos .NET](http://www.leandrodaniel.com//post/Sexto-encontro-do-grupo-Net-Architects)*, onde num dado momento ele comentou sobre algumas linguagens de programação, digamos, um tanto exóticas, como o *brainfuck* e o *whitespace*.
