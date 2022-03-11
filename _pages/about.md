@@ -7,7 +7,7 @@ sidebar:
   nav: "about"
 ---
 
-# hi, I'm Leandro Daniel
+## hi, I'm Leandro Daniel
 
 I’m a systems architect, software developer, technical author of articles and speaker in IT events. I’m also an amateur guitar player and podcaster at [Void Podcast](http://voidpodcast.com/). I love my family so much: my wife, my beautiful son and our playful dog. I consider myself a versatile professional with a large IT background and 15 years of work experience performing different tasks and jobs in software development and architecture. Since 1998 I have been involved with Software Development as a developer, technical leader and architect.
 
@@ -19,7 +19,7 @@ I’ve always been involved with IT community, [speaking in many events](http://
 
 I’ve worked since middle of 2011 as a Systems Architect Specialist at [Rabobank](http://www.rabobank.com), one of the world’s most leading, sound and sustainable financial institutions.
 
-# I have this certifications
+## I have this certifications
 
 Although I do not consider so important, I have some certifications.
 
