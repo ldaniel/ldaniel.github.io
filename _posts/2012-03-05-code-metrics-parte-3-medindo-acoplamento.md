@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Code-metrics-(parte-3)-Medindo-acoplamento.aspx
 permalink: /code-metrics-parte-3-medindo-acoplamento/
 categories:
+    - IT
+tags:
+    - pt-br
     - Arquitetura
-    - Post
 ---
 
 Como comentei antes, [métricas de código são aliadas de um arquiteto](http://leandrodaniel.com/index.php/Code-metrics-(parte-1)-Um-aliado-do-arquiteto). Basta ter em mente que, apenas [utilizando LOC e CC](http://leandrodaniel.com/index.php/Code-metrics-(parte-2)-Conhecendo-algumas-metricas), já podemos “ouvir” muita coisa que nosso (pobre) código tenta nos dizer.
