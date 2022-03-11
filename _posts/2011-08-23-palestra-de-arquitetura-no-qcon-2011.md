@@ -7,10 +7,13 @@ author: 'Leandro Daniel'
 guid: /post/Palestra-de-arquitetura-no-QCon-2011!.aspx
 permalink: /palestra-de-arquitetura-no-qcon-2011/
 categories:
+    - Articles
+    - IT
+tags:
+    - pt-br
     - Comunidade
     - Eventos
     - Palestras
-    - Post
 ---
 
 [![](http://leandrodaniel.com/pics/qcon2011banner.png)](http://qconsp.com/)
