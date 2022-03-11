@@ -8,9 +8,10 @@ guid: 'http://leandrodaniel.com/?p=579'
 permalink: /migracao-da-engine-do-site/
 image: /wp-content/uploads/2012/10/rotterdamHouses.png
 categories:
-    - Informativo
-    - Post
+    - IT
 tags:
+    - pt-br
+    - Informativo
     - Linux
     - WordPress
 ---
