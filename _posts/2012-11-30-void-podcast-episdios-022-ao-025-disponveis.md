@@ -8,9 +8,12 @@ guid: 'http://leandrodaniel.com/?p=604'
 permalink: /void-podcast-episdios-022-ao-025-disponveis/
 image: /wp-content/uploads/2012/11/Screenshot_31_03_13_20_15-10.png
 categories:
+    - IT
+    - Podcasts
+tags:
+    - pt-br
     - Comunidade
     - Podcasts
-    - Post
 ---
 
 ![](http://leandrodaniel.com/pics/VoidBanner.png)
