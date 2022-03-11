@@ -7,9 +7,11 @@ author: 'Leandro Daniel'
 guid: /post/Artigos-de-Parallel-Programing-no-NET-Framework-40-para-download.aspx
 permalink: /artigos-de-parallel-programing-no-net-framework-4-0-para-download/
 categories:
+    - IT
+tags:
+    - pt-br
     - Comunidade
     - Dicas
-    - Post
 ---
 
 Pesquisando alguns assuntos relacionados, acabei topando com esse [link para download de artigos sobre *parallel programming*](http://www.microsoft.com/downloads/details.aspx?FamilyID=c3ea8fb5-650d-434b-a216-7e54c53965d1&displaylang=en), são eles:
