@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Microsoft-Live-Labs-Photosynth.aspx
 permalink: /microsoft-live-labs-photosynth/
 categories:
+    - IT
+tags:
+    - pt-br
     - 'Microsoft Live Labs'
-    - Post
 ---
 
 O Photosynth foi criado a partir de uma parceria entre a Microsoft e a Universidade de Washington em 2006. Basicamente ele é capaz de organizar imagens em uma espécie de navegação 3D, levando em consideração a localização espacial dos objetos da imagem.
