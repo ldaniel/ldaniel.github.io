@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/Pois-e-responsabilidade-social.aspx
 permalink: /pois-e-responsabilidade-social/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - Reverberando
 ---
 
