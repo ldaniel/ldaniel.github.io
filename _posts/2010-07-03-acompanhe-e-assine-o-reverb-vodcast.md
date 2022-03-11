@@ -8,9 +8,12 @@ guid: /post/Acompanhe-e-assine-o-Reverb-Vodcast!.aspx
 permalink: /acompanhe-e-assine-o-reverb-vodcast/
 image: /wp-content/uploads/2010/07/Reverb_logo.png
 categories:
+    - IT
+    - Podcasts
+tags:
+    - pt-br
     - Comunidade
     - Podcasts
-    - Post
 ---
 
 Agora no Reverb você poderá se inscrever no canal [Reverb Vodcast](http://vimeo.com/channels/118112/videos/rss) e acompanhar os vídeos abordando diversos assuntos relacionados ao desenvolvimento de software, entre outros temas. O termo *“Vodcast”* é uma abreviação de “*Video Podcast”* e o formato e distribuição é bem semelhante ao dos *podcasts*, com a diferença de ser um vídeo.
