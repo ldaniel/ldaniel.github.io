@@ -3,12 +3,13 @@ id: 219
 title: 'Microsoft Anti-Cross Site Scripting Library'
 date: '2009-06-14T22:12:00-03:00'
 author: 'Leandro Daniel'
-
 guid: /post/Microsoft-Anti-Cross-Site-Scripting-Library.aspx
 permalink: /microsoft-anti-cross-site-scripting-library/
 categories:
+    - IT
+tags:
+    - pt-br
     - Dicas
-    - Post
 ---
 
 Estava pesquisando sobre segurança em aplicações Web e acabei topando com a biblioteca [AntiXSS](http://antixss.codeplex.com/) no CodePlex que ajuda a proteger aplicações de ataques *cross-site scripting* (XSS)*.*
