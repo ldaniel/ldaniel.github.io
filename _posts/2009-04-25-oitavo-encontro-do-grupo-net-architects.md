@@ -7,9 +7,11 @@ author: 'Leandro Daniel'
 guid: /post/Oitavo-encontro-do-grupo-Net-Architects.aspx
 permalink: /oitavo-encontro-do-grupo-net-architects/
 categories:
+    - IT
+tags:
+    - pt-br
     - '.Net Architects'
     - Comunidade
-    - Post
 ---
 
 Hoje pela manhã participei de mais um encontro do grupo de estudos de arquitetura [.Net Architects](http://dotnetarchitects.net/dotnetarchitects/page/Historico-das-reunioes-presenciais), onde tivemos como tema ***ASP.Net MVC x WebForms***. O formato da reunião foi um pouco diferente das anteriores, pois o debate ocorreu junto com a “defesa” de cada tecnologia pelo [Giovanni Bassi](http://unplugged.giggio.net/) e o [André Dias](http://blogs.msdn.com/andredias/), respectivamente.
