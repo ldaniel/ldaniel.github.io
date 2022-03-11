@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Hey-que-tal-pensar-alem-do-Try-Catch-Finally-(parte-2).aspx
 permalink: /hey-que-tal-pensar-alem-do-try-catch-finally-parte-2/
 categories:
+    - IT
+tags:
+    - pt-br
     - Arquitetura
-    - Post
 ---
 
 Vimos no [último post desta série](http://www.leandrodaniel.com/post/Hey-que-tal-pensar-alem-do-Try-Catch-Finally) a diferença entre **erro** e **exceção**. Enquanto o primeiro é irrecuperável, o outro dá margem para tomarmos uma ou mais ações a fim de permitir que a aplicação continue em execução.
