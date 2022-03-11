@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Content-Metamodel-Overview-referencia-rapida-para-arquitetos.aspx
 permalink: /content-metamodel-overview-referencia-rapida-para-arquitetos/
 categories:
+    - IT
+tags:
+    - pt-br
     - Arquitetura
-    - Post
 ---
 
 O [TOGAF](http://www.opengroup.org/togaf/) pode oferecer uma série de direcionamentos, ferramentas e práticas interessantes para um arquiteto de TI desenvolver seu trabalho em uma organização.
