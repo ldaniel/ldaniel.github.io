@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/SQL-Server-2008-(parte-5)-Hierarchyid-Data-Type.aspx
 permalink: /sql-server-2008-parte-5-hierarchyid-data-type/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - 'SQL Server'
 ---
 
