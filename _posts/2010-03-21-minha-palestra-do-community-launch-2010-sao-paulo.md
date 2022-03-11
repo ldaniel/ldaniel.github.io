@@ -7,10 +7,13 @@ author: 'Leandro Daniel'
 guid: /post/Minha-palestra-do-Community-Launch-2010-(Sao-Paulo).aspx
 permalink: /minha-palestra-do-community-launch-2010-sao-paulo/
 categories:
+    - IT
+    - Speaking
+tags:
+    - pt-br
     - Comunidade
     - Eventos
     - Palestras
-    - Post
 ---
 
 Como prometido, segue a minha palestra realizada ontem no evento Community Launch 2010.
