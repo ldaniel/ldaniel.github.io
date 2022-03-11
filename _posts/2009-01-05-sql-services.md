@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/SQL-Services.aspx
 permalink: /sql-services/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - 'SQL Server'
 ---
 
