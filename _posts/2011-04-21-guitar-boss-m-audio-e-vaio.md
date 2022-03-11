@@ -7,10 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Guitar-Boss-M-Audio-e-Vaio.aspx
 permalink: /guitar-boss-m-audio-e-vaio/
 categories:
+    - Music
+tags:
+    - pt-br
     - Distortion
-    - Post
-tags: 
-  - Distortion
 ---
 
 Afinal, feriadão é pra descansar, né? ![Smiley piscando](http://leandrodaniel.com/pics/wlEmoticon-winkingsmile.png)
