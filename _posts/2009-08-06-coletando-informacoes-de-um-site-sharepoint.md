@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/Coletando-informacoes-de-um-site-SharePoint.aspx
 permalink: /coletando-informacoes-de-um-site-sharepoint/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - SharePoint
 ---
 
