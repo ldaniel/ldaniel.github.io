@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/Visual-Studio-2010-(parte-41)-e28093-Arquitetura-da-programacao-paralela.aspx
 permalink: /visual-studio-2010-parte-41-arquitetura-da-programacao-paralela/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - 'Visual Studio'
 ---
 
