@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/Aprenda-a-usar-BCP.aspx
 permalink: /sql-server-aprenda-a-usar-bcp-esqueca-o-c-de-vez-em-quando/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - 'SQL Server'
 ---
 
