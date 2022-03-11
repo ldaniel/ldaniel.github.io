@@ -7,9 +7,11 @@ author: 'Leandro Daniel'
 guid: /post/Expansao-e-novas-publicacoes-da-DevMedia.aspx
 permalink: /expansao-e-novas-publicacoes-da-devmedia/
 categories:
+    - IT
+tags:
+    - pt-br
     - Comunidade
     - Informativo
-    - Post
 ---
 
 [![logoweb03](http://leandrodaniel.com/pics/logoweb03_thumb.png "logoweb03")](http://leandrodaniel.com/pics/logoweb03.png)Ano passado o portal [DevMedia](http://www.devmedia.com.br/) passou a integrar o grupo Web-03, juntamente com os portais [Linha de Código](http://www.linhadecodigo.com.br) e [JavaFree.org](http://www.javafree.org). Com isso, o grupo Web-03 passou a deter um conteúdo impressionante, veja a seguir um pouquinho sobre cada portal.
