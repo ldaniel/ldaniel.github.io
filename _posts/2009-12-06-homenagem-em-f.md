@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Homenagem-em-F.aspx
 permalink: /homenagem-em-f/
 categories:
+    - IT
+tags:
+    - pt-br
     - 'Off'
-    - Post
 ---
 
 ```
