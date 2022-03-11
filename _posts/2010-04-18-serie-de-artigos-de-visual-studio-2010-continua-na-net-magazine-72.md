@@ -8,10 +8,13 @@ guid: /post/Serie-de-artigos-de-Visual-Studio-2010-continua-na-net-Magazine-72.a
 permalink: /serie-de-artigos-de-visual-studio-2010-continua-na-net-magazine-72/
 image: /wp-content/uploads/2012/10/capa_net72_G.jpg
 categories:
+    - Articles
+    - IT
+tags:
+    - pt-br
     - '.net Magazine'
     - Artigos
     - Comunidade
-    - Post
 ---
 
 ![capa_net72_g](http://leandrodaniel.com/pics/capa_net72_g_1.jpg "capa_net72_g")A .net Magazine 72 chega trazendo a continuação da série de 3 artigos sobre principais novidades do Visual Studio 2010 e do .NET Framework 4.0. Na segunda parte abordo inúmeros aspectos inovadores, incluindo a nova ferramenta de testes chamada **Test and Lab Manager**, interoperabilidade com o Office, melhorias no **WPF**, o novo **Entity Framework** entre outros.
