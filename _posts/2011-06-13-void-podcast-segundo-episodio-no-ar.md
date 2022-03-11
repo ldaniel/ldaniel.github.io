@@ -8,9 +8,12 @@ guid: /post/Void-Podcast-segundo-episodio-no-ar!.aspx
 permalink: /void-podcast-segundo-episodio-no-ar/
 image: /wp-content/uploads/2012/06/VoidLogo-Twitter-2.png
 categories:
+    - IT
+    - Podcasts
+tags:
+    - pt-br
     - Comunidade
     - Podcasts
-    - Post
 ---
 
 Nesse episódio, conversamos sobre comunidades – importância, comportamento dos integrantes – e outras coisas. Além disso, contamos, pela primeira vez, com a ilustre participação do arrobinha (vulgo [@vquaiato](http://twitter.com/vquaiato)).
