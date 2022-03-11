@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Microsoft-NET-Gadgeteer.aspx
 permalink: /microsoft-net-gadgeteer/
 categories:
+    - IT
+tags:
+    - pt-br
     - Hardware
-    - Post
 ---
 
 ![](http://leandrodaniel.com/pics/NETGadgeteer.png)
