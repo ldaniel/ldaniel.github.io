@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/ASPNET-Chart-Control-(e-uma-singela-duvida).aspx
 permalink: /asp-net-chart-control-e-uma-singela-duvida/
 categories:
+    - IT
+tags:
+    - pt-br
     - ASP.NET
-    - Post
 ---
 
 Acabo de fazer alguns testes com o ASP.NET Chart Control para o Framework 3.5, pelo que entendi o developer do Dundas ([Alex Gorev](http://blogs.msdn.com/alexgor/)) foi para a Microsoft, e usou toda a sua experiência para desenvolver o componente. Segue os links com tudo que é necessário:
