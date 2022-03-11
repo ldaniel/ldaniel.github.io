@@ -2,8 +2,6 @@
 layout: single
 author_profile: true
 title: "About"
-header:
-  image: "/assets/images/leandrodaniel-header.png"
 permalink: /about/
 sidebar:
   nav: "about"
