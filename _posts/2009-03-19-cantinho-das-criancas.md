@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/Cantinho-das-criancas!!.aspx
 permalink: /cantinho-das-criancas/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - Reverberando
 ---
 
