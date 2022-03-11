@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Code-metrics-(parte-9)-Ferramentas.aspx
 permalink: /code-metrics-parte-9-ferramentas/
 categories:
+    - IT
+tags:
+    - pt-br
     - Arquitetura
-    - Post
 ---
 
 Novamente nessa série, não falarei mais do mesmo. Sério, a Wikipedia tem uma [lista de ferramentas para análise de código estático](http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis) muito boa. Apenas gostaria de destacar 2 ferramentas com alguns comentários adicionais.
