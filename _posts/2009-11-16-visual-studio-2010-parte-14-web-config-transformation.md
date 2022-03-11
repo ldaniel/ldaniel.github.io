@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/Visual-Studio-2010-(parte-14)-e28093-Webconfig-Transformation.aspx
 permalink: /visual-studio-2010-parte-14-web-config-transformation/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - 'Visual Studio'
 ---
 
