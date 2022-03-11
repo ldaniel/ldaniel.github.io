@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Code-metrics-(parte-8)-RelacaoMetricasTestesDesign.aspx
 permalink: /code-metrics-parte-8-relacao-entre-testes-design-e-metricas/
 categories:
+    - IT
+tags:
+    - pt-br
     - Arquitetura
-    - Post
 ---
 
 Continuando a série de posts sobre [Code Metrics](http://leandrodaniel.com/?tag=/Code+Metrics), essa semana gostaria de trazer o resultado de uma discussão promovida via [Gist](https://gist.github.com/).
