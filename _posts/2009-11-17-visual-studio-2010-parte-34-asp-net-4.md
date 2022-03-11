@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/Visual-Studio-2010-(parte-34)-e28093-ASPNET-4.aspx
 permalink: /visual-studio-2010-parte-34-asp-net-4/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - 'Visual Studio'
 ---
 
