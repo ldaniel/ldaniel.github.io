@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Dica-de-framework-de-IA-e-Computer-Vision.aspx
 permalink: /dica-de-framework-de-ia-e-computer-vision/
 categories:
+    - IT
+tags:
+    - pt-br
     - Dicas
-    - Post
     - Vídeos
 ---
 
