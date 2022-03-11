@@ -7,8 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/EntLib-(parte-3)-e28093-Instrumentacao-de-codigo.aspx
 permalink: /entlib-parte-3-instrumentacao-de-codigo/
 categories:
+    - IT
+tags:
+    - pt-br
     - 'Enterprise Library'
-    - Post
 ---
 
 Dizemos que um código possui instrumentação (ou *Instrumentation*, do inglês) quando ele é capaz de gerar indicadores para monitorarmos ou medirmos sua performance. Tipicamente, esses indicadores auxiliam na detecção de erros relacionados a performance e podem ser utilizados, por exemplo, para visualização através do aplicativo de monitoramento de performance do Windows (acesse através da opção *Run* do Windows, digitando ***perfmon***).
