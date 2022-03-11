@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/Um-estigma-que-precisa-ser-mudado.aspx
 permalink: /um-estigma-que-precisa-ser-mudado/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - Reverberando
 ---
 
