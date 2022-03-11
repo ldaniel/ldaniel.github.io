@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/SharePoint-2010-Guidance.aspx
 permalink: /sharepoint-2010-guidance/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - SharePoint
 ---
 
