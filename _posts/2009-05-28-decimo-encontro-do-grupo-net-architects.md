@@ -7,6 +7,10 @@ author: 'Leandro Daniel'
 guid: /post/Decimo-encontro-do-grupo-Net-Architects.aspx
 permalink: /decimo-encontro-do-grupo-net-architects/
 categories:
+    - IT
+    - Speaking
+tags:
+    - pt-br
     - '.Net Architects'
     - Comunidade
     - Post
