@@ -2,10 +2,8 @@
 main:
   - title: "home"
     url: https://ldaniel.github.io/
-  - title: "blog"
+  - title: "posts"
     url: /year-archive/
-  - title: "portfolio"
-    url: /portfolio/
   - title: "about"
     url: /about/
   - title: "contact"
