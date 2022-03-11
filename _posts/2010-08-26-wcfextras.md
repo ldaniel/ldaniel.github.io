@@ -7,7 +7,9 @@ author: 'Leandro Daniel'
 guid: /post/WCFExtras.aspx
 permalink: /wcfextras/
 categories:
-    - Post
+    - IT
+tags:
+    - pt-br
     - WCF
 ---
 
