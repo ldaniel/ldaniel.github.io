@@ -13,7 +13,7 @@ tags:
     - Arquitetura
 ---
 
-Como comentei antes, [métricas de código são aliadas de um arquiteto](http://leandrodaniel.com/index.php/Code-metrics-(parte-1)-Um-aliado-do-arquiteto). Basta ter em mente que, apenas [utilizando LOC e CC](http://leandrodaniel.com/index.php/Code-metrics-(parte-2)-Conhecendo-algumas-metricas), já podemos “ouvir” muita coisa que nosso (pobre) código tenta nos dizer.
+Como comentei antes, [métricas de código são aliadas de um arquiteto](http://leandrodaniel.com/Code-metrics-(parte-1)-Um-aliado-do-arquiteto). Basta ter em mente que, apenas [utilizando LOC e CC](http://leandrodaniel.com/Code-metrics-(parte-2)-Conhecendo-algumas-metricas), já podemos “ouvir” muita coisa que nosso (pobre) código tenta nos dizer.
 
 Quando participamos de discussões sobre design é quase certo que ouviremos expressões como “acoplamento fraco” ou “acoplamento forte”. O acoplamento entre classes ou subsistemas é uma medida da interconexão entre essas classes ou subsistemas. Sendo assim, acoplamento forte significa que as classes relacionadas precisam conhecer detalhes internos umas das outras, as alterações se propagam pelo sistema, e o sistema é potencialmente mais difícil de entender.
 
@@ -71,4 +71,4 @@ Note que Ce e Ca podem mostrar, rapidamente, indícios de um design “mal cheir
 
 ### Até aqui…
 
-Com as quatro métricas vistas até agora ([LOC](http://leandrodaniel.com/index.php/Code-metrics-(parte-2)-Conhecendo-algumas-metricas), [CC](http://leandrodaniel.com/index.php/Code-metrics-(parte-2)-Conhecendo-algumas-metricas), Ce e Ca), diversas informações interessantes podem ser extraídas do seu código fonte. No próximo post, veremos como combinar essas métricas para criarmos medidas de qualidade. Até lá! 😉
+Com as quatro métricas vistas até agora ([LOC](http://leandrodaniel.com/Code-metrics-(parte-2)-Conhecendo-algumas-metricas), [CC](http://leandrodaniel.com/Code-metrics-(parte-2)-Conhecendo-algumas-metricas), Ce e Ca), diversas informações interessantes podem ser extraídas do seu código fonte. No próximo post, veremos como combinar essas métricas para criarmos medidas de qualidade. Até lá! 😉

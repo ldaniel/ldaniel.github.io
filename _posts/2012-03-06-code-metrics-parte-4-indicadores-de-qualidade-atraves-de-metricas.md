@@ -17,16 +17,16 @@ Até aqui vimos um pequeno conjunto de métricas simples que podem ser extraída
 
 | **Métrica** | **Descrição** | **O que ela mostra?** |
 |---|---|---|
-| [LOC](http://leandrodaniel.com/index.php/Code-metrics-(parte-2)-Conhecendo-algumas-metricas) | linhas de código | contagem do número de linhas (classe, método ou *assembly*) |
-| [CC](http://leandrodaniel.com/index.php/Code-metrics-(parte-2)-Conhecendo-algumas-metricas) | complexidade ciclomática | contagem do número de caminhos de execução possíveis dentro de um código (comumente usado em métodos) |
-| [Ca](http://leandrodaniel.com/index.php/Code-metrics-(parte-3)-Medindo-acoplamento) | acoplamento aferente | representa a contagem de quantas classes diferentes referem-se à classe atual, por meio de campos ou parâmetros |
-| [Ce](http://leandrodaniel.com/index.php/Code-metrics-(parte-3)-Medindo-acoplamento) | acoplamento eferente | representa a contagem de quantas classes diferentes a classe atual faz referência, por meio de campos ou parâmetros |
+| [LOC](http://leandrodaniel.com/Code-metrics-(parte-2)-Conhecendo-algumas-metricas) | linhas de código | contagem do número de linhas (classe, método ou *assembly*) |
+| [CC](http://leandrodaniel.com/Code-metrics-(parte-2)-Conhecendo-algumas-metricas) | complexidade ciclomática | contagem do número de caminhos de execução possíveis dentro de um código (comumente usado em métodos) |
+| [Ca](http://leandrodaniel.com/Code-metrics-(parte-3)-Medindo-acoplamento) | acoplamento aferente | representa a contagem de quantas classes diferentes referem-se à classe atual, por meio de campos ou parâmetros |
+| [Ce](http://leandrodaniel.com/Code-metrics-(parte-3)-Medindo-acoplamento) | acoplamento eferente | representa a contagem de quantas classes diferentes a classe atual faz referência, por meio de campos ou parâmetros |
 
-Tendo em mente a diferença entre [medida, métrica e indicador](http://leandrodaniel.com/index.php/Code-metrics-(parte-1)-Um-aliado-do-arquiteto), estamos habilitados a compor alguns itens interessantes como, por exemplo, um indicador de qualidade. Sendo assim, que rufem os tambores, pois veremos um exemplo de…
+Tendo em mente a diferença entre [medida, métrica e indicador](http://leandrodaniel.com/Code-metrics-(parte-1)-Um-aliado-do-arquiteto), estamos habilitados a compor alguns itens interessantes como, por exemplo, um indicador de qualidade. Sendo assim, que rufem os tambores, pois veremos um exemplo de…
 
 ### Indicador de "nível de instabilidade de um assembly"
 
-Embalado pela pergunta feita pelo mestre [@vsenger](http://twitter.com/vsenger) nos [comentários do post anterior](http://leandrodaniel.com/index.php/Code-metrics-(parte-3)-Medindo-acoplamento.aspx#id_1d78d79a-252a-4160-86f4-96fc51a387d5), vou focar o exemplo na análise de componentes (estou considerando que os mesmos estão divididos fisicamente em *assemblies*, ou logicamente em namespaces – para linguagens como Java ou C#).
+Embalado pela pergunta feita pelo mestre [@vsenger](http://twitter.com/vsenger) nos [comentários do post anterior](http://leandrodaniel.com/Code-metrics-(parte-3)-Medindo-acoplamento.aspx#id_1d78d79a-252a-4160-86f4-96fc51a387d5), vou focar o exemplo na análise de componentes (estou considerando que os mesmos estão divididos fisicamente em *assemblies*, ou logicamente em namespaces – para linguagens como Java ou C#).
 
 Além de ser viável medir o acoplamento, complexidade e tamanho de *assemblies* utilizando as 4 métricas apresentadas, é possível combiná-las a fim de obter a compreensão de uma determinada característica do software. Para compreendermos a criação de um indicador, é necessário aplicar diversas disciplinas que orientam e embasam as atividades envolvidas nessa tarefa. Uma alternativa é utilizar indicadores de mercado, que já foram trabalhados e validados em contextos semelhantes ao que você pretende utilizar.
 

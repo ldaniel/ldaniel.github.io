@@ -16,7 +16,7 @@ tags:
 
 Numa mescla entre o que já estudei a respeito e a vivência como arquiteto ([primeiro como consultor e agora dentro de uma instituição financeira internacional](http://leandrodaniel.com/page/sobre)), colocarei nessa série de posts diversos conceitos, percepções e fatos relacionados com os papéis de um arquiteto de TI (ou de negócio).
 
-Se você não está familiarizado com a nomenclatura utilizada para definir os possíveis tipos de arquiteto dentro de uma empresa, antes de iniciar, sugiro fortemente a leitura [desse post](http://leandrodaniel.com/index.php/Refletindo-sobre-funcoes-e-niveis-de-arquitetura-em-uma-empresa). Nele os tipos mais comuns de arquiteto são delineados.
+Se você não está familiarizado com a nomenclatura utilizada para definir os possíveis tipos de arquiteto dentro de uma empresa, antes de iniciar, sugiro fortemente a leitura [desse post](http://leandrodaniel.com/Refletindo-sobre-funcoes-e-niveis-de-arquitetura-em-uma-empresa). Nele os tipos mais comuns de arquiteto são delineados.
 
 ### Qual o alcance da minha visão?
 

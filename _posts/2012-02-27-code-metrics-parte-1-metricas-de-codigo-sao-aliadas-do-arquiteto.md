@@ -54,7 +54,7 @@ As métricas podem ser categorizadas de maneiras diferentes, tais como métricas
 
 ### Enfim, uma grande aliada do arquiteto de software!
 
-Claro, até mesmo desenvolvedores, analistas de teste, analistas de sistema, líderes técnicos (e pasmem, até mesmo gerentes de projeto) ou qualquer outro membro de um time pode se beneficiar das métricas de software. Contudo, elas são especialmente interessantes para um arquiteto de software (aqui, reforço o **arquiteto de software** por [acreditar que seria o papel mais coerente para tal](http://leandrodaniel.com/index.php/Refletindo-sobre-funcoes-e-niveis-de-arquitetura-em-uma-empresa)).
+Claro, até mesmo desenvolvedores, analistas de teste, analistas de sistema, líderes técnicos (e pasmem, até mesmo gerentes de projeto) ou qualquer outro membro de um time pode se beneficiar das métricas de software. Contudo, elas são especialmente interessantes para um arquiteto de software (aqui, reforço o **arquiteto de software** por [acreditar que seria o papel mais coerente para tal](http://leandrodaniel.com/Refletindo-sobre-funcoes-e-niveis-de-arquitetura-em-uma-empresa)).
 
 > Idealmente, os dados necessários para se estabelecer uma linha básica foram compilados continuamente. Infelizmente, isso raramente acontece. Por conseguinte, a coleta de dados requer uma investigação histórica dos projetos passados para se reconstruir os dados exigidos. Logo que os dados foram coletados, a computação das métricas é possível. A avaliação dos dados concentra-se nas razões subjacentes para os resultados obtidos.
 

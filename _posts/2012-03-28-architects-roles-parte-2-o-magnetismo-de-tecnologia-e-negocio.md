@@ -14,7 +14,7 @@ tags:
     - Carreira
 ---
 
-Vimos como a diferença de atuação entre os [tipos de arquiteto](http://leandrodaniel.com/index.php/Refletindo-sobre-funcoes-e-niveis-de-arquitetura-em-uma-empresa) determina o [alcance de suas visões](http://leandrodaniel.com/index.php/Architects-roles-(parte-1)-) numa organização. Evidentemente, a própria estrutura organizacional, seu tamanho, área de atuação e abrangência, fundamentará a necessidade de um ou mais papéis de arquitetura.
+Vimos como a diferença de atuação entre os [tipos de arquiteto](http://leandrodaniel.com/Refletindo-sobre-funcoes-e-niveis-de-arquitetura-em-uma-empresa) determina o [alcance de suas visões](http://leandrodaniel.com/Architects-roles-(parte-1)-) numa organização. Evidentemente, a própria estrutura organizacional, seu tamanho, área de atuação e abrangência, fundamentará a necessidade de um ou mais papéis de arquitetura.
 
 Embora a ideia de "papel" (e não, "cargo") agrade os mais jovens e/ou menos experientes na área de TI, é fato que em determinadas circunstâncias existe um atrito de interesses latente.
 

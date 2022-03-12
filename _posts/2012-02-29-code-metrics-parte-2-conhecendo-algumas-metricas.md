@@ -13,7 +13,7 @@ tags:
     - Arquitetura
 ---
 
-Se você ainda não se convenceu de que [métricas de código são aliadas de um arquiteto](http://leandrodaniel.com/index.php/Code-metrics-(parte-1)-Um-aliado-do-arquiteto), conheça nos tópicos a seguir 2 exemplos simples.
+Se você ainda não se convenceu de que [métricas de código são aliadas de um arquiteto](http://leandrodaniel.com/Code-metrics-(parte-1)-Um-aliado-do-arquiteto), conheça nos tópicos a seguir 2 exemplos simples.
 
 ### Lines of Code (SLOC, LOC, ou linhas de código)
 
@@ -39,7 +39,7 @@ Ah, você não tem gerente? Não dá manutenção em sistemas desse “quilate�
 - Utilizadas para comparar a produtividade de diferentes técnicas e tecnologias;
 - Entender e aperfeiçoar o processo de desenvolvimento;
 - Determinar parâmetros como quantidade de teste necessário e impacto de mudanças;
-- E várias outras razões [explicadas aqui](http://leandrodaniel.com/index.php/code-metrics-parte-1-metricas-de-codigo-sao-aliadas-do-arquiteto/).
+- E várias outras razões [explicadas aqui](http://leandrodaniel.com/code-metrics-parte-1-metricas-de-codigo-sao-aliadas-do-arquiteto/).
 
 Quer ver outra medida transuda para usar no cenário acima?
 

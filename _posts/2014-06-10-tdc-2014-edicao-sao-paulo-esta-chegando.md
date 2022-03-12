@@ -16,7 +16,7 @@ tags:
     - Eventos
 ---
 
-[![TDC 2014](http://leandrodaniel.com/wp-content/uploads/2014/06/logo-tdc2014-vertical-preto_120x100.png "TDC 2014")](http://www.thedevelopersconference.com.br)O TDC ([The Developer’s Conference](http://www.thedevelopersconference.com.br/)) é um evento organizado pela [Globalcode](http://www.globalcode.com.br/) sob o comando do competente casal [Vinicius Senger](http://twitter.com/vsenger) e [Yara Senger](http://twitter.com/yarasenger). Conhecido por muitos carinhosamente como a “Woodstock de Tecnologia”, o TDC é uma oportunidade fantástica para mergulhar na comunidade de TI e ficar por dentro de diversos assuntos relacionados.
+[![TDC 2014](/wp-content/uploads/2014/06/logo-tdc2014-vertical-preto_120x100.png "TDC 2014")](http://www.thedevelopersconference.com.br)O TDC ([The Developer’s Conference](http://www.thedevelopersconference.com.br/)) é um evento organizado pela [Globalcode](http://www.globalcode.com.br/) sob o comando do competente casal [Vinicius Senger](http://twitter.com/vsenger) e [Yara Senger](http://twitter.com/yarasenger). Conhecido por muitos carinhosamente como a “Woodstock de Tecnologia”, o TDC é uma oportunidade fantástica para mergulhar na comunidade de TI e ficar por dentro de diversos assuntos relacionados.
 
 ## Sobre o evento
 

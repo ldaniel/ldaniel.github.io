@@ -13,9 +13,9 @@ tags:
     - Arquitetura
 ---
 
-A essa altura, espero tê-lo convencido de que [<span style="color: #2970a6">métricas de código são aliadas de um arquiteto</span>](http://leandrodaniel.com/index.php/Code-metrics-(parte-1)-Um-aliado-do-arquiteto). Já conhecemos as métricas [<span style="color: #2970a6">LOC e CC</span>](http://leandrodaniel.com/index.php/Code-metrics-(parte-2)-Conhecendo-algumas-metricas), e através de outras duas métricas apresentadas ([Ca e Ce](http://leandrodaniel.com/index.php/Code-metrics-(parte-3)-Medindo-acoplamento)) entendemos como o indicador [I (instability)](http://leandrodaniel.com/index.php/Code-metrics-(parte-4)-Medindo-Qualidade) é produzido.
+A essa altura, espero tê-lo convencido de que [<span style="color: #2970a6">métricas de código são aliadas de um arquiteto</span>](http://leandrodaniel.com/Code-metrics-(parte-1)-Um-aliado-do-arquiteto). Já conhecemos as métricas [<span style="color: #2970a6">LOC e CC</span>](http://leandrodaniel.com/Code-metrics-(parte-2)-Conhecendo-algumas-metricas), e através de outras duas métricas apresentadas ([Ca e Ce](http://leandrodaniel.com/Code-metrics-(parte-3)-Medindo-acoplamento)) entendemos como o indicador [I (instability)](http://leandrodaniel.com/Code-metrics-(parte-4)-Medindo-Qualidade) é produzido.
 
-No [post anterior](http://leandrodaniel.com/index.php/Code-metrics-(parte-4)-Medindo-Qualidade), chegamos a conclusão que de nada adianta coletarmos uma métrica ou indicador se não soubermos exatamente o que queremos analisar. Do contrário, podemos até mesmo ser induzidos a interpretações errôneas a respeito do nosso software. Considero essa a questão mais importante quando lidamos com métricas.
+No [post anterior](http://leandrodaniel.com/Code-metrics-(parte-4)-Medindo-Qualidade), chegamos a conclusão que de nada adianta coletarmos uma métrica ou indicador se não soubermos exatamente o que queremos analisar. Do contrário, podemos até mesmo ser induzidos a interpretações errôneas a respeito do nosso software. Considero essa a questão mais importante quando lidamos com métricas.
 
 Em alguns casos, é necessário "calibramos" as métricas de acordo com a realidade presente no contexto em que o software está envolvido. Exemplo: o resultado "0.7689" de (I) em um assembly pode ser aceitável no caso de um framework, mas ruim para um CRUD.
 
@@ -23,7 +23,7 @@ A genial figura abaixo, criada por [Thom Holwerda](http://www.osnews.com/user/ui
 
 [![wtfm](/assets/pics/wtfm.jpg "wtfm")](http://www.osnews.com/story/19266/WTFs_m)
 
-Interessante notar que, apesar de ser uma piada, a métrica acima poderia ser válida se o contexto assim exigisse. Dependendo da situação, teremos que compor um indicador utilizando vários outros. No exemplo que vimos no [post anterior](http://leandrodaniel.com/index.php/Code-metrics-(parte-4)-Medindo-Qualidade), utilizamos o indicador (I), contudo, não determinamos com antecedência qual análise gostaríamos de fazer.
+Interessante notar que, apesar de ser uma piada, a métrica acima poderia ser válida se o contexto assim exigisse. Dependendo da situação, teremos que compor um indicador utilizando vários outros. No exemplo que vimos no [post anterior](http://leandrodaniel.com/Code-metrics-(parte-4)-Medindo-Qualidade), utilizamos o indicador (I), contudo, não determinamos com antecedência qual análise gostaríamos de fazer.
 
 Proponho agora definirmos como objetivo a seguinte análise para o exemplo mencionado:
 
