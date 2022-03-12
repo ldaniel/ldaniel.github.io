@@ -83,7 +83,7 @@ Além do [SDK para .NET](http://go.microsoft.com/fwlink/?LinkID=129448) ainda é
 
 ![WindowsAzure](/assets/pics/WindowsLiveWriter/Urdindooconhecimento_115AC/WindowsAzure_b5c5cda5-eada-420d-8bd5-71b9b2243aa3.png)
 
-Finalmente, o Windows Azure consolida a grandiosa estratégia da Microsoft, disponibilizando plataformas como serviço na Internet, as famosas “nuvens”. Escrevei um pequeno [post sobre Azure](http://www.leandrodaniel.com/category/Azure), indicando um caminho para iniciar os estudos desta nova plataforma.
+Finalmente, o Windows Azure consolida a grandiosa estratégia da Microsoft, disponibilizando plataformas como serviço na Internet, as famosas “nuvens”. Escrevei um pequeno [post sobre Azure](tags/#azure), indicando um caminho para iniciar os estudos desta nova plataforma.
 
 A minha grande dúvida é se os preços de contratação do Azure serão realmente atrativos, por isso acredito que o SQL Services será o serviço de aceitação mais imediata, até mesmo pela quebra de paradigma que esta plataforma requer. O desenho a seguir ilustra o Azure com todos os seus componentes atuais:
 

@@ -13,7 +13,7 @@ tags:
     - 'Off'
 ---
 
-Tive a oportunidade de assistir nesse mês uma palestra do Fábio Akita sobre *[Rails para arquitetos .NET](http://www.leandrodaniel.com//post/Sexto-encontro-do-grupo-Net-Architects)*, onde num dado momento ele comentou sobre algumas linguagens de programação, digamos, um tanto exóticas, como o *brainfuck* e o *whitespace*.
+Tive a oportunidade de assistir nesse mês uma palestra do Fábio Akita sobre *[Rails para arquitetos .NET](/sexto-encontro-do-grupo-net-architects/)*, onde num dado momento ele comentou sobre algumas linguagens de programação, digamos, um tanto exóticas, como o *brainfuck* e o *whitespace*.
 
 O *brainfuck* possui apenas 8 comandos, sendo eles:
 

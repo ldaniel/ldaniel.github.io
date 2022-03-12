@@ -13,7 +13,7 @@ tags:
     - 'SQL Server'
 ---
 
-Na semana passada publiquei os três primeiros posts da série sobre as novidades do SQL Server 2008, nesta semana darei continuidade falando sobre os novos tipos de dados para armazenamento de data e hora. Para acessar os demais posts desta série [clique neste link](http://www.leandrodaniel.com//?tag=/sql+server+2008).
+Na semana passada publiquei os três primeiros posts da série sobre as novidades do SQL Server 2008, nesta semana darei continuidade falando sobre os novos tipos de dados para armazenamento de data e hora. Para acessar os demais posts desta série [clique neste link](tags/#sql-server).
 
 **DATA TYPES**
 

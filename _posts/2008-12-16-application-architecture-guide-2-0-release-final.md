@@ -13,6 +13,6 @@ tags:
     - Arquitetura
 ---
 
-Mês passado coloquei aqui no blog um [post sobre o Application Architecture Guide 2.0](/blog/post/Application-Architecture-Guide-20-(beta-2)), bem a novidade é que ontem saiu o release final no [CodePlex](http://www.codeplex.com/AppArchGuide).
+Mês passado coloquei aqui no blog um [post sobre o Application Architecture Guide 2.0](application-architecture-guide-2-0-beta-2/), bem a novidade é que ontem saiu o release final no [CodePlex](http://www.codeplex.com/AppArchGuide).
 
 Boa leitura!

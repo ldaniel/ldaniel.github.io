@@ -13,7 +13,7 @@ tags:
     - 'SQL Server'
 ---
 
-No último post da [série sobre as novidades do SQL Server 2008](http://www.leandrodaniel.com/?tag=/sql+server+2008) abordei os aprimoramentos para os *data types* de data e hora. Hoje veremos o novo tipo *Hierarchyid* e sua aplicação.
+No último post da [série sobre as novidades do SQL Server 2008](tags/#sql-server) abordei os aprimoramentos para os *data types* de data e hora. Hoje veremos o novo tipo *Hierarchyid* e sua aplicação.
 
  **HIERARCHYID**
 

@@ -13,7 +13,7 @@ tags:
     - 'SQL Server'
 ---
 
-Dando continuidade na série de posts sobre as melhorias de desenvolvimento do SQL Server 2008 falarei hoje sobre o *Row Constructors*. Para quem não leu os posts anteriores, é possível acessar todos os posts desta série [clicando aqui](/blog/?tag=/sql+server+2008).
+Dando continuidade na série de posts sobre as melhorias de desenvolvimento do SQL Server 2008 falarei hoje sobre o *Row Constructors*. Para quem não leu os posts anteriores, é possível acessar todos os posts desta série [clicando aqui](tags/#sql-server).
 
 **ROW CONSTRUCTORS**
 

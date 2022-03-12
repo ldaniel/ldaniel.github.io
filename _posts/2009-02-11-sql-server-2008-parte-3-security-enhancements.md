@@ -15,7 +15,7 @@ tags:
 
 Hoje abordarei algumas melhorias relacionadas ao uso de criptografia no SQL Server 2008. Seguindo a linha dos posts anteriores, apresentarei os conceitos de uma maneira simples e objetiva já que é possível estudar com profundidade todos os assuntos abordados aqui no [SQL Server Books Online](http://msdn.microsoft.com/en-us/library/ms130214).
 
-Para acessar os demais posts desta série [clique neste link](http://www.leandrodaniel.com/?tag=/sql+server+2008).
+Para acessar os demais posts desta série [clique neste link](tags/#sql-server).
 
  **ENCRYPTION**
 

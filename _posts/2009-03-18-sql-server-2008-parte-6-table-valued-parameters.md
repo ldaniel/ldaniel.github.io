@@ -13,7 +13,7 @@ tags:
     - 'SQL Server'
 ---
 
-Em meu último post da [série sobre as novidades do SQL Server 2008](http://www.leandrodaniel.com/?tag=/sql+server+2008) o tema foi o *Hierarchyid*, hoje falarei sobre outro recurso de desenvolvimento introduzido na nova versão do SQL Server: Table-Valued Parameters.
+Em meu último post da [série sobre as novidades do SQL Server 2008](/tags/#sql-server) o tema foi o *Hierarchyid*, hoje falarei sobre outro recurso de desenvolvimento introduzido na nova versão do SQL Server: Table-Valued Parameters.
 
  **TABLE-VALUED PARAMETERS**
 

@@ -13,7 +13,7 @@ tags:
     - Informativo
 ---
 
-Após um mês sem escrever [sobre as novidades do SQL Server 2008](http://www.leandrodaniel.com//?tag=/sql+server+2008) volto a partir de amanhã a publicar novos posts da série. A pausa foi necessária para que eu focasse em alguns projetos inéditos para mim, nesse tempo também fiz um breve descanso de 10 dias (também conhecido como férias-de-profissional-de-TI).
+Após um mês sem escrever [sobre as novidades do SQL Server 2008](/tags/#sql-server) volto a partir de amanhã a publicar novos posts da série. A pausa foi necessária para que eu focasse em alguns projetos inéditos para mim, nesse tempo também fiz um breve descanso de 10 dias (também conhecido como férias-de-profissional-de-TI).
 
 Em breve comentarei aqui no Reverb sobre esses projetos, aguardem! Abaixo deixo um Photosynth de um painel que fotografei nas férias… 🙂
 
