@@ -13,4 +13,4 @@ tags:
     - Distortion
 ---
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/j7LIuLUgua8&hl" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/j7LIuLUgua8" frameborder="0" allowfullscreen></iframe>
