@@ -18,6 +18,6 @@ Participei ontem na UNIP do sexto encontro do grupo de estudos de arquitetura [.
 
 A versão para .Net, o [Iron Ruby](http://www.ironruby.net/), deverá ser lançada ainda esse ano, segundo informações. Com certeza irei conferir e tentar amadurecer os conceitos tão diferentes do que estou acostumado em programação.
 
-![ironruby](http://leandrodaniel.com/pics/WindowsLiveWriter/Sextoencontrodogrupo.NetArchitects_AD25/ironruby_99991c2f-ecab-4240-82a9-38780c763c5d.png "ironruby")
+![ironruby](/assets/pics/WindowsLiveWriter/Sextoencontrodogrupo.NetArchitects_AD25/ironruby_99991c2f-ecab-4240-82a9-38780c763c5d.png "ironruby")
 
 Deixo aqui o meu agradecimento ao [Rafael Rosa](http://www.rafaelrosafu.com/) pela apresentação inicial e ao Akita por trazer-nos essa nova perspectiva de desenvolvimento em linguagens dinâmicas. A reunião, como de costume, foi gravada e tão logo esteja disponível o link para o vídeo eu publico aqui no Reverb.

@@ -17,7 +17,7 @@ Acabei de criar uma aplicação em [Silverlight 2](http://www.microsoft.com/SILV
 
 Para desenvolvimento da imagem panorâmica utilizei o [Deep Zoom Composer](http://www.microsoft.com/downloads/details.aspx?familyid=457b17b7-52bf-4bda-87a3-fa8a4673f8bf&displaylang=en), que após 3 passos simples (Import, Compose e Export) gerou-me no final uma solution do Visual Studio .Net 2008 completa e prontinha para uso… "cacilds!". É interessante ressaltar que o Deep Zoom Composer foi capaz de fazer uma composição panorâmica a partir de 6 imagens – as fotos utilizadas foram feitas hoje mesmo na Avenida Paulista, perto de onde trabalho, e como utilizei uma resolução baixa as imagens não ficaram muito detalhadas. É possível criar uma composição de imagens final de, por exemplo, 200MB de tamanho sem carregá-las de uma vez só, isso porque a imagem é quebrada em inúmeros pedaços menores e carregadas na medida que são necessárias.
 
-Quem tiver interesse que eu poste um passo a passo detalhado de todo o processo é só entrar em [contato](http://www.leandrodaniel.com//contact) comigo ou deixar um comentário aqui.
+Quem tiver interesse que eu poste um passo a passo detalhado de todo o processo é só entrar em [contato](http://www.leandrodaniel.com/contact) comigo ou deixar um comentário aqui.
 
 Para que a experiência fique mais lúdica coloquei uma imagem escondida na panorâmica abaixo, você seria capaz de encontrá-la? Navegue na imagem abaixo utilizando o botão esquerdo do mouse para arrastar e o scrool para dar zoom. Boa diversão!
 
