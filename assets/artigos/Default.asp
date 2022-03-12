@@ -1,0 +1,1 @@
+<% Response.Redirect("http://reverb.leandrodaniel.com/reverb/page/artigos.aspx") %>
