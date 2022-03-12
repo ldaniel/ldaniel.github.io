@@ -30,9 +30,9 @@ Muitos foram os assuntos tratados, durante os meses de fevereiro e março aprese
 [SQL Server 2008 (parte 9) – Compound Operators](/SQL-Server-2008-(parte-9)-e28093-Compound-Operators)   
 [SQL Server 2008 (parte 10) – Report Builder 2.0](/SQL-Server-2008-(parte-10)-e28093-Report-Builder-20)
 
-Em abril e maio foi a vez de série tratando sobre [Enterprise Library](/tags/#enterprise-library) com foco no [Unity](http://www.leandrodaniel.com/?tag=/inje%c3%a7%c3%a3o+de+depend%c3%aancia).
+Em abril e maio foi a vez de série tratando sobre [Enterprise Library](/tags/#enterprise-library) com foco no [Unity](/tags/#c).
 
- [EntLib (parte 1) – Organizando os arquivos de configuração](/EntLib-(parte-1)-e28093-Organizando-os-arquivos-de-configuracao)   
+[EntLib (parte 1) – Organizando os arquivos de configuração](/EntLib-(parte-1)-e28093-Organizando-os-arquivos-de-configuracao)   
 [EntLib (parte 2) – Melhore a performance de suas consultas](/EntLib-(parte-2)-e28093-Melhore-a-performance-de-suas-consultas)   
 [EntLib (parte 3) – Instrumentação de código](/EntLib-(parte-3)-e28093-Instrumentacao-de-codigo)   
 [EntLib (parte 4) – Como criptografar valores de configurações](/EntLib-(parte-4)-e28093-Como-criptografar-valores-de-configuracoes)   
@@ -40,6 +40,6 @@ Em abril e maio foi a vez de série tratando sobre [Enterprise Library](/tags/#e
 [EntLib (parte 6) – Interceptação de chamada de interface com o Unity](/EntLib-(parte-6)-e28093-Interceptacao-de-chamada-de-interface-com-o-Unity)   
 [EntLib (parte 7) – Configurando InterceptionExtension no Unity](/EntLib-(parte-7)-e28093-Configurando-InterceptionExtension-no-Unity)
 
-Outros temas também estiveram presentes: [arquitetura de software](http://www.leandrodaniel.com/?tag=/arquitetura), [SharePoint](http://www.leandrodaniel.com/?tag=/sharepoint), comunidades de tecnologia como o [.NET Architects](http://www.leandrodaniel.com/?tag=/.net+architects), [padrões de projeto](http://www.leandrodaniel.com/?tag=/patterns+%26+practices), [Windows Live](http://www.leandrodaniel.com/?tag=/windows+live), [AOP](http://www.leandrodaniel.com/?tag=/aop), entre outros. O blog motivou-me a escrever artigos maiores, como por exemplo, [os que foram publicados na revista .net Magazine](/categories/#articles).
+Outros temas também estiveram presentes: [arquitetura de software](/tags/#arquitetura), [SharePoint](/tags/#sharepoint), comunidades de tecnologia como o [.NET Architects](/tags/#net-architects), [padrões de projeto](/tags/#patterns-practices), [Windows Live](/tags/#windows), [AOP](/tags/#pt-br), entre outros. O blog motivou-me a escrever artigos maiores, como por exemplo, [os que foram publicados na revista .net Magazine](/categories/#articles).
 
 Se você quer assinar os feeds do Reverb, [utilize esse link](http://feeds.feedburner.com/lodreverb). Também é possível entrar em contato comigo [por aqui](/contact/). Aos leitores do blog, gostaria de deixar expresso aqui o meu agradecimento! Rumo aos 200 posts!
