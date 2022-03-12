@@ -35,6 +35,6 @@ Algumas considerações importantes sobre *Sparce Columns*:
 - Uma coluna calculada não pode ser declarada com *Sparse Column*;
 - Não pode fazer parte de um índice;
 
-Pelo fato das colunas do tipo *Sparse* aumentarem a sobrecarga de consulta para valores não nulos você deve considerar sua utilização quando o espaço ganho for de 20% a 40%, pelo menos. Um boa opção é a utilização em conjunto com [Filtered Indexes](http://www.leandrodaniel.com/post/SQL-Server-2008-(parte-7)-e28093-Filtered-Indexes), pois é possível indexar apenas linhas que contenham valores preenchidos criando um índice menor.
+Pelo fato das colunas do tipo *Sparse* aumentarem a sobrecarga de consulta para valores não nulos você deve considerar sua utilização quando o espaço ganho for de 20% a 40%, pelo menos. Um boa opção é a utilização em conjunto com [Filtered Indexes](/sql-server-2008-parte-7-filtered-indexes/), pois é possível indexar apenas linhas que contenham valores preenchidos criando um índice menor.
 
-Até o próximo post da [série](http://www.leandrodaniel.com/?tag=/sql+server+2008).
+Até o próximo post da [série](tags/#sql-server).

@@ -14,12 +14,12 @@ tags:
     - 'Enterprise Library'
 ---
 
-Aproveitando o embalo do meu post dessa semana sobre o [padrão de injeção de dependência](http://www.leandrodaniel.com/post/O-exemplo-da-Injecao-de-Dependencia-na-tomada-de-decisao-de-um-arquiteto), vamos ver o bloco da Enterprise Library responsável por prover essa funcionalidade, chamado *Unity Application Block*. Criado inicialmente como um projeto separado no [CodePlex](http://www.codeplex.com/unity) foi incorporado a Enterprise Library na versão 4.0.
+Aproveitando o embalo do meu post dessa semana sobre o [padrão de injeção de dependência](/o-exemplo-da-injecao-de-dependencia-na-tomada-de-decisao-de-um-arquiteto), vamos ver o bloco da Enterprise Library responsável por prover essa funcionalidade, chamado *Unity Application Block*. Criado inicialmente como um projeto separado no [CodePlex](http://www.codeplex.com/unity) foi incorporado a Enterprise Library na versão 4.0.
 
 No exemplo de código abaixo a classe ***Servico*** utiliza a classe ***TraceSourceLogger*** para registrar os passos executados na inicialização e paralização, ou seja, a classe ***Servico*** conhece e depende da classe concreta ***TraceSourceLogger***.
 
-```
-<pre class="brush: csharp;">public class Servico
+```csharp
+public class Servico
 {
     private TraceSourceLogger logger;
 
@@ -56,8 +56,7 @@ Uma boa prática aqui é fazer com que ao invés de instanciarmos diretamente a 
 
 Em seguida utilizamos o *Unity* para resolver as chamadas às classes concretas da seguinte forma. Primeiro adicionamos no arquivo de configuração do projeto as configurações abaixo:
 
-```
-<pre class="brush: xml;"><?xml version="1.0" encoding="utf-8" ?>
+```xml
 <configuration>
     <configSections>
         <section name="unity" type="Microsoft.Practices.Unity.Configuration.UnityConfigurationSection, Microsoft.Practices.Unity.Configuration" />
@@ -90,8 +89,8 @@ Em seguida utilizamos o *Unity* para resolver as chamadas às classes concretas 
 
 No arquivo acima indicamos quais os tipos desejados e como o container deve resolver a implementação concreta para a interface *ILogger*. Depois, alteraríamos a classe ***Servico*** conforme exemplo a seguir:
 
-```
-<pre class="brush: csharp;">public class Servico
+```csharp
+public class Servico
 {
     private IUnityContainer container;
     private UnityConfigurationSection section;
@@ -129,7 +128,7 @@ Note que no código acima não definimos em momento algum qual seria a implement
 
 Se quiséssemos agora alterar a implementação de classe concreta que resolveria o log bastaria modificar no arquivo de configuração, como no exemplo a seguir:
 
-```
+```xml
 <pre class="brush: xml;"><containers>
     <container>
         <types>

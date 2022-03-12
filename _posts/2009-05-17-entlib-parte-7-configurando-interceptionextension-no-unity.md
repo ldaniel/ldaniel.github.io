@@ -13,7 +13,7 @@ tags:
     - 'Enterprise Library'
 ---
 
-No meu [último post da série sobre a Enterprise Library](http://www.leandrodaniel.com//post/EntLib-(parte-6)-e28093-Interceptacao-de-chamada-de-interface-com-o-Unity) expliquei como podemos utilizar a extensão de biblioteca ***InterceptionExtension*** do Unity para aplicar interceptação na chamada da interface ***ILogger*** aplicando uma característica **AOP** no *container*. O exemplo levava em consideração que a definição fosse realizada em tempo de execução. Veremos agora como podemos modificar o exemplo anterior colocando todas as definições no arquivo de configuração da aplicação.
+No meu [último post da série sobre a Enterprise Library](/tags/#enterprise-library) expliquei como podemos utilizar a extensão de biblioteca ***InterceptionExtension*** do Unity para aplicar interceptação na chamada da interface ***ILogger*** aplicando uma característica **AOP** no *container*. O exemplo levava em consideração que a definição fosse realizada em tempo de execução. Veremos agora como podemos modificar o exemplo anterior colocando todas as definições no arquivo de configuração da aplicação.
 
 Dentro do arquivo de configuração, adicione dentro da sessão ***typeAliases*** os tipos descritos abaixo:
 

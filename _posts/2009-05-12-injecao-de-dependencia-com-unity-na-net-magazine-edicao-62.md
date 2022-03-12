@@ -22,4 +22,4 @@ Saiu nas bancas essa semana a [edição 62 da revista .net Magazine](http://www.
 
 Fiquei muito feliz com a oportunidade de contribuir falando sobre boas práticas e padrões de projeto, e espero que o artigo seja útil para você. A revista traz na capa o tema Azure, LINQ &amp; ADO.NET Data Services, abordado pelo [Giovanni Bassi](http://unplugged.giggio.net) (um dos maiores colaboradores atuais da comunidade brasileira de .NET), além de outros artigos interessantes. Enfim, vale a leitura.
 
-Se você quiser enviar alguma dúvida sobre o artigo, fique a vontade para [entrar em contato comigo](http://www.leandrodaniel.com/contact).
+Se você quiser enviar alguma dúvida sobre o artigo, fique a vontade para [entrar em contato comigo](/contact/).

@@ -47,8 +47,8 @@ GO
 
 Criaremos agora um índice com filtro, da seguinte forma:
 
-```
-<pre class="brush: sql;">CREATE NONCLUSTERED INDEX TipoColabIndex 
+```SQL
+CREATE NONCLUSTERED INDEX TipoColabIndex 
 ON dbo.Colaborador(TipoColaborador)
 WHERE TipoColaborador = 1;
 GO

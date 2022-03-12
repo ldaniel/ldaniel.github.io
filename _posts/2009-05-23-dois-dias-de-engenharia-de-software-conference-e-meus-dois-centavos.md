@@ -13,7 +13,7 @@ tags:
     - Eventos
 ---
 
-Terminou hoje a ***Engenharia de Software Conference***, e [como comentei aqui](http://www.leandrodaniel.com//post/Engenharia-de-Software-Conference), tive a oportunidade de assistir palestras muito interessantes, sob diversos aspectos. O evento contou com três salas com palestras simultâneas, e como haviam alguns amigos do .Net Architects presentes ficou fácil trocar informações sobre as palestras em tempo real (cheguei a mudar de palestra após uma troca de torpedos).
+Terminou hoje a ***Engenharia de Software Conference***, e [como comentei aqui](/engenharia-de-software-conference), tive a oportunidade de assistir palestras muito interessantes, sob diversos aspectos. O evento contou com três salas com palestras simultâneas, e como haviam alguns amigos do .Net Architects presentes ficou fácil trocar informações sobre as palestras em tempo real (cheguei a mudar de palestra após uma troca de torpedos).
 
  **Dia 1**
 
