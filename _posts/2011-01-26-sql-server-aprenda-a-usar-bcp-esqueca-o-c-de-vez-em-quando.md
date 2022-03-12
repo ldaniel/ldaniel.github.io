@@ -26,7 +26,7 @@ Claro, existem inúmeras perspectivas e itens que podemos analisar sobre esses d
 - Aquela frase “Para quem só sabe usar martelo, todo problema é um prego”, também serve para adoção de novas tecnologias. Isso rende um post futuro.
 - Deixar de aplicar uma visão holística sobre um problema pode ser a diferença entre o sucesso e o fracasso de uma aplicação. Isso nos remete a considerar o desenvolvimento em outros tipos de tecnologias e plataformas de desenvolvimento;
 - Ignorar a experiência de programadores mais velhos ou achar que somente as tecnologias atuais são a resposta pode te afastar da melhor solução;
-- Sinto que a falácia de alguns *[Early Adopters](http://www.leandrodaniel.com/post/Inovador-ou-early-adopter)* tem grande culpa nos itens acima citados. Mas isso é assunto para outro post.
+- Sinto que a falácia de alguns *[Early Adopters](/Inovador-ou-early-adopter)* tem grande culpa nos itens acima citados. Mas isso é assunto para outro post.
 
 ### Enfim, onde se encaixa o BCP
 

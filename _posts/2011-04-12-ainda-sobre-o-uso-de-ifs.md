@@ -13,6 +13,6 @@ tags:
     - 'C#'
 ---
 
-Nem precisa de explicações, compare os códigos abaixo. [Aqui tem outro post sobre o assunto](http://www.leandrodaniel.com/post/Voce-se-preocupa-com-os-IFs-suficientemente).
+Nem precisa de explicações, compare os códigos abaixo. [Aqui tem outro post sobre o assunto](/Voce-se-preocupa-com-os-IFs-suficientemente).
 
  <script src="https://gist.github.com/915818.js"> </script>

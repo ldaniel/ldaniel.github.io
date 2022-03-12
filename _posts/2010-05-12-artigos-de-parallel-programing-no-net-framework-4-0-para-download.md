@@ -29,4 +29,4 @@ Pesquisando alguns assuntos relacionados, acabei topando com esse [link para dow
 - When to Use ParallelForEach or PLINQ
 - Workflow and Parallel Extensions in .NET 4.0
 
-Se você leu os artigos, divida suas impressões [postando um comentário aqui](http://www.leandrodaniel.com/post/Artigos-de-Parallel-Programing-no-NET-Framework-40-para-download.aspx#comment).
+Se você leu os artigos, divida suas impressões [postando um comentário aqui](/Artigos-de-Parallel-Programing-no-NET-Framework-40-para-download.aspx#comment).

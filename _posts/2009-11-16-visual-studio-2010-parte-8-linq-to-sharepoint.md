@@ -13,7 +13,7 @@ tags:
     - 'Visual Studio'
 ---
 
-Nos *templates* de projeto para SharePoint 2010 teremos uma grande novidade: LINQ to SharePoint. Ou seja, consultas de informações do SharePoint, [como esta por exemplo](http://www.leandrodaniel.com/post/Coletando-informacoes-de-um-site-SharePoint), poderão ser realizadas com queries LINQ. Sensacional, não?
+Nos *templates* de projeto para SharePoint 2010 teremos uma grande novidade: LINQ to SharePoint. Ou seja, consultas de informações do SharePoint, [como esta por exemplo](/Coletando-informacoes-de-um-site-SharePoint), poderão ser realizadas com queries LINQ. Sensacional, não?
 
 Veja um exemplo simples de código:
 

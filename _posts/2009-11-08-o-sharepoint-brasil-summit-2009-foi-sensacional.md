@@ -27,7 +27,7 @@ As novidades para os desenvolvedores foram muitas, a que causou maior alvoroço 
 
 As palestras iniciais foram ministradas pelo Hélio Sá, Rodolfo Roim e Thiago Cruz num formato bem interessante, onde os três interagiam enquanto as novidades do novo SharePoint eram demonstradas para todos os presentes. Foi realmente bem bacana, pois o evento foi responsável por mostrar em primeira mão o SharePoint 2010 aqui no Brasil, todas as demos utilizadas no evento eram de *builds* de versões pré-beta.
 
-O Office Web Applications foi uma atração a parte. Ver produtos com o **Word**, **Excel**, **PowerPoint** e **Access** sendo utilizados em <u>diversos browsers</u> sem a necessidade instalações no *client* foi demais! Lembro que cheguei a [comentar sobre o Office para web aqui no Reverb](http://www.leandrodaniel.com/post/Teias-urdidas-com-nuvens), e realmente fiquei feliz de conseguir ver isso ainda nesse ano, foi incrível!
+O Office Web Applications foi uma atração a parte. Ver produtos com o **Word**, **Excel**, **PowerPoint** e **Access** sendo utilizados em <u>diversos browsers</u> sem a necessidade instalações no *client* foi demais! Lembro que cheguei a [comentar sobre o Office para web aqui no Reverb](/Teias-urdidas-com-nuvens), e realmente fiquei feliz de conseguir ver isso ainda nesse ano, foi incrível!
 
 Segue uma pequena lista de outras novidades apresentadas no evento:
 

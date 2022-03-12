@@ -32,13 +32,13 @@ Muitos foram os assuntos tratados, durante os meses de fevereiro e março aprese
 
 Em abril e maio foi a vez de série tratando sobre [Enterprise Library](http://www.leandrodaniel.com/?tag=/enterprise+library) com foco no [Unity](http://www.leandrodaniel.com/?tag=/inje%c3%a7%c3%a3o+de+depend%c3%aancia).
 
- [EntLib (parte 1) – Organizando os arquivos de configuração](http://www.leandrodaniel.com/post/EntLib-(parte-1)-e28093-Organizando-os-arquivos-de-configuracao)   
-[EntLib (parte 2) – Melhore a performance de suas consultas](http://www.leandrodaniel.com/post/EntLib-(parte-2)-e28093-Melhore-a-performance-de-suas-consultas)   
-[EntLib (parte 3) – Instrumentação de código](http://www.leandrodaniel.com/post/EntLib-(parte-3)-e28093-Instrumentacao-de-codigo)   
-[EntLib (parte 4) – Como criptografar valores de configurações](http://www.leandrodaniel.com/post/EntLib-(parte-4)-e28093-Como-criptografar-valores-de-configuracoes)   
-[EntLib (parte 5) – Unity Application Block](http://www.leandrodaniel.com/post/EntLib-(parte-5)-e28093-Unity-Application-Block)   
-[EntLib (parte 6) – Interceptação de chamada de interface com o Unity](http://www.leandrodaniel.com/post/EntLib-(parte-6)-e28093-Interceptacao-de-chamada-de-interface-com-o-Unity)   
-[EntLib (parte 7) – Configurando InterceptionExtension no Unity](http://www.leandrodaniel.com/post/EntLib-(parte-7)-e28093-Configurando-InterceptionExtension-no-Unity)
+ [EntLib (parte 1) – Organizando os arquivos de configuração](/EntLib-(parte-1)-e28093-Organizando-os-arquivos-de-configuracao)   
+[EntLib (parte 2) – Melhore a performance de suas consultas](/EntLib-(parte-2)-e28093-Melhore-a-performance-de-suas-consultas)   
+[EntLib (parte 3) – Instrumentação de código](/EntLib-(parte-3)-e28093-Instrumentacao-de-codigo)   
+[EntLib (parte 4) – Como criptografar valores de configurações](/EntLib-(parte-4)-e28093-Como-criptografar-valores-de-configuracoes)   
+[EntLib (parte 5) – Unity Application Block](/EntLib-(parte-5)-e28093-Unity-Application-Block)   
+[EntLib (parte 6) – Interceptação de chamada de interface com o Unity](/EntLib-(parte-6)-e28093-Interceptacao-de-chamada-de-interface-com-o-Unity)   
+[EntLib (parte 7) – Configurando InterceptionExtension no Unity](/EntLib-(parte-7)-e28093-Configurando-InterceptionExtension-no-Unity)
 
 Outros temas também estiveram presentes: [arquitetura de software](http://www.leandrodaniel.com/?tag=/arquitetura), [SharePoint](http://www.leandrodaniel.com/?tag=/sharepoint), comunidades de tecnologia como o [.NET Architects](http://www.leandrodaniel.com/?tag=/.net+architects), [padrões de projeto](http://www.leandrodaniel.com/?tag=/patterns+%26+practices), [Windows Live](http://www.leandrodaniel.com/?tag=/windows+live), [AOP](http://www.leandrodaniel.com/?tag=/aop), entre outros. O blog motivou-me a escrever artigos maiores, como por exemplo, [os que foram publicados na revista .net Magazine](http://www.leandrodaniel.com//page/artigos).
 

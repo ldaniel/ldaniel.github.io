@@ -19,7 +19,7 @@ tags:
 
 ![capa_net71_G](/assets/pics/capa_net71_G_2.jpg "capa_net71_G")
 
-Eu já tinha ficado muito feliz em ter o meu artigo como capa da [.net Magazine 70](http://www.leandrodaniel.com/post/Meu-artigo-de-PLINQ-e-capa-da-net-Magazine-70!), agora estou mais ainda pela capa da [.net Magazine 71](http://www.devmedia.com.br/resumo/default.asp?ed=71&site=1) onde falo sobre o Visual Studio 2010 e o .NET Framework 4.0!
+Eu já tinha ficado muito feliz em ter o meu artigo como capa da [.net Magazine 70](/Meu-artigo-de-PLINQ-e-capa-da-net-Magazine-70!), agora estou mais ainda pela capa da [.net Magazine 71](http://www.devmedia.com.br/resumo/default.asp?ed=71&site=1) onde falo sobre o Visual Studio 2010 e o .NET Framework 4.0!
 
 Nessa série de 3 artigos mostro as principais novidades do Visual Studio 2010 e do .NET Framework 4.0, abordando inúmeros aspectos inovadores, incluindo novos tipos de projeto, novas linguagens como o F#, melhorias no WPF, ASP.NET, AJAX, melhorias no ambiente integrado de desenvolvimento, suporte à modelagem UML entre outros. Acompanhe, está bem bacana.
 

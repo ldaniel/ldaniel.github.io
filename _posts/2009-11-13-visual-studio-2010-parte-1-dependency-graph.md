@@ -17,7 +17,7 @@ Um dos recursos novos do Visual Studio 2010 é a análise de dependências entre
 
 ![vs2010DependencyGraph01](/assets/pics/WindowsLiveWriter/VisualStudio2010parte1/3C0D2645/vs2010DependencyGraph01.gif "vs2010DependencyGraph01")
 
-É possível gerar um gráfico bastante útil para analisar o acoplamento entre as classes de sua aplicação. Para entender um pouco mais sobre a importância desse tipo de análise, você pode acessar [aqui uma palestra que fiz sobre o padrão IoC com DI](http://www.leandrodaniel.com/post/DNAD-2009-Minha-palestra-sobre-Injecao-de-Dependencia). Abaixo vemos um gráfico gerado pelo Visual Studio 2010.
+É possível gerar um gráfico bastante útil para analisar o acoplamento entre as classes de sua aplicação. Para entender um pouco mais sobre a importância desse tipo de análise, você pode acessar [aqui uma palestra que fiz sobre o padrão IoC com DI](/DNAD-2009-Minha-palestra-sobre-Injecao-de-Dependencia). Abaixo vemos um gráfico gerado pelo Visual Studio 2010.
 
 [![vs2010DependencyGraph02](/assets/pics/WindowsLiveWriter/VisualStudio2010parte1/05D03802/vs2010DependencyGraph02_thumb.gif "vs2010DependencyGraph02")](/assets/pics/WindowsLiveWriter/VisualStudio2010parte1/1B2DED6A/vs2010DependencyGraph02.gif)
 

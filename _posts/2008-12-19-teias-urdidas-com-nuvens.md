@@ -33,7 +33,7 @@ Talvez a mais importante novidade para *end-users* em 2009 é o possível lança
 
 **Para profissionais de TI**
 
-![LiveServices](/assets/pics/WindowsLiveWriter/Urdindooconhecimento_115AC/LiveServices_95381c0d-bead-41b8-af8b-1b414f308203.png)Os desenvolvedores, através do [Live Services](http://dev.live.com/), dispõem de diversas tecnologias e ferramentas para criação de aplicações ricas para a Internet. Escrevei um post sobre o [Silverlight Streaming](http://www.leandrodaniel.com/post/Microsoft-Silverlight-Streaming), onde mostrei o Deep Zoom Composer. No meu post sobre [Photosynth](http://www.leandrodaniel.com/post/Microsoft-Live-Labs-Photosynth), que faz parte do [Live Labs](http://livelabs.com/), é possível ver o potencial desta tecnologia e imaginar diversas aplicações para a web, principalmente em usabilidade (mais um desafio para *arquitetos da informação*).
+![LiveServices](/assets/pics/WindowsLiveWriter/Urdindooconhecimento_115AC/LiveServices_95381c0d-bead-41b8-af8b-1b414f308203.png)Os desenvolvedores, através do [Live Services](http://dev.live.com/), dispõem de diversas tecnologias e ferramentas para criação de aplicações ricas para a Internet. Escrevei um post sobre o [Silverlight Streaming](/Microsoft-Silverlight-Streaming), onde mostrei o Deep Zoom Composer. No meu post sobre [Photosynth](/Microsoft-Live-Labs-Photosynth), que faz parte do [Live Labs](http://livelabs.com/), é possível ver o potencial desta tecnologia e imaginar diversas aplicações para a web, principalmente em usabilidade (mais um desafio para *arquitetos da informação*).
 
 O Live Services SDK disponibiliza, atualmente, as seguintes opções:
 
@@ -57,7 +57,7 @@ Coloquei no SkyDrive para download o diagrama do Live Framework SDK:
 
 ![Live Services](/assets/pics/WindowsLiveWriter/Urdindooconhecimento_115AC/Live%20Services_33a6ee65-d20a-4165-bf84-5adbae91dacd.png)
 
-O diagrama ao lado mostra a plataforma do Live Services. Escrevei recentemente um post sobre o [Live Mesh](http://www.leandrodaniel.com/post/Live-Mesh-Beta) que, mesmo na versão beta, oferece uma ferramenta para sincronizar informações entre diversos dispositivos (incluindo Mac) bem interessante. Ainda no Live Services você encontra a [Mashups Library](http://dev.live.com/mashups/), uma biblioteca para construção de *mashups*, combinando dados e conteúdo de diversas aplicações em uma só.
+O diagrama ao lado mostra a plataforma do Live Services. Escrevei recentemente um post sobre o [Live Mesh](/Live-Mesh-Beta) que, mesmo na versão beta, oferece uma ferramenta para sincronizar informações entre diversos dispositivos (incluindo Mac) bem interessante. Ainda no Live Services você encontra a [Mashups Library](http://dev.live.com/mashups/), uma biblioteca para construção de *mashups*, combinando dados e conteúdo de diversas aplicações em uma só.
 
 ![SQLServices](/assets/pics/WindowsLiveWriter/Urdindooconhecimento_115AC/SQLServices_07fa21bb-136d-4ba7-91fb-5bf199d595ce.png)O [SQL Services](http://www.microsoft.com/azure/sql.mspx) foi o primeiro produto que me chamou atenção, pois acredito que terá uma aceitação muito rápida aqui no Brasil, ele disponibiliza um conjunto de *capabilities* do SQL Server baseados em nuvens. Alguns dos destaques do SQL Data Services:
 

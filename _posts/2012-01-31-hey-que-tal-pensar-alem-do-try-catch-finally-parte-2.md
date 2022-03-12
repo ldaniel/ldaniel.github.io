@@ -13,9 +13,9 @@ tags:
     - Arquitetura
 ---
 
-Vimos no [último post desta série](http://www.leandrodaniel.com/post/Hey-que-tal-pensar-alem-do-Try-Catch-Finally) a diferença entre **erro** e **exceção**. Enquanto o primeiro é irrecuperável, o outro dá margem para tomarmos uma ou mais ações a fim de permitir que a aplicação continue em execução.
+Vimos no [último post desta série](/Hey-que-tal-pensar-alem-do-Try-Catch-Finally) a diferença entre **erro** e **exceção**. Enquanto o primeiro é irrecuperável, o outro dá margem para tomarmos uma ou mais ações a fim de permitir que a aplicação continue em execução.
 
-Entendendo isso, o termo *tratamento de exceções* ganha um sentido imediato. Tratar ou manipular uma exceção requer muito critério e atenção ao contexto. Afinal, [existe decisão puramente técnica?](http://www.leandrodaniel.com/post/Em-arquitetura-existe-decisao-puramente-tecnica)
+Entendendo isso, o termo *tratamento de exceções* ganha um sentido imediato. Tratar ou manipular uma exceção requer muito critério e atenção ao contexto. Afinal, [existe decisão puramente técnica?](/Em-arquitetura-existe-decisao-puramente-tecnica)
 
 ### Essa não! Catching Exception de novo!
 

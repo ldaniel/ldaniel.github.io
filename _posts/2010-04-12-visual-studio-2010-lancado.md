@@ -34,6 +34,6 @@ A Microsoft finalizou agora a pouco o lançamento mundial do Visual Studio 2010,
 - [Visual Studio 2010 no MSDN](http://msdn.microsoft.com/en-us/vstudio/default)
 - [Visual Studio 2010 on Channel 9](http://channel9.msdn.com/visualstudio/)
 
-Se você quiser conhecer as principais *features* de uma maneira rápida, veja essa [série de posts sobre Visual Studio 2010](http://www.leandrodaniel.com/post/Visual-Studio-2010-e28093-Serie-de-posts-chega-ao-fim) que eu publiquei aqui no [Reverb](http://reverb.leandrodaniel.com/). Outra fonte legal é a série de [3 artigos da .net Magazine](http://www.leandrodaniel.com/post/Meu-artigo-de-Visual-Studio-2010-e-capa-net-Magazine-71!-Legal!!!), onde explico com mais detalhes as novidades.
+Se você quiser conhecer as principais *features* de uma maneira rápida, veja essa [série de posts sobre Visual Studio 2010](/Visual-Studio-2010-e28093-Serie-de-posts-chega-ao-fim) que eu publiquei aqui no [Reverb](http://reverb.leandrodaniel.com/). Outra fonte legal é a série de [3 artigos da .net Magazine](/Meu-artigo-de-Visual-Studio-2010-e-capa-net-Magazine-71!-Legal!!!), onde explico com mais detalhes as novidades.
 
 Boa leitura!

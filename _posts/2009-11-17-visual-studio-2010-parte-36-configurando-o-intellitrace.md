@@ -13,7 +13,7 @@ tags:
     - 'Visual Studio'
 ---
 
-Conforme [abordado em outro post](http://www.leandrodaniel.com/post/Visual-Studio-2010-(parte-4)-e28093-IntelliTrace), o IntelliTrace traz um histórico para o *debugger*. No menu ***Tools / Options / IntelliTrace*** é possível configurar diversas nuances do comportamento da ferramenta. Para obter mais detalhes no momento de debugar a execução do seu código, por exemplo, você pode habilitar na opção ***IntelliTrace Events*** os eventos desejados.
+Conforme [abordado em outro post](/Visual-Studio-2010-(parte-4)-e28093-IntelliTrace), o IntelliTrace traz um histórico para o *debugger*. No menu ***Tools / Options / IntelliTrace*** é possível configurar diversas nuances do comportamento da ferramenta. Para obter mais detalhes no momento de debugar a execução do seu código, por exemplo, você pode habilitar na opção ***IntelliTrace Events*** os eventos desejados.
 
  ![vs2010IntelliTraceOptions](/assets/pics/WindowsLiveWriter/VisualStudio2010parte36ConfiguraesdoInte/15A99711/vs2010IntelliTraceOptions.gif "vs2010IntelliTraceOptions")
 

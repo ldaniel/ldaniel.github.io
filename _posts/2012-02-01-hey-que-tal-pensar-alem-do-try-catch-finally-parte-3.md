@@ -13,7 +13,7 @@ tags:
     - Arquitetura
 ---
 
-Muito bem! Vimos no [primeiro post da série ](http://www.leandrodaniel.com/post/Hey-que-tal-pensar-alem-do-Try-Catch-Finally)a diferença entre erro e exceção, e no último tivemos um [vislumbre da amplitude do assunto “Exception Handling”](http://www.leandrodaniel.com/post/Hey-que-tal-pensar-alem-do-Try-Catch-Finally-(parte-2)). Estamos preparados para avançar um pouco mais nessa jornada e tomar contato com os…
+Muito bem! Vimos no [primeiro post da série ](/Hey-que-tal-pensar-alem-do-Try-Catch-Finally)a diferença entre erro e exceção, e no último tivemos um [vislumbre da amplitude do assunto “Exception Handling”](/Hey-que-tal-pensar-alem-do-Try-Catch-Finally-(parte-2)). Estamos preparados para avançar um pouco mais nessa jornada e tomar contato com os…
 
 ### … Jargões comuns em tratamento de exceções
 
@@ -67,7 +67,7 @@ Veja alguns exemplos de anti-patterns retirados do [java.net](http://today.java.
 
 **-&gt; Throwing the Kitchen Sink:** Lançar várias exceções verificadas do seu método em geral é algo bom, contanto que exista de fato possíveis cursos de ação que o chamador pode querer tomar dependendo de qual exceção foi acionada.
 
-**-&gt; Catching Exception:** como vimos no [post anterior](http://www.leandrodaniel.com/post/Hey-que-tal-pensar-alem-do-Try-Catch-Finally-(parte-2)), cada vez que uma *catching exception* é codificada um panda morre em algum lugar do planeta.
+**-&gt; Catching Exception:** como vimos no [post anterior](/Hey-que-tal-pensar-alem-do-Try-Catch-Finally-(parte-2)), cada vez que uma *catching exception* é codificada um panda morre em algum lugar do planeta.
 
 **-&gt; Destructive Wrapping:** muito cuidado ao fazer o wrap de uma exceção, dê significado e acrescente informações de valor indiscutível.
 

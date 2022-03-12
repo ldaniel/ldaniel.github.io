@@ -13,7 +13,7 @@ tags:
     - Arquitetura
 ---
 
-E aqui estou para fechar esta série de posts. Vimos no primeiro a [diferença entre erro e exceção](http://www.leandrodaniel.com/post/Hey-que-tal-pensar-alem-do-Try-Catch-Finally), e no segundo tivemos um [vislumbre da amplitude do assunto “Exception Handling”](http://www.leandrodaniel.com/post/Hey-que-tal-pensar-alem-do-Try-Catch-Finally-(parte-2)). No último post tomamos contatos com [jargões comuns em tratamento de exceções](http://www.leandrodaniel.com/post/Hey-que-tal-pensar-alem-do-Try-Catch-Finally-(parte-3)) além de conhecer alguns [anti-patterns](http://www.leandrodaniel.com/post/Hey-que-tal-pensar-alem-do-Try-Catch-Finally-(parte-3)).
+E aqui estou para fechar esta série de posts. Vimos no primeiro a [diferença entre erro e exceção](/Hey-que-tal-pensar-alem-do-Try-Catch-Finally), e no segundo tivemos um [vislumbre da amplitude do assunto “Exception Handling”](/Hey-que-tal-pensar-alem-do-Try-Catch-Finally-(parte-2)). No último post tomamos contatos com [jargões comuns em tratamento de exceções](/Hey-que-tal-pensar-alem-do-Try-Catch-Finally-(parte-3)) além de conhecer alguns [anti-patterns](/Hey-que-tal-pensar-alem-do-Try-Catch-Finally-(parte-3)).
 
 ### Pensando além do Try… Catch… Finally. Finally!
 
@@ -49,7 +49,7 @@ Provavelmente, os três design patterns mais conhecidos para tratamento de exce�
 
 **Exception Translation:** Este padrão descreve como quebrar exceções dentro de outras exceções específicas dentro de uma camada (*inner exception*) para garantir que elas realmente reflitam ações pertinentes dentro do contexto.
 
-Perceba que todos os patterns de manipulação de exceção apresentados se relacionam com as técnicas de tratamento de exceções apresentadas no [post anterior](http://www.leandrodaniel.com/post/Hey-que-tal-pensar-alem-do-Try-Catch-Finally-(parte-3)). Por exemplo, para não deixarmos que informações confidenciais vazem usamos **Replace Handler**. Quebrar exceções dentro de outras exceções específicas pode ser feito via **Wrap Handler**. Notificar os usuários ou administradores do sistema pode ser conseguido com **Propagate Exception**. Além disse, devemos combinar essas técnicas sempre que necessário.
+Perceba que todos os patterns de manipulação de exceção apresentados se relacionam com as técnicas de tratamento de exceções apresentadas no [post anterior](/Hey-que-tal-pensar-alem-do-Try-Catch-Finally-(parte-3)). Por exemplo, para não deixarmos que informações confidenciais vazem usamos **Replace Handler**. Quebrar exceções dentro de outras exceções específicas pode ser feito via **Wrap Handler**. Notificar os usuários ou administradores do sistema pode ser conseguido com **Propagate Exception**. Além disse, devemos combinar essas técnicas sempre que necessário.
 
 ### Estratégia de tratamento de exceções
 

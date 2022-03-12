@@ -13,7 +13,7 @@ tags:
     - Reverberando
 ---
 
-Se você não leu o post anterior da série, [faça agora](http://www.leandrodaniel.com/post/Mestres-do-non-sequitur-e-outros-tipos-perniciosos-–-Parte-1). Continuando, veremos o primeiro tipo de falácia.
+Se você não leu o post anterior da série, [faça agora](/Mestres-do-non-sequitur-e-outros-tipos-perniciosos-–-Parte-1). Continuando, veremos o primeiro tipo de falácia.
 
 ### Falácia no estilo “bichinho de Deus”
 

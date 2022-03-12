@@ -21,4 +21,4 @@ Pronto! Agora você pode navegar rapidamente por toda a hierarquia de chamada do
 
 ![vs2010CallHierarchyPanel](/assets/pics/WindowsLiveWriter/VisualStudio2010parte12CallHierarchy/2F7F2CDA/vs2010CallHierarchyPanel.gif "vs2010CallHierarchyPanel")
 
-Outro ponto interessante é que você também pode analisar a quantidade de [acoplamento aferente e eferente](http://www.leandrodaniel.com/post/Visual-Studio-2010-(parte-1)-e28093-Dependency-Graph) de uma classe.
+Outro ponto interessante é que você também pode analisar a quantidade de [acoplamento aferente e eferente](/Visual-Studio-2010-(parte-1)-e28093-Dependency-Graph) de uma classe.

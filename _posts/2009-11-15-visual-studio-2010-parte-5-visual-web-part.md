@@ -13,7 +13,7 @@ tags:
     - 'Visual Studio'
 ---
 
-Uma das grandes novidades apresentadas no [SharePoint Summit](http://www.leandrodaniel.com/post/O-SharePoint-Brasil-Summit-2009-foi-sensacional!) foi o novo tipo de projeto para o Visual Studio 2010 chamado *Visual Web Parts*. Quem estava acostumado com desenvolvimento de *Web Parts* para o SharePoint sabe o quanto isso facilitará a vida do desenvolvedor, pois agora é possível editar de forma visual os controle de uma Web Part.
+Uma das grandes novidades apresentadas no [SharePoint Summit](/O-SharePoint-Brasil-Summit-2009-foi-sensacional!) foi o novo tipo de projeto para o Visual Studio 2010 chamado *Visual Web Parts*. Quem estava acostumado com desenvolvimento de *Web Parts* para o SharePoint sabe o quanto isso facilitará a vida do desenvolvedor, pois agora é possível editar de forma visual os controle de uma Web Part.
 
 Outro detalhe importante, agora falando do SharePoint 2010, é que não será mais necessário realizar o desenvolvimento em um SO Server. Isso mesmo, agora é possível instalar o SharePoint Services (que passa a se chamar SharePoint Foundation 2010) na máquina de desenvolvimento.
 

@@ -15,8 +15,8 @@ tags:
 
 Se você não leu os posts anteriores da série, faça agora.
 
-- [Parte 1 – Introdução](http://www.leandrodaniel.com/post/Mestres-do-non-sequitur-e-outros-tipos-perniciosos-–-Parte-2)
-- [Parte 2 – Falácia no estilo “bichinhos de Deus”](http://www.leandrodaniel.com/post/Mestres-do-non-sequitur-e-outros-tipos-perniciosos-–-Parte-2)
+- [Parte 1 – Introdução](/Mestres-do-non-sequitur-e-outros-tipos-perniciosos-–-Parte-2)
+- [Parte 2 – Falácia no estilo “bichinhos de Deus”](/Mestres-do-non-sequitur-e-outros-tipos-perniciosos-–-Parte-2)
 
 ### Falácia no estilo “bullshit”
 

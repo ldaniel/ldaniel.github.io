@@ -15,7 +15,7 @@ tags:
 
 [![DevGuide_PDC_Preview_CSharp_Edition_small](/assets/pics/DevGuide_PDC_Preview_CSharp_Edition_small_1.png "DevGuide_PDC_Preview_CSharp_Edition_small")](http://entlib.codeplex.com/wikipage?title=EntLib5%20Developer%20Notes)
 
-Após [8 dias do lançamento do Visual Studio 2010](http://www.leandrodaniel.com/post/Visual-Studio-2010-lancado) a equipe do Patterns &amp; Practices da Microsoft lançou a [Enterprise Library 5.0](http://entlib.codeplex.com/).
+Após [8 dias do lançamento do Visual Studio 2010](/Visual-Studio-2010-lancado) a equipe do Patterns &amp; Practices da Microsoft lançou a [Enterprise Library 5.0](http://entlib.codeplex.com/).
 
 No blog do Grigori Melnik você encontra os [detalhes da nova versão](http://blogs.msdn.com/agile/archive/2010/04/20/microsoft-enterprise-library-5-0-released).
 
