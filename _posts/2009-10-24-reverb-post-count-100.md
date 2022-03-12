@@ -30,7 +30,7 @@ Muitos foram os assuntos tratados, durante os meses de fevereiro e março aprese
 [SQL Server 2008 (parte 9) – Compound Operators](/SQL-Server-2008-(parte-9)-e28093-Compound-Operators)   
 [SQL Server 2008 (parte 10) – Report Builder 2.0](/SQL-Server-2008-(parte-10)-e28093-Report-Builder-20)
 
-Em abril e maio foi a vez de série tratando sobre [Enterprise Library](http://www.leandrodaniel.com/?tag=/enterprise+library) com foco no [Unity](http://www.leandrodaniel.com/?tag=/inje%c3%a7%c3%a3o+de+depend%c3%aancia).
+Em abril e maio foi a vez de série tratando sobre [Enterprise Library](/tags/#enterprise-library) com foco no [Unity](http://www.leandrodaniel.com/?tag=/inje%c3%a7%c3%a3o+de+depend%c3%aancia).
 
  [EntLib (parte 1) – Organizando os arquivos de configuração](/EntLib-(parte-1)-e28093-Organizando-os-arquivos-de-configuracao)   
 [EntLib (parte 2) – Melhore a performance de suas consultas](/EntLib-(parte-2)-e28093-Melhore-a-performance-de-suas-consultas)   
