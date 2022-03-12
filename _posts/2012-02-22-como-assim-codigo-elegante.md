@@ -16,7 +16,7 @@ tags:
 Em minha (arrogante) opinião, em geral, existe algum consenso mínimo sobre o que é um código elegante de fato. No entanto, tenho visto alguns exemplos de “códigos elegantes” que adicionam complexidade, verbosidade e outras questões incômodas. É bem verdade que existem algumas coisas – em qualquer linguagem de desenvolvimento – que levam o código de “Que aceitável!” para o nível “Wow! Que impressionante!”.
 
 Na verdade, cada desenvolvedor tem uma definição diferente de elegância e tudo pode estar correto dentro de uma determinada perspectiva – ou não.   
-![Wink](http://www.leandrodaniel.com/editors/tiny_mce_3_4_3_1/plugins/emotions/img/smiley-wink.gif "Wink")
+![Wink](/assets/editors/tiny_mce_3_4_3_1/plugins/emotions/img/smiley-wink.gif "Wink")
 
 Talvez o mais perto que consigamos chegar de um consenso sobre o tema, seja o que a engine [Elegant Code Maker](http://elegantcodemaker.apphb.com) fez.
 

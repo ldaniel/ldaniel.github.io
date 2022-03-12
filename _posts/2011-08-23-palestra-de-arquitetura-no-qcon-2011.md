@@ -26,4 +26,4 @@ A convite do organizador da trilha “.NET e as arquiteturas modernas”, [@vqua
 
 O evento conta com inúmeros palestrantes nacionais e internacionais, [confira aqui](http://qconsp.com/palestrantes).
 
-Nos vemos lá! ![Smile](http://www.leandrodaniel.com/editors/tiny_mce_3_3_9_2/plugins/emotions/img/smiley-smile.gif "Smile")
+Nos vemos lá! ![Smile](/assets/editors/tiny_mce_3_3_9_2/plugins/emotions/img/smiley-smile.gif "Smile")

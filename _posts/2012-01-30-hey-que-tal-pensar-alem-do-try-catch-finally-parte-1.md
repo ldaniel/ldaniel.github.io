@@ -54,4 +54,4 @@ Ainda que você não concorde com as definições a seguir, é bastante plausív
 
 Perceba que, conceitualmente, um erro significa que algo deu muito errado com seu programa, e isso é um motivo suficientemente bom para ele abortar sua execução. Enquanto que uma exceção é resultado de uma situação inusitada, mas que você antecipou como uma possibilidade, e portanto codificou algo a respeito. Nessa linha de raciocínio, uma divisão por zero é um erro, mas a tentativa de ler um arquivo e descobrir que ele não existe é uma exceção.
 
-Sintetizando, notamos que: **uma exceção é recuperável, mas um erro não**. Essa percepção serve como fechamento para hoje. ![Wink](http://www.leandrodaniel.com/editors/tiny_mce_3_4_3_1/plugins/emotions/img/smiley-wink.gif "Wink")
+Sintetizando, notamos que: **uma exceção é recuperável, mas um erro não**. Essa percepção serve como fechamento para hoje. ![Wink](/assets/editors/tiny_mce_3_4_3_1/plugins/emotions/img/smiley-wink.gif "Wink")

@@ -27,4 +27,4 @@ Destaco aqui um merecido agradecimento a vários profissionais que me apóiam: [
 
 Valeu pessoal!
 
-![](http://www.leandrodaniel.com/editors/tiny_mce/plugins/emotions/images/smiley-smile.gif)
+![](/assets/editors/tiny_mce/plugins/emotions/images/smiley-smile.gif)

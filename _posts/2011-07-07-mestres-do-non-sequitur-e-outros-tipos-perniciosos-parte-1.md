@@ -29,4 +29,4 @@ Considero muito perniciosas as falácias no meio técnico (TI), pois com a quant
 
 Felizmente, identificar a personalidade de mentes falaciosas não é algo impossível. De fato, essas pessoas se comportam de forma bem característica, de acordo com o estilo de falácia que elas dizem. E sendo a falácia, em grande parte, um equivoco lógico, muitas pessoas não as dizem de má fé.
 
-Em posts futuros faremos, com bom humor, um passeio pelos tipos de falácia mais comuns. ![Smile](http://www.leandrodaniel.com/editors/tiny_mce_3_3_9_2/plugins/emotions/img/smiley-smile.gif "Smile")
+Em posts futuros faremos, com bom humor, um passeio pelos tipos de falácia mais comuns. ![Smile](/assets/editors/tiny_mce_3_3_9_2/plugins/emotions/img/smiley-smile.gif "Smile")

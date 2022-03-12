@@ -29,4 +29,4 @@ Discutimos sobre a complexidade nossa de cada dia. Há o melhor do complexo, do 
 
 É possível ouvir o podcast diretamente do post (usando o player), além disso, o Void Podcast agora está [disponível também no iTunes](http://itunes.apple.com/br/podcast/void-podcast/id443186480).
 
-Não deixe de comentar suas opiniões. ![Wink](http://www.leandrodaniel.com/editors/tiny_mce_3_4_3_1/plugins/emotions/img/smiley-wink.gif "Wink")
+Não deixe de comentar suas opiniões. ![Wink](/assets/editors/tiny_mce_3_4_3_1/plugins/emotions/img/smiley-wink.gif "Wink")

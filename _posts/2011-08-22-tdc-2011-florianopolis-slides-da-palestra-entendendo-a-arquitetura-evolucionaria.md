@@ -18,7 +18,7 @@ tags:
 
 Segue a minha apresentação feita no TDC 2011 Florianópolis (The Developer’s Conference 2011) sobre Arquitetura Evolucionária. Caso queira entrar em contato para tirar alguma dúvida, fique a vontade.
 
-Na edição Florianópolis tive a chance de fazer a palestra completa sobre o tema "Arquitetura Evolucionária". Fiquei muito feliz com a receptividade do pessoal, a sala estava cheia, e palestrar junto com o @elemarjr, @drspockbr, @vsenger e @scaphe foi uma tremenda responsabilidade (só feras). ![Smile](http://www.leandrodaniel.com/editors/tiny_mce_3_3_9_2/plugins/emotions/img/smiley-smile.gif "Smile")
+Na edição Florianópolis tive a chance de fazer a palestra completa sobre o tema "Arquitetura Evolucionária". Fiquei muito feliz com a receptividade do pessoal, a sala estava cheia, e palestrar junto com o @elemarjr, @drspockbr, @vsenger e @scaphe foi uma tremenda responsabilidade (só feras). ![Smile](/assets/editors/tiny_mce_3_3_9_2/plugins/emotions/img/smiley-smile.gif "Smile")
 
 Oportunamente, deixo aqui meu agradecimento ao @drspockbr, @yarasenger e @vsenger pela oportunidade! Obrigado mesmo!
 

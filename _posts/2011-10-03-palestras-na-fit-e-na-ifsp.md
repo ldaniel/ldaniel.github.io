@@ -44,4 +44,4 @@ Minha palestra será quarta-feira (19/10/2011), às 21h.
 Endereço:  
 Rua Pedro Vicente, 625 – Canindé – São Paulo – SP
 
-Nos vemos lá! ![Smile](http://www.leandrodaniel.com/editors/tiny_mce_3_3_9_2/plugins/emotions/img/smiley-smile.gif "Smile")
+Nos vemos lá! ![Smile](/assets/editors/tiny_mce_3_3_9_2/plugins/emotions/img/smiley-smile.gif "Smile")

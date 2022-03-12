@@ -17,4 +17,4 @@ Essa é uma dica simples pra quem está iniciando no desenvolvimento com WCF. Ca
 
 ![IIS7 e WCF](/assets/pics/IIS7%20e%20WCF.png "IIS7 e WCF")
 
-Se isso não funcionar, peça ajuda a [esse moço aqui](http://www.israelaece.com/). ![](http://www.leandrodaniel.com/editors/tiny_mce/plugins/emotions/images/smiley-smile.gif)
+Se isso não funcionar, peça ajuda a [esse moço aqui](http://www.israelaece.com/). ![](/assets/editors/tiny_mce/plugins/emotions/images/smiley-smile.gif)

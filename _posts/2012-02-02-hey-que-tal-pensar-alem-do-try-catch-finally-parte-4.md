@@ -64,4 +64,4 @@ Embora os exemplos desta série de posts ilustrassem situações corriqueiras em
 Todas as práticas envolvidas na manipulação de exceções oferecem como primeiro objetivo a possibilidade de uma aplicação continuar sua execução sem gerar maiores impactos. Contudo, um ganho excepcional pode ser oportunizado na auditoria das falhas ocorridas, ou até mesmo com um suporte efetivo para análise pela equipe de manutenção. Nunca subestime esse potencial.
 
 Tratar exceções é muito mais que codificar um simples Try… Catch… Finally, ao contrário, é uma atividade que requer planejamento, análise (design), implementação e estudo constante.  
-![Wink](http://www.leandrodaniel.com/editors/tiny_mce_3_4_3_1/plugins/emotions/img/smiley-wink.gif "Wink")
+![Wink](/assets/editors/tiny_mce_3_4_3_1/plugins/emotions/img/smiley-wink.gif "Wink")
