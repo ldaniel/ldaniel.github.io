@@ -21,6 +21,6 @@ tags:
 
 A revista conta com outros artigos muito interessantes, dentre eles destaco o do meu amigo [Fábio Margarito](http://www.mgrtconsultoria.com/blog/), que fala sobre *refactoring*.
 
-Se você quiser tirar alguma dúvida sobre a série de Visual Studio 2010 fique a vontade para [entrar em contato comigo](http://www.leandrodaniel.com/contact).
+Se você quiser tirar alguma dúvida sobre a série de Visual Studio 2010 fique a vontade para [entrar em contato comigo](/contact/).
 
 Boa leitura!

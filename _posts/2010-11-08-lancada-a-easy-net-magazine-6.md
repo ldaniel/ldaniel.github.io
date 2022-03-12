@@ -25,6 +25,6 @@ Nessa edição veremos uma introdução ao controle GridView. Essa série de art
 
 Além deste, você encontra outros artigos: Primeiros passos com CSS, AJAX e JavaScript, Animações com Silverlight, utilizando Delegates e uma introdução a programação .NET. A revista é voltada para o público iniciante, que está tendo os primeiros contatos com tecnologias de desenvolvimento.
 
-Se você quiser tirar alguma dúvida sobre o artigo fique a vontade para [entrar em contato comigo](http://www.leandrodaniel.com/contact).
+Se você quiser tirar alguma dúvida sobre o artigo fique a vontade para [entrar em contato comigo](/contact/).
 
 Boa leitura!

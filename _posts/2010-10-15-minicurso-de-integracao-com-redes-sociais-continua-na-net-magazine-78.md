@@ -22,6 +22,6 @@ Já saiu a edição 78 da revista [.net Magazine](http://www.devmedia.com.br/res
 
 Na segunda parte avançaremos criando uma biblioteca de serviços de redes sociais. Daremos foco no Twitter, utilizando os SDKs já apresentados, contudo, os conceitos aqui apresentados podem ser utilizados para incrementar a biblioteca com outras APIs.
 
-Se você quiser tirar alguma dúvida sobre o artigo fique a vontade para [entrar em contato comigo](http://www.leandrodaniel.com/contact).
+Se você quiser tirar alguma dúvida sobre o artigo fique a vontade para [entrar em contato comigo](/contact/).
 
 Boa leitura!

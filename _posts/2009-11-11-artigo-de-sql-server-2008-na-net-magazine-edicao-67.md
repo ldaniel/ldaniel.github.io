@@ -21,4 +21,4 @@ tags:
 
 Já saiu a edição da revista [.net Magazine 67](http://www.devmedia.com.br/resumo/default.asp?ed=67&site=1) onde escrevi um artigo sobre o SQL Server 2008 Integration Services. O SSIS é uma poderosa plataforma que permite a integração de dados vindos das mais diferentes fontes. Com ele, desenvolvemos soluções para ETL (Extract – Transform – Load), ou seja, para extrair, transformar e carregar informações para um banco de dados. O artigo ficou bem legal, e o código-fonte do exemplo executado pode ser [baixado aqui](http://www.leandrodaniel.com//page/artigos).
 
-Se você quiser enviar alguma dúvida sobre o artigo, fique a vontade para [entrar em contato comigo](http://www.leandrodaniel.com/contact).
+Se você quiser enviar alguma dúvida sobre o artigo, fique a vontade para [entrar em contato comigo](/contact/).

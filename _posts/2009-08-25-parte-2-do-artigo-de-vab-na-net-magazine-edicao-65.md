@@ -20,6 +20,6 @@ tags:
 
 Chegou hoje em minha casa a edição da revista [.net Magazine 65](http://www.devmedia.com.br/resumo/default.asp?ed=65&site=1) com a segunda e última parte do meu artigo sobre boas práticas com o Validation Application Block da Enterprise Library onde falo sobre integração com WCF entre outros assuntos.
 
-Se você quiser enviar alguma dúvida sobre o artigo, fique a vontade para [entrar em contato comigo](http://www.leandrodaniel.com/contact).
+Se você quiser enviar alguma dúvida sobre o artigo, fique a vontade para [entrar em contato comigo](/contact/).
 
 A revista deste mês tem outros artigos muito legais incluindo o artigo de capa que fala sobre Visual Studio 2010 e .NET 4.0. Vale a leitura.

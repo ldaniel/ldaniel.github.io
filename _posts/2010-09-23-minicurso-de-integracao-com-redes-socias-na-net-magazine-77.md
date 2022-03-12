@@ -25,6 +25,6 @@ Observem a qualidade dos textos introdutórios e boxes explicativos. Sou fã do 
 
 Como de costume, a revista conta com diversos artigos interessantes, com destaque para o artigo de capa sobre ASP.NET no Windows Azure.
 
-Se você quiser tirar alguma dúvida sobre o artigo fique a vontade para [entrar em contato comigo](http://www.leandrodaniel.com/contact) ou com o [Mantovani](http://system.mantov.net/blog/contact).
+Se você quiser tirar alguma dúvida sobre o artigo fique a vontade para [entrar em contato comigo](/contact/) ou com o [Mantovani](http://system.mantov.net/blog/contact).
 
 Boa leitura!

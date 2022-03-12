@@ -16,7 +16,7 @@ tags:
     - Palestras
 ---
 
-Segue a minha apresentação feita no [**TDC 2011**](http://thedevelopersconference.com.br/#geral) (The Developer’s Conference 2011) sobre Arquitetura Evolucionária. Caso queira entrar em contato para tirar alguma dúvida, [fique a vontade](http://www.leandrodaniel.com/contact).
+Segue a minha apresentação feita no [**TDC 2011**](http://thedevelopersconference.com.br/#geral) (The Developer’s Conference 2011) sobre Arquitetura Evolucionária. Caso queira entrar em contato para tirar alguma dúvida, [fique a vontade](/contact/).
 
 Oportunamente, deixo aqui meu agradecimento ao [@andrediasbr](http://twitter.com/andrediasbr), [@yarasenger](http://twitter.com/yarasenger) e [@vsenger](http://twitter.com/vsenger) pela oportunidade! Valeu! ![Smiley de boca aberta](/assets/pics/wlEmoticon-openmouthedsmile.png)
 

@@ -25,6 +25,6 @@ Nessa edição veremos a continuação da introdução ao controle GridView. Na 
 
 Na parte prática do artigo, criamos uma pequena aplicação para conectar dados oriundos de uma classe a um GridView. Também criamos um pequeno banco de dados SQL Server que será utilizado em ersos exemplos da série de artigos.
 
-Se você quiser tirar alguma dúvida sobre o artigo fique a vontade para [entrar em contato comigo](http://www.leandrodaniel.com/contact).
+Se você quiser tirar alguma dúvida sobre o artigo fique a vontade para [entrar em contato comigo](/contact/).
 
 Boa leitura!

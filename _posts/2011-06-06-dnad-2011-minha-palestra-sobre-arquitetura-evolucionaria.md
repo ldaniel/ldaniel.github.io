@@ -17,7 +17,7 @@ tags:
     - Palestras
 ---
 
-Segue a minha apresentação feita no **.Net Architects Days 2011** sobre Arquitetura Evolucionária. Caso queira entrar em contato para tirar alguma dúvida, [fique a vontade](http://www.leandrodaniel.com/contact).
+Segue a minha apresentação feita no **.Net Architects Days 2011** sobre Arquitetura Evolucionária. Caso queira entrar em contato para tirar alguma dúvida, [fique a vontade](/contact/).
 
 Espero que todos tenham gostado. ![Alegre](/assets/pics/wlEmoticon-smile_5.png)
 

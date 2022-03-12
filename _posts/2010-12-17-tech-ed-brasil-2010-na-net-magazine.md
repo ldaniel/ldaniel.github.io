@@ -26,6 +26,6 @@ Entre os dias 13 e 15 de setembro de 2010, aconteceu em São Paulo a 10° ediç�
 
 Na [edição 80 da revista .net Magazine](http://www.devmedia.com.br/post-18774-Tech-Ed-Brasil-2010--Artigo-Exclusivo.html) está disponibilizado um artigo especial sobre o evento. Por se tratar de um artigo exclusivo, ele está disponível apenas para assinantes.
 
-Se você quiser tirar alguma dúvida sobre o artigo fique a vontade para [entrar em contato comigo](http://www.leandrodaniel.com/contact).
+Se você quiser tirar alguma dúvida sobre o artigo fique a vontade para [entrar em contato comigo](/contact/).
 
 Boa leitura!

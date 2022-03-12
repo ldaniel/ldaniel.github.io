@@ -31,6 +31,6 @@ Além deste, você encontra outros artigos interessantes:
 - Mandamentos da Orientação a Objetos
 - LINQ to Entities, entre outros artigos.
 
-Se você quiser tirar alguma dúvida sobre o artigo fique a vontade para [entrar em contato comigo](http://www.leandrodaniel.com/contact).
+Se você quiser tirar alguma dúvida sobre o artigo fique a vontade para [entrar em contato comigo](/contact/).
 
 Boa leitura!

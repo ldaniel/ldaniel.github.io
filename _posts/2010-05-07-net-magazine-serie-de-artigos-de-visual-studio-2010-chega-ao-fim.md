@@ -23,6 +23,6 @@ Outros assuntos interessantes estão presentes nesta edição, como MEF, ADO.NET
 
 Para conhecer as principais *features* de uma maneira rápida, veja essa [série de posts sobre Visual Studio 2010](/Visual-Studio-2010-e28093-Serie-de-posts-chega-ao-fim) que publiquei aqui no [Reverb](http://reverb.leandrodaniel.com/).
 
-Se você quiser tirar alguma dúvida sobre a série de artigos sobre Visual Studio 2010 fique a vontade para [entrar em contato comigo](http://www.leandrodaniel.com/contact).
+Se você quiser tirar alguma dúvida sobre a série de artigos sobre Visual Studio 2010 fique a vontade para [entrar em contato comigo](/contact/).
 
 Boa leitura!
