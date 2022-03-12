@@ -20,6 +20,6 @@ Nesse episódio, conversamos sobre comunidades – importância, comportamento d
 
 Atendendo a pedidos, é possível ouvir o podcast diretamente do post (usando o player), além disso, o Void Podcast agora está [disponível também no iTunes](http://itunes.apple.com/br/podcast/void-podcast/id443186480).
 
-Se você está procurando por algumas risadas e comentários estranhos, acesse o [Episódio #002 do Void Podcast: Alô comunidade!](http://voidpodcast.com/2011/06/12/void-podcast-002a-al-comunidade/)
+Se você está procurando por algumas risadas e comentários estranhos, acesse o [Episódio #002 do Void Podcast: Alô comunidade!](https://voidpodcast.wordpress.com/2011/06/12/void-podcast-002a-al-comunidade/)
 
 Não deixe de comentar suas opiniões. ![Alegre](/assets/pics/wlEmoticon-smile_6.png)

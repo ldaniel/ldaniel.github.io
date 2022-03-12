@@ -13,9 +13,9 @@ tags:
     - Carreira
 ---
 
-No último episódio do [Void Podcast](http://voidpodcast.com/2012/02/05/void-podcast-017-strawberry-brownfields-forever/), tocamos no assunto “ética no desenvolvimento de software” (em especial por parte de consultorias e fornecedores de produtos e serviços de software). Relacionamos a falta de ética como um dos grandes óbices para a reversão de um quadro de *[brownfield](http://en.wikipedia.org/wiki/Brownfield_(software_development))* para *greenfield*.
+No último episódio do [Void Podcast](https://voidpodcast.wordpress.com/2012/02/05/void-podcast-017-strawberry-brownfields-forever/), tocamos no assunto “ética no desenvolvimento de software” (em especial por parte de consultorias e fornecedores de produtos e serviços de software). Relacionamos a falta de ética como um dos grandes óbices para a reversão de um quadro de *[brownfield](http://en.wikipedia.org/wiki/Brownfield_(software_development))* para *greenfield*.
 
-Uma pequenina discussão foi iniciada nos [comentários do episódio](http://voidpodcast.com/2012/02/05/void-podcast-017-strawberry-brownfields-forever/#comments), onde um significativo depoimento foi colocado pelo [Daniel Yokoyama](http://twitter.com/dmyoko). Embora quase que a totalidade das pessoas com quem converso a respeito sejam descrentes com relação a ética aplicada, gostaria de discorrer sucintamente sobre o tema.
+Uma pequenina discussão foi iniciada nos [comentários do episódio](https://voidpodcast.wordpress.com/2012/02/05/void-podcast-017-strawberry-brownfields-forever/#comments), onde um significativo depoimento foi colocado pelo [Daniel Yokoyama](http://twitter.com/dmyoko). Embora quase que a totalidade das pessoas com quem converso a respeito sejam descrentes com relação a ética aplicada, gostaria de discorrer sucintamente sobre o tema.
 
 ### Algumas (pouquíssimas, mesmo!) palavras sobre ensino de ética e a história recente do Brasil
 
@@ -52,7 +52,7 @@ Existe uma versão longa deste código, contudo, acho suficiente destacar o segu
 > 7. **Coleguismo**. Engenheiros de Software devem ser justos e dispostos a auxiliar seus colegas.
 > 8. **Identidade**. Engenheiros de Software devem participar do aprendizado de suas vidas valorizando a prática da sua profissão e devem promover uma abordagem ética à prática da profissão.
 
-Perceba que, mesmo com a versão resumida do código, após um exercício individual de reflexão, podemos constatar se estamos inseridos em um ambiente ético (ou se estamos chafurdados no *brownfield plus*, como foi dito no [episódio do Void](http://voidpodcast.com/2012/02/05/void-podcast-017-strawberry-brownfields-forever/)).
+Perceba que, mesmo com a versão resumida do código, após um exercício individual de reflexão, podemos constatar se estamos inseridos em um ambiente ético (ou se estamos chafurdados no *brownfield plus*, como foi dito no [episódio do Void](https://voidpodcast.wordpress.com/2012/02/05/void-podcast-017-strawberry-brownfields-forever/)).
 
 ### Um ponto de vista sobre a ética empresarial
 

@@ -48,7 +48,7 @@ Com a mudança de emprego o trabalho como editor técnico foi revisto, e gradati
 
 ### public void Podcast()
 
-[![iconPodcast](/assets/pics/iconPodcast_thumb_1.png "iconPodcast")](/assets/pics/iconPodcast_1.png)[Ter um podcast](http://voidpodcast.com/) foi a única coisa que não planejei para 2011, no entanto, aconteceu. E foi muito divertido. Além de poder dar umas boas risadas e conversar sobre assuntos que gosto, ainda “ganhei de brinde” o trabalho de edição. Isso me obrigou a aprender a usar softwares de edição de áudio, o que acabou virando um hobby.
+[![iconPodcast](/assets/pics/iconPodcast_thumb_1.png "iconPodcast")](/assets/pics/iconPodcast_1.png)[Ter um podcast](https://voidpodcast.wordpress.com/) foi a única coisa que não planejei para 2011, no entanto, aconteceu. E foi muito divertido. Além de poder dar umas boas risadas e conversar sobre assuntos que gosto, ainda “ganhei de brinde” o trabalho de edição. Isso me obrigou a aprender a usar softwares de edição de áudio, o que acabou virando um hobby.
 
 Para completar essa nova fase, passei a usar um MacBook Pro, e preciso confessar que gostei muito! Até mesmo uma mudança de sistema operacional aconteceu. Que coisa!
 

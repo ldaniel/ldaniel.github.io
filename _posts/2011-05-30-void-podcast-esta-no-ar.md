@@ -20,7 +20,7 @@ A ideia desse podcast nasceu em uma das reuniões online para acerto de nossa pa
 
 No Void Podcast, Quaiato ([@vquaiato](http://twitter.com/vquaiato)), Leandro Dainel ([@leandronet](http://twitter.com/leandronet)) e Elemar Jr.([@elemarjr](http://twitter.com/elemarjr)) falam sobre tudo um pouco: de arquitetura de software a futebol, de boas práticas até manias nerds. Ou seja, um bom papo entre amigos.
 
-O primeiro episódio já está no ar, [“VoidPodcast #001: O que é arquitetura (evolucionária) de software?”](http://voidpodcast.com/2011/05/29/void-podcast-1aquecimento-dnad-discutindo-arquitetura-evolucionria/). Confira o resumo abaixo:
+O primeiro episódio já está no ar, [“VoidPodcast #001: O que é arquitetura (evolucionária) de software?”](https://voidpodcast.wordpress.com/2011/05/29/void-podcast-1aquecimento-dnad-discutindo-arquitetura-evolucionria/). Confira o resumo abaixo:
 
 > [Nessa edição](http://voidpodcast.wordpress.com/2011/05/29/void-podcast-1aquecimento-dnad-discutindo-arquitetura-evolucionria/), ***Elemar Jr*** e ***Leandro Daniel*** tentam responder uma questão (quase) existencial: ***Afinal, O que é arquitetura de software***?
 > 
