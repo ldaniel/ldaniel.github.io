@@ -13,7 +13,7 @@ tags:
     - 'SQL Server'
 ---
 
-Dando continuidade a [série sobre as novidades do SQL Server 2008](http://www.leandrodaniel.com/?tag=/sql+server+2008) veremos hoje o que são *Filtered Indexes*.
+Dando continuidade a [série sobre as novidades do SQL Server 2008](tags/#sql-server) veremos hoje o que são *Filtered Indexes*.
 
  **FILTERED INDEXES**
 
@@ -21,8 +21,8 @@ A idéia é simples: índices criados com critério de filtro, ou seja, com uma 
 
 Vamos ver como podemos criar *filtered indexes* criando primeiramente a seguinte tabela:
 
-```
-<pre class="brush: sql;">CREATE TABLE [dbo].[Colaborador]
+```SQL
+CREATE TABLE [dbo].[Colaborador]
 (
    [ColaboradorId] [int] IDENTITY(1,1) NOT NULL,
    [Nome] [varchar](50) NOT NULL,
