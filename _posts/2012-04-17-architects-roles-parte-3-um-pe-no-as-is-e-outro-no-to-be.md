@@ -22,7 +22,7 @@ Isso posto, espera-se que o arquiteto, a todo momento, compreenda a execução e
 - Garantir que a execução esteja alinhada com a estratégia;
 - Avaliar qual o melhor caminho a seguir à partir do “AS-IS” para chegar no “TO-BE”;
 - Exercitar as possibilidades de implementação com base em arquiteturas de referência;
-- Averiguar se a visão de “TO-BE” continua válida ou precisa ser revista ([arquitetura emergente](http://www.leandrodaniel.com/search.aspx?q=arquitetura%20emergente))
+- Averiguar se a visão de “TO-BE” continua válida ou precisa ser revista ([arquitetura emergente](/tags/#arquitetura-emergente))
 
 Invariavelmente, as visões de “AS-IS” e “TO-BE” são correlatas com a percepção do que é **estratégico** ou **tático**.
 

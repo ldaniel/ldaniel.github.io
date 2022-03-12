@@ -17,11 +17,11 @@ Roteamento de URL’s foi um conceito introduzido no Framework 3.5 e é utilizad
 
 Uma URL tradicionalmente apresentada desta forma
 
-<u>*http://www.leandrodaniel.com/.aspx?id=1*</u>
+<u>*http://www.leandrodaniel.com/page.aspx?id=1*</u>
 
 Pode ser expressa da seguinte maneira
 
-<u>*http://www.leandrodaniel.com//1*</u>
+<u>*http://www.leandrodaniel.com/1*</u>
 
 O ASP.NET 4 trouxe esse recurso para os WebForms, o código abaixo ilustra como podemos implementar essa feature:
 
