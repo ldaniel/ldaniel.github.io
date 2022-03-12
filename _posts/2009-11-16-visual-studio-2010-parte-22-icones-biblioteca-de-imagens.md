@@ -19,4 +19,4 @@ Existe um arquivo compactado chamado “VS2010ImageLibrary.zip” no seguinte di
 
 Nele você encontra uma infinidade de ícones, imagens, animações e outros recursos para utilizar em seus programas, veja alguns exemplos:
 
-[![VS2010Resources](http://leandrodaniel.com/pics/WindowsLiveWriter/VisualStudio2010parte22conesBibliotecade/6A80514E/VS2010Resources_thumb.gif "VS2010Resources")](http://leandrodaniel.com/pics/WindowsLiveWriter/VisualStudio2010parte22conesBibliotecade/429D51EF/VS2010Resources.gif)
+[![VS2010Resources](/assets/pics/WindowsLiveWriter/VisualStudio2010parte22conesBibliotecade/6A80514E/VS2010Resources_thumb.gif "VS2010Resources")](/assets/pics/WindowsLiveWriter/VisualStudio2010parte22conesBibliotecade/429D51EF/VS2010Resources.gif)

@@ -76,18 +76,18 @@ PAUSE
 
 O resultado da execução da BAT pode ser conferido a seguir. Observe que a operação de extração de dados levou em torno de 16 segundos.
 
-[![BCPResult](http://leandrodaniel.com/pics/BCPResult_thumb.jpg "BCPResult")](http://leandrodaniel.com/pics/BCPResult.jpg)  
+[![BCPResult](/assets/pics/BCPResult_thumb.jpg "BCPResult")](/assets/pics/BCPResult.jpg)  
 A figura abaixo mostra os arquivos gerados, de acordo com os nomes que definimos nos arquivo BAT.
 
-[![BCPResult1](http://leandrodaniel.com/pics/BCPResult1_thumb_1.png "BCPResult1")](http://leandrodaniel.com/pics/BCPResult1_1.png)  
+[![BCPResult1](/assets/pics/BCPResult1_thumb_1.png "BCPResult1")](/assets/pics/BCPResult1_1.png)  
 Se abrirmos o arquivo de dados no Microsoft SQL Server Management Studio podemos ver como o BPC formatou os dados. Obviamente, esse formato pode ser configurado ao executar o comando (vide o tópico sintaxe).
 
-[![BCPResult2](http://leandrodaniel.com/pics/BCPResult2_thumb_1.png "BCPResult2")](http://leandrodaniel.com/pics/BCPResult2_1.png)  
+[![BCPResult2](/assets/pics/BCPResult2_thumb_1.png "BCPResult2")](/assets/pics/BCPResult2_1.png)  
 O arquivo de log que foi gerado mostra o registro de toda a operação. No destaque da imagem abaixo podemos ver a quantidade de registros que foram copiados em 16 segundos: 1.113.543 registros (bacana, não?).
 
-[![BCPResult3](http://leandrodaniel.com/pics/BCPResult3_thumb_1.png "BCPResult3")](http://leandrodaniel.com/pics/BCPResult3_1.png)
+[![BCPResult3](/assets/pics/BCPResult3_thumb_1.png "BCPResult3")](/assets/pics/BCPResult3_1.png)
 
-Como existem muitas opções disponíveis, eu recomendo que você brinque com algumas delas – em um ambiente de desenvolvimento, claro! ![Alegre](http://leandrodaniel.com/pics/wlEmoticon-smile_1.png) – para entender quais parâmetros são interessantes para você.
+Como existem muitas opções disponíveis, eu recomendo que você brinque com algumas delas – em um ambiente de desenvolvimento, claro! ![Alegre](/assets/pics/wlEmoticon-smile_1.png) – para entender quais parâmetros são interessantes para você.
 
 Se você quiser copiar rapidamente grandes quantidades de dados do SQL Server, BCP ainda é uma das melhores ferramentas disponíveis. Depois de ter passado a curva de aprendizado inicial, você verá que o BCP oferece uma maneira altamente eficiente para copiar dados de um banco de dados para outro, ou para arquivos.
 

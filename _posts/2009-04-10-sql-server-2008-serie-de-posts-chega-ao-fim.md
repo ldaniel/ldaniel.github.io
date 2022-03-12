@@ -13,7 +13,7 @@ tags:
     - 'SQL Server'
 ---
 
-![SQLServer2008](http://leandrodaniel.com/pics/WindowsLiveWriter/SQLServer2008ProgrammabilityEnhancements_549/SQLServer2008_a7c10190-1b43-4499-a01a-8cc09767bf73.gif "SQLServer2008")
+![SQLServer2008](/assets/pics/WindowsLiveWriter/SQLServer2008ProgrammabilityEnhancements_549/SQLServer2008_a7c10190-1b43-4499-a01a-8cc09767bf73.gif "SQLServer2008")
 
 Durante os meses de fevereiro e março apresentei aqui no Reverb uma série de posts sobre o SQL Server 2008, tratei sobre algumas novidades significativas, em especial para os desenvolvedores. Para quem não acompanhou a série desde o início, segue um atalho para todos os posts:
 

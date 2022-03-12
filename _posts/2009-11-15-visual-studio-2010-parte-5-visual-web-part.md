@@ -17,6 +17,6 @@ Uma das grandes novidades apresentadas no [SharePoint Summit](http://www.leandro
 
 Outro detalhe importante, agora falando do SharePoint 2010, é que não será mais necessário realizar o desenvolvimento em um SO Server. Isso mesmo, agora é possível instalar o SharePoint Services (que passa a se chamar SharePoint Foundation 2010) na máquina de desenvolvimento.
 
-![VS2010VisualWebPart](http://leandrodaniel.com/pics/WindowsLiveWriter/VisualStudio2010parte5VisualWebPart/34B33767/VS2010VisualWebPart.png "VS2010VisualWebPart")
+![VS2010VisualWebPart](/assets/pics/WindowsLiveWriter/VisualStudio2010parte5VisualWebPart/34B33767/VS2010VisualWebPart.png "VS2010VisualWebPart")
 
 Acima vemos a Web Part criada visualmente com a ajuda do Visual Studio 2010. Uma vez compilada basta fazer o *deployment* da Web Part na instalação local do SharePoint. Muito bom, né?

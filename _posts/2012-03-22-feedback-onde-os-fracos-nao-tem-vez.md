@@ -13,7 +13,7 @@ tags:
     - Reverberando
 ---
 
-[![Tuco_shoot](http://leandrodaniel.com/pics/Tuco_shoot_thumb_1.png "Tuco_shoot")](http://leandrodaniel.com/pics/Tuco_shoot_1.png)   
+[![Tuco_shoot](/assets/pics/Tuco_shoot_thumb_1.png "Tuco_shoot")](/assets/pics/Tuco_shoot_1.png)   
 <span style="font-size: xx-small;">*(Elly Wallace interpretando Tuco em “The Good, the Bad and de Ugly”)*</span>
 
 Resumo do que aprendi e pratico sobre *feedback*.
@@ -26,4 +26,4 @@ Resumo do que aprendi e pratico sobre *feedback*.
 | – “Errou na mão” ao dar um feedback? Aprenda e faça melhor na próxima oportunidade. | – “Errou na mão” ao receber um feedback? Aprenda e faça melhor na próxima oportunidade. |
 | – Um bom feedback é aquele que ajudará tanto quem fornece quanto quem recebe, equalizando expectativas, melhorando a comunicação e tornando as relações profissionais e pessoais producentes (isso tem um valor inestimável). |
 
-Discorda de algo? Deixe seu feedback aqui. ![Smiley piscando](http://leandrodaniel.com/pics/wlEmoticon-winkingsmile_2.png)
+Discorda de algo? Deixe seu feedback aqui. ![Smiley piscando](/assets/pics/wlEmoticon-winkingsmile_2.png)

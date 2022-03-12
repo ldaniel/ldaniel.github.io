@@ -16,7 +16,7 @@ tags:
     - Podcasts
 ---
 
-![](http://leandrodaniel.com/pics/VoidBanner.png)
+![](/assets/pics/VoidBanner.png)
 
 **[Void Podcast #032 – Apuros no trabalho! (parte 2)](http://voidpodcast.com/2014/04/27/void-podcast-032-apuros-no-trabalho-parte-2/)**  
 Antes de qualquer coisa, se você não ouviu a primeira parte, pare tudo e [confira aqui o que já rolou](http://voidpodcast.com/2014/04/20/void-podcast-031-apuros-no-trabalho-parte-1/). Mas, se sobreviveu ao primeiro episódio e gostou, dê o play na segunda parte deste descontraído bate-papo. Ouça Alexandre Mantovani ([@mantov](http://twitter.com/mantov)) e conheça alguns “causos reais de azar no trabalho”, aprenda com Emmanuel Brandão (<a target="_blank">@egomesbrandao</a>) sobre os perigos da coxinha e se emocione com os relatos de bullying de Eric Lemes ([@eric\_lemes](http://twitter.com/eric_lemes)) e suas histórias envolvendo gravatas. Temos também Elemar Jr. ([@elemarjr](http://twitter.com/elemarjr)) e Leandro Daniel ([@leandronet](http://twitter.com/leandronet)) adornando o cast com exemplos de derrota, dor e constrangimento no ambiente de trabalho.

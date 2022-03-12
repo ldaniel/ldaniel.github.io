@@ -38,4 +38,4 @@ Se você está interessado em ouvir o resultado dessa mistura, [vá lá e escute
 
 É possível ouvir o podcast diretamente do post (usando o player), além disso, o Void Podcast agora está [disponível também no iTunes](http://itunes.apple.com/br/podcast/void-podcast/id443186480).
 
-Não deixe de comentar suas opiniões. ![Alegre](http://leandrodaniel.com/pics/wlEmoticon-smile_6.png)
+Não deixe de comentar suas opiniões. ![Alegre](/assets/pics/wlEmoticon-smile_6.png)

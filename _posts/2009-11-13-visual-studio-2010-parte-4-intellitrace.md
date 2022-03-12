@@ -15,6 +15,6 @@ tags:
 
 O Visual Studio 2010 traz uma série de novidades no que diz respeito a *debugging*, uma delas é o ***IntelliTrace***. A idéia é criar um histórico do *debugger* que pode ser visto na janela *IntelliTrace*, ilustrada abaixo:
 
-![vs2010IntelliTrace](http://leandrodaniel.com/pics/WindowsLiveWriter/VisualStudio2010parte4IntelliTrace/44BDEA16/vs2010IntelliTrace.gif "vs2010IntelliTrace")
+![vs2010IntelliTrace](/assets/pics/WindowsLiveWriter/VisualStudio2010parte4IntelliTrace/44BDEA16/vs2010IntelliTrace.gif "vs2010IntelliTrace")
 
 Com isso é possível avançar ou retroceder com muita facilidade em diversos “momentos” da depuração, analisando o comportamento do código. Bacana,não?

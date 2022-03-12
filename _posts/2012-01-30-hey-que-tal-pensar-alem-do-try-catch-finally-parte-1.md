@@ -31,7 +31,7 @@ Para manter o foco no assunto deste post, vamos analisar as opções que tínham
 
 Perceba que interessante, o Visual Basic antigo considerava qualquer *problema* em runtime como *erro*, não havendo portanto uma abordagem para tratamento de *exceções*. Era possível utilizar a palavra reservada **Raise** para lançar um erro de runtime para a chamada original. Outras três possibilidades estavam à disposição dos desenvolvedores.
 
-[![DontTryThisAtHome](http://leandrodaniel.com/pics/DontTryThisAtHome_thumb.png "DontTryThisAtHome")](http://leandrodaniel.com/pics/DontTryThisAtHome.png)
+[![DontTryThisAtHome](/assets/pics/DontTryThisAtHome_thumb.png "DontTryThisAtHome")](/assets/pics/DontTryThisAtHome.png)
 
 O **On Error GoTo** dava a opção de usar uma determinada rotina em caso de ocorrência de erro de runtime. A execução do programa “pulava” para um trecho de código assinalado com um *label* pré-definido.  Já o **On Error GoTo 0** desabilitava qualquer manipulador de erro escrito dentro do procedimento ou função corrente. Mas todos os desenvolvedores de Visual Basic (não o .NET) eram unânimes em concordar que o mais transudo, o que realmente colocava um desenvolvedor no hall dos “caras fodões e corajosos” era o tal do **On Error Resume Next**.
 

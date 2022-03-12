@@ -79,4 +79,4 @@ Veja alguns exemplos de anti-patterns retirados do [java.net](http://today.java.
 
 **-&gt; Multi-Line Log Messages:** alguns arquivos de log pode atingir tamanhos absurdos (para não dizer ridículos), portanto, cuidado!
 
-![](http://leandrodaniel.com/pics/jason_icon.png)
+![](/assets/pics/jason_icon.png)

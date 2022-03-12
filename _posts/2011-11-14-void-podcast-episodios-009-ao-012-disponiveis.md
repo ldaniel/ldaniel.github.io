@@ -16,7 +16,7 @@ tags:
     - Podcasts
 ---
 
-![](http://leandrodaniel.com/pics/VoidBanner.png)
+![](/assets/pics/VoidBanner.png)
 
 **[Void Podcast #009 – Inove-me devagar, pois tenho pressa!  ](http://voidpodcast.com/2011/09/18/void-podcast-009-%e2%80%93-inove-me-devagar-pois-tenho-pressa/)**Escute um Void do ódio e com sangue nos olhos sobre early adopters, entusiastas e falsos profetas. Vamos falar sobre aqueles profissionais (bons e ruins) ansiosos por adotar as melhores tecnologias, de todos os tempos, da última semana. Participe do bate-papo entre o (sábio barbudo) Leandro Daniel (@leandronet) e o (revoltado?!) Elemar Jr (@elemarjr). Arrobinha (vulgo @vquaiato), não apareceu…
 

@@ -17,7 +17,7 @@ tags:
     - Comunidade
 ---
 
-![capa_net71_G](http://leandrodaniel.com/pics/capa_net71_G_2.jpg "capa_net71_G")
+![capa_net71_G](/assets/pics/capa_net71_G_2.jpg "capa_net71_G")
 
 Eu já tinha ficado muito feliz em ter o meu artigo como capa da [.net Magazine 70](http://www.leandrodaniel.com/post/Meu-artigo-de-PLINQ-e-capa-da-net-Magazine-70!), agora estou mais ainda pela capa da [.net Magazine 71](http://www.devmedia.com.br/resumo/default.asp?ed=71&site=1) onde falo sobre o Visual Studio 2010 e o .NET Framework 4.0!
 

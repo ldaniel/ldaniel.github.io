@@ -34,6 +34,6 @@ public class SimpleMortgageCalculator : IMortgageCalculator
 }
 ```
 
-[![blocks](http://leandrodaniel.com/pics/WindowsLiveWriter/VisualStudio2010parte39ManagedExtensibil/6E639CC8/blocks_thumb.png "blocks")](http://leandrodaniel.com/pics/WindowsLiveWriter/VisualStudio2010parte39ManagedExtensibil/3FCD93E6/blocks.png)O MEF permite ser utilizado num servidor web onde você pode utilizar uma parte isolada de outras instâncias da mesma aplicação. Basicamente, a idéia é simplificar o design e construção de aplicações e componentes com alta extensibilidade.
+[![blocks](/assets/pics/WindowsLiveWriter/VisualStudio2010parte39ManagedExtensibil/6E639CC8/blocks_thumb.png "blocks")](/assets/pics/WindowsLiveWriter/VisualStudio2010parte39ManagedExtensibil/3FCD93E6/blocks.png)O MEF permite ser utilizado num servidor web onde você pode utilizar uma parte isolada de outras instâncias da mesma aplicação. Basicamente, a idéia é simplificar o design e construção de aplicações e componentes com alta extensibilidade.
 
 O MEF está disponível no CodePlex [aqui](http://mef.codeplex.com).

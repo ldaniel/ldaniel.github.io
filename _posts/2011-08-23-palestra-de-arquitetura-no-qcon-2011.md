@@ -16,7 +16,7 @@ tags:
     - Palestras
 ---
 
-[![](http://leandrodaniel.com/pics/qcon2011banner.png)](http://qconsp.com/)
+[![](/assets/pics/qcon2011banner.png)](http://qconsp.com/)
 
 Estarei presente na edição deste ano da QCon, evento organizado pela [Caelum](http://www.caelum.com.br) e [InfoQ](http://www.infoq.com/br/). O QCon aborda não apenas uma única tecnologia ou aspecto: passa de Java, .NET, Rails, Arquitetura, Linguagens Funcionais, Mobile, Enterprise Agile Transformation, Práticas de Engenharia Ágil e outras.
 

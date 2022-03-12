@@ -17,7 +17,7 @@ tags:
     - Comunidade
 ---
 
-[![capa_net80_G](http://leandrodaniel.com/pics/capa_net80_G_thumb.jpg "capa_net80_G")](http://leandrodaniel.com/pics/capa_net80_G_1.jpg)
+[![capa_net80_G](/assets/pics/capa_net80_G_thumb.jpg "capa_net80_G")](/assets/pics/capa_net80_G_1.jpg)
 
 É sabido que o Brasil passa por um momento único de oportunidades, muitos afirmam que em alguns anos alcançará o posto de 5° economia do mundo, contudo, ainda existem desafios latentes a serem enfrentados. Sendo assim, a tecnologia tem um papel importante na corrida do país para superar estas lacunas.  
 O principal evento sobre tecnologia Microsoft do país, o Tech-Ed, demonstrou como a área de TI está preparada para apoiar nesse crescimento.

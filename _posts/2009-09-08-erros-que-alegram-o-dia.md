@@ -15,7 +15,7 @@ tags:
 
 Esse post era pra ter saído na sexta-feira passada, mas não tive tempo no dia, então vai hoje mesmo. Estava eu no final do expediente – o que pode significar num bom dia um horário entre 18h e 20h 🙂 – escrevendo um código de complexidade razoável, quando me deparei com o seguinte erro:
 
-[![ErroGZip](http://leandrodaniel.com/pics/WindowsLiveWriter/Errosquealegramodia/4E9B43E7/ErroGZip_thumb.png "ErroGZip")](http://leandrodaniel.com/pics/WindowsLiveWriter/Errosquealegramodia/6F228399/ErroGZip.png)
+[![ErroGZip](/assets/pics/WindowsLiveWriter/Errosquealegramodia/4E9B43E7/ErroGZip_thumb.png "ErroGZip")](/assets/pics/WindowsLiveWriter/Errosquealegramodia/6F228399/ErroGZip.png)
 
 O erro estourou no seguinte trecho:
 

@@ -17,7 +17,7 @@ tags:
     - Comunidade
 ---
 
-[![capa_net73_G](http://leandrodaniel.com/pics/capa_net73_G_thumb.jpg "capa_net73_G")](http://leandrodaniel.com/pics/capa_net73_G_2.jpg) A .net Magazine 73 já está disponível no site da [DevMedia](http://www.devmedia.com.br/assgold/listmag.asp?site=1) e chega trazendo a terceira e última parte da série de artigos sobre o Visual Studio 2010 e do .NET Framework 4.0. O artigo mostra as novidades para desenvolvimento no SharePoint 2010, o suporte à programação utilizando paralelismo de processadores, a nova linguagem de programação F#, entre outros recursos inovadores.
+[![capa_net73_G](/assets/pics/capa_net73_G_thumb.jpg "capa_net73_G")](/assets/pics/capa_net73_G_2.jpg) A .net Magazine 73 já está disponível no site da [DevMedia](http://www.devmedia.com.br/assgold/listmag.asp?site=1) e chega trazendo a terceira e última parte da série de artigos sobre o Visual Studio 2010 e do .NET Framework 4.0. O artigo mostra as novidades para desenvolvimento no SharePoint 2010, o suporte à programação utilizando paralelismo de processadores, a nova linguagem de programação F#, entre outros recursos inovadores.
 
 Outros assuntos interessantes estão presentes nesta edição, como MEF, ADO.NET Entity Framework 4.0, ASP.NET Ajax Library, só para citar alguns.
 

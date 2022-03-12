@@ -22,7 +22,7 @@ Dentro dos desafios do arquiteto de TI hoje em dia a virtualização de servidor
 
 A Microsoft possui diversas ferramentas disponíveis para virtualização, conforme mostra a ilustração a seguir:
 
-![virtualization](http://leandrodaniel.com/pics/WindowsLiveWriter/Virtualizao_14C2D/virtualization_3.png)  
+![virtualization](/assets/pics/WindowsLiveWriter/Virtualizao_14C2D/virtualization_3.png)  
 <font size="1">Fonte: </font>[<font size="1">http://www.microsoft.com/brasil/servidores/virtualizacao/solutions.mspx</font>](http://www.microsoft.com/brasil/servidores/virtualizacao/solutions.mspx "http://www.microsoft.com/brasil/servidores/virtualizacao/solutions.mspx")
 
 Máquinas virtuais também podem ser utilizadas para testes em ambientes operacionais em versões diferentes da atual, como Windows 98 ou Windows 2000, dentre outros. Quanto mais servidores forem virtualizados mais o custo tende a cair, isso é bem interessante para equipes que precisam garantir o funcionamento de um aplicativo em diversos ambientes.

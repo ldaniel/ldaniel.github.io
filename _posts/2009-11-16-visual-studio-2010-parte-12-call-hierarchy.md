@@ -15,10 +15,10 @@ tags:
 
 Essa nova *feature* eu acho muito legal. Lembra quando a gente ficava dando **F12** até chegar ao método “final” que era chamado? No Visual Studio 2010 é possível selecionar um membro de uma classe e clicar com o botão direito escolhendo a opção ***View Call Hierarchy***, ilustrado abaixo:
 
-![vs2010CallHierarchy](http://leandrodaniel.com/pics/WindowsLiveWriter/VisualStudio2010parte12CallHierarchy/4DACEA8E/vs2010CallHierarchy.gif "vs2010CallHierarchy")
+![vs2010CallHierarchy](/assets/pics/WindowsLiveWriter/VisualStudio2010parte12CallHierarchy/4DACEA8E/vs2010CallHierarchy.gif "vs2010CallHierarchy")
 
 Pronto! Agora você pode navegar rapidamente por toda a hierarquia de chamada do método.
 
-![vs2010CallHierarchyPanel](http://leandrodaniel.com/pics/WindowsLiveWriter/VisualStudio2010parte12CallHierarchy/2F7F2CDA/vs2010CallHierarchyPanel.gif "vs2010CallHierarchyPanel")
+![vs2010CallHierarchyPanel](/assets/pics/WindowsLiveWriter/VisualStudio2010parte12CallHierarchy/2F7F2CDA/vs2010CallHierarchyPanel.gif "vs2010CallHierarchyPanel")
 
 Outro ponto interessante é que você também pode analisar a quantidade de [acoplamento aferente e eferente](http://www.leandrodaniel.com/post/Visual-Studio-2010-(parte-1)-e28093-Dependency-Graph) de uma classe.

@@ -13,4 +13,4 @@ tags:
     - Informativo
 ---
 
-![Feliz2010](http://leandrodaniel.com/pics/WindowsLiveWriter/Blog.Pause/43775639/Feliz2010.gif "Feliz2010")
+![Feliz2010](/assets/pics/WindowsLiveWriter/Blog.Pause/43775639/Feliz2010.gif "Feliz2010")

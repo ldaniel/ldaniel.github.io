@@ -21,7 +21,7 @@ Acabo de fazer alguns testes com o ASP.NET Chart Control para o Framework 3.5, p
 [Chart Controls for .NET Framework Documentation](http://go.microsoft.com/fwlink/?LinkId=128301)  
 [Chart Controls Forum](http://go.microsoft.com/fwlink/?LinkId=128713)
 
-![](http://leandrodaniel.com/pics/ChartSamples.jpg)
+![](/assets/pics/ChartSamples.jpg)
 
 Bem, após brincar um pouquinho com o controle, rememorar algumas vezes que sofri para colocar gráficos em aplicações web e winforms, inclusive de ocasiões que me “lasquei” usando OWC, uma perguntinha simples não para de martelar na minha cabeça: **Por que não lançaram esse controle há alguns anos atrás? Custava?**
 

@@ -58,4 +58,4 @@ Acompanhe no Twitter pelas hashtags: **\#CommunityLaunchSP** e **\#DotnetArchite
 
 No site: [http://dotnetarchitects.net](http://dotnetarchitects.net/dotnetarchitects/post/Microsoft-Community-Launch-2010-Sao-Paulo-SP)
 
-![assinatura_aplicação](http://leandrodaniel.com/pics/assinatura_aplica%C3%A7%C3%A3o_1.jpg "assinatura_aplicação")
+![assinatura_aplicação](/assets/pics/assinatura_aplica%C3%A7%C3%A3o_1.jpg "assinatura_aplicação")

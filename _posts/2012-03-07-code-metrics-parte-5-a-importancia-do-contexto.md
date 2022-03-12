@@ -21,7 +21,7 @@ Em alguns casos, é necessário "calibramos" as métricas de acordo com a realid
 
 A genial figura abaixo, criada por [Thom Holwerda](http://www.osnews.com/user/uid:5/), apresenta a medida **WTFs/minute** (algo como *“Que\_Porra\_é\_Essa / minuto”*) como um indicador da qualidade de um software.
 
-[![wtfm](http://leandrodaniel.com/pics/wtfm.jpg "wtfm")](http://www.osnews.com/story/19266/WTFs_m)
+[![wtfm](/assets/pics/wtfm.jpg "wtfm")](http://www.osnews.com/story/19266/WTFs_m)
 
 Interessante notar que, apesar de ser uma piada, a métrica acima poderia ser válida se o contexto assim exigisse. Dependendo da situação, teremos que compor um indicador utilizando vários outros. No exemplo que vimos no [post anterior](http://leandrodaniel.com/index.php/Code-metrics-(parte-4)-Medindo-Qualidade), utilizamos o indicador (I), contudo, não determinamos com antecedência qual análise gostaríamos de fazer.
 
@@ -64,7 +64,7 @@ Plotando os resultados obtidos em um plano cartesiano, considerando um eixo para
 
 <font color="#ff0000">**Update (01/05/2012): Nova legenda dos eixos.**</font>
 
-[![image](http://leandrodaniel.com/pics/image_thumb_1.png "image")](http://leandrodaniel.com/pics/image_1.png)
+[![image](/assets/pics/image_thumb_1.png "image")](/assets/pics/image_1.png)
 
 Cool! Veja como que a conclusão obtida no post anterior não se mostra verdadeira considerando nossa meta de avaliação. Quanto mais próximo do eixo pontilhado no gráfico, melhor um assembly será para ser substituído, já que este terá um melhor equilíbrio entre as duas medidas.
 

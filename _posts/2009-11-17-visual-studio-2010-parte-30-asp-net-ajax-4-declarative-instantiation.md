@@ -21,6 +21,6 @@ Então você tem que juntar o seu controle/comportamento para um elemento que ir
 
 Uma vez que um controle/comportamento é anexado a um elemento, você pode acessar qualquer uma das suas propriedades declarativamente também.
 
-![VS2010DeclarativeInstantiation](http://leandrodaniel.com/pics/WindowsLiveWriter/VisualStudio2010parte40/5E212564/VS2010DeclarativeInstantiation.gif "VS2010DeclarativeInstantiation")
+![VS2010DeclarativeInstantiation](/assets/pics/WindowsLiveWriter/VisualStudio2010parte40/5E212564/VS2010DeclarativeInstantiation.gif "VS2010DeclarativeInstantiation")
 
 Fácil, não?

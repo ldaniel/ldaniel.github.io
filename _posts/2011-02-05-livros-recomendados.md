@@ -12,7 +12,7 @@ tags:
     - pt-br
 ---
 
-Animado pelo [Mantovani](http://system.mantov.net/), criei uma conta no [Shelfari](http://www.shelfari.com/leandrodaniel) e aproveitei para deixar aqui no blog um link permanente (no rodapé) para os livros que li e recomendo. O que me animou foi justamente essa possibilidade de integração com o blog, que evoluiu bastante desde a última vez que eu tinha visto o Shelfari (há alguns anos atrás). Preciso confessar que a possibilidade de colocar uma estante mais moderna (e não aquela de madeira) teve um peso forte. ![Alegre](http://reverb.leandrodaniel.com/reverbhttp://leandrodaniel.com/pics/wlEmoticon-smile_2.png)
+Animado pelo [Mantovani](http://system.mantov.net/), criei uma conta no [Shelfari](http://www.shelfari.com/leandrodaniel) e aproveitei para deixar aqui no blog um link permanente (no rodapé) para os livros que li e recomendo. O que me animou foi justamente essa possibilidade de integração com o blog, que evoluiu bastante desde a última vez que eu tinha visto o Shelfari (há alguns anos atrás). Preciso confessar que a possibilidade de colocar uma estante mais moderna (e não aquela de madeira) teve um peso forte. ![Alegre](http://reverb.leandrodaniel.com/reverb/assets/pics/wlEmoticon-smile_2.png)
 
 Aos poucos vou atualizando a lista, tem bastante coisa legal. Se você tiver algum bom livro para sugerir, é só comentar aqui.
 

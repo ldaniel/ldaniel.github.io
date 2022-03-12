@@ -52,7 +52,7 @@ Simples e significativo!
 
 Tomemos como exemplo a [Enterprise Library](http://msdn.microsoft.com/en-us/library/ff648951) para avaliar a dependência entre os *assemblies* e os respectivos graus de instabilidade. Vamos analisar o gráfico de dependência entre alguns *assemblies*, logo abaixo.
 
-![](http://leandrodaniel.com/pics/dependgraph.png)
+![](/assets/pics/dependgraph.png)
 
 Medindo a instabilidade de cada *assembly* obtemos:
 

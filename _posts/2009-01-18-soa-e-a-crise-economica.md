@@ -17,4 +17,4 @@ Acredito que a grande maioria já deva ter lido sobre a [morte da SOA](http://ap
 
 Deixei no fórum do grupo de arquitetura .Net Architects uma [thread de discussão sobre a morte da SOA](http://groups.google.com.br/group/dotnetarchitects/browse_thread/thread/e2c9491a387d0850?hl=pt-BR). Qual a sua opinião sobre isso?
 
-![nuvem](http://leandrodaniel.com/pics/WindowsLiveWriter/SOAeacriseeconmica_1138B/nuvem_8a09b0eb-7e12-434d-a053-72b966a9188c.gif "nuvem")
+![nuvem](/assets/pics/WindowsLiveWriter/SOAeacriseeconmica_1138B/nuvem_8a09b0eb-7e12-434d-a053-72b966a9188c.gif "nuvem")

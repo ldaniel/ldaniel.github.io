@@ -16,7 +16,7 @@ tags:
     - Podcasts
 ---
 
-![](http://leandrodaniel.com/pics/VoidBanner.png)
+![](/assets/pics/VoidBanner.png)
 
 **[Void Podcast #031 – Apuros no trabalho! (parte 1)](http://voidpodcast.com/2014/04/20/void-podcast-031-apuros-no-trabalho-parte-1)**  
 Desta vez, o Void levou o compromisso de não ter periodicidade ao extremo! Ouça um episódio gravado no ano passado e editado apenas agora: porque primamos por manter o absoluto não retorno de valor! E para nos ajudar com esta meta convidamos os nossos amigos Alexandre Mantovani ([@mantov](http://twitter.com/mantov)), Emmanuel Brandão ([@egomesbrandao](http://twitter.com/egomesbrandao)) e Eric Lemes ([@eric\_lemes](http://twitter.com/eric_lemes)) para um bate-papo sobre situações desagradáveis, constrangedoras e pitorescas passadas em ambientes de trabalho.

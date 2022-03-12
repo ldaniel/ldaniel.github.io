@@ -28,7 +28,7 @@ Tenho a felicidade de trabalhar em uma empresa que presa muito a questão socio-
 - Em todas as impressoras, onde a preferência é por utilização de papel reciclável (salvo quando é exigido papel comum);
 - Na distribuição de sacolas retornáveis para todos os funcionários;
 
-[![sacola retornavel](http://leandrodaniel.com/pics/sacola%20retornavel_thumb.jpg "sacola retornavel")](http://leandrodaniel.com/pics/sacola%20retornavel.jpg)
+[![sacola retornavel](/assets/pics/sacola%20retornavel_thumb.jpg "sacola retornavel")](/assets/pics/sacola%20retornavel.jpg)
 
 > No Brasil…
 > 
@@ -40,7 +40,7 @@ Tenho a felicidade de trabalhar em uma empresa que presa muito a questão socio-
 > 
 > Para ter acesso a mais informações sobre o tema e saber dicas de como diminuir seu consumo de sacolas visite o sita da Campanha do Ministério do Meio Ambiente “[Saco é um saco](http://www.sacoeumsaco.gov.br/)”.
 
-[![2011-08-29 16.54.43](http://leandrodaniel.com/pics/2011-08-29%2016.54.43_thumb_1.jpg "2011-08-29 16.54.43")](http://leandrodaniel.com/pics/2011-08-29%2016.54.43_1.jpg)
+[![2011-08-29 16.54.43](/assets/pics/2011-08-29%2016.54.43_thumb_1.jpg "2011-08-29 16.54.43")](/assets/pics/2011-08-29%2016.54.43_1.jpg)
 
 - Nos cartões de visita dos funcionários, que são confeccionados utilizando papel reciclável;
 - Na caixinha onde os cartões de visita são entregues, também feito de papel reciclável;

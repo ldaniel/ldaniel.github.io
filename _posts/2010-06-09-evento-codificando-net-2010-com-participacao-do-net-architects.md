@@ -26,4 +26,4 @@ O [.Net Architects](http://www.dotnetarchitects.net/) foi convidado para partici
 
 Acompanhe as notícias sobre o evento no Twitter com a *hashtag* **\#Codificando2010**.
 
-[![Codificando2010](http://leandrodaniel.com/pics/Codificando2010.png "Codificando2010")](http://www.codificandomagazine.net/codificando2010/Default)Participem e divulguem!
+[![Codificando2010](/assets/pics/Codificando2010.png "Codificando2010")](http://www.codificandomagazine.net/codificando2010/Default)Participem e divulguem!

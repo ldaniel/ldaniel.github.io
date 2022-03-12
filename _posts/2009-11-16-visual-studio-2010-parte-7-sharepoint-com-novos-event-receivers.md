@@ -15,8 +15,8 @@ tags:
 
 Em conjunto com as novidades do SharePoint 2010 o Visual Studio 2010 incorpora inúmeras novidades para os desenvolvedores, fazendo com que a IDE se torne altamente integrada ao desenvolvimento para o SharePoint. Um exemplo são os novos *Event Receivers* disponibilizados.
 
-![VS2010EventReceivers](http://leandrodaniel.com/pics/WindowsLiveWriter/VisualStudio2010parte7SharePointcomnovos/033DC007/VS2010EventReceivers.png "VS2010EventReceivers")
+![VS2010EventReceivers](/assets/pics/WindowsLiveWriter/VisualStudio2010parte7SharePointcomnovos/033DC007/VS2010EventReceivers.png "VS2010EventReceivers")
 
 Uma vez adicionado a sua solução SharePoint um grande número de novos eventos estão disponíveis para uso, confira um exemplo abaixo:
 
-![VS2010EventReceiversSamples](http://leandrodaniel.com/pics/WindowsLiveWriter/VisualStudio2010parte7SharePointcomnovos/79B4DBC3/VS2010EventReceiversSamples.png "VS2010EventReceiversSamples")
+![VS2010EventReceiversSamples](/assets/pics/WindowsLiveWriter/VisualStudio2010parte7SharePointcomnovos/79B4DBC3/VS2010EventReceiversSamples.png "VS2010EventReceiversSamples")

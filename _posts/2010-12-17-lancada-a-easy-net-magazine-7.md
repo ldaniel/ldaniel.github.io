@@ -17,7 +17,7 @@ tags:
     - 'Easy .net Magazine'
 ---
 
-[![capa_easynet7_G](http://leandrodaniel.com/pics/capa_easynet7_G_thumb_1.jpg "capa_easynet7_G")](http://leandrodaniel.com/pics/capa_easynet7_G_1.jpg)
+[![capa_easynet7_G](/assets/pics/capa_easynet7_G_thumb_1.jpg "capa_easynet7_G")](/assets/pics/capa_easynet7_G_1.jpg)
 
 A revista digital Easy .net Magazine edição 7 já está disponível no site da [DevMedia](http://www.devmedia.com.br/resumo/default.asp?ed=7&site=59).
 

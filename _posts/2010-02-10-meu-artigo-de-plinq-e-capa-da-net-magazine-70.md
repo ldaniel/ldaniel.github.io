@@ -17,7 +17,7 @@ tags:
     - Comunidade
 ---
 
-[![capa_net70_G](http://leandrodaniel.com/pics/WindowsLiveWriter/MeuartigodePLINQcapada.netMagazine70/4EA1874F/capa_net70_G_thumb.jpg "capa_net70_G")](http://leandrodaniel.com/pics/WindowsLiveWriter/MeuartigodePLINQcapada.netMagazine70/26031B48/capa_net70_G.jpg)
+[![capa_net70_G](/assets/pics/WindowsLiveWriter/MeuartigodePLINQcapada.netMagazine70/4EA1874F/capa_net70_G_thumb.jpg "capa_net70_G")](/assets/pics/WindowsLiveWriter/MeuartigodePLINQcapada.netMagazine70/26031B48/capa_net70_G.jpg)
 
 Chegou ontem na minha casa a [.net Magazine 70](http://www.devmedia.com.br/resumo/default.asp?ed=70&site=1) onde meu artigo sobre PLINQ é o destaque da edição!
 
@@ -31,7 +31,7 @@ Esse artigo significou muito pra mim, pessoal e profissionalmente falando. Parte
 
 Oportunamente, gostaria de deixar aqui dois agradecimentos. O primeiro ao Editor Geral [Guinther Pauli](http://guintherpauli.blogspot.com/) (grande mestre Guinther!), no qual mantenho um contato muito produtivo nos trabalhos que realizo para a [DevMedia](http://www.devmedia.com.br/portal/default.asp). O outro agradecimento vai para o meu amigo [Alexandre Mantovani](http://system.mantov.net/), que sempre me apoiou criticando e contribuindo com detalhes que enriquecem muito cada artigo que escrevo (mais uma vez, obrigado pela sugestão do subtítulo! foi muito boa!).
 
-[![dream-theater-octavarium](http://leandrodaniel.com/pics/WindowsLiveWriter/MeuartigodePLINQcapada.netMagazine70/4815B9D2/dreamtheateroctavarium_thumb.jpg "dream-theater-octavarium")](http://leandrodaniel.com/pics/WindowsLiveWriter/MeuartigodePLINQcapada.netMagazine70/3FF96C1B/dreamtheateroctavarium.jpg)
+[![dream-theater-octavarium](/assets/pics/WindowsLiveWriter/MeuartigodePLINQcapada.netMagazine70/4815B9D2/dreamtheateroctavarium_thumb.jpg "dream-theater-octavarium")](/assets/pics/WindowsLiveWriter/MeuartigodePLINQcapada.netMagazine70/3FF96C1B/dreamtheateroctavarium.jpg)
 
 Um detalhe curioso da capa da revista é que ela lembra o disco [Octavarium](http://www.dreamtheater.net/disco_dreamtheater.php?s=octavarium) da banda de *progressive metal* [Dream Theater](http://www.dreamtheater.net/) (aliás, uma das minhas **favoritas**).
 

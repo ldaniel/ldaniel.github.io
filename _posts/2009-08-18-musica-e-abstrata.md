@@ -22,11 +22,11 @@ Já perdi a conta de quantas discussões tive com diversas pessoas sobre esse te
 
 Abaixo algumas telas com exemplos do mesmo acorde com transposições (clique nas imagens para ampliar).
 
-[![Acorde01](http://leandrodaniel.com/pics/Acorde01_thumb.gif "Acorde01")](http://leandrodaniel.com/pics/Acorde01.gif)
+[![Acorde01](/assets/pics/Acorde01_thumb.gif "Acorde01")](/assets/pics/Acorde01.gif)
 
-[![Acorde02](http://leandrodaniel.com/pics/Acorde02_thumb.gif "Acorde02")](http://leandrodaniel.com/pics/Acorde02.gif)
+[![Acorde02](/assets/pics/Acorde02_thumb.gif "Acorde02")](/assets/pics/Acorde02.gif)
 
-[![Acorde03](http://leandrodaniel.com/pics/Acorde03_thumb.gif "Acorde03")](http://leandrodaniel.com/pics/Acorde03.gif)
+[![Acorde03](/assets/pics/Acorde03_thumb.gif "Acorde03")](/assets/pics/Acorde03.gif)
 
 A questão toda é:
 

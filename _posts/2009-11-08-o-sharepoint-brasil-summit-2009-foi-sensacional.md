@@ -15,7 +15,7 @@ tags:
     - SharePoint
 ---
 
-[![sharepoint2010](http://leandrodaniel.com/pics/WindowsLiveWriter/SharePointBrasilSummit2009/15C078E5/sharepoint2010_thumb.gif "sharepoint2010")](http://leandrodaniel.com/pics/WindowsLiveWriter/SharePointBrasilSummit2009/099EFEBE/sharepoint2010.gif)
+[![sharepoint2010](/assets/pics/WindowsLiveWriter/SharePointBrasilSummit2009/15C078E5/sharepoint2010_thumb.gif "sharepoint2010")](/assets/pics/WindowsLiveWriter/SharePointBrasilSummit2009/099EFEBE/sharepoint2010.gif)
 
 Estive presente ontem no evento organizado por [Hélio Sá](http://twitter.com/heliosamoreira), [Rodolfo Roim](http://blogs.msdn.com/rodolforoim) e [Thiago Cruz](http://www.thiagocruz.net/) e fiquei bastante impressionado com o novo [SharePoint](http://sharepoint2010.microsoft.com/Pages/default).
 

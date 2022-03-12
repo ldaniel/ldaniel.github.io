@@ -17,7 +17,7 @@ tags:
     - 'Easy .net Magazine'
 ---
 
-[![capa_easynet3_g](http://leandrodaniel.com/pics/capa_easynet3_g.jpg "capa_easynet3_g")](http://www.devmedia.com.br/post-17682-Introducao-a-T-SQL.html)A revista digital Easy .net Magazine edição 3 já está disponível no site da [DevMedia](http://www.devmedia.com.br/post-17686-Revista-Easy--net-Magazine-Edicao-3.html). Dessa vez escrevi o artigo da capa: “SQL Server – Introdução à linguagem SQL e Banco de Dados”.
+[![capa_easynet3_g](/assets/pics/capa_easynet3_g.jpg "capa_easynet3_g")](http://www.devmedia.com.br/post-17682-Introducao-a-T-SQL.html)A revista digital Easy .net Magazine edição 3 já está disponível no site da [DevMedia](http://www.devmedia.com.br/post-17686-Revista-Easy--net-Magazine-Edicao-3.html). Dessa vez escrevi o artigo da capa: “SQL Server – Introdução à linguagem SQL e Banco de Dados”.
 
 Esta série de artigos apresentará uma introdução à T-SQL, a linguagem para desenvolvimento em banco de dados criados no Microsoft SQL Server. Através de exemplos práticos veremos como podemos utilizar o SQL Server Management Studio para aprender os fundamentos e conceitos de desenvolvimento em banco de dados.
 

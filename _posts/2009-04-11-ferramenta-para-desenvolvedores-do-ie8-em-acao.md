@@ -17,7 +17,7 @@ No meu post sobre [Filtered Indexes do SQL Server 2008](http://www.leandrodaniel
 
 Minha primeira suspeita era o CSS, então fiz alguns testes utilizando a guia CSS da ferramenta e logo encontrei o problema. Uma classe continha o valor “inline” definido para a propriedade *display* e isso gerava um problema na renderização no IE8. Alterei o valor da propriedade para “inline-block” e o problema, aparentemente, foi resolvido. Veja abaixo a ferramenta em ação.
 
- ![BugRating](http://leandrodaniel.com/pics/WindowsLiveWriter/FerramentaparadesenvolvedoresdoIE8emao_CA96/BubRating_5467701d-42cb-420e-a9a9-98e6ace6e88b.gif "BugRating")
+ ![BugRating](/assets/pics/WindowsLiveWriter/FerramentaparadesenvolvedoresdoIE8emao_CA96/BubRating_5467701d-42cb-420e-a9a9-98e6ace6e88b.gif "BugRating")
 
 O interessante é que a ferramenta permite alterar todos os itens do CSS aplicando automaticamente na sessão corrente de navegação, isso facilitou muito a descoberta do problema. Contudo, comentei que o problema foi aparentemente resolvido (testei no FireFox, IE7, Chrome e Safari) porque nada me garante que o funcionamento do sistema de avaliação será o mesmo em todos os browser, pois cada um possui sua *engine* de renderização.
 

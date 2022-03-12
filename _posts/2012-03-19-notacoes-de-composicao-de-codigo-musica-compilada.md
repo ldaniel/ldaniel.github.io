@@ -13,7 +13,7 @@ tags:
     - Distortion
 ---
 
-| ![](http://leandrodaniel.com/pics/stophand.png) | **Disclaimer**  Este post é uma elucubração livre, sem maiores pretensões. O texto contém uma mescla de fatos e percepções, sem qualquer preocupação com a forma.  Sinta-se livre para ignorá-lo.  -&gt; em tempo, nenhum panda foi sacrificado durante a elaboração do texto, e claro, nenhuma droga ilícita fora utilizada =)  \#mundopoliticamentecorretosucks |
+| ![](/assets/pics/stophand.png) | **Disclaimer**  Este post é uma elucubração livre, sem maiores pretensões. O texto contém uma mescla de fatos e percepções, sem qualquer preocupação com a forma.  Sinta-se livre para ignorá-lo.  -&gt; em tempo, nenhum panda foi sacrificado durante a elaboração do texto, e claro, nenhuma droga ilícita fora utilizada =)  \#mundopoliticamentecorretosucks |
 |---|---|
 
 ### Prelúdio
@@ -26,11 +26,11 @@ tags:
 
 E então os primeiros neumas surgiram como uma tentativa de dar interpretações dinâmicas para a música monofônica. Sinais gráficos eram utilizados para criar as primeiras notações musicais. Anteriormente, a noção de "composição" não era conhecida. A notação musical começou por surgir primeiro com a função de auxiliar a memória de quem cantava e só mais tarde se tornou cada vez mais precisa.
 
-![](http://leandrodaniel.com/pics/neumasLAUDAMUSTE1.png)
+![](/assets/pics/neumasLAUDAMUSTE1.png)
 
 Uma notação legível por humanos para o código de máquina que uma arquitetura de computador específica usa foi necessária para facilitar a criação de códigos. A composição e registro de códigos fonte se tornou uma prática.
 
-![](http://leandrodaniel.com/pics/assemblyNeuma.png)
+![](/assets/pics/assemblyNeuma.png)
 
 A música necessitava de mais dinamismo, a percepção da música polifônica, provavelmente, fez o homem se questionar:
 
@@ -40,18 +40,18 @@ A música necessitava de mais dinamismo, a percepção da música polifônica, p
 
 A notação ganhou amplitude. A liberdade, outrora intangível, perfazia paulatinamente seu inevitável destino. Notações criadas como forma de registrar a execução de uma obra (código-fonte).
 
-![](http://leandrodaniel.com/pics/neumas.png)
+![](/assets/pics/neumas.png)
 
 Sinais gráficos permitindo aos seus compositores a escrita de grandes obras.
 
-![](http://leandrodaniel.com/pics/cplusplusNeuma.png)
+![](/assets/pics/cplusplusNeuma.png)
 
 A notação musical evoluiu assombrosamente.
 
-![](http://leandrodaniel.com/pics/danceOfEternityScore.png)
+![](/assets/pics/danceOfEternityScore.png)
 
 A notação computacional, assombrosamente, lembra a mesma de outrora.
 
-![](http://leandrodaniel.com/pics/rubyNeuma1.png)
+![](/assets/pics/rubyNeuma1.png)
 
 ### Intermission

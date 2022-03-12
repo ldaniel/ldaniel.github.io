@@ -73,7 +73,7 @@ Um arquiteto corporativo pode iniciar sua definição de “AS-IS” e “TO-BE�
 
 O rabisco abaixo ilustra (de maneira minimalista, evidentemente) a diferença entre a visão de “AS-IS” e “TO-BE” no exemplo da fusão entre empresas. Note que dentro das preocupações do arquiteto corporativo, estão, além dos sistemas, os processos de negócio.
 
-![](http://leandrodaniel.com/pics/asistobe_ac.png)
+![](/assets/pics/asistobe_ac.png)
 
 ### Para o arquiteto de soluções (papel ou cargo)
 
@@ -81,13 +81,13 @@ Alinhado com o arquiteto corporativo, o arquiteto de soluções se preocupará e
 
 “Que tipo de tecnologias serão elencadas para resolver as integrações?” ou “Como prover a estrutura necessária para o novo portfólio de serviços?”: Essas são perguntas comuns a esse papel/cargo.
 
-![](http://leandrodaniel.com/pics/asistobe_as.png)
+![](/assets/pics/asistobe_as.png)
 
 ### Para o arquiteto de software (papel ou cargo)
 
 Uma vez definida a solução – que estará alinhada com as definições “empresariais” – o arquiteto de software implementará os componentes, frameworks e outros itens necessários para a materialização da arquitetura.
 
-![](http://leandrodaniel.com/pics/asistobe_aso.png)
+![](/assets/pics/asistobe_aso.png)
 
 ### Resumidamente, era isso!
 

@@ -16,7 +16,7 @@ tags:
     - Podcasts
 ---
 
-![](http://leandrodaniel.com/pics/VoidBanner.png)
+![](/assets/pics/VoidBanner.png)
 
 **[Void Podcast #022 – Do it yourself!](http://voidpodcast.com/2012/07/24/void-podcast-022-do-it-yourself/)** Nesse retorno, temos uma verdadeira aula de equilíbrio existencial. Tivemos a honra e oportunidade de trocar ideias e, principalmente, aprender um bocado com um verdadeiro professor pardal: Vinícius Senger ([@vsenger](http://twitter.com/vsenger) para os íntimos).
 

@@ -17,7 +17,7 @@ tags:
     - Comunidade
 ---
 
-[![capa_net67_G](http://leandrodaniel.com/pics/WindowsLiveWriter/ArtigodeSQLServer2008n.netMagazineedio67/5464AFA6/capa_net67_G_thumb.jpg "capa_net67_G")](http://leandrodaniel.com/pics/WindowsLiveWriter/ArtigodeSQLServer2008n.netMagazineedio67/7DD8F0E6/capa_net67_G.jpg)
+[![capa_net67_G](/assets/pics/WindowsLiveWriter/ArtigodeSQLServer2008n.netMagazineedio67/5464AFA6/capa_net67_G_thumb.jpg "capa_net67_G")](/assets/pics/WindowsLiveWriter/ArtigodeSQLServer2008n.netMagazineedio67/7DD8F0E6/capa_net67_G.jpg)
 
 Já saiu a edição da revista [.net Magazine 67](http://www.devmedia.com.br/resumo/default.asp?ed=67&site=1) onde escrevi um artigo sobre o SQL Server 2008 Integration Services. O SSIS é uma poderosa plataforma que permite a integração de dados vindos das mais diferentes fontes. Com ele, desenvolvemos soluções para ETL (Extract – Transform – Load), ou seja, para extrair, transformar e carregar informações para um banco de dados. O artigo ficou bem legal, e o código-fonte do exemplo executado pode ser [baixado aqui](http://www.leandrodaniel.com//page/artigos).
 

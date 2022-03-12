@@ -21,6 +21,6 @@ O TDC 2012 é um evento organizado pela [Globalcode](http://www.globalcode.com.b
 
 Esse ano fui convidado para ser um dos coordenadores da [trilha de arquitetura](http://www.thedevelopersconference.com.br/tdc/2012/saopaulo/trilha-arquitetura#coordenadores), o que me deixou muito feliz e honrado. Clique na imagem abaixo para maiores detalhes sobre o evento.
 
-Nos vemos lá! ![Smiley de boca aberta](http://leandrodaniel.com/pics/wlEmoticon-openmouthedsmile_2.png)
+Nos vemos lá! ![Smiley de boca aberta](/assets/pics/wlEmoticon-openmouthedsmile_2.png)
 
-[![TDC2012_Cartaz](http://leandrodaniel.com/pics/TDC2012_Cartaz_1.png "TDC2012_Cartaz")](http://www.thedevelopersconference.com.br/tdc/2012/index.html#geral)
+[![TDC2012_Cartaz](/assets/pics/TDC2012_Cartaz_1.png "TDC2012_Cartaz")](http://www.thedevelopersconference.com.br/tdc/2012/index.html#geral)

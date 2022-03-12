@@ -37,7 +37,7 @@ Se a pergunta “Qual a conduta correta para um indivíduo em sociedade?” é m
 
 O desenho abaixo ilustra três facetas da ética no dia a dia de um profissional de TI.
 
-[![Etica na TI](http://leandrodaniel.com/pics/Etica%20na%20TI_thumb_1.png "Etica na TI")](http://leandrodaniel.com/pics/Etica%20na%20TI_1.png)
+[![Etica na TI](/assets/pics/Etica%20na%20TI_thumb_1.png "Etica na TI")](/assets/pics/Etica%20na%20TI_1.png)
 
 Mesmo sendo a ética alvo de longas discussões, gostaria de chamar sua atenção para uma definição de [Código de Ética em Engenharia de Software](http://www.acm.org/about/se-code) resultante dos esforços de uma equipe de trabalho multinacional liderada pela [IEEE/ACM](http://www.acm.org/).
 

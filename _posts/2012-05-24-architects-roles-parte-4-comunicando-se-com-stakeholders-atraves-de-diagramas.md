@@ -15,7 +15,7 @@ tags:
 
 Sempre insisti que as habilidades não-técnicas de um arquiteto são importantíssimas! Não adianta ser super competente tecnicamente mas um ogro na hora de relacionar-se com as pessoas. Da mesma forma, pouco importa se você não consegue entender os princípios ágeis com relação a documentação, invariavelmente, você precisará dela em algum momento: quanto antes você aceitar isso, melhor. 
 
-Isso posto, gostaria de falar sobre documentação e comunicação través de diagramas. Pseudo-agilistas, desenvolvedores xiitas e outros tipos bizarros: tudo ok? Até aqui, sem crise, espero. O que? O tempo fechou? Hummm… nesse caso, [clique aqui](http://leandrodaniel.com/pics/NothingToDoHereBlackWithText.png).
+Isso posto, gostaria de falar sobre documentação e comunicação través de diagramas. Pseudo-agilistas, desenvolvedores xiitas e outros tipos bizarros: tudo ok? Até aqui, sem crise, espero. O que? O tempo fechou? Hummm… nesse caso, [clique aqui](/assets/pics/NothingToDoHereBlackWithText.png).
 
 Pra quem sobreviveu ao link anterior, acompanhe o quão interessante é utilizarmos diagramas em nossa comunicação.
 
@@ -23,11 +23,11 @@ Pra quem sobreviveu ao link anterior, acompanhe o quão interessante é utilizar
 
 Claro que não! Um rabisco no quadro branco é uma poderosa e dinâmica forma de comunicação em uma reunião (na minha opinião). Assim, o desenho abaixo tende a ser uma comunicação extremamente efetiva numa reunião presencial, até mesmo porque você permite que outras pessoas interajam no desenho e colaborem com a solução.
 
-![](http://leandrodaniel.com/pics/archimatedraft.png)
+![](/assets/pics/archimatedraft.png)
 
 Vale reforçar que, conforme estudo apontado por Alistair Cockburn, o diagrama abaixo aponta o quadro branco em um debate cara-a-cara como a forma mais eficaz de comunicação.
 
-![](http://leandrodaniel.com/pics/communicationModes.gif)
+![](/assets/pics/communicationModes.gif)
 
 Contudo, não é viável tirar uma foto do quadro branco e enviá-la a diretores, executivos, gerentes e demais stakeholders. Muitos podem não entender os seus garranchos, não é verdade? Seus stakeholders merecem mais que isso. Lembrando:
 
@@ -47,7 +47,7 @@ No diagrama abaixo, coloco um exemplo de *View Point* descrito com o Archimate o
 
 O bonito nisso, é fazer com que qualquer stakeholder compreenda o posicionamento macro dos *building blocks* dentro da solução. Um diagrama desses consegue explicar muito mais que um texto, na maioria dos casos.
 
-![](http://leandrodaniel.com/pics/archimatesample02.png)
+![](/assets/pics/archimatesample02.png)
 
 Outra vantagem interessante, ao meu ver, é ter a capacidade de linkar esse diagrama com demais building blocks, e até mesmo ao código fonte que materializa partes da arquitetura. Isso é possível utilizando ferramentas como o [Enterprise Architect](http://www.sparxsystems.com/products/ea/index.html).
 
@@ -59,7 +59,7 @@ Por incrível que pareça, não estou recebendo qualquer coisa (patrocínio ou s
 
 Só para deixar a coisa mais imparcial a imagem abaixo mostra a riqueza de *view points* que podem ser criados com o Archimate. Retirei esse material no site da Orbus, que sugere o uso do Visio (clique na imagem abaixo para abrir o site).
 
-[![](http://leandrodaniel.com/pics/ArchimateViewPoints.png)](http://www.orbussoftware.com/downloads/posters/archimate-poster)
+[![](/assets/pics/ArchimateViewPoints.png)](http://www.orbussoftware.com/downloads/posters/archimate-poster)
 
 Se você comunica seus view points de outra forma, seria muito bacana dividir essa experiência aqui, seja através de um comentário ou mesmo deixando um apontamento para algum post.  
 ![Laughing](http://leandrodaniel.com/editors/tiny_mce_3_4_3_1/plugins/emotions/img/smiley-laughing.gif "Laughing")

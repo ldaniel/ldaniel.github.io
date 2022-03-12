@@ -18,4 +18,4 @@ A Microsoft disponibilizou os downloads de documentos contendo as teclas de atal
 
 [Visual Studio 2010 Keybinding Cards](http://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=92ced922-d505-457a-8c9c-84036160639f)
 
-[![KeysVS2010](http://leandrodaniel.com/pics/KeysVS2010.jpg "KeysVS2010")](http://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=92ced922-d505-457a-8c9c-84036160639f)
+[![KeysVS2010](/assets/pics/KeysVS2010.jpg "KeysVS2010")](http://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=92ced922-d505-457a-8c9c-84036160639f)

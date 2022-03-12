@@ -15,7 +15,7 @@ tags:
 
 Era final de expediente hoje, um amigo pediu-me auxílio para resolver um problema simples, retornar no SQL Server o número da semana no mês dado um dia qualquer – na verdade um outro colega nosso estava em um cliente e havia pedido a ele essa ajuda inicialmente. Rapidamente chegamos numa solução que foi prontamente passada ao consultor "em apuros" que, após analisar a query, retornou adicionando uma nova informação: a consulta precisaria levar em consideração o primeiro dia da semana (domingo, no caso). Assim sendo, para o mês de novembro teríamos o seguinte:
 
- ![](http://leandrodaniel.com/pics/WindowsLiveWriter/Dividireconquistar_14B83/NumSemana%5B2%5D_thumb.gif)
+ ![](/assets/pics/WindowsLiveWriter/Dividireconquistar_14B83/NumSemana%5B2%5D_thumb.gif)
 
 Na primeira solução que enviamos o dia 5 seria considerado dentro da primeira semana (semana 1), quando na verdade já estaria na semana 2. Bem, discutimos um pouco mais e chegamos na solução final após recorrermos a uma álgebra básica (dependendo do "final de expediente" que você tem, uma álgebra básica pode oferecer o mesmo desafio de um cubo de Rubik de 4 colunas :), e este era o caso). A solução foi enviada e todos nós (eu, meu amigo e o consultor que estava no cliente tendo aquele final de expediente tipo "cubo de Rubik de 5 colunas") ficamos satisfeitos.
 

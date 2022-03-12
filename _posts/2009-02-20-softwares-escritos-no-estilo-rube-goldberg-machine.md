@@ -17,7 +17,7 @@ Sempre achei fascinante a engenhosidade das *Rube Goldberg Machines*, a idéia d
 
 Abaixo coloquei um exemplo de uma máquina que tira creme dental do tubo. Repare que uma das ações consiste em fazer um pássaro mover um pino que sustenta um peso sobre o creme dental. Fantástico! Fala sério?
 
-![rube-goldberg](http://leandrodaniel.com/pics/WindowsLiveWriter/CdigoalRubeGoldeberg_150D2/rube-goldberg_7d7ed104-d389-4bc9-a2ae-a2cebbbacb10.jpg "rube-goldberg")
+![rube-goldberg](/assets/pics/WindowsLiveWriter/CdigoalRubeGoldeberg_150D2/rube-goldberg_7d7ed104-d389-4bc9-a2ae-a2cebbbacb10.jpg "rube-goldberg")
 
 O fato é que, apesar de pitorescas, temos como certo que essas máquinas absurdas nunca seriam construídas na vida real, correto? Bem, infelizmente no desenvolvimento de software não é raro encontrarmos códigos ou soluções técnicas no melhor estilo *Rube Goldberg*. E a ocorrência deste tipo de problema se estende para analistas de sistema, arquitetos, e por aí vai.
 

@@ -15,7 +15,7 @@ tags:
 
 Há tempos estava querendo escrever a respeito de métricas de código. Trata-se de um assunto interessantíssimo e carente de informações, na minha opinião.
 
-![](http://leandrodaniel.com/pics/oculosJoalheiro.jpg)
+![](/assets/pics/oculosJoalheiro.jpg)
 
 Um significativo óbice à criação de software com qualidade é a dificuldade que temos de visualizar o todo. Em geral, estamos confinados a diminuta visão que a IDE nos dá, através do editor de códigos ou de alguma outra abstração textual. É como se tentássemos contemplar a obra [Guernica](http://pt.wikipedia.org/wiki/Ficheiro:Mural_del_Gernika.jpg) com um óculos de joalheiro, você dificilmente conseguirá entender o que está acontecendo e ficará atento apenas a detalhes “desconexos” do todo.
 

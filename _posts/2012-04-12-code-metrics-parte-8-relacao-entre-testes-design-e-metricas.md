@@ -28,7 +28,7 @@ No exemplo que propus, um desenvolvedor codificou em C# uma classe que realizava
 
 Algumas métricas foram coletadas antes e depois do refactoring. Veja os resultados abaixo.
 
-![](http://leandrodaniel.com/pics/metricasResult.png)
+![](/assets/pics/metricasResult.png)
 
 Após apresentar esse cenário, fiz uma série de questionamentos e convidei, via Twitter, alguns amigos para colaborarem com suas percepções. Os tópicos a seguir descrevem as questões com as participações da galera. Perceba a riqueza das participações.
 

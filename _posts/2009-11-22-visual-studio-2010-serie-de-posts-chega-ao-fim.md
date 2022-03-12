@@ -13,7 +13,7 @@ tags:
     - 'Visual Studio'
 ---
 
-![vs2010Logo](http://leandrodaniel.com/pics/WindowsLiveWriter/SriedepostssobreVisualStudio2010/49EE7C08/vs2010Logo_thumb.gif "vs2010Logo")
+![vs2010Logo](/assets/pics/WindowsLiveWriter/SriedepostssobreVisualStudio2010/49EE7C08/vs2010Logo_thumb.gif "vs2010Logo")
 
 Sem dúvida o Visual Studio 2010 é uma ferramenta excepcional de desenvolvimento, por isso, estarei abordando com profundidade vários assuntos abordados na série em posts futuros (inclusive falando sobre C# 4.0, SharePoint 2010 e por aí vai).
 

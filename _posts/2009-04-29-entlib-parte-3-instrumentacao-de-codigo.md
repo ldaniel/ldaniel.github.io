@@ -39,7 +39,7 @@ using Microsoft.Practices.EnterpriseLibrary.Common.Instrumentation;
 
 Por último será necessário adicionarmos no arquivo de configuração do projeto (tanto faz ser *Web.config* ou *App.config*) o bloco de instrumentação, clicando com o botão direito no arquivo e escolhendo a opção ***Edit Enterprise Library Configuration***. Na janela de configuração do ***Enterprise Library Configuration*** clique com o botão direito no segundo nó da estrutura e escolha **Instrumentation**.
 
-[![Instrumentation](http://leandrodaniel.com/pics/WindowsLiveWriter/EntLibparte3Instrumentaodecdigo/514D698F/Instrumentation_thumb.png "Instrumentation")](http://leandrodaniel.com/pics/WindowsLiveWriter/EntLibparte3Instrumentaodecdigo/055A56D0/Instrumentation.png)
+[![Instrumentation](/assets/pics/WindowsLiveWriter/EntLibparte3Instrumentaodecdigo/514D698F/Instrumentation_thumb.png "Instrumentation")](/assets/pics/WindowsLiveWriter/EntLibparte3Instrumentaodecdigo/055A56D0/Instrumentation.png)
 
 Utilizando a janela **Properties** do Visual Studio é possível configurar as propriedades do bloco, para o exemplo deste post eu alterei as propriedades ***PerformanceCountersEnabled, **WmiEnable***** e ***EventLoggingEnabled*** para ***True***. Abaixo temos um exemplo de como devemos implementar um *listener* para monitoramento de chamadas de conexão com o banco de dados.
 

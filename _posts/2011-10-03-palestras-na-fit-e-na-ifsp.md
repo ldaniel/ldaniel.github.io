@@ -26,7 +26,7 @@ Durante o mês de outubro farei duas palestras para estudantes universitários, 
 
 Segue abaixo a agenda:
 
-![](http://leandrodaniel.com/pics/faculdade-impacta-tecnologia.jpg)**4ª Semana Integrada / Faculdade Impacta – 3 a 7 de outubro**
+![](/assets/pics/faculdade-impacta-tecnologia.jpg)**4ª Semana Integrada / Faculdade Impacta – 3 a 7 de outubro**
 
 Minha palestra será quinta-feira (06/10/2011), às 19h30, com tempo de 1h30, sendo 1h de palestra e 30 min de arguição.
 
@@ -38,7 +38,7 @@ São Paulo – SP
 
 [Mapa com a localização](http://www.impacta.edu.br/fit-localizacao.asp)
 
-![](http://leandrodaniel.com/pics/IFlogo.gif)**Semana de Tecnologia do IFSP – 17 e 21 de outubro**   
+![](/assets/pics/IFlogo.gif)**Semana de Tecnologia do IFSP – 17 e 21 de outubro**   
 Minha palestra será quarta-feira (19/10/2011), às 21h.
 
 Endereço:  

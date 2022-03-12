@@ -17,7 +17,7 @@ tags:
     - 'Easy .net Magazine'
 ---
 
-[![capa_easynet4_g](http://leandrodaniel.com/pics/capa_easynet4_g_thumb.jpg "capa_easynet4_g")](http://leandrodaniel.com/pics/capa_easynet4_g_1.jpg) A revista digital Easy .net Magazine edição 4 já está disponível no site da [DevMedia](http://www.devmedia.com.br/post-17996-Introducao-a-T-SQL.html). Nela você encontra a parte final do meu artigo sobre “SQL Server – Introdução à linguagem SQL e Banco de Dados”.
+[![capa_easynet4_g](/assets/pics/capa_easynet4_g_thumb.jpg "capa_easynet4_g")](/assets/pics/capa_easynet4_g_1.jpg) A revista digital Easy .net Magazine edição 4 já está disponível no site da [DevMedia](http://www.devmedia.com.br/post-17996-Introducao-a-T-SQL.html). Nela você encontra a parte final do meu artigo sobre “SQL Server – Introdução à linguagem SQL e Banco de Dados”.
 
 Na segunda e última parte do artigo daremos continuidade à introdução ao T-SQL assimilando outros conceitos importantes, além de analisarmos diversas consultas para fixarmos o conteúdo aqui presente.
 

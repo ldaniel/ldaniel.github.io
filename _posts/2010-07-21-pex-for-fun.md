@@ -17,4 +17,4 @@ Sempre achei a ideia do Pex fantástica. Ele se propõe a criar testes unitário
 
 Hoje vi uma dica do [@mauricionaniche](http://twitter.com/mauricioaniche) no Twitter para uma demo do Pex (clique na imagem abaixo). É muito divertido além de ser uma forma criativa de explicar como o Pex funciona. Dá pra ficar horas brincando lá.
 
-[![pexforfun](http://leandrodaniel.com/pics/pexforfun.png "pexforfun")](http://pexforfun.com/)
+[![pexforfun](/assets/pics/pexforfun.png "pexforfun")](http://pexforfun.com/)

@@ -24,7 +24,7 @@ A divisão de vários papeis de arquitetura visa separar os diversos skills nece
 
 Abaixo coloquei um rascunho que fiz sobre a visão que cada arquiteto tem levando em consideração a estratégia da organização.
 
-![](http://leandrodaniel.com/pics/tipoarq_tempo.png)
+![](/assets/pics/tipoarq_tempo.png)
 
 É muito importante considerar que:
 

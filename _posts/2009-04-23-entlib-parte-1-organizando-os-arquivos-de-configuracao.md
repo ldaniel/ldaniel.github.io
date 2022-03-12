@@ -23,13 +23,13 @@ Vamos utilizar um programa disponibilizado com a i[nstalação da Enterprise Lib
 
 Outra forma de acessar este programa é através da IDE do Visual Studio, clicando com o botão direito no arquivo de configuração do projeto e escolhendo a opção ***Edit Enterprise Library Configuration***.
 
-[![EntLibConfig](http://leandrodaniel.com/pics/WindowsLiveWriter/EntLibparte1/38CF8C80/EntLibConfig_thumb.png "EntLibConfig")](http://leandrodaniel.com/pics/WindowsLiveWriter/EntLibparte1/143B6E4B/EntLibConfig.png)
+[![EntLibConfig](/assets/pics/WindowsLiveWriter/EntLibparte1/38CF8C80/EntLibConfig_thumb.png "EntLibConfig")](/assets/pics/WindowsLiveWriter/EntLibparte1/143B6E4B/EntLibConfig.png)
 
 Na tela que será apresentada clique com o botão direito no segundo nó da estrutura e escolha a opção ***New*** e em seguida ***Configuration Sources***. Será criado um novo nó chamado ***Configuration Sources***, abaixo dele existe um item chamado ***System Configuration Source***, remova este item clicando com o botão direito em cima dele e escolhendo ***Remove***.
 
 Clique novamente com o botão direito no item ***Configuration Sources*** e escolha a opção ***New*** e em seguida ***File Configuration Source***. A partir desse ponto, basta utilizar a janela *Properties* (F4) do VS.NET para localizar o caminho do arquivo de configuração através da propriedade ***File***. Também será necessário clicar no item ***Configuration Sources*** do painel de configuração e alterar a propriedade ***SelectedSource*** para ***File Configuration Source***.
 
-[![EntLibConfig01](http://leandrodaniel.com/pics/WindowsLiveWriter/EntLibparte1/16E101D3/EntLibConfig01_thumb.png "EntLibConfig01")](http://leandrodaniel.com/pics/WindowsLiveWriter/EntLibparte1/6628D8C5/EntLibConfig01.png)
+[![EntLibConfig01](/assets/pics/WindowsLiveWriter/EntLibparte1/16E101D3/EntLibConfig01_thumb.png "EntLibConfig01")](/assets/pics/WindowsLiveWriter/EntLibparte1/6628D8C5/EntLibConfig01.png)
 
 Repetindo os passos acima você pode adicionar mais arquivos de configuração, dependendo apenas da sua necessidade e conveniência. Outra possibilidade interessante é criptografar o arquivo isolado, usando a propriedade ***ProtectionProvider***, conferindo um nível a mais de segurança às informações da aplicação.
 

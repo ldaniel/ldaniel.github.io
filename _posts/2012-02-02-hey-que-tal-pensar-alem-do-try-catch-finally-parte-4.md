@@ -55,7 +55,7 @@ Perceba que todos os patterns de manipulação de exceção apresentados se rela
 
 O diagrama abaixo ilustra uma possível estratégia de tratamento de exceções entre as camadas de uma dada solução. Para chegar numa estratégia como essa, cada [*building block*](http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap37.html) de sua arquitetura deve ser avaliado com critério.
 
-[![ExceptionStategy](http://leandrodaniel.com/pics/ExceptionStategy_thumb_1.png "ExceptionStategy")](http://leandrodaniel.com/pics/ExceptionStategy_1.png)
+[![ExceptionStategy](/assets/pics/ExceptionStategy_thumb_1.png "ExceptionStategy")](/assets/pics/ExceptionStategy_1.png)
 
 Embora os exemplos desta série de posts ilustrassem situações corriqueiras em linguagens de programação como Java e C#, considere avaliar práticas de manipulação de exceção em banco de dados, processos de ETL, componentes de mensageria, SOA e qualquer outra tecnologia que forneça suporte para isso.
 

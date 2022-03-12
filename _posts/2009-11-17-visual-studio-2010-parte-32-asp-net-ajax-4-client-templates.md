@@ -19,4 +19,4 @@ O ASP.NET AJAX 4.0 introduz a capacidade de definir *templates* no client-side. 
 
 No exemplo abaixo foi criado um template de lista ordenada “&lt;li&gt;”, cujo conteúdo é um item da lista que por sua vez é o valor da propriedade *Name* do objeto ***JSON*** que é ligado a ele. O ***data binding expression*** se assemelha ao do WPF.
 
-![VS2010ClientTemplates](http://leandrodaniel.com/pics/WindowsLiveWriter/VisualStudio2010.NETAJAX4ClientTemplates/2ADA7E0D/VS2010ClientTemplates.gif "VS2010ClientTemplates")
+![VS2010ClientTemplates](/assets/pics/WindowsLiveWriter/VisualStudio2010.NETAJAX4ClientTemplates/2ADA7E0D/VS2010ClientTemplates.gif "VS2010ClientTemplates")

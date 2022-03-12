@@ -15,7 +15,7 @@ tags:
 
 Retomando [nossa jornada](http://leandrodaniel.com/?tag=/Code+Metrics) após um breve hiato (gripe =S), vamos transportar o uso de métricas de código para um interessante patamar: ***"queryable source code"***.
 
-![](http://leandrodaniel.com/pics/wtfMeme.png)WTF man?!?
+![](/assets/pics/wtfMeme.png)WTF man?!?
 
 Ok, essa expressão não existe (creio eu), mas a ideia que sempre vem na minha cabeça quando conseguimos lançar consultas sobre um código fonte é a de *"queryable source code"* (análoga a forma como tornamos um objeto "consultável").
 

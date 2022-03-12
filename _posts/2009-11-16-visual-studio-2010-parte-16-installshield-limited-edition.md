@@ -15,6 +15,6 @@ tags:
 
 Essa me fez lembrar do tempo que eu programava em Delphi… No Visual Studio 2010 tem disponível um modelo de instalação baseado no InstallShield. Na verdade o item disponível fornece instruções para habilitar o suporte a tal edição limitada.
 
-![VS2010InstallShield](http://leandrodaniel.com/pics/WindowsLiveWriter/VisualStudio2010parte16InstallShieldLimi/4CBE1ECE/VS2010InstallShield.gif "VS2010InstallShield")
+![VS2010InstallShield](/assets/pics/WindowsLiveWriter/VisualStudio2010parte16InstallShieldLimi/4CBE1ECE/VS2010InstallShield.gif "VS2010InstallShield")
 
 Algum programador Delphi de plantão aí?

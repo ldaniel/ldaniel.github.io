@@ -13,7 +13,7 @@ tags:
     - 'Enterprise Library'
 ---
 
-[![DevGuide_PDC_Preview_CSharp_Edition_small](http://leandrodaniel.com/pics/DevGuide_PDC_Preview_CSharp_Edition_small_1.png "DevGuide_PDC_Preview_CSharp_Edition_small")](http://entlib.codeplex.com/wikipage?title=EntLib5%20Developer%20Notes)
+[![DevGuide_PDC_Preview_CSharp_Edition_small](/assets/pics/DevGuide_PDC_Preview_CSharp_Edition_small_1.png "DevGuide_PDC_Preview_CSharp_Edition_small")](http://entlib.codeplex.com/wikipage?title=EntLib5%20Developer%20Notes)
 
 Após [8 dias do lançamento do Visual Studio 2010](http://www.leandrodaniel.com/post/Visual-Studio-2010-lancado) a equipe do Patterns &amp; Practices da Microsoft lançou a [Enterprise Library 5.0](http://entlib.codeplex.com/).
 

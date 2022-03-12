@@ -16,7 +16,7 @@ tags:
     - Podcasts
 ---
 
-![](http://leandrodaniel.com/pics/VoidBanner.png)
+![](/assets/pics/VoidBanner.png)
 
 **[Void Podcast #017 – Strawberry Brownfields Forever](http://voidpodcast.com/2012/02/05/void-podcast-017-strawberry-brownfields-forever/)** Dessa vez, vamos atolar no Brownfield! Contando com o apoio do, sempre herói dos usuários de tecnologias legadas, o mago das mazelas corporativas, o gênio do VB (em toda sua plenitude), Emanuel Gomes Brandão (@egomesbrandao), nos perdemos em um imenso campo de .. bem .. dejetos marrons indesejáveis. Nesta edição, contamos com a participação parcial do (a cada dia mais) gerente Vinícius Quaiato (@vquaiato). Que até apareceu, mas sumiu, sem despedidas e sem ressentimentos, nas (des)conexões que apenas noites de trabalho e boas conexões de internet conseguem propiciar. Há boatos que esteja perdido em algum brownfield (quem souber notícias, favor avisar). Ouça o esforço sincero do (diabético, quase atleta, Most Void Person) Elemar Jr (@elemarjr) em se solidarizar com a condição marrom dos amigos de mesa. Em um dia estranhamente bem-humorado, feliz por ser pobre e limpinho, faz piadas com quase alguma graça. Para não ficar excluído, confessou criar seus próprios brownfields. Com a edição honrosa, digna em resgatar do atoleiro o void nosso de cada dia, do Leandro Daniel (@leandronet) – mestre também em definições insistentemente contestadas e viciado em justificativas corporativas. Descanse um pouco e relaxe ouvindo as lições de (pseudo) vida dos nossos lamuriosos heróis.
 

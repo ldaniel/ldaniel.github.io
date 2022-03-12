@@ -16,7 +16,7 @@ tags:
     - Podcasts
 ---
 
-![](http://leandrodaniel.com/pics/VoidBanner.png)
+![](/assets/pics/VoidBanner.png)
 
 **[Void Podcast eXperience #002 – Call for insanity!](http://voidpodcast.com/2012/04/23/void-podcast-experience-002-call-for-insanity/)** Nesse episódio, nossos (anti-)heróis respondem e comentam as moderadas loucuras dos seus não tão moderados ouvintes. Contando com um convidado especial, uma adorável voz do além que narra perguntas e comentários, há autêntica descontração e, com certeza, algum (ou seria muito?!) descontrole. Ouça o orgulhoso (saiba lá do quê) Elemar Júnior (@elemarjr) compartilhando suas experiências terapêuticas e o segredo de sua (nem tão grande) presença on-line. Arrobinha (@vquaiato) revelando manias (muito) inusitadas e .. bem .. o sábio Leandro Daniel (@leandronet) rindo mais da vida (dos outros) do que o normal.
 

@@ -17,7 +17,7 @@ tags:
     - 'Easy .net Magazine'
 ---
 
-[![capa_easynet6_g](http://leandrodaniel.com/pics/capa_easynet6_g_thumb_1.jpg "capa_easynet6_g")](http://leandrodaniel.com/pics/capa_easynet6_g_1.jpg)
+[![capa_easynet6_g](/assets/pics/capa_easynet6_g_thumb_1.jpg "capa_easynet6_g")](/assets/pics/capa_easynet6_g_1.jpg)
 
 A revista digital Easy .net Magazine edição 6 já está disponível no site da [DevMedia](http://www.devmedia.com.br/resumo/default.asp?ed=6&site=59).
 

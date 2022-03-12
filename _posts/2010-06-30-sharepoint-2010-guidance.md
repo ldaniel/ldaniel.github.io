@@ -22,6 +22,6 @@ Seguem os links:
 
 Abaixo você confere uma ilustração sobre as áreas cobertas na documentação:
 
-![SharePoint2010GuidanceDocumentation](http://leandrodaniel.com/pics/SharePoint2010GuidanceDocumentation.png "SharePoint2010GuidanceDocumentation")
+![SharePoint2010GuidanceDocumentation](/assets/pics/SharePoint2010GuidanceDocumentation.png "SharePoint2010GuidanceDocumentation")
 
 Boa leitura!

@@ -13,8 +13,8 @@ tags:
     - 'Off'
 ---
 
-[![binaryDay](http://leandrodaniel.com/pics/binaryDay_thumb_1.jpg "binaryDay")](http://leandrodaniel.com/pics/binaryDay_1.jpg)
+[![binaryDay](/assets/pics/binaryDay_thumb_1.jpg "binaryDay")](/assets/pics/binaryDay_1.jpg)
 
 **<font color="#ff0000">Atualização em (10/10/2010):</font>**
 
-[![binaryDay](http://leandrodaniel.com/pics/binaryDay_thumb_2.jpg "binaryDay")](http://leandrodaniel.com/pics/binaryDay_2.jpg)
+[![binaryDay](/assets/pics/binaryDay_thumb_2.jpg "binaryDay")](/assets/pics/binaryDay_2.jpg)

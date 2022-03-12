@@ -21,13 +21,13 @@ O novo *data type* Hierarchyid permite armazenamento estruturado como uma hierar
 
 Existem duas formas de pensar sobre o armazenamento da sua hierarquia, conforme as ilustrações a seguir:
 
-![hierarchyidProfundidade](http://leandrodaniel.com/pics/WindowsLiveWriter/SQLServer2008parte6DataTypesEnhancements_20F/hierarchyidProfundidade_09484817-8869-42ae-bf34-0281344ab05e.gif "hierarchyidProfundidade")
+![hierarchyidProfundidade](/assets/pics/WindowsLiveWriter/SQLServer2008parte6DataTypesEnhancements_20F/hierarchyidProfundidade_09484817-8869-42ae-bf34-0281344ab05e.gif "hierarchyidProfundidade")
 
 **Profundidade**
 
 Na chamada indexação por profundidade linhas são armazenadas em uma subárvore próximas umas das outras. Um bom exemplo para imaginarmos esse cenário é a relação entre gerentes e funcionários de uma empresa onde o armazenamento será próximo já que os funcionários se reportarão diretamente a algum gerente, da mesma forma que os gerentes a um diretor e assim por diante.
 
-![hierarchyidAmplitude](http://leandrodaniel.com/pics/WindowsLiveWriter/SQLServer2008parte6DataTypesEnhancements_20F/hierarchyidAmplitude_d7456128-7372-47c8-b7dd-8976d9116a7b.gif "hierarchyidAmplitude")
+![hierarchyidAmplitude](/assets/pics/WindowsLiveWriter/SQLServer2008parte6DataTypesEnhancements_20F/hierarchyidAmplitude_d7456128-7372-47c8-b7dd-8976d9116a7b.gif "hierarchyidAmplitude")
 
 **Amplitude**
 

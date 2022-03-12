@@ -16,7 +16,7 @@ tags:
     - Palestras
 ---
 
-[![](http://leandrodaniel.com/pics/tdc.png)](http://theDevelopersConference.com.br)Entre os dias 6 e 10 de julho acontecerá em São Paulo o [TDC 2011 ](http://theDevelopersConference.com.br)(The Developer’s Conference). Esse ano o evento contará com 30 trilhas com mais de 200 palestras! Fui convidado para fazer uma Lightning Talk sobre Arquitetura Evolucionária na trilha de ALM. 🙂
+[![](/assets/pics/tdc.png)](http://theDevelopersConference.com.br)Entre os dias 6 e 10 de julho acontecerá em São Paulo o [TDC 2011 ](http://theDevelopersConference.com.br)(The Developer’s Conference). Esse ano o evento contará com 30 trilhas com mais de 200 palestras! Fui convidado para fazer uma Lightning Talk sobre Arquitetura Evolucionária na trilha de ALM. 🙂
 
 Veja abaixo a localização do evento.
 

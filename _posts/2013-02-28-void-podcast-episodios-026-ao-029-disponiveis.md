@@ -16,7 +16,7 @@ tags:
     - Podcasts
 ---
 
-![](http://leandrodaniel.com/pics/VoidBanner.png)
+![](/assets/pics/VoidBanner.png)
 
 **[Void Podcast #027 – Windows 8](http://voidpodcast.com/2013/02/09/void-podcast-027-windows-8/)**  
 Ouça o Elemar Jr ([@elemarjr](http://twitter.com/elemarjr)), comentando sobre sua expertise no uso de interfaces. Alegre-se com o [@vquaiato](http://twitter.com/vquaiato) (vulgo Arrobinha) esnobando ponderação e sensibilidade para com o usuário final. E completando este incrível “exército de Brancaleone tupiniquim” temos Leandro Daniel ([@leandronet](http://twitter.com/leandronet)), mantendo a cota de barbudos do time!

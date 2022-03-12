@@ -15,7 +15,7 @@ tags:
 
 Esse é o centésimo post do Reverb, o que pra mim é uma marca muito significativa! O blog tem em torno de 150 visitas diárias (o que é muito pouco, é verdade, mas são leitores fiéis, isso que importa!).
 
-[![Reverb100Posts](http://leandrodaniel.com/pics/WindowsLiveWriter/Reverb.Post.Count100/73DDCAAB/Reverb100Posts_thumb.gif "Reverb100Posts")](http://leandrodaniel.com/pics/WindowsLiveWriter/Reverb.Post.Count100/14650A5E/Reverb100Posts.gif)
+[![Reverb100Posts](/assets/pics/WindowsLiveWriter/Reverb.Post.Count100/73DDCAAB/Reverb100Posts_thumb.gif "Reverb100Posts")](/assets/pics/WindowsLiveWriter/Reverb.Post.Count100/14650A5E/Reverb100Posts.gif)
 
 Muitos foram os assuntos tratados, durante os meses de fevereiro e março apresentei aqui no Reverb uma série de posts sobre o [SQL Server 2008](http://www.leandrodaniel.com/?tag=/sql+server+2008), tratei sobre algumas novidades significativas, em especial para os desenvolvedores.
 

@@ -51,7 +51,7 @@ Essa métrica nos diz quais os caminhos (decisões) possíveis de execução den
 
 Calculando a CC para o código acima, chegamos ao número 3. Observe abaixo:
 
-![](http://leandrodaniel.com/pics/CyclomaticComplexity.png)
+![](/assets/pics/CyclomaticComplexity.png)
 
 Em linguagens como C#, as seguintes expressões são desconsideradas para cálculo da CC: else | do | switch | try | using | throw | finally | return | object creation | method call | field access. Isso pode variar para outras linguagens, mas no geral, é considerado dessa forma.
 

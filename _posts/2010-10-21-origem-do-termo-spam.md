@@ -18,6 +18,6 @@ Sou muito fã do [Monty Python](http://pt.wikipedia.org/wiki/Monty_Python), e ou
 
 O humor do Monty Python é bem característico, geralmente as pessoas adoram ou odeiam. Mas vale assistir pela curiosidade da origem do termo SPAM.
 
-![Smile](http://leandrodaniel.com/pics/wlEmoticon-smile.png)
+![Smile](/assets/pics/wlEmoticon-smile.png)
 
 <div class="wlWriterEditableSmartContent" id="scid:5737277B-5D6D-4f48-ABFC-DD9C333F4C5D:7bb6ff0d-b24a-4fe2-ba63-a8927c31bd07" style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px"><div><object height="252" width="448"><param name="movie" value="http://www.youtube.com/v/3kjdrl6qjwY?hl=en&hd=1"></param><embed height="252" src="http://www.youtube.com/v/3kjdrl6qjwY?hl=en&hd=1" type="application/x-shockwave-flash" width="448"></embed></object></div><div style="width:448px;clear:both;font-size:.8em">Monty Python e a origem do termo SPAM.</div></div>

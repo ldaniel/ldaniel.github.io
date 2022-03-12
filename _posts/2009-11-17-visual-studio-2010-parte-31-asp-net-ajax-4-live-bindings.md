@@ -15,4 +15,4 @@ tags:
 
 Live Bindings permitem executar vários tipos de sincronização, na verdade, as ligações em ASP.NET AJAX 4.0 fornecem as mesmas opções do WPF bindings. veja na imagem abaixo as possibilidades:
 
-![VS2010LiveBindings](http://leandrodaniel.com/pics/WindowsLiveWriter/VisualStudio2010par.NETAJAX4LiveBindings/64223ABA/VS2010LiveBindings.gif "VS2010LiveBindings")
+![VS2010LiveBindings](/assets/pics/WindowsLiveWriter/VisualStudio2010par.NETAJAX4LiveBindings/64223ABA/VS2010LiveBindings.gif "VS2010LiveBindings")

@@ -17,6 +17,6 @@ Esse post é pra passar algumas dicas de podcasts que me passaram via Twitter. A
 
 Outra boa dica que veio via Twitter foi do [Saulo Carvalho](http://www.twitter.com/personalsaulo), que comentou do podcast do [Hanselminutes](http://www.hanselminutes.com/). E para minha surpresa, o próprio [Scot Hanselman](http://www.hanselman.com/blog/) me indicou depois outro podcast que ele está fazendo junto como [Rob Conery](http://blog.wekeroad.com/) (lembram dele? daquela famosa série de MVC…) que é o [This Developer’s Life](http://www.thisdeveloperslife.com/).
 
-![Hanselman](http://leandrodaniel.com/pics/Hanselman_1.jpg "Hanselman")
+![Hanselman](/assets/pics/Hanselman_1.jpg "Hanselman")
 
-A hashtag do título do post é uma das “criações” do [@ricardoserradas](http://twitter.com/ricardoserradas) e [@vquaiato](http://twitter.com/vquaiato), que sempre escrevem coisas engraçadas no Twitter. ![Alegre](http://leandrodaniel.com/pics/wlEmoticon-smile_3.png)
+A hashtag do título do post é uma das “criações” do [@ricardoserradas](http://twitter.com/ricardoserradas) e [@vquaiato](http://twitter.com/vquaiato), que sempre escrevem coisas engraçadas no Twitter. ![Alegre](/assets/pics/wlEmoticon-smile_3.png)

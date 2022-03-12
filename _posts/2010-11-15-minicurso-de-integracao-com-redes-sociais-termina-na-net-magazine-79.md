@@ -16,7 +16,7 @@ tags:
     - Artigos
 ---
 
-[![capa_net79_g](http://leandrodaniel.com/pics/capa_net79_g_thumb_2.jpg "capa_net79_g")](http://leandrodaniel.com/pics/capa_net79_g_2.jpg)
+[![capa_net79_g](/assets/pics/capa_net79_g_thumb_2.jpg "capa_net79_g")](/assets/pics/capa_net79_g_2.jpg)
 
 Já saiu a edição 79 da revista [.net Magazine](http://www.devmedia.com.br/resumo/default.asp?ed=79&site=1) com a terceira e última parte do minicurso de redes sociais.
 

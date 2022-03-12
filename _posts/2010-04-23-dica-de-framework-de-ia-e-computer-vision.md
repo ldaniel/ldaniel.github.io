@@ -27,7 +27,7 @@ Comentei outro dia no [Twitter](http://twitter.com/leandronet) que estava “bri
 
 A seguir demonstro um exemplo de utilização da biblioteca **AForge.Vision**. Utilizei um projeto WinForms do Visual Studio 2010, com os controles demonstrados na figura abaixo (clique na imagem para ampliar).
 
-[![detectorMovimento](http://leandrodaniel.com/pics/detectorMovimento_thumb.jpg "detectorMovimento")](http://leandrodaniel.com/pics/detectorMovimento.jpg)
+[![detectorMovimento](/assets/pics/detectorMovimento_thumb.jpg "detectorMovimento")](/assets/pics/detectorMovimento.jpg)
 
 O painel cinza é um controle do tipo **VideoSourcePlayer**, disponível com a instalação do AForge.NET. Para carregar os dispositivos de vídeo presentes na máquina (webcams) basta utilizar o código a seguir:
 

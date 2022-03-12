@@ -13,7 +13,7 @@ tags:
     - 'Enterprise Library'
 ---
 
-[![PatternsPractices](http://leandrodaniel.com/pics/WindowsLiveWriter/SriedepostssobreEnterpriseLibrary/21C2B53D/PatternsPractices_thumb.gif "PatternsPractices")](http://leandrodaniel.com/pics/WindowsLiveWriter/SriedepostssobreEnterpriseLibrary/1F862C81/PatternsPractices.gif)
+[![PatternsPractices](/assets/pics/WindowsLiveWriter/SriedepostssobreEnterpriseLibrary/21C2B53D/PatternsPractices_thumb.gif "PatternsPractices")](/assets/pics/WindowsLiveWriter/SriedepostssobreEnterpriseLibrary/1F862C81/PatternsPractices.gif)
 
 A partir dessa semana iniciarei aqui no Reverb uma série de posts sobre a Enterprise Library. A exemplo da [série sobre SQL Server 2008](http://www.leandrodaniel.com/?tag=/sql+server+2008), utilizarei exemplos práticos para explicar os principais conceitos de cada *application block* que faz parte dessa biblioteca.
 

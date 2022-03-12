@@ -14,7 +14,7 @@ tags:
     - 'Enterprise Library'
 ---
 
- ![pnp_logo](http://leandrodaniel.com/pics/WindowsLiveWriter/QuercontribuircomaEnterpriseLibrary5_2244/pnp_logo_4a739e1e-37b3-4a4b-b409-dc51d3b6fdd8.gif "pnp_logo")
+ ![pnp_logo](/assets/pics/WindowsLiveWriter/QuercontribuircomaEnterpriseLibrary5_2244/pnp_logo_4a739e1e-37b3-4a4b-b409-dc51d3b6fdd8.gif "pnp_logo")
 
 O convite foi realizado há poucos dias por [Grigori Melnik](http://www.gmelnik.com/), um dos coordenadores do projeto, em seu [blog](http://blogs.msdn.com/agile/), e mostra a abertura dos responsáveis pela Enterprise Library em receber opiniões e sugestões.
 

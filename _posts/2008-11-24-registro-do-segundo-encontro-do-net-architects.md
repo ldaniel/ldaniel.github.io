@@ -18,6 +18,6 @@ tags:
 
  Segue foto dos participantes do segundo encontro na UNIP.
 
- ![](http://leandrodaniel.com/pics/NetArchitectsReuniao2.png)
+ ![](/assets/pics/NetArchitectsReuniao2.png)
 
  Abraços.

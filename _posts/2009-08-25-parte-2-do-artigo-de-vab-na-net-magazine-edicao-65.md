@@ -16,7 +16,7 @@ tags:
     - Artigos
 ---
 
-[![capa_netMag65](http://leandrodaniel.com/pics/WindowsLiveWriter/Parte2doartigodeVABna.netMagazineedio65/1E8564D6/capa_netMag65_thumb.jpg "capa_netMag65")](http://leandrodaniel.com/pics/WindowsLiveWriter/Parte2doartigodeVABna.netMagazineedio65/3FE50A72/capa_netMag65.jpg)
+[![capa_netMag65](/assets/pics/WindowsLiveWriter/Parte2doartigodeVABna.netMagazineedio65/1E8564D6/capa_netMag65_thumb.jpg "capa_netMag65")](/assets/pics/WindowsLiveWriter/Parte2doartigodeVABna.netMagazineedio65/3FE50A72/capa_netMag65.jpg)
 
 Chegou hoje em minha casa a edição da revista [.net Magazine 65](http://www.devmedia.com.br/resumo/default.asp?ed=65&site=1) com a segunda e última parte do meu artigo sobre boas práticas com o Validation Application Block da Enterprise Library onde falo sobre integração com WCF entre outros assuntos.
 

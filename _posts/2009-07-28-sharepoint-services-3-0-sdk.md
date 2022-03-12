@@ -14,7 +14,7 @@ tags:
     - SharePoint
 ---
 
-[![SharePoint](http://leandrodaniel.com/pics/WindowsLiveWriter/SharePointServices3.0SDK/7F238392/SharePoint_thumb.png "SharePoint")](http://leandrodaniel.com/pics/WindowsLiveWriter/SharePointServices3.0SDK/147EA84A/SharePoint.png) Uma boa dica pra quem quiser iniciar os estudos com o SharePoint Services 3.0 é o VHD disponibilizado no link a seguir:
+[![SharePoint](/assets/pics/WindowsLiveWriter/SharePointServices3.0SDK/7F238392/SharePoint_thumb.png "SharePoint")](/assets/pics/WindowsLiveWriter/SharePointServices3.0SDK/147EA84A/SharePoint.png) Uma boa dica pra quem quiser iniciar os estudos com o SharePoint Services 3.0 é o VHD disponibilizado no link a seguir:
 
  [Windows SharePoint Services 3.0 SP1 Developer Evaluation VPC Image](http://www.microsoft.com/downloads/details.aspx?FamilyID=1beeac6f-2ea1-4769-9948-74a74bd604fa&displaylang=en)
 

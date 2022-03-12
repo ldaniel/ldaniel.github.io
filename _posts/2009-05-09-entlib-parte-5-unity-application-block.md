@@ -52,7 +52,7 @@ O problema aqui é que qualquer alteração na forma de realizar o log da opera�
 
 Uma boa prática aqui é fazer com que ao invés de instanciarmos diretamente a classe concreta o fizéssemos através de uma *interface*, conforme ilustrado no diagrama a seguir:
 
-[![ClassDiagram1](http://leandrodaniel.com/pics/WindowsLiveWriter/EntLibparte5UnityApplicationBlock/2A4BF146/ClassDiagram1_thumb.png "ClassDiagram1")](http://leandrodaniel.com/pics/WindowsLiveWriter/EntLibparte5UnityApplicationBlock/2F2EA502/ClassDiagram1.png)
+[![ClassDiagram1](/assets/pics/WindowsLiveWriter/EntLibparte5UnityApplicationBlock/2A4BF146/ClassDiagram1_thumb.png "ClassDiagram1")](/assets/pics/WindowsLiveWriter/EntLibparte5UnityApplicationBlock/2F2EA502/ClassDiagram1.png)
 
 Em seguida utilizamos o *Unity* para resolver as chamadas às classes concretas da seguinte forma. Primeiro adicionamos no arquivo de configuração do projeto as configurações abaixo:
 

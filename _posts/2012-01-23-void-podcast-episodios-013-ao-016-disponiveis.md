@@ -16,7 +16,7 @@ tags:
     - Podcasts
 ---
 
-![](http://leandrodaniel.com/pics/VoidBanner.png)
+![](/assets/pics/VoidBanner.png)
 
 **[Void Podcast #013 – Dorg(m)as  ](http://voidpodcast.com/2011/11/15/void-podcast-013-dorgmas/)**Dessa vez, um assunto polêmico, discutido sem polêmicas, sobre os fanatismos nossos de cada dia. O (receptivo \[gerente\]) Vinicius Quaiato (@vquaiato) prega a paz mundial e aceitação de todas as tecnologias – independente de credo, raça ou religião (ou seria dogmas?!). Enquanto isso, o (cantor acusativo) Elemar Jr (@elemarjr) fala sobre complexos estranhos com nomes esquisitos (Você é pato? Você é Gabriela?) e o (ex-barbudo, com cavanhaque \[latin-lover wanna be\]) Leandro Daniel (@leandronet) mostra sua predileção por empregos extremos (de planos funerários a “grandes instituições financeiras”).
 
@@ -27,7 +27,7 @@ Dessa vez, uma discussão acalorada (sem pretensões, preocupações, consequên
 
 [**Void Podcast #016 – Void de gordo  ](http://voidpodcast.com/2012/01/14/void-podcast-016-void-de-gordo/)Dessa vez, vamos confessar (todas) as gordices nossas de cada dia. Para isso, contamos com o apoio de um grande (!?) especialista: Dudu Sales (@papodegordo) do famoso e premiado “Papo de Gordo” que honra-nos com sua notória (!?) presença.
 
-![](http://leandrodaniel.com/pics/podcastimage_136960.gif)
+![](/assets/pics/podcastimage_136960.gif)
 
 Nesta edição, encontramos um comedido, respeitoso e (acreditem!) trollado Vinícius Quaiato (@vquaiato), tentando entender o universo gordo. Já que, sendo o rostinho bonito que atraí ouvintes ao Void, não teve tempo (ou garfo) para viver a vida como ela é nesse “mundo redondo” (aliás, fartamente representado \[por enquanto\] pelos nossos outros dois heróis).
 

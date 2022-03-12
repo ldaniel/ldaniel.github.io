@@ -15,8 +15,8 @@ tags:
 
 Mas nem sempre.
 
-[![Strange_guitars_1](http://leandrodaniel.com/pics/Strange_guitars_1_thumb.jpg "Strange_guitars_1")](http://leandrodaniel.com/pics/Strange_guitars_1.jpg)
+[![Strange_guitars_1](/assets/pics/Strange_guitars_1_thumb.jpg "Strange_guitars_1")](/assets/pics/Strange_guitars_1.jpg)
 
-[![Strange_guitars_4](http://leandrodaniel.com/pics/Strange_guitars_4_thumb.jpg "Strange_guitars_4")](http://leandrodaniel.com/pics/Strange_guitars_4.jpg)
+[![Strange_guitars_4](/assets/pics/Strange_guitars_4_thumb.jpg "Strange_guitars_4")](/assets/pics/Strange_guitars_4.jpg)
 
-[![Strange_guitars_2](http://leandrodaniel.com/pics/Strange_guitars_2_thumb.jpg "Strange_guitars_2")](http://leandrodaniel.com/pics/Strange_guitars_2.jpg)
+[![Strange_guitars_2](/assets/pics/Strange_guitars_2_thumb.jpg "Strange_guitars_2")](/assets/pics/Strange_guitars_2.jpg)

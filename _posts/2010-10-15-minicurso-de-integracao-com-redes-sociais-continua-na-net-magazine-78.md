@@ -16,7 +16,7 @@ tags:
     - Comunidade
 ---
 
-[![capa_net78_g](http://leandrodaniel.com/pics/capa_net78_g_3.jpg "capa_net78_g")](http://www.devmedia.com.br/resumo/default.asp?ed=78&site=1)
+[![capa_net78_g](/assets/pics/capa_net78_g_3.jpg "capa_net78_g")](http://www.devmedia.com.br/resumo/default.asp?ed=78&site=1)
 
 Já saiu a edição 78 da revista [.net Magazine](http://www.devmedia.com.br/resumo/default.asp?ed=78&site=1) com a segunda parte do minicurso de redes sociais.
 

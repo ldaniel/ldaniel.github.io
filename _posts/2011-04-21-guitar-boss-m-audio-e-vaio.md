@@ -13,6 +13,6 @@ tags:
     - Distortion
 ---
 
-Afinal, feriadão é pra descansar, né? ![Smiley piscando](http://leandrodaniel.com/pics/wlEmoticon-winkingsmile.png)
+Afinal, feriadão é pra descansar, né? ![Smiley piscando](/assets/pics/wlEmoticon-winkingsmile.png)
 
  <iframe class="twitvid-player" frameborder="0" height="360" loading="lazy" src="http://www.twitvid.com/embed.php?guid=UZMNO&autoplay=0" title="Twitvid video player" type="text/html" width="480"></iframe>

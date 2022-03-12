@@ -17,7 +17,7 @@ tags:
     - 'Easy .net Magazine'
 ---
 
-![capa_easynet1_G](http://leandrodaniel.com/pics/capa_easynet1_G_thumb.jpg "capa_easynet1_G")A [DevMedia](http://www.devmedia.com.br) acaba de lançar mais uma publicação: [Easy .net Magazine](http://www.devmedia.com.br/assgold/listmag.asp?site=59). A revista é voltada para o público iniciante, que está tendo os primeiros contatos com tecnologias de desenvolvimento. A primeira edição está [disponível no site da DevMedia totalmente grátis](http://www.devmedia.com.br/resumo/default.asp?ed=1&site=59).
+![capa_easynet1_G](/assets/pics/capa_easynet1_G_thumb.jpg "capa_easynet1_G")A [DevMedia](http://www.devmedia.com.br) acaba de lançar mais uma publicação: [Easy .net Magazine](http://www.devmedia.com.br/assgold/listmag.asp?site=59). A revista é voltada para o público iniciante, que está tendo os primeiros contatos com tecnologias de desenvolvimento. A primeira edição está [disponível no site da DevMedia totalmente grátis](http://www.devmedia.com.br/resumo/default.asp?ed=1&site=59).
 
 A revista conta com artigos de vários colaboradores, entre eles [Guinther Pauli](http://twitter.com/guintherpauli), editor chefe da nova revista, que me convidou para escrever para a Easy .net Magazine.
 
@@ -25,6 +25,6 @@ Nessa edição escrevi sobre o SQL Server 2008. O artigo trata das etapas básic
 
 É possível ler todos os artigos através do [Leitor Digital do portal](http://www.devmedia.com.br/websys.3/webreader.asp?cat=59&revista=easynetmag_1#a-2425) (clique na imagem abaixo para abrir).
 
-[![LeitorEasyNetMagazine](http://leandrodaniel.com/pics/LeitorEasyNetMagazine.jpg "LeitorEasyNetMagazine")](http://www.devmedia.com.br/websys.3/webreader.asp?cat=59&revista=easynetmag_1#a-2425)
+[![LeitorEasyNetMagazine](/assets/pics/LeitorEasyNetMagazine.jpg "LeitorEasyNetMagazine")](http://www.devmedia.com.br/websys.3/webreader.asp?cat=59&revista=easynetmag_1#a-2425)
 
 A experiência foi muito interessante, é um tipo de texto totalmente diferente do que estou habituado a fazer para a [.net Magazine](http://www.leandrodaniel.com/category/net-Magazine). Se você conhece pessoas que estão iniciando no desenvolvimento de software, vale a pena a indicação desta leitura! Lembrando novamente que é grátis, aproveitem!

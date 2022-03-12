@@ -25,7 +25,7 @@ Basicamente a TDE possibilita encriptação e decriptação de dados e do log do
 
 A figura abaixo mostra a arquitetura do TDE completa.
 
-![security_SQL_2008](http://leandrodaniel.com/pics/WindowsLiveWriter/SQLServer2008ProgrammabilityEnhancements_13DD8/security_SQL_2008_e67cb820-f94c-4b2b-9280-3a9f12125e3b.gif "security_SQL_2008")
+![security_SQL_2008](/assets/pics/WindowsLiveWriter/SQLServer2008ProgrammabilityEnhancements_13DD8/security_SQL_2008_e67cb820-f94c-4b2b-9280-3a9f12125e3b.gif "security_SQL_2008")
 
 Alguns passos são necessários para utilizarmos do TDE são eles:
 

@@ -24,7 +24,7 @@ O pequeno player minimalista abaixo é capaz de reproduzir a música (a gravaç�
 
 (sim, o botão acima é o menor player já construído, tem o que precisa apenas, um **play** e um **stop**, perfeito!)
 
-![Auto Pan](http://leandrodaniel.com/pics/Auto%20Pan_3.png "Auto Pan")
+![Auto Pan](/assets/pics/Auto%20Pan_3.png "Auto Pan")
 
 A grande sacada para o som foi o pedal ao lado, o ***Auto Pan*** da *Audiffex*, capaz de alterar a distribuição dos sons nos canais (esquerdo e direito), causando desconforto em ouvidos poucos treinados e possivelmente foi o que deixou o meu amigo mareado diante do nauseabundo som.
 

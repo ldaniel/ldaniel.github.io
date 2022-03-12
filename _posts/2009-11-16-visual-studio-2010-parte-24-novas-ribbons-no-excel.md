@@ -15,6 +15,6 @@ tags:
 
 Após instalar o Visual Studio 2010 duas novas *ribbons* são instaladas no Excel.
 
-[![VS2010Excel](http://leandrodaniel.com/pics/WindowsLiveWriter/VisualStudio2010parte24NovasribbonsnoExc/371AB877/VS2010Excel_thumb.gif "VS2010Excel")](http://leandrodaniel.com/pics/WindowsLiveWriter/VisualStudio2010parte24NovasribbonsnoExc/71762E58/VS2010Excel.gif)
+[![VS2010Excel](/assets/pics/WindowsLiveWriter/VisualStudio2010parte24NovasribbonsnoExc/371AB877/VS2010Excel_thumb.gif "VS2010Excel")](/assets/pics/WindowsLiveWriter/VisualStudio2010parte24NovasribbonsnoExc/71762E58/VS2010Excel.gif)
 
 A primeira permite carregar relatórios de teste armazenados em uma database, já a segunda permite integração com o Team Foundation Server. Bacana, não?

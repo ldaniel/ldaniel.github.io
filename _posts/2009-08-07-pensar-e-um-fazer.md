@@ -19,7 +19,7 @@ Imagine criar uma música utilizando *delay,* aquele efeito de eco, tipo:
 
 <div style="position: relative; font-size: 12px">ahh…</div><div style="position: relative; font-size: 10px">ahh…</div><div style="position: relative; font-size: 9px">ahh…</div><div style="position: relative; font-size: 8px">ahh…</div><div style="position: relative; font-size: 7px">ahh…</div><div style="position: relative; font-size: 12px">Eco?…</div><div style="position: relative; font-size: 10px">Eco?…</div><div style="position: relative; font-size: 9px">Eco?…</div><div style="position: relative; font-size: 8px">Eco?…</div><div style="position: relative; font-size: 7px">Eco?…</div>Tranquilo, não? A única preocupação é acertar o tempo do que está sendo tocado com o tempo do efeito (ou vice-versa, o que for mais fácil, hehehehehe). Agora imagine combinar 3 pedais de *delay*, com tempos diferentes, a coisa se torna um pouco mais complexa, porque você precisa encaixar os tempos de cada pedal junto com o que você está tocando. Abaixo coloquei um experimento que fiz no ***InTone*** com três pedais de *delay*, mas com configurações diferentes.
 
-[![DelayExp01](http://leandrodaniel.com/pics/DelayExp01_thumb.gif "DelayExp01")](http://leandrodaniel.com/pics/DelayExp01.gif)
+[![DelayExp01](/assets/pics/DelayExp01_thumb.gif "DelayExp01")](/assets/pics/DelayExp01.gif)
 
 O resultado você confere abaixo no player sintético:
 

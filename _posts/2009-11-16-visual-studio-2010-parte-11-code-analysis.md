@@ -17,7 +17,7 @@ A utilização de análise de código, seja por ferramentas de terceiro ou por r
 
 Na nova versão do Visual Studio, algumas melhorias foram acrescentadas para colaborar com essa importante tarefa. Dentre elas, destaco uma opção disponível nas propriedades de um projeto na guia *Code Analysis*, conforme ilustrado abaixo:
 
-![VS2010CodeAnalysis](http://leandrodaniel.com/pics/WindowsLiveWriter/VisualStudio2010parte11CodeAnalysis/27279380/VS2010CodeAnalysis.gif "VS2010CodeAnalysis")
+![VS2010CodeAnalysis](/assets/pics/WindowsLiveWriter/VisualStudio2010parte11CodeAnalysis/27279380/VS2010CodeAnalysis.gif "VS2010CodeAnalysis")
 
 Note que existem diversas opções de análise, dentre as quais destaco:
 
@@ -25,6 +25,6 @@ Note que existem diversas opções de análise, dentre as quais destaco:
 
 ***Security Rules*** – Diversas regras que cobrem inúmeros pontos de segurança de sua aplicação, incluindo vulnerabilidades de SQL (veja ilustração abaixo).
 
-![VS2010SecurityRules](http://leandrodaniel.com/pics/WindowsLiveWriter/VisualStudio2010parte11CodeAnalysis/43E10895/VS2010SecurityRules.gif "VS2010SecurityRules")
+![VS2010SecurityRules](/assets/pics/WindowsLiveWriter/VisualStudio2010parte11CodeAnalysis/43E10895/VS2010SecurityRules.gif "VS2010SecurityRules")
 
 Se você nunca utilizou este recurso vale a pena estudar o que se aplica ao seu dia a dia.

@@ -15,6 +15,6 @@ tags:
 
 Pra quem é fã de Code Snippets (como eu sou as vezes) verá na opção ***Code Snippets Manager*** do menu ***Tools*** novas opções de linguagem, conforme mostrado na figura abaixo:
 
-![vs2010CodeSnippets](http://leandrodaniel.com/pics/WindowsLiveWriter/VisualStudio2010parte3LayerDiagram/2BC09974/vs2010CodeSnippets.gif "vs2010CodeSnippets")
+![vs2010CodeSnippets](/assets/pics/WindowsLiveWriter/VisualStudio2010parte3LayerDiagram/2BC09974/vs2010CodeSnippets.gif "vs2010CodeSnippets")
 
 Para as novas opções HTML, JScript e SQL existem um conjunto enorme de blocos de código disponíveis através do atalho “CTRL + K + X”. Os *snippets* são sensíveis ao contexto, ou seja, se você estiver editando um arquivo XML somente os *snippets* relacionados irão aparecer. Experimente!

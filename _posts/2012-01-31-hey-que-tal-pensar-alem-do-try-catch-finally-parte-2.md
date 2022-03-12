@@ -19,7 +19,7 @@ Entendendo isso, o termo *tratamento de exceções* ganha um sentido imediato. T
 
 ### Essa não! Catching Exception de novo!
 
-![](http://leandrodaniel.com/pics/timer.png)
+![](/assets/pics/timer.png)
 
 Quem já trabalhou dando manutenção e suporte a sistemas em produção entende o valor do tempo. Poucos minutos bastam para desgastar (às vezes de forma irrecuperável) a imagem de um produto em caso de atraso na correção de um erro. Grande parte das boas práticas de desenvolvimento visam justamente retornar valor de forma eficaz durante a manutenção. O custo total de propriedade de um software deve levar em consideração o seu custo de manutenção.
 
@@ -41,7 +41,7 @@ No exemplo a seguir vemos uma das muitas possibilidades de tratar exceções em 
 
 <script src="https://gist.github.com/1677933.js?file=ExceptionSample.java" type="text/javascript"></script>
 
-![](http://leandrodaniel.com/pics/stophand.png)
+![](/assets/pics/stophand.png)
 
 <span style="color: #ff0000;">Cuidado, se você é suscetível a flames ou trata desenvolvimento de software como religião, o texto a seguir pode causar incômodos. Nesse caso, pule para o último tópico do post.</span>
 
@@ -59,4 +59,4 @@ Pesquisando a respeito você encontrará muitos debates sobre o assunto. Se sua 
 
 ### Então devo desistir do assunto?
 
-Claro que não! Ninguém é melhor do que você para criticar e decidir o que faz sentido sobre um determinado assunto. O que pode ser considerado uma vantagem para um pode não ser verdade para outro. Tudo depende do contexto, cenário e atores envolvidos. Nos próximos posts apresentarei várias considerações e técnicas. ![Smiley piscando](http://leandrodaniel.com/pics/wlEmoticon-winkingsmile_1.png)
+Claro que não! Ninguém é melhor do que você para criticar e decidir o que faz sentido sobre um determinado assunto. O que pode ser considerado uma vantagem para um pode não ser verdade para outro. Tudo depende do contexto, cenário e atores envolvidos. Nos próximos posts apresentarei várias considerações e técnicas. ![Smiley piscando](/assets/pics/wlEmoticon-winkingsmile_1.png)

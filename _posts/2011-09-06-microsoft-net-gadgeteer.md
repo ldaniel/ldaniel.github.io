@@ -13,7 +13,7 @@ tags:
     - Hardware
 ---
 
-![](http://leandrodaniel.com/pics/NETGadgeteer.png)
+![](/assets/pics/NETGadgeteer.png)
 
 Sabe aqueles hobbies viciantes, que basta um primeiro contato pra gente ficar doido? Pois é, usando o. NET Micro Framework e Visual Studio (ou até mesmo o Visual C # Express) podemos construir pequenos dispositivos eletrônicos com o Microsoft Gadgeteer (um conjunto de ferramentas open-source, veja que bacana) .
 
@@ -25,7 +25,7 @@ Segue alguns links úteis sobre o assunto:
 - <http://www.netmf.com/gadgeteer/>
 - <http://gadgeteer.codeplex.com/>
 
-![](http://leandrodaniel.com/pics/gadgeteer_example.jpg)
+![](/assets/pics/gadgeteer_example.jpg)
 
 No final de julho desse ano, participei de uma noite muito agradável e divertida na [Globalcode](http://www.globalcode.com.br/home) na presença do [@vsenger](http://twitter.com/vsenger) e diversos outros camaradas para fazermos um unpacking de uma placa de Netduino. Veja nos vídeos abaixo alguns momentos.
 
@@ -39,4 +39,4 @@ O tão aguardado momento do unpacking da placa.
 
 [Globalcode – .NET MF + Netduino (Unpack)](http://vimeo.com/27037971) from [Leandro Daniel](http://vimeo.com/leandrodaniel) on [Vimeo](http://vimeo.com).
 
-É ou não é um entretenimento nerd de primeira? ![Alegre](http://leandrodaniel.com/pics/wlEmoticon-smile_7.png)
+É ou não é um entretenimento nerd de primeira? ![Alegre](/assets/pics/wlEmoticon-smile_7.png)

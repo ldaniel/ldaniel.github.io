@@ -15,10 +15,10 @@ tags:
     - Eventos
 ---
 
-[![techedlogo](http://leandrodaniel.com/pics/techedlogo_thumb.png "techedlogo")](http://leandrodaniel.com/pics/techedlogo.png)Graças a parceria que tenho com a DevMedia (sou Editor Técnico da revista [.net Magazine](http://www.devmedia.com.br/assgold/listmag.asp?site=1) e também da [Clube Delphi](http://www.devmedia.com.br/assgold/listmag.asp?site=3)) estarei no evento Tech-Ed 2011. Gostaria de deixar aqui os meus agradecimentos a Kaline Donabella do Grupo [DevMedia](http://www.devmedia.com.br) e a Daniella da Costa (Coordenação) por viabilizarem essa oportunidade.
+[![techedlogo](/assets/pics/techedlogo_thumb.png "techedlogo")](/assets/pics/techedlogo.png)Graças a parceria que tenho com a DevMedia (sou Editor Técnico da revista [.net Magazine](http://www.devmedia.com.br/assgold/listmag.asp?site=1) e também da [Clube Delphi](http://www.devmedia.com.br/assgold/listmag.asp?site=3)) estarei no evento Tech-Ed 2011. Gostaria de deixar aqui os meus agradecimentos a Kaline Donabella do Grupo [DevMedia](http://www.devmedia.com.br) e a Daniella da Costa (Coordenação) por viabilizarem essa oportunidade.
 
 Não deixe de acompanhar em tempo real os tweets que farei, na medida do possível passarei o que estará rolando no evento!
 
 Você pode me seguir aqui: [@leandronet](http://twitter.com/leandronet)
 
-E se você vai participar do Tech-Ed, nos vemos lá! ![Alegre](http://leandrodaniel.com/pics/wlEmoticon-smile_8.png)
+E se você vai participar do Tech-Ed, nos vemos lá! ![Alegre](/assets/pics/wlEmoticon-smile_8.png)

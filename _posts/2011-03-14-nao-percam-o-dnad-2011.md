@@ -17,7 +17,7 @@ tags:
     - Eventos
 ---
 
-[![DNA](http://leandrodaniel.com/pics/DNA_thumb.png "DNA")](http://leandrodaniel.com/pics/DNA.png)A terceira edição do DNAD (.NET Architects Day) apresentará questões pragmáticas da carreira do Arquiteto de Software, abordando assuntos complexos como skills, práticas, visão evolutiva, relacionamento entre componentes tecnológicos, dentre outros. Estamos fechando um programa contendo temas como: Arquitetura ACID x Base, Cloud, NoSQL, Arquitetura/Design Emergente, Legacy Code, Carreira do arquiteto, Qualidade, CQS (Command Query Separation), Refactoring, Continous Delivery e outros assuntos.
+[![DNA](/assets/pics/DNA_thumb.png "DNA")](/assets/pics/DNA.png)A terceira edição do DNAD (.NET Architects Day) apresentará questões pragmáticas da carreira do Arquiteto de Software, abordando assuntos complexos como skills, práticas, visão evolutiva, relacionamento entre componentes tecnológicos, dentre outros. Estamos fechando um programa contendo temas como: Arquitetura ACID x Base, Cloud, NoSQL, Arquitetura/Design Emergente, Legacy Code, Carreira do arquiteto, Qualidade, CQS (Command Query Separation), Refactoring, Continous Delivery e outros assuntos.
 
 ### Site do evento com todos os detalhes
 

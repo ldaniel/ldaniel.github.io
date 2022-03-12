@@ -13,7 +13,7 @@ tags:
     - Reverberando
 ---
 
-[![sisifo](http://leandrodaniel.com/pics/sisifo_thumb.jpg "sisifo")](http://leandrodaniel.com/pics/sisifo.jpg)Oriundo da mitologia grega, a história de Sísifo foi recontada em um ensaio do filósofo Albert Camus, em 1942. Sísifo era considerado o mais astuto dos mortais, contudo, por enganar os deuses foi castigado a realizar, por toda a eternidade, uma tarefa repetitiva e sem sentido. Ele foi condenado a rolar uma grande pedra de mármore com suas mãos até o cume de uma montanha, sendo que toda vez que ele estava quase alcançando o topo, a pedra rolava novamente montanha abaixo até o ponto de partida por meio de uma força irresistível.
+[![sisifo](/assets/pics/sisifo_thumb.jpg "sisifo")](/assets/pics/sisifo.jpg)Oriundo da mitologia grega, a história de Sísifo foi recontada em um ensaio do filósofo Albert Camus, em 1942. Sísifo era considerado o mais astuto dos mortais, contudo, por enganar os deuses foi castigado a realizar, por toda a eternidade, uma tarefa repetitiva e sem sentido. Ele foi condenado a rolar uma grande pedra de mármore com suas mãos até o cume de uma montanha, sendo que toda vez que ele estava quase alcançando o topo, a pedra rolava novamente montanha abaixo até o ponto de partida por meio de uma força irresistível.
 
 No ensaio de Camus, ele utiliza o Mito de Sísifo para elaborar uma metáfora sobre a vida moderna. Veja, nas palavras de Camus, o resultado (que considerou fazer parte de um absurdo do homem): “O operário de hoje trabalha todos os dias em sua vida, faz as mesmas tarefas. Esse destino não é menos absurdo, mas é trágico quando em apenas nos raros momentos ele se torna consciente”.
 

@@ -16,7 +16,7 @@ tags:
 
 Depois de ficar um dia inteiro trabalhando num pacote do SSIS, resolvi dar um *zoom to fit* no Visual Studio pra ter uma idéia geral do *Control Flow* do processo e me deparei com isso:
 
-[![SSIS](http://leandrodaniel.com/pics/WindowsLiveWriter/EeramuitopiornoSQLServer2000/0D3003A9/SSIS_thumb.png "SSIS")](http://leandrodaniel.com/pics/WindowsLiveWriter/EeramuitopiornoSQLServer2000/4EA594A0/SSIS.png)
+[![SSIS](/assets/pics/WindowsLiveWriter/EeramuitopiornoSQLServer2000/0D3003A9/SSIS_thumb.png "SSIS")](/assets/pics/WindowsLiveWriter/EeramuitopiornoSQLServer2000/4EA594A0/SSIS.png)
 
 O detalhe é que não está aparecendo na imagem os processos de *Data Flow* nem variáveis e scripts. Se fosse no SQL Server 2000 a coisa estaria muito mais complexa de ser analisada, porque o ambiente de desenvolvimento era a console de administração do SQL Server 2000 (o velho Enterprise Manager) .
 

@@ -17,7 +17,7 @@ Uma **DSL** ou *Domain Specific Language* é uma linguagem de alto nível dedica
 
 É possível criar DSL’s utilizando o [Visual Studio 2010 SDK DSL](http://www.microsoft.com/downloads/details.aspx?FamilyID=f5431a70-b421-4be6-8fd3-6b27abda0817&displaylang=en) (ainda em beta), abaixo segue uma ilustração do toolkit de modelagem de DSL:
 
-![VS2010DSLToolsLab](http://leandrodaniel.com/pics/WindowsLiveWriter/VisualStudio2010parte13DomainSpecificLan/0802CED4/VS2010DSLToolsLab.jpg "VS2010DSLToolsLab")
+![VS2010DSLToolsLab](/assets/pics/WindowsLiveWriter/VisualStudio2010parte13DomainSpecificLan/0802CED4/VS2010DSLToolsLab.jpg "VS2010DSLToolsLab")
 
 **<font size="1">Fonte: </font>**[**<font size="1">http://code.msdn.microsoft.com/DSLToolsLab</font>**](http://code.msdn.microsoft.com/DSLToolsLab)
 

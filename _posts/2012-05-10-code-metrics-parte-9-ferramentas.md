@@ -23,7 +23,7 @@ Embora não citada na lista da Wikipedia, existe uma versão do [NDepend](http:/
 
 ### FluentCodeMetrics
 
-![](http://leandrodaniel.com/pics/memeNice.png)
+![](/assets/pics/memeNice.png)
 
 Outra opção interessante é a ferramenta que está [sendo desenvolvida](http://elemarjr.net/tag/fluentcodemetrics/) pelo [@elemarjr](http://twitter.com/elemarjr), o [FluentCodeMetrics](https://github.com/ElemarJR/FluentCodeMetrics).
 

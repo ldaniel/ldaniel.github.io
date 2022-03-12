@@ -17,14 +17,14 @@ Desde a versão 2005 o SQL Server disponibiliza uma ferramenta muito útil para 
 
 Abaixo coloquei alguns *screenshots* do Report Builder 2.0. De fato, a criação de relatórios é bem simples, o *Report Designer* tem o layout semelhante ao Office 2007.
 
-![ReportBuilder2_01](http://leandrodaniel.com/pics/WindowsLiveWriter/SQLServer2008parte10ChangeDataCapture_11ED0/ReportBuilder2_01_3120c97c-6065-4ff8-89c2-2286d2b4c91a.gif "ReportBuilder2_01")
+![ReportBuilder2_01](/assets/pics/WindowsLiveWriter/SQLServer2008parte10ChangeDataCapture_11ED0/ReportBuilder2_01_3120c97c-6065-4ff8-89c2-2286d2b4c91a.gif "ReportBuilder2_01")
 
 Os gráficos criados podem ser publicados diretamente no *Reporting Services Server*, ou salvos localmente para consultas futuras. Abaixo um exemplo de relatório matricial.
 
-![ReportBuilder2_02](http://leandrodaniel.com/pics/WindowsLiveWriter/SQLServer2008parte10ChangeDataCapture_11ED0/ReportBuilder2_02_a4ff3662-ad58-4538-920f-fa105b003cbd.gif "ReportBuilder2_02")
+![ReportBuilder2_02](/assets/pics/WindowsLiveWriter/SQLServer2008parte10ChangeDataCapture_11ED0/ReportBuilder2_02_a4ff3662-ad58-4538-920f-fa105b003cbd.gif "ReportBuilder2_02")
 
 A nova versão suporta diversos tipos de gráficos, incluindo o *Gauge*.
 
-![ReportBuilder2_03](http://leandrodaniel.com/pics/WindowsLiveWriter/SQLServer2008parte10ChangeDataCapture_11ED0/ReportBuilder2_03_3019d751-eaee-4372-977b-457b5c5ba698.gif "ReportBuilder2_03")
+![ReportBuilder2_03](/assets/pics/WindowsLiveWriter/SQLServer2008parte10ChangeDataCapture_11ED0/ReportBuilder2_03_3019d751-eaee-4372-977b-457b5c5ba698.gif "ReportBuilder2_03")
 
 Até o próximo post!

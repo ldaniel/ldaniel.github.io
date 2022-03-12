@@ -25,8 +25,8 @@ Pode ser expressa da seguinte maneira
 
 O ASP.NET 4 trouxe esse recurso para os WebForms, o código abaixo ilustra como podemos implementar essa feature:
 
-![step2_thumb_1A897DA1](http://leandrodaniel.com/pics/WindowsLiveWriter/VisualStudio2010parte33ASP.NET4Routing/5007D460/step2_thumb_1A897DA1.png "step2_thumb_1A897DA1")
+![step2_thumb_1A897DA1](/assets/pics/WindowsLiveWriter/VisualStudio2010parte33ASP.NET4Routing/5007D460/step2_thumb_1A897DA1.png "step2_thumb_1A897DA1")
 
 Dessa forma uma chamada para a página ficaria assim:
 
-![step3_thumb_06FC1E00](http://leandrodaniel.com/pics/WindowsLiveWriter/VisualStudio2010parte33ASP.NET4Routing/1D37CDEC/step3_thumb_06FC1E00.png "step3_thumb_06FC1E00")
+![step3_thumb_06FC1E00](/assets/pics/WindowsLiveWriter/VisualStudio2010parte33ASP.NET4Routing/1D37CDEC/step3_thumb_06FC1E00.png "step3_thumb_06FC1E00")

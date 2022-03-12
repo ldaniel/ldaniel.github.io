@@ -27,11 +27,11 @@ Digamos que você queira atualizar uma tabela de colaboradores de uma revista pa
 
 Para realizar a operação será necessário utilizarmos a tabela de artigos, a imagem abaixo ilustra as tabelas envolvidas.
 
-![Tables_Merge](http://leandrodaniel.com/pics/WindowsLiveWriter/SQLServer2008ProgrammabilityEnhancements_C48/Tables_Merge_ec68be90-95b4-40ca-aeed-ff1c2274c959.gif "Tables_Merge")
+![Tables_Merge](/assets/pics/WindowsLiveWriter/SQLServer2008ProgrammabilityEnhancements_C48/Tables_Merge_ec68be90-95b4-40ca-aeed-ff1c2274c959.gif "Tables_Merge")
 
 Antes de utilizarmos o *Merge*, vamos considerar o cenário ilustrado abaixo através de duas consultas, uma retornando todos os registros da tabela *Colaborador* e outra que totaliza a quantidade de artigos por colaborador:
 
- ![Merge_Antes01](http://leandrodaniel.com/pics/WindowsLiveWriter/SQLServer2008ProgrammabilityEnhancements_C48/Merge_Antes01_2540cff8-3ca5-4543-a1b3-4a75c619e4d0.gif "Merge_Antes01")
+ ![Merge_Antes01](/assets/pics/WindowsLiveWriter/SQLServer2008ProgrammabilityEnhancements_C48/Merge_Antes01_2540cff8-3ca5-4543-a1b3-4a75c619e4d0.gif "Merge_Antes01")
 
 Além do fato de que o segundo colaborador escreveu uma quantidade imensa de artigos, rapidamente constatamos que, de acordo com as regras que queremos aplicar, teríamos o primeiro e o segundo colaboradores ganhando o bônus de 100 pontos, o terceiro permanecendo com a mesma quantidade e o último sendo deletado da tabela. Vejamos como fica a query usando *Merge* para executar a operação toda:
 
@@ -70,7 +70,7 @@ As **Linhas 19 e 20** e utilizam o argumento *WHEN NOT MATCHED BY SOURCE* para r
 
 Finalmente a **Linha 21** exibe o resultado antes e depois do *Merge* através do comando [OUTPUT](http://msdn.microsoft.com/en-us/library/ms177564), esta última linha é opcional, e nos dará o seguinte resultado:
 
-![Merge_Antes](http://leandrodaniel.com/pics/WindowsLiveWriter/SQLServer2008ProgrammabilityEnhancements_C48/Merge_Antes_cd731c4a-a277-463b-8569-54f7f557fc66.gif "Merge_Antes")
+![Merge_Antes](/assets/pics/WindowsLiveWriter/SQLServer2008ProgrammabilityEnhancements_C48/Merge_Antes_cd731c4a-a277-463b-8569-54f7f557fc66.gif "Merge_Antes")
 
 Na imagem acima também está o resultado final da tabela *Colaborador*. Como vimos realizamos todas as operações propostas de maneira bem simples. Fácil, não?
 

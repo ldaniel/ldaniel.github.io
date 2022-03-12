@@ -32,7 +32,7 @@ Este ano tive a honra de apresentar minha palestra na trilha Stadium, então acr
 
 Deixo aqui algumas fotos da trilha de arquitetura, que aconteceu no primeiro dia do evento (04/07/2012).
 
-[![tdc2012fotos](http://leandrodaniel.com/pics/tdc2012fotos_3.png "tdc2012fotos")](https://skydrive.live.com/redir?resid=682BB4ABC622D264!1149&amp;authkey=!AHfQ8XgVNHCWALw)
+[![tdc2012fotos](/assets/pics/tdc2012fotos_3.png "tdc2012fotos")](https://skydrive.live.com/redir?resid=682BB4ABC622D264!1149&amp;authkey=!AHfQ8XgVNHCWALw)
 
 ### Fotos panorâmicas
 
@@ -43,4 +43,4 @@ Confira nas panorâmicas abaixo alguns momentos da trilha de arquitetura. Tentei
 
 ### Enfim, mais um grande TDC!
 
-Se você quiser deixar suas impressões sobre o evento e a trilha de arquitetura, por favor, sinta-se à vontade! ![Alegre](http://leandrodaniel.com/pics/wlEmoticon-smile_11.png)
+Se você quiser deixar suas impressões sobre o evento e a trilha de arquitetura, por favor, sinta-se à vontade! ![Alegre](/assets/pics/wlEmoticon-smile_11.png)

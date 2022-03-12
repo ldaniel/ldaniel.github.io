@@ -42,4 +42,4 @@ namespace VS2010.Console
 
 Um erro de compilação ocorre na linha 14 indicando que não é possível a operação de soma de um inteiro com um *object*. Contudo o erro não ocorre na linha 13, porque a variável ***dyn*** foi declarada como *dynamic* e não é checada em tempo de compilação. Esse recurso é bem interessante, pois pode permitir acesso direto as propriedades do HTML DOM, por exemplo, usando a sua sintaxe. Esse tipo de conceito é bem familiar para desenvolvedores Ruby e Phyton e agora os desenvolvedores .NET poderão aprender esse novo paradigma de pogramação. Abaixo vemos um diagrama da arquitetura de linguagem dinâmica do .NET.
 
-![Dd233052_DLR_ArchOverview(en-us,VS_100)](http://leandrodaniel.com/pics/WindowsLiveWriter/VisualStudio2010parte9DynamicObjects/2ED4648C/Dd233052_DLR_ArchOverviewenusVS_100.png "Dd233052_DLR_ArchOverview(en-us,VS_100)")
+![Dd233052_DLR_ArchOverview(en-us,VS_100)](/assets/pics/WindowsLiveWriter/VisualStudio2010parte9DynamicObjects/2ED4648C/Dd233052_DLR_ArchOverviewenusVS_100.png "Dd233052_DLR_ArchOverview(en-us,VS_100)")

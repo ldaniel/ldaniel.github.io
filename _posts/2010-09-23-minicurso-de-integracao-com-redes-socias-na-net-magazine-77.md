@@ -17,7 +17,7 @@ tags:
     - Comunidade
 ---
 
-![capa_net77_g](http://leandrodaniel.com/pics/capa_net77_g_1.jpg "capa_net77_g")Já está disponível nas bancas a [edição número 77 da revista .net Magazine](http://www.devmedia.com.br/post-18004-Revista--net-Magazine-Edicao-77.html). Neste número contei com a parceria do [Alexandre Mantovani](http://system.mantov.net/), grande amigo (irmão) nessa longa jornada pelo estranho e fascinante mundo de TI.
+![capa_net77_g](/assets/pics/capa_net77_g_1.jpg "capa_net77_g")Já está disponível nas bancas a [edição número 77 da revista .net Magazine](http://www.devmedia.com.br/post-18004-Revista--net-Magazine-Edicao-77.html). Neste número contei com a parceria do [Alexandre Mantovani](http://system.mantov.net/), grande amigo (irmão) nessa longa jornada pelo estranho e fascinante mundo de TI.
 
 No artigo, abordamos a construção de softwares integrados com serviços de rede social utilizando o .NET Framework 4.0 e diversos SDKs. Apresentamos nesta edição dois DevKits do Twitter e um do Flickr, com ênfase nos recursos mais populares disponíveis, bem como no acesso e configuração inicial dos ambientes.
 

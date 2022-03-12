@@ -17,7 +17,7 @@ Ultimamente tenho conversado muito sobre metodologias com vários colegas, e ape
 
  Peço desculpas aos leitores que, como eu, já se cansaram de ler a "piadinha" a seguir, mas ela ilustra bem o que comentei:
 
- [![umprojeto](http://leandrodaniel.com/pics/WindowsLiveWriter/Metodologiadedesenvolvimentodesoftware_106B7/umprojeto_thumb.png)](http://leandrodaniel.com/pics/WindowsLiveWriter/Metodologiadedesenvolvimentodesoftware_106B7/umprojeto_2.png)
+ [![umprojeto](/assets/pics/WindowsLiveWriter/Metodologiadedesenvolvimentodesoftware_106B7/umprojeto_thumb.png)](/assets/pics/WindowsLiveWriter/Metodologiadedesenvolvimentodesoftware_106B7/umprojeto_2.png)
 
  O desenho não teria relevância alguma se não fosse algo que ainda faz sentido nos dias de hoje. Triste… Aliás, engraçado é conversar sobre metodologias, pois cada um tem a sua nova-fórmula-metodológica-infalível-para-o-desenvolvimento-de-software. Alguns preconizam a morte de uma metodologia apontando falhas "convincentes" e soluções novas para velhos problemas, outros defendem cegamente a metodologia utilizada com argumentos "satisfatórios" e outras novas técnicas.
 

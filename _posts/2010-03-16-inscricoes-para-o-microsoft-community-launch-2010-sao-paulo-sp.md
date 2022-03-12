@@ -20,4 +20,4 @@ Já está disponível no site da Microsoft a [inscrição para o evento Communit
 
 Maiores informações no site do [.NET Architects](http://dotnetarchitects.net/dotnetarchitects/communitylaunch/).
 
-![communityLaunch](http://leandrodaniel.com/pics/communityLaunch.jpg "communityLaunch")
+![communityLaunch](/assets/pics/communityLaunch.jpg "communityLaunch")

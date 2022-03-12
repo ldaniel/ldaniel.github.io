@@ -19,7 +19,7 @@ Felizmente, podemos aperfeiçoar a maneira como reagimos a novas tecnologias, ad
 
 Em seu livro “[Crossing the Chasm](http://en.wikipedia.org/wiki/Crossing_the_Chasm)”, [Geofrrey A. Moore](http://en.wikipedia.org/wiki/Geoffrey_Moore) explora o modelo de difusão de tecnologia e seu impacto no marketing de produtos. Talvez o ponto de maior destaque seja o gráfico que representa o “Ciclo de vida de adoção de tecnologia” e a indicação de um “abismo”, que podemos observar abaixo.
 
-![Ciclo de vida de adoção de tecnologia](http://leandrodaniel.com/pics/800px-Technology-Adoption-Lifecycle_3.png "Ciclo de vida de adoção de tecnologia")
+![Ciclo de vida de adoção de tecnologia](/assets/pics/800px-Technology-Adoption-Lifecycle_3.png "Ciclo de vida de adoção de tecnologia")
 
 No gráfico é possível ver como se distribuem os grupos de clientes/usuários de um determinado produto. Geoffrey indica a existência de um abismo (chasm) entre Innovators/Early Adopters e o restante dos usuários. É justamente esse o principal ponto discutido em seu livro, pois atravessar esse abismo significa entender como funciona a dinâmica do ciclo de vida de adoção de uma tecnologia (ou produto). O gráfico que representa o ciclo de adoção de tecnologia foi descrito pela primeira vez por Joe M. Bohlen, George M. Beal e Everett m. Rogers.
 

@@ -65,6 +65,6 @@ namespace VS2010.Console
 
 Executando o código acima numa aplicação do tipo *console*, iremos obter o seguinte resultado:
 
-![VS2010ParallelFor](http://leandrodaniel.com/pics/WindowsLiveWriter/VisualStudio2010parte6Parallel.For/04E8F4BF/VS2010ParallelFor.gif "VS2010ParallelFor")
+![VS2010ParallelFor](/assets/pics/WindowsLiveWriter/VisualStudio2010parte6Parallel.For/04E8F4BF/VS2010ParallelFor.gif "VS2010ParallelFor")
 
 Podemos observar que o segundo FOR (linhas 25 a 29) executou a mesma operação 41% a 50% mais rápido que da forma tradicional. Claro, esse resultado dependerá do processador da máquina que estiver rodando o código. Pretendo explorar com mais profundidade esse assunto em posts futuros.

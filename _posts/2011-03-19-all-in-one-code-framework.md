@@ -17,7 +17,7 @@ No site do [CodePlex](http://www.codeplex.com/) o overview do [All-In-One Code F
 
 É possível instalar um aplicativo local que auxilia na localização de um determinado código, tudo dividido por categorias e com filtros (clique na imagem abaixo para ampliar).
 
-[![All-In-One](http://leandrodaniel.com/pics/All-In-One_thumb.png "All-In-One")](http://leandrodaniel.com/pics/All-In-One.png)
+[![All-In-One](/assets/pics/All-In-One_thumb.png "All-In-One")](/assets/pics/All-In-One.png)
 
 Esse framework é especialmente interessante para programadores iniciantes que desejam obter de forma rápida um exemplo de código. Alguns dos *samples* disponíveis cobrem assuntos como:
 

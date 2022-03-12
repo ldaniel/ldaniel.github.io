@@ -18,7 +18,7 @@ tags:
     - Eventos
 ---
 
-[![DNA](http://leandrodaniel.com/pics/DNA_thumb.png "DNA")](http://leandrodaniel.com/pics/DNA.png)A quarta edição do DNAD (.NET Architects Days) apresentará questões pragmáticas da carreira do Arquiteto de Software, abordando assuntos complexos como skills, práticas, visão evolutiva, relacionamento entre componentes tecnológicos, dentre outros. Estamos fechando um programa contendo temas como: Arquitetura ACID x Base, Cloud, NoSQL, Arquitetura/Design Emergente, Legacy Code, Carreira do arquiteto, Qualidade, CQS (Command Query Separation), Refactoring, Continous Delivery e outros assuntos.
+[![DNA](/assets/pics/DNA_thumb.png "DNA")](/assets/pics/DNA.png)A quarta edição do DNAD (.NET Architects Days) apresentará questões pragmáticas da carreira do Arquiteto de Software, abordando assuntos complexos como skills, práticas, visão evolutiva, relacionamento entre componentes tecnológicos, dentre outros. Estamos fechando um programa contendo temas como: Arquitetura ACID x Base, Cloud, NoSQL, Arquitetura/Design Emergente, Legacy Code, Carreira do arquiteto, Qualidade, CQS (Command Query Separation), Refactoring, Continous Delivery e outros assuntos.
 
 Confira no [site do DNAD 2012](http://dnad.dotnetarchitects.net/dnad/2011) todas as informações necessárias para conhecer e participar do evento. Segue o comunicado oficial, disponível no site:
 

@@ -18,4 +18,4 @@ tags:
 
 Veja algumas fotos do evento clicando na imagem abaixo.
 
-[![Fotos DNAD11](http://leandrodaniel.com/pics/Fotos%20DNAD11.png "Fotos DNAD11")](http://cid-682bb4abc622d264.skydrive.live.com/redir.aspx?page=play&resid=682BB4ABC622D264!461)
+[![Fotos DNAD11](/assets/pics/Fotos%20DNAD11.png "Fotos DNAD11")](http://cid-682bb4abc622d264.skydrive.live.com/redir.aspx?page=play&resid=682BB4ABC622D264!461)

@@ -15,6 +15,6 @@ tags:
 
 Quer um bom framework de testes para aplicar TDD junto com o Visual Studio 2010?
 
-[![EchoLink150](http://leandrodaniel.com/pics/WindowsLiveWriter/FrameworkdetesteparaVS2010/62E9FE9B/EchoLink150.png "EchoLink150")](http://www.gallio.org/)
+[![EchoLink150](/assets/pics/WindowsLiveWriter/FrameworkdetesteparaVS2010/62E9FE9B/EchoLink150.png "EchoLink150")](http://www.gallio.org/)
 
 Facilita muito a vida…

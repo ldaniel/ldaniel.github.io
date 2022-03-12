@@ -31,7 +31,7 @@ Tenho a sorte de poder conversar sobre música com diversas pessoas dos mais var
 > 
 > \[…\]
 
-![tournemire](http://leandrodaniel.com/pics/tournemire_1.jpg "tournemire") Realmente a música de Tournemire é algo instigante, principalmente se imaginarmos a época em que foi concebida, suas improvisações eram de fato espetaculares.
+![tournemire](/assets/pics/tournemire_1.jpg "tournemire") Realmente a música de Tournemire é algo instigante, principalmente se imaginarmos a época em que foi concebida, suas improvisações eram de fato espetaculares.
 
 Isso me fez refletir sobre a influência das músicas que ouvimos em nossas vidas, acho que preciso ouvir muita coisa diferente ainda pra chegar num nível legal de conhecimento sobre música, porque a cada dia descubro que pouco (ou nada) sei sobre o assunto.
 

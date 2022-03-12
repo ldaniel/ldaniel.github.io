@@ -16,7 +16,7 @@ tags:
     - Palestras
 ---
 
-![dnad2009_logo](http://leandrodaniel.com/pics/WindowsLiveWriter/Comofoio.NetArchitectsDay2009Sensacional/22F6F9FD/dnad2009_logo_thumb.png "dnad2009_logo")
+![dnad2009_logo](/assets/pics/WindowsLiveWriter/Comofoio.NetArchitectsDay2009Sensacional/22F6F9FD/dnad2009_logo_thumb.png "dnad2009_logo")
 
 Ontem, dia 27/06, aconteceu o primeiro **.Net Architects Day**, evento do grupo de arquitetura [.Net Architects](http://www.dotnetarchitects.net/page/NET-Architects-Day-2009), idealizado pelo MVP [Giovanni Bassi](http://unplugged.giggio.net/). O evento foi concebido e realizado por membros ativos do grupo, tivemos uma organização primorosa, realmente não deixou nada a desejar, e o mais incrível é que o custo de R$ 50,00 (praticamente de graça) foi totalmente revertido em brindes para os congressistas.
 

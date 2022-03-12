@@ -16,7 +16,7 @@ tags:
     - Artigos
 ---
 
-[![.net Magazine edição 62](http://leandrodaniel.com/pics/WindowsLiveWriter/InjeodeDependnciacomUn.netMagazineedio62/665D5393/capa_netMag62.jpg ".net Magazine edição 62")](http://www.devmedia.com.br/resumo/default.asp?ed=62&site=1)
+[![.net Magazine edição 62](/assets/pics/WindowsLiveWriter/InjeodeDependnciacomUn.netMagazineedio62/665D5393/capa_netMag62.jpg ".net Magazine edição 62")](http://www.devmedia.com.br/resumo/default.asp?ed=62&site=1)
 
 Saiu nas bancas essa semana a [edição 62 da revista .net Magazine](http://www.devmedia.com.br/resumo/default.asp?ed=62&site=1) com o meu artigo sobre o padrão de Injeção de Dependência. Nele explico o contexto para utilização desse padrão com o *Unity Application Block* através de um exemplo prático.
 

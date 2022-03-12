@@ -128,6 +128,6 @@ namespace Reverb.Loggers
 
 Desta forma, toda vez que chamarmos a interface ***ILogger*** para resolução da classe concreta ***ConsoleLogger***, o Unity interceptará essa chamada utilizando o manipulador ***GUIDHandler*** para criar um GUID e adiciona-lo na mensagem de retorno. Como usei um projeto do tipo *Console Application* o resultado da chamada é ilustrado na imagem abaixo:
 
-[![ConsoleInterception](http://leandrodaniel.com/pics/WindowsLiveWriter/EntLibparte6Interceptaodechamadademtodos/4C2506A9/ConsoleInterception_thumb.png "ConsoleInterception")](http://leandrodaniel.com/pics/WindowsLiveWriter/EntLibparte6Interceptaodechamadademtodos/161DF6EB/ConsoleInterception.png)
+[![ConsoleInterception](/assets/pics/WindowsLiveWriter/EntLibparte6Interceptaodechamadademtodos/4C2506A9/ConsoleInterception_thumb.png "ConsoleInterception")](/assets/pics/WindowsLiveWriter/EntLibparte6Interceptaodechamadademtodos/161DF6EB/ConsoleInterception.png)
 
 Fantástico não?

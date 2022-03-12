@@ -15,8 +15,8 @@ tags:
 
 Disponível no menu ***Tools*** na opção ***Extension Manager*** essa nova *feature* permite instalar extensões para o Visual Studio 2010. Escolha o item desejado, clique no botão ***Download***, em seguida clique no botão ***Restart Now*** e pronto!
 
-![VS2010ExtensionManager](http://leandrodaniel.com/pics/WindowsLiveWriter/VisualStudio2010parte18ExtensionManager/5C37F29A/VS2010ExtensionManager.gif "VS2010ExtensionManager")
+![VS2010ExtensionManager](/assets/pics/WindowsLiveWriter/VisualStudio2010parte18ExtensionManager/5C37F29A/VS2010ExtensionManager.gif "VS2010ExtensionManager")
 
 Abaixo tem um exemplo de extensão, uma *popup* com algumas opções para seleção de texto.
 
-![VS2010ExtensionPopUp](http://leandrodaniel.com/pics/WindowsLiveWriter/VisualStudio2010parte18ExtensionManager/3A6C1A09/VS2010ExtensionPopUp.gif "VS2010ExtensionPopUp")
+![VS2010ExtensionPopUp](/assets/pics/WindowsLiveWriter/VisualStudio2010parte18ExtensionManager/3A6C1A09/VS2010ExtensionPopUp.gif "VS2010ExtensionPopUp")

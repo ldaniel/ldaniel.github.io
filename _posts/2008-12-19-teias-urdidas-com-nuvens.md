@@ -25,7 +25,7 @@ Explico-me. Há muito tempo que temos (quando digo “temos” refiro-me aos pro
 
 **Para usuários em geral**
 
-![WindowsLive](http://leandrodaniel.com/pics/WindowsLiveWriter/Urdindooconhecimento_115AC/WindowsLive_a6ed32b3-1f47-4a6c-95ac-b8ab0dd72063.png)
+![WindowsLive](/assets/pics/WindowsLiveWriter/Urdindooconhecimento_115AC/WindowsLive_a6ed32b3-1f47-4a6c-95ac-b8ab0dd72063.png)
 
 A Microsoft vem paulatinamente estimulando os usuários a utilizarem os serviços “Live”, o novo formato do [Windows Live](http://home.live.com/) traz novidades bem interessantes, concentrou alguns serviços e criou um conceito mais consistente de rede social. É possível organizar no seu perfil todas as suas preferências de livros, DVD’s, filmes, além de compartilhar arquivos pelo [SkyDrive](http://skydrive.live.com/) que foi um dos serviços agrupados dentro do Windows Live – até o momento o total é de 25GB para armazenamento no SkyDrive, aliás, que nome sugestivo, não? 😉 Existe um espaço para publicar as suas “informações sociais” com seus interesses e pessoas de relacionamento. O Windows Live oferece [diversas ferramentas gratuitas](http://download.live.com/) para mensagens instantâneas, email, fotos, filmes, navegação na Web e blogs.
 
@@ -33,7 +33,7 @@ Talvez a mais importante novidade para *end-users* em 2009 é o possível lança
 
 **Para profissionais de TI**
 
-![LiveServices](http://leandrodaniel.com/pics/WindowsLiveWriter/Urdindooconhecimento_115AC/LiveServices_95381c0d-bead-41b8-af8b-1b414f308203.png)Os desenvolvedores, através do [Live Services](http://dev.live.com/), dispõem de diversas tecnologias e ferramentas para criação de aplicações ricas para a Internet. Escrevei um post sobre o [Silverlight Streaming](http://www.leandrodaniel.com/post/Microsoft-Silverlight-Streaming), onde mostrei o Deep Zoom Composer. No meu post sobre [Photosynth](http://www.leandrodaniel.com/post/Microsoft-Live-Labs-Photosynth), que faz parte do [Live Labs](http://livelabs.com/), é possível ver o potencial desta tecnologia e imaginar diversas aplicações para a web, principalmente em usabilidade (mais um desafio para *arquitetos da informação*).
+![LiveServices](/assets/pics/WindowsLiveWriter/Urdindooconhecimento_115AC/LiveServices_95381c0d-bead-41b8-af8b-1b414f308203.png)Os desenvolvedores, através do [Live Services](http://dev.live.com/), dispõem de diversas tecnologias e ferramentas para criação de aplicações ricas para a Internet. Escrevei um post sobre o [Silverlight Streaming](http://www.leandrodaniel.com/post/Microsoft-Silverlight-Streaming), onde mostrei o Deep Zoom Composer. No meu post sobre [Photosynth](http://www.leandrodaniel.com/post/Microsoft-Live-Labs-Photosynth), que faz parte do [Live Labs](http://livelabs.com/), é possível ver o potencial desta tecnologia e imaginar diversas aplicações para a web, principalmente em usabilidade (mais um desafio para *arquitetos da informação*).
 
 O Live Services SDK disponibiliza, atualmente, as seguintes opções:
 
@@ -55,11 +55,11 @@ Coloquei no SkyDrive para download o diagrama do Live Framework SDK:
 
 <iframe frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="http://cid-682bb4abc622d264.skydrive.live.com/embedrowdetail.aspx/.Public/livefxposter.pdf" style="border-right: #dde5e9 1px solid; padding-right: 0px; border-top: #dde5e9 1px solid; padding-left: 0px; padding-bottom: 0px; margin: 3px; border-left: #dde5e9 1px solid; width: 240px; padding-top: 0px; border-bottom: #dde5e9 1px solid; height: 66px; background-color: #ffffff"></iframe>
 
-![Live Services](http://leandrodaniel.com/pics/WindowsLiveWriter/Urdindooconhecimento_115AC/Live%20Services_33a6ee65-d20a-4165-bf84-5adbae91dacd.png)
+![Live Services](/assets/pics/WindowsLiveWriter/Urdindooconhecimento_115AC/Live%20Services_33a6ee65-d20a-4165-bf84-5adbae91dacd.png)
 
 O diagrama ao lado mostra a plataforma do Live Services. Escrevei recentemente um post sobre o [Live Mesh](http://www.leandrodaniel.com/post/Live-Mesh-Beta) que, mesmo na versão beta, oferece uma ferramenta para sincronizar informações entre diversos dispositivos (incluindo Mac) bem interessante. Ainda no Live Services você encontra a [Mashups Library](http://dev.live.com/mashups/), uma biblioteca para construção de *mashups*, combinando dados e conteúdo de diversas aplicações em uma só.
 
-![SQLServices](http://leandrodaniel.com/pics/WindowsLiveWriter/Urdindooconhecimento_115AC/SQLServices_07fa21bb-136d-4ba7-91fb-5bf199d595ce.png)O [SQL Services](http://www.microsoft.com/azure/sql.mspx) foi o primeiro produto que me chamou atenção, pois acredito que terá uma aceitação muito rápida aqui no Brasil, ele disponibiliza um conjunto de *capabilities* do SQL Server baseados em nuvens. Alguns dos destaques do SQL Data Services:
+![SQLServices](/assets/pics/WindowsLiveWriter/Urdindooconhecimento_115AC/SQLServices_07fa21bb-136d-4ba7-91fb-5bf199d595ce.png)O [SQL Services](http://www.microsoft.com/azure/sql.mspx) foi o primeiro produto que me chamou atenção, pois acredito que terá uma aceitação muito rápida aqui no Brasil, ele disponibiliza um conjunto de *capabilities* do SQL Server baseados em nuvens. Alguns dos destaques do SQL Data Services:
 
 - Interface baseada em padrões, como SOAP e REST
 - Modelo flexível de dados, sem necessidade de esquema
@@ -69,7 +69,7 @@ O diagrama ao lado mostra a plataforma do Live Services. Escrevei recentemente u
 
 O [SQL Services SDK](http://msdn.microsoft.com/en-us/library/cc678662) disponibiliza as ferramentas necessárias para desenvolvimento.
 
-![NetServices](http://leandrodaniel.com/pics/WindowsLiveWriter/Urdindooconhecimento_115AC/NetServices_07788dda-c1c8-4ca3-a735-ed86e6150bdc.png)
+![NetServices](/assets/pics/WindowsLiveWriter/Urdindooconhecimento_115AC/NetServices_07788dda-c1c8-4ca3-a735-ed86e6150bdc.png)
 
 Seguindo a linha de ferramentas baseadas em nuvem o [.Net Services](http://msdn.microsoft.com/en-us/library/dd129878) disponibiliza funcionalidades para as seguintes áreas:
 
@@ -81,13 +81,13 @@ Além do [SDK para .NET](http://go.microsoft.com/fwlink/?LinkID=129448) ainda é
 
 **Para as empresas**
 
-![WindowsAzure](http://leandrodaniel.com/pics/WindowsLiveWriter/Urdindooconhecimento_115AC/WindowsAzure_b5c5cda5-eada-420d-8bd5-71b9b2243aa3.png)
+![WindowsAzure](/assets/pics/WindowsLiveWriter/Urdindooconhecimento_115AC/WindowsAzure_b5c5cda5-eada-420d-8bd5-71b9b2243aa3.png)
 
 Finalmente, o Windows Azure consolida a grandiosa estratégia da Microsoft, disponibilizando plataformas como serviço na Internet, as famosas “nuvens”. Escrevei um pequeno [post sobre Azure](http://www.leandrodaniel.com/category/Azure), indicando um caminho para iniciar os estudos desta nova plataforma.
 
 A minha grande dúvida é se os preços de contratação do Azure serão realmente atrativos, por isso acredito que o SQL Services será o serviço de aceitação mais imediata, até mesmo pela quebra de paradigma que esta plataforma requer. O desenho a seguir ilustra o Azure com todos os seus componentes atuais:
 
-![how_it_works_slide_3](http://leandrodaniel.com/pics/WindowsLiveWriter/Urdindooconhecimento_115AC/how_it_works_slide_3_fcdcddcc-8da9-438d-99e6-5f9e9f2a88a4.jpg)   
+![how_it_works_slide_3](/assets/pics/WindowsLiveWriter/Urdindooconhecimento_115AC/how_it_works_slide_3_fcdcddcc-8da9-438d-99e6-5f9e9f2a88a4.jpg)   
 <font size="1">Fonte: </font>[<font size="1">http://www.microsoft.com/azure/howdoesitwork.mspx</font>](http://www.microsoft.com/azure/howdoesitwork.mspx "http://www.microsoft.com/azure/howdoesitwork.mspx")
 
 Acredito que a absorção destes conceitos levará um certo tempo, por isso as comunidades de TI serão muito importantes em 2009 na disseminação e, principalmente, para amadurecer o conhecimento. Tratarei em posts futuros as tecnologias abordas aqui, e espero contribuir com minha visão sobre essa iminente realidade. Convido todos a participarem comigo desta jornada (ou poderia dizer, oportunamente, desta viagem?).

@@ -50,4 +50,4 @@ tags:
 >  2. Que reúne toda a perfeição imaginável.   
 >  3. Conjunto imaginário de perfeições que não podem ter realização completa.*
 
- [![zen](http://leandrodaniel.com/pics/WindowsLiveWriter/EntLibparte5Injeodedependncia/1EE9F01F/zen_thumb.jpg "zen")](http://leandrodaniel.com/pics/WindowsLiveWriter/EntLibparte5Injeodedependncia/5630775A/zen.jpg)
+ [![zen](/assets/pics/WindowsLiveWriter/EntLibparte5Injeodedependncia/1EE9F01F/zen_thumb.jpg "zen")](/assets/pics/WindowsLiveWriter/EntLibparte5Injeodedependncia/5630775A/zen.jpg)

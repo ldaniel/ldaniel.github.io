@@ -22,4 +22,4 @@ Atendendo a pedidos, é possível ouvir o podcast diretamente do post (usando o 
 
 Se você está procurando por algumas risadas e comentários estranhos, acesse o [Episódio #002 do Void Podcast: Alô comunidade!](http://voidpodcast.com/2011/06/12/void-podcast-002a-al-comunidade/)
 
-Não deixe de comentar suas opiniões. ![Alegre](http://leandrodaniel.com/pics/wlEmoticon-smile_6.png)
+Não deixe de comentar suas opiniões. ![Alegre](/assets/pics/wlEmoticon-smile_6.png)

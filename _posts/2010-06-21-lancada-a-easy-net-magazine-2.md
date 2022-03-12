@@ -17,7 +17,7 @@ tags:
     - 'Easy .net Magazine'
 ---
 
-[![capa_easynet2_g](http://leandrodaniel.com/pics/capa_easynet2_g_thumb.jpg "capa_easynet2_g")](http://leandrodaniel.com/pics/capa_easynet2_g.jpg) Acaba de ser lançada a segunda edição da revista [Easy .net Magazine](http://www.devmedia.com.br/assgold/listmag.asp?site=59) da [DevMedia](http://www.devmedia.com.br). A revista é voltada para o público iniciante, que está tendo os primeiros contatos com tecnologias de desenvolvimento. É possível ler todos os artigos através do [Leitor Digital do portal](http://www.devmedia.com.br/websys.3/webreader.asp?cat=59&revista=easynetmag_2#a-2665).
+[![capa_easynet2_g](/assets/pics/capa_easynet2_g_thumb.jpg "capa_easynet2_g")](/assets/pics/capa_easynet2_g.jpg) Acaba de ser lançada a segunda edição da revista [Easy .net Magazine](http://www.devmedia.com.br/assgold/listmag.asp?site=59) da [DevMedia](http://www.devmedia.com.br). A revista é voltada para o público iniciante, que está tendo os primeiros contatos com tecnologias de desenvolvimento. É possível ler todos os artigos através do [Leitor Digital do portal](http://www.devmedia.com.br/websys.3/webreader.asp?cat=59&revista=easynetmag_2#a-2665).
 
 Participei desta edição escrevendo um artigo sobre os meios de acesso a dados mais comuns no desenvolvimento de soluções baseadas na plataforma .NET.
 

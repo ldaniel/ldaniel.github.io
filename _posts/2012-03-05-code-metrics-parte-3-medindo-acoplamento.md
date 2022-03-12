@@ -53,19 +53,19 @@ Por outro lado:
 
 Quando pensamos em métricas relacionadas a acoplamento, começamos a perceber a necessidade de expressá-las visualmente. Observe no grafo abaixo o resultado da análise do acoplamento existente entre as classes: A, B, C, D, E, F, G e H.
 
-[![Slide1](http://leandrodaniel.com/pics/Slide1_thumb.png "Slide1")](http://leandrodaniel.com/pics/Slide1.png)
+[![Slide1](/assets/pics/Slide1_thumb.png "Slide1")](/assets/pics/Slide1.png)
 
 Pegando a classe D como referência e destacando a métrica Ca, teríamos:
 
-[![Slide2](http://leandrodaniel.com/pics/Slide2_thumb.png "Slide2")](http://leandrodaniel.com/pics/Slide2.png)
+[![Slide2](/assets/pics/Slide2_thumb.png "Slide2")](/assets/pics/Slide2.png)
 
 Mas se destacássemos a métrica Ce, tomando como base a mesma class D, obteríamos:
 
-[![Slide3](http://leandrodaniel.com/pics/Slide3_thumb.png "Slide3")](http://leandrodaniel.com/pics/Slide3.png)
+[![Slide3](/assets/pics/Slide3_thumb.png "Slide3")](/assets/pics/Slide3.png)
 
 Outras leituras interessantes poderiam ser rapidamente retiradas do grafo, como por exemplo, o relacionamento cíclico existente entre as classes A, G e H.
 
-[![Slide4](http://leandrodaniel.com/pics/Slide4_thumb.png "Slide4")](http://leandrodaniel.com/pics/Slide4.png)
+[![Slide4](/assets/pics/Slide4_thumb.png "Slide4")](/assets/pics/Slide4.png)
 
 Note que Ce e Ca podem mostrar, rapidamente, indícios de um design “mal cheiroso”. Essas métricas também servem para avaliarmos se regras de comunicação entre assemblies (definidas para um projeto) foram quebradas.
 

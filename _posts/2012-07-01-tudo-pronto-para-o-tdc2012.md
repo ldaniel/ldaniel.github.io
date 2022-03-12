@@ -19,8 +19,8 @@ tags:
 
 É isso aí! Está chegando o maior e mais diversificado evento de TI do país: TDC2012! A trilha de arquitetura está animal, confira:
 
-[![tdc2012Grade](http://leandrodaniel.com/pics/tdc2012Grade_1.png "tdc2012Grade")](http://www.thedevelopersconference.com.br/tdc/2012/saopaulo/trilha-arquitetura#programacao)
+[![tdc2012Grade](/assets/pics/tdc2012Grade_1.png "tdc2012Grade")](http://www.thedevelopersconference.com.br/tdc/2012/saopaulo/trilha-arquitetura#programacao)
 
-A minha palestra será exibida ao vivo na trilha [Stadium](http://www.thedevelopersconference.com.br/tdc/2012/saopaulo/trilha-stadium-quarta#programacao), veja que demais! ![Alegre](http://leandrodaniel.com/pics/wlEmoticon-smile_10.png)
+A minha palestra será exibida ao vivo na trilha [Stadium](http://www.thedevelopersconference.com.br/tdc/2012/saopaulo/trilha-stadium-quarta#programacao), veja que demais! ![Alegre](/assets/pics/wlEmoticon-smile_10.png)
 
 Nos encontramos no evento.

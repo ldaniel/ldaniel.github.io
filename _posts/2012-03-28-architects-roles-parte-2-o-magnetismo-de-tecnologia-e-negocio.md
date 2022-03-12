@@ -42,7 +42,7 @@ Cada vez mais, venho me convencendo de que existem 2 "supertipos" de arquiteto. 
 
 O nome mais correto para o primeiro arquiteto seria **Arquiteto de Soluções**. O segundo é chamado de **Arquiteto de Negócio**.
 
-![](http://leandrodaniel.com/pics/tipoarq_atracao.png)
+![](/assets/pics/tipoarq_atracao.png)
 
 O rabisco acima mostra o quão próximo os arquitetos estão de cada área: Tecnologia e Negócio. Embora cada um esteja mais próximo de um “ímã” específico, ambos sofrem atração/repulsão do outro “ímã”. Nessa analogia, as linhas de força atuam sobre os arquitetos (mesmo sendo invisíveis) levando preocupações e focos distintos.
 
@@ -54,4 +54,4 @@ Enquanto que:
 
 > *O Arquiteto de Solução têm a responsabilidade especial para serviços e funções de reusabilidade. Eles alinham novas soluções para os princípios arquiteturais definidos em uma organização e as relaciona com foco em integração. Eles equilibram os requisitos funcionais e não-funcionais de acordo com as prioridades da empresa.*
 
-Continua… ![Smiley piscando](http://leandrodaniel.com/pics/wlEmoticon-winkingsmile_3.png)
+Continua… ![Smiley piscando](/assets/pics/wlEmoticon-winkingsmile_3.png)

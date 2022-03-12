@@ -13,7 +13,7 @@ tags:
     - 'Enterprise Library'
 ---
 
-[![DevGuide_PDC_Preview_CSharp_Edition_small](http://leandrodaniel.com/pics/WindowsLiveWriter/EnterpriseLibrary5.0estchegando/260D9FBD/DevGuide_PDC_Preview_CSharp_Edition_small_thumb.png "DevGuide_PDC_Preview_CSharp_Edition_small")](http://leandrodaniel.com/pics/WindowsLiveWriter/EnterpriseLibrary5.0estchegando/3498C1AF/DevGuide_PDC_Preview_CSharp_Edition_small.png)
+[![DevGuide_PDC_Preview_CSharp_Edition_small](/assets/pics/WindowsLiveWriter/EnterpriseLibrary5.0estchegando/260D9FBD/DevGuide_PDC_Preview_CSharp_Edition_small_thumb.png "DevGuide_PDC_Preview_CSharp_Edition_small")](/assets/pics/WindowsLiveWriter/EnterpriseLibrary5.0estchegando/3498C1AF/DevGuide_PDC_Preview_CSharp_Edition_small.png)
 
 O time do [patterns &amp; practices](http://go.microsoft.com/fwlink/?LinkId=150475) responsável pela Enterprise Library está a todo vapor preparando a nova versão. Já é possível baixar um preview do guia [Zen and the Art of Managing Crosscutting Concerns in Enterprise Software Development](http://entlib.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=35832). Outra novidade é que a versão do [Unity 2.0](http://unity.codeplex.com/sourcecontrol/list/changesets?ProjectName=unity) também está a caminho.
 

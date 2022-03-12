@@ -17,7 +17,7 @@ Em Junho de 2007, o [IASA](http://www.iasahome.org) (Global IT Architects Associ
 
 Segundo o [IASA](http://www.iasahome.org), o estudo possibilitou a identificação de 4 funções para um arquiteto, ilustradas na figura a seguir:
 
-![](http://leandrodaniel.com/pics/ArchitectRoles.png)
+![](/assets/pics/ArchitectRoles.png)
 
 ### Arquiteto corporativo
 

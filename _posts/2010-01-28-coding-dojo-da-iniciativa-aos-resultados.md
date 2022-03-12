@@ -13,7 +13,7 @@ tags:
     - 'Coding Dojo'
 ---
 
-[![Ninja](http://leandrodaniel.com/pics/WindowsLiveWriter/CodingDojo/1F603635/Ninja_thumb.jpg "Ninja")](http://leandrodaniel.com/pics/WindowsLiveWriter/CodingDojo/0427DD34/Ninja.jpg)
+[![Ninja](/assets/pics/WindowsLiveWriter/CodingDojo/1F603635/Ninja_thumb.jpg "Ninja")](/assets/pics/WindowsLiveWriter/CodingDojo/0427DD34/Ninja.jpg)
 
 Há tempos eu queria montar um grupo de Coding Dojo e no final do ano passado consegui finalmente estruturar encontros regulares na empresa onde eu trabalho. A aceitação por parte dos desenvolvedores foi imediata, e a idéia fez muito sentido para a alta diretoria, felizmente.
 

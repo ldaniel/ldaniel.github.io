@@ -31,7 +31,7 @@ Para criar um table-value parameter utilize o código abaixo adaptando as coluna
 
 Através da janela *Object Explorer* do *Microsoft SQL Server Management Studio* é possível checar o tipo criado no caminho ilustrado abaixo.
 
- ![tablavalue](http://leandrodaniel.com/pics/WindowsLiveWriter/SQLServer2008parte6HierarchyidDataType_144A7/tablavalue_10f3fb39-0b06-4912-98c6-0527e0bc49ad.gif "tablavalue")
+ ![tablavalue](/assets/pics/WindowsLiveWriter/SQLServer2008parte6HierarchyidDataType_144A7/tablavalue_10f3fb39-0b06-4912-98c6-0527e0bc49ad.gif "tablavalue")
 
 Uma vez definido e criado, podemos usá-lo conforme o exemplo a seguir:
 
