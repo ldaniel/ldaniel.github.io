@@ -1,16 +1,16 @@
 ---
 layout: single
 author_profile: true
-title: 'Códigos fonte para download'
+title: 'Códigos-fonte para download'
 date: '2012-10-24T23:46:25-03:00'
 author: 'Leandro Daniel'
 guid: 'http://localhost:81/?page_id=361'
 permalink: /source-code-for-download/
 ---
 
-## Códigos-fonte para download
+## Links
 
- Faça o download dos códigos fonte utilizados nos exemplos dos artigos das revistas .NET Magazine e Easy .NET Magazine.
+ Faça o download dos códigos-fonte utilizados nos exemplos dos artigos das revistas .NET Magazine e Easy .NET Magazine.
  
  - [Revista .net Magazine Edição 79 (novembro de 2010)](http://www.devmedia.com.br/resumo/default.asp?ed=79&site=1): Integração com redes sociais (parte 3) - [Download da solução de exemplo (0,6 MB) ](/assets/artigos/NetMag.RedesSociais.Integracao.Solution.zip)
 
