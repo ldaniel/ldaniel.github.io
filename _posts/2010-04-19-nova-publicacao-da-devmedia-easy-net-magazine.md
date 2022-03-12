@@ -27,4 +27,4 @@ Nessa edição escrevi sobre o SQL Server 2008. O artigo trata das etapas básic
 
 [![LeitorEasyNetMagazine](/assets/pics/LeitorEasyNetMagazine.jpg "LeitorEasyNetMagazine")](http://www.devmedia.com.br/websys.3/webreader.asp?cat=59&revista=easynetmag_1#a-2425)
 
-A experiência foi muito interessante, é um tipo de texto totalmente diferente do que estou habituado a fazer para a [.net Magazine](http://www.leandrodaniel.com/category/net-Magazine). Se você conhece pessoas que estão iniciando no desenvolvimento de software, vale a pena a indicação desta leitura! Lembrando novamente que é grátis, aproveitem!
+A experiência foi muito interessante, é um tipo de texto totalmente diferente do que estou habituado a fazer para a [.net Magazine](/tags/#net-Magazine). Se você conhece pessoas que estão iniciando no desenvolvimento de software, vale a pena a indicação desta leitura! Lembrando novamente que é grátis, aproveitem!

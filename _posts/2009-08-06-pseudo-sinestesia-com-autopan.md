@@ -20,7 +20,9 @@ O que você acha? Sinestesia é uma coisa legal? Se você disse que sim, proponh
 
 O pequeno player minimalista abaixo é capaz de reproduzir a música (a gravação foi feita de uma vez, sem *overdubs*, tudo improvisado), recomendo ouvir com fones de ouvido, assim o efeito fica mais evidente. Ah, a música tem aproximadamente 7 minutos.
 
-<object data="http://www.leandrodaniel.com/mp3player/musicplayer.swf?&song_url=http://www.leandrodaniel.com/audio/eu vi genesio.mp3&" height="17" type="application/x-shockwave-flash" width="17">![](noflash.gif)</object>
+<audio controls src="/assets/audio/eu vi genesio.mp3">
+  Your browser does not support the audio tag.
+</audio>
 
 (sim, o botão acima é o menor player já construído, tem o que precisa apenas, um **play** e um **stop**, perfeito!)
 

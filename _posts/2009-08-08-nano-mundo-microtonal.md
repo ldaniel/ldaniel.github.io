@@ -28,7 +28,10 @@ Ao que tudo indica, os gregos já faziam som microtonal, seguindo uma escala de 
 
 Nas minhas primeira tentativas de realizar música microtonal, utilizei um software chamado Tonal Plexus e gravei um exemplo com o Audacity, que coloco abaixo:
 
-<object data="http://www.leandrodaniel.com/mp3player/player_mp3.swf" height="20" type="application/x-shockwave-flash" width="200"><param name="movie" value="http://www.leandrodaniel.com/mp3player/player_mp3.swf"></param><param name="FlashVars" value="mp3=http://www.leandrodaniel.com/audio/TonalPlexus_Teste01.mp3&bgcolor1=ffffff&bgcolor2=cccccc&buttoncolor=999999&buttonovercolor=0&slidercolor1=cccccc&slidercolor2=999999&sliderovercolor=666666&textcolor=0"></param></object>
+<audio controls src="/assets/audio/TonalPlexus_Teste01.mp3">
+  Your browser does not support the audio tag.
+</audio>
+
 
 O que está acontecendo no exemplo acima, é que ao invés de utilizar um piano onde, para uma oitava completa, utilizamos 12 teclas (entre tons e semitons) utilizei um sintetizador que completa uma oitava utilizando 211 microtons. Abaixo tem uma imagem do sintetizador.
 

@@ -23,7 +23,9 @@ Imagine criar uma música utilizando *delay,* aquele efeito de eco, tipo:
 
 O resultado você confere abaixo no player sintético:
 
-<object data="http://www.leandrodaniel.com/mp3player/player_mp3.swf" height="20" type="application/x-shockwave-flash" width="200"><param name="movie" value="http://www.leandrodaniel.com/mp3player/player_mp3.swf"></param><param name="FlashVars" value="mp3=http://www.leandrodaniel.com/audio/DelayExp01.mp3&bgcolor1=ffffff&bgcolor2=cccccc&buttoncolor=999999&buttonovercolor=0&slidercolor1=cccccc&slidercolor2=999999&sliderovercolor=666666&textcolor=0"></param></object>
+<audio controls src="/assets/audio/DelayExp01.mp3">
+  Your browser does not support the audio tag.
+</audio>
 
 Olha, o que posso dizer sobre esse tipo de processo, lembrando que não sou nenhum teórico e aprendi tudo como autodidata, é que em alguns momentos devemos simplesmente pensar no som. Sim, ao invés de ficar calculando e equacionando tudo basta pensar na música que ela sai, porque pensar é um fazer. Acredite. Quer uma prova?
 
