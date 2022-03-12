@@ -39,3 +39,7 @@ Although I do not consider so important, I have some certifications.
   <img src="http://leandrodaniel.com/wp-content/uploads/2014/06/PRINCE2-Foundation-Training.jpg" alt="PRINCE2" title="PRINCE2" />      
 </div>
 
+## disclaimer
+The opinions expressed on this site do not necessarily express the views of the author's employers and/or clients.
+
+The author of this site is not responsible for comments posted here and may remove those he considers inappropriate in any respect.

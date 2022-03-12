@@ -18,7 +18,8 @@ about:
         url: "/about/#hi-im-leandro-daniel"
       - title: "certifications"
         url: "/about/#i-have-this-certifications"
-
+      - title: "disclaimer"
+        url: "/about/#disclaimer"
 
 # sidebar menu links
 posts:
