@@ -1,5 +1,6 @@
 ---
-id: 361
+layout: single
+author_profile: true
 title: 'Códigos fonte para download'
 date: '2012-10-24T23:46:25-03:00'
 author: 'Leandro Daniel'
