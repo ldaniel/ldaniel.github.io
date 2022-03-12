@@ -14,7 +14,7 @@ tags:
     - Scrum
 ---
 
-Em fevereiro coloquei um [post](http://www.leandrodaniel.com//post/Quer-contribuir-com-a-Enterprise-Library-5) aqui no Reverb comentando sobre o convite realizado por um dos coordenadores do projeto Enterprise Library para que a comunidade opinasse sobre as melhorias para a próxima versão. Bem, agora é possível contribuir na [priorização dos itens do product backlog](http://blogs.msdn.com/jmeier/archive/2009/03/28/enterprise-library-5-0-product-backlog-prioritization-survey) respondendo uma [pesquisa](http://www.zoomerang.com/Survey/survey-intro.zgi?p=WEB228YZEBVGGB) que possui mais de 100 *stories* sendo que você pode sugerir mais 3.
+Em fevereiro coloquei um [post](/quer-contribuir-com-a-enterprise-library-5) aqui no Reverb comentando sobre o convite realizado por um dos coordenadores do projeto Enterprise Library para que a comunidade opinasse sobre as melhorias para a próxima versão. Bem, agora é possível contribuir na [priorização dos itens do product backlog](http://blogs.msdn.com/jmeier/archive/2009/03/28/enterprise-library-5-0-product-backlog-prioritization-survey) respondendo uma [pesquisa](http://www.zoomerang.com/Survey/survey-intro.zgi?p=WEB228YZEBVGGB) que possui mais de 100 *stories* sendo que você pode sugerir mais 3.
 
 Opa! **Product backlog**? **Stories**? A comunidade **priorizando**, como um “**Product Owner**”, por assim dizer?
 

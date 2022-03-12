@@ -21,16 +21,16 @@ A Enterprise Library oferece uma biblioteca para utilização de mecanismos de c
 
 A partir daí adicionamos o *namespace* indicado abaixo na classe que utilizará o ***Caching***:
 
-```
-<pre class="brush: csharp;">...
+```csharp
+...
 using Microsoft.Practices.EnterpriseLibrary.Caching;
 ... 
 ```
 
 Se quiséssemos, por exemplo, recuperar imagens de produtos gravadas no banco de dados, utilizaríamos o seguinte código:
 
-```
-<pre class="brush: csharp;">...
+```csharp
+...
 
 byte[] fotoProduto = null;
 ICacheManager cache = CacheFactory.GetCacheManager();
@@ -51,7 +51,7 @@ Repare que nas linhas 4 e 5 o cache é criado e a variável **fotoProduto** rece
 
 O arquivo de configuração da aplicação deve ser alterado adicionando-se as tags a seguir:
 
-```
+```xml
 <pre class="brush: xml;"><?xml version="1.0" encoding="utf-8"?>
 <configuration>
   <configSections>

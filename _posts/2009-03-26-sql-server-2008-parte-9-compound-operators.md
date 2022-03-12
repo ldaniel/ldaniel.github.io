@@ -15,8 +15,8 @@ tags:
 
 Essa é uma melhoria do T-SQL, operadores compostos servem para executar uma operação sobre um dado valor, por exemplo:
 
-```
-<pre class="brush: sql;">DECLARE @Medida FLOAT = 27;
+```sql
+DECLARE @Medida FLOAT = 27;
 SET @x1 *= 0.567;
 SELECT @Medida AS Fator;
 ```

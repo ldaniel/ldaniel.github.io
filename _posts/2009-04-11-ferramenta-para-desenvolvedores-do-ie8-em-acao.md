@@ -13,7 +13,7 @@ tags:
     - Dicas
 ---
 
-No meu post sobre [Filtered Indexes do SQL Server 2008](http://www.leandrodaniel.com/post/SQL-Server-2008-(parte-7)-e28093-Filtered-Indexes) o Ricardo [fez um comentário](http://www.leandrodaniel.com/post/SQL-Server-2008-(parte-7)-e28093-Filtered-Indexes.aspx#id_d54c0398-127f-4df0-93e9-7e4a4aad861e) sobre um bug no sistema de avaliação do blog que ocorria no IE8. Bem, já que o problema estava no IE8, nada mais justo que utilizar a ferramenta para desenvolvedores disponível (pressione F12 no IE8 para acessar) para verificar o que ocorria.
+No meu post sobre [Filtered Indexes do SQL Server 2008](/tags/#sql-server) o Ricardo [fez um comentário](http://www.leandrodaniel.com/post/SQL-Server-2008-(parte-7)-e28093-Filtered-Indexes.aspx#id_d54c0398-127f-4df0-93e9-7e4a4aad861e) sobre um bug no sistema de avaliação do blog que ocorria no IE8. Bem, já que o problema estava no IE8, nada mais justo que utilizar a ferramenta para desenvolvedores disponível (pressione F12 no IE8 para acessar) para verificar o que ocorria.
 
 Minha primeira suspeita era o CSS, então fiz alguns testes utilizando a guia CSS da ferramenta e logo encontrei o problema. Uma classe continha o valor “inline” definido para a propriedade *display* e isso gerava um problema na renderização no IE8. Alterei o valor da propriedade para “inline-block” e o problema, aparentemente, foi resolvido. Veja abaixo a ferramenta em ação.
 

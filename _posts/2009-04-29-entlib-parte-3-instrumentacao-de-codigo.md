@@ -43,8 +43,8 @@ Por último será necessário adicionarmos no arquivo de configuração do proje
 
 Utilizando a janela **Properties** do Visual Studio é possível configurar as propriedades do bloco, para o exemplo deste post eu alterei as propriedades ***PerformanceCountersEnabled, **WmiEnable***** e ***EventLoggingEnabled*** para ***True***. Abaixo temos um exemplo de como devemos implementar um *listener* para monitoramento de chamadas de conexão com o banco de dados.
 
-```
-<pre class="brush: csharp;">public class MyListener
+```csharp
+public class MyListener
 {
     public MyListener(string instanceName, bool a, bool b, bool c) { }
 

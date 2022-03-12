@@ -20,8 +20,8 @@ Essa é rápida, em dois passos:
 
 O arquivo terá os seus valores criptografados para o bloco escolhido, parecido com o exemplo abaixo:
 
-```
-<pre class="brush: xml;"><configuration>
+```xml
+<configuration>
   <configSections>
     <section name="dataConfiguration" type="Microsoft.Practices.EnterpriseLibrary.Data.Configuration.DatabaseSettings, Microsoft.Practices.EnterpriseLibrary.Data, Version=4.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
   </configSections>
