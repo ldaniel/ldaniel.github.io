@@ -25,7 +25,7 @@ Dentre os avanços presentes no .NET Framework 4.0, sem dúvida, um dos mais sig
 
 Neste artigo você verá como isso foi adicionado ao LINQ com a criação de uma nova arquitetura que possibilita obtermos ganhos com computação paralela de forma simples, eficiente e com real escalabilidade, chamada PLINQ.
 
-O artigo ficou bem legal, e o código-fonte do exemplo executado pode ser [baixado aqui](http://www.leandrodaniel.com//page/artigos). Se você quiser enviar alguma dúvida sobre o artigo, fique a vontade para [entrar em contato comigo](/contact/). Nesta edição você também encontrará outros artigos bem bacanas.
+O artigo ficou bem legal, e o código-fonte do exemplo executado pode ser [baixado aqui](/categories/#articles). Se você quiser enviar alguma dúvida sobre o artigo, fique a vontade para [entrar em contato comigo](/contact/). Nesta edição você também encontrará outros artigos bem bacanas.
 
 Esse artigo significou muito pra mim, pessoal e profissionalmente falando. Parte, em função do momento pessoal em que foi escrito, o restante pelo estímulo profissional deste reconhecimento.
 
