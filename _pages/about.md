@@ -9,7 +9,7 @@ sidebar:
 
 ## hi, I'm Leandro Daniel
 
-I’m a systems architect, software developer, technical author of articles and speaker in IT events. I’m also an amateur guitar player and podcaster at [Void Podcast](http://voidpodcast.com/). I love my family so much: my wife, my beautiful son and our playful dog. I consider myself a versatile professional with a large IT background and 15 years of work experience performing different tasks and jobs in software development and architecture. Since 1998 I have been involved with Software Development as a developer, technical leader and architect.
+I’m a systems architect, software developer, technical author of articles and speaker in IT events. I’m also an amateur guitar player and podcaster at [Void Podcast](http://voidpodcast.com/). I love my family so much: my wife, my beautiful son and our playful dog. I consider myself a versatile professional with a large IT background and over 20 years of work experience performing different tasks and jobs in software development and architecture. Since 1998 I have been involved with Software Development as a developer, technical leader and architect.
 
 I’ve worked for 8 years at [Emphasys IT Solutions](http://www.emphasys.com.br) as a software developer consultant; helping a significant number of enterprises to deliver their IT software projects with high quality. During this experience, I’ve also coordinated all the teams of developers and managed a Developement and Testing squads, responsible for all developed projects.
 
