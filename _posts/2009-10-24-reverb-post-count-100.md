@@ -19,16 +19,16 @@ Esse é o centésimo post do Reverb, o que pra mim é uma marca muito significat
 
 Muitos foram os assuntos tratados, durante os meses de fevereiro e março apresentei aqui no Reverb uma série de posts sobre o [SQL Server 2008](/tags/#sql+server), tratei sobre algumas novidades significativas, em especial para os desenvolvedores.
 
-[SQL Server 2008 (parte 1) – Programmability Enhancements](http://www.leandrodaniel.com//post/SQL-Server-2008-Programmability-Enhancements-(parte-1))   
-[SQL Server 2008 (parte 2) – Programmability Enhancements](http://www.leandrodaniel.com//post/SQL-Server-2008-Programmability-Enhancements-(parte-2))   
-[SQL Server 2008 (parte 3) – Security Enhancements](http://www.leandrodaniel.com//post/SQL-Server-2008-Programmability-Enhancements-(parte-3))   
-[SQL Server 2008 (parte 4) – Datetime Data Type Enhancements](http://www.leandrodaniel.com//post/SQL-Server-2008-(parte-4)-Datetime-Data-Type-Enhancements)   
-[SQL Server 2008 (parte 5) – Hierarchyid Data Type](http://www.leandrodaniel.com//post/SQL-Server-2008-(parte-5)-Hierarchyid-Data-Type)   
-[SQL Server 2008 (parte 6) – Table-Valued Parameters](http://www.leandrodaniel.com//post/SQL-Server-2008-(parte-6)-e28093-Table-Valued-Parameters)   
-[SQL Server 2008 (parte 7) – Filtered Indexes](http://www.leandrodaniel.com//post/SQL-Server-2008-(parte-7)-e28093-Filtered-Indexes)   
-[SQL Server 2008 (parte 8) – Sparce Columns](http://www.leandrodaniel.com//post/SQL-Server-2008-(parte-8)-e28093-Sparce-Columns)   
-[SQL Server 2008 (parte 9) – Compound Operators](http://www.leandrodaniel.com//post/SQL-Server-2008-(parte-9)-e28093-Compound-Operators)   
-[SQL Server 2008 (parte 10) – Report Builder 2.0](http://www.leandrodaniel.com//post/SQL-Server-2008-(parte-10)-e28093-Report-Builder-20)
+[SQL Server 2008 (parte 1) – Programmability Enhancements](/SQL-Server-2008-Programmability-Enhancements-(parte-1))   
+[SQL Server 2008 (parte 2) – Programmability Enhancements](/SQL-Server-2008-Programmability-Enhancements-(parte-2))   
+[SQL Server 2008 (parte 3) – Security Enhancements](/SQL-Server-2008-Programmability-Enhancements-(parte-3))   
+[SQL Server 2008 (parte 4) – Datetime Data Type Enhancements](/SQL-Server-2008-(parte-4)-Datetime-Data-Type-Enhancements)   
+[SQL Server 2008 (parte 5) – Hierarchyid Data Type](/SQL-Server-2008-(parte-5)-Hierarchyid-Data-Type)   
+[SQL Server 2008 (parte 6) – Table-Valued Parameters](/SQL-Server-2008-(parte-6)-e28093-Table-Valued-Parameters)   
+[SQL Server 2008 (parte 7) – Filtered Indexes](/SQL-Server-2008-(parte-7)-e28093-Filtered-Indexes)   
+[SQL Server 2008 (parte 8) – Sparce Columns](/SQL-Server-2008-(parte-8)-e28093-Sparce-Columns)   
+[SQL Server 2008 (parte 9) – Compound Operators](/SQL-Server-2008-(parte-9)-e28093-Compound-Operators)   
+[SQL Server 2008 (parte 10) – Report Builder 2.0](/SQL-Server-2008-(parte-10)-e28093-Report-Builder-20)
 
 Em abril e maio foi a vez de série tratando sobre [Enterprise Library](http://www.leandrodaniel.com/?tag=/enterprise+library) com foco no [Unity](http://www.leandrodaniel.com/?tag=/inje%c3%a7%c3%a3o+de+depend%c3%aancia).
 
