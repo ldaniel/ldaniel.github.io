@@ -1,0 +1,11 @@
+id: 97
+name: Fujiy
+email: felipepessoto@gmail.com
+avatar: https://www.gravatar.com/avatar/0573ba4dc7d71df538384ef42a222e62?r=pg&d=retro
+url: http://blog.fujiy.net/
+date: 2010-06-03 19:13:58
+message: "Uma alternativa ainda mais interessante(e trabalhosa) &#233; retornar uma interface diferente pra cada m&#233;todo. Assim fica mais f&#225;cil pro usu&#225;rio que as vezes fica em duvida da ordem certa a se chamar.
+
+Por exemplo: new Vendedora().ValendoAte(new DateTime(2010, 7, 1)).ComDescontoDe(15).Oferecer(Produto.Fogao)
+
+Com uma interface pra cada m&#233;todo isso n&#227;o &#233; poss&#237;vel."

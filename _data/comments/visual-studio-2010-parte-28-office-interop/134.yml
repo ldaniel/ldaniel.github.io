@@ -1,0 +1,13 @@
+id: 134
+name: ldaniel
+email: contato@leandrodaniel.com
+avatar: https://www.gravatar.com/avatar/9d721e9236903d1d7e05b3281a400af3?r=pg&d=retro
+url: http://reverb.leandrodaniel.com/
+date: 2010-03-24 12:05:08
+message: "Ol&#225; Paulo,
+
+N&#227;o sei exatamente que tipo de problema voc&#234; est&#225; enfrentando, por isso, o que recomendo &#233; voc&#234; repensar (caso seja poss&#237;vel) a utiliza&#231;&#227;o do GridView. Os m&#233;todos para exporta&#231;&#227;o direta s&#227;o manuais. Dependendo de como foi passado o datasource vale mais a pena fazer isso por ele. Vai depender muito do caso.
+
+Abra&#231;os,
+
+Leandro Daniel"

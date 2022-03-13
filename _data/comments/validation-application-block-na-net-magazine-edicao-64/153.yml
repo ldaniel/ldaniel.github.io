@@ -1,0 +1,9 @@
+id: 153
+name: Rodrigo Gonzaga
+email: rrgonzaga@gmail.com
+avatar: https://www.gravatar.com/avatar/fafdbb0d2aae11f90c5dab8b1b594f38?r=pg&d=retro
+date: 2009-11-02 17:41:30
+message: "Ol&#225; Leandro Daniel,
+
+Parab&#233;ns pelo artigo &quot;Boas Pr&#225;ticas na Constru&#231;&#227;o de Valida&#231;&#245;es - Parte1&quot;. Fiquei muito interessado no artigo principalmente com o enfoque para windows form. Ent&#227;o, a parada &#233; o seguinte. A valida&#231;&#227;o via Attributes na classe de neg&#243;cios foi bem tranquilo. Agora, estou tentando fazer funcionar tamb&#233;m atrav&#233;s do arquivo app.config e &#233; a&#237; que t&#225; o problema. N&#227;o funciona nem a porrada! D&#225; um erro com a seguinte mensagem &quot;The source type does not represent a valid type for validation provider.&quot; 
+Fiz exatamente as orienta&#231;&#245;es do artigo e n&#227;o deu certo. Estou utizando VS 2005 e Enterprise Library 3.1"

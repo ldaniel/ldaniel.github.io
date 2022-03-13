@@ -1,0 +1,21 @@
+id: 183
+name: ldaniel
+email: contato@leandrodaniel.com
+avatar: https://www.gravatar.com/avatar/9d721e9236903d1d7e05b3281a400af3?r=pg&d=retro
+url: http://reverb.leandrodaniel.com/
+date: 2009-03-02 12:13:13
+message: "Fala Giovanni,
+
+Apesar do campo [b]Lider[/b] definir a hierarquia, o campo [b]ReportaPara[/b] poderia ser usado para criar uma ordena&#231;&#227;o de amplitude atrav&#233;s de um &#237;ndice, j&#225; que no exemplo a id&#233;ia seria manter os registros correlatos pr&#243;ximos na hierarquia.
+
+O c&#243;digo para cria&#231;&#227;o do &#237;ndice ficaria mais ou menos assim:
+
+[b]CREATE CLUSTERED INDEX CadeiaHierarquica 
+ON Equipe(ReportaPara, ColaboradorId);
+GO[/b]
+
+A s&#233;rie de posts sobre o SQL Server 2008 tem o objetivo de dar um caminho introdut&#243;rio, mas penso em tratar alguns dos assuntos em detalhes posteriormente.
+
+Abra&#231;os!
+
+Leandro Daniel"

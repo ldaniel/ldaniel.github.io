@@ -1,0 +1,8 @@
+id: 164691
+name: Alexandre
+email: xande_colombo@yahoo.com.br
+avatar: https://www.gravatar.com/avatar/cf4d0524fb0aa3dcddbf7e5ddbed2d19?r=pg&d=retro
+date: 2018-03-26 09:38:13
+message: "Na classe Microsoft.Practices.ServiceLocation, se o acoplamento eferente é Zero, de acordo com o grafico de dependencia, como que a Instabilidade é 0,7826?
+
+Não consegui aplicar I = Ce / (Ce + Ca) e obter os mesmos resultados com base no grafico."

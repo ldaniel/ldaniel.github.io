@@ -1,0 +1,11 @@
+id: 25
+name: Gabriel Moreira
+email: gabrielspmoreira@yahoo.com.br
+avatar: https://www.gravatar.com/avatar/924608901db71bea4a4afd636aacda52?r=pg&d=retro
+date: 2012-03-05 11:33:05
+message: "Excelente post sobre m&#233;tricas Leandro, bastante claro e objetivo.
+Minha disserta&#231;&#227;o de mestrado foi sobre a utiliza&#231;&#227;o de m&#233;tricas de c&#243;digo e design para predi&#231;&#227;o de defeitos. Pude observar que m&#233;tricas de tamanho, complexidade e acoplamento de uma classe apresentam forte correla&#231;&#227;o com o n&#250;mero de defeitos detectados na mesma. Percebe-se ent&#227;o um grande potencial da utiliza&#231;&#227;o destas m&#233;tricas para identificar classes mais propensas a defeitos, permitindo direcionar atividades de qualidade como inspe&#231;&#227;o, testes e refatora&#231;&#227;o nos pontos mais necess&#225;rios. Isso &#233; otimizar esfor&#231;o humano, &#233; agile!
+Mais informa&#231;&#245;es sobre isso no meu blog: 
+https//workingsweng.wordpress.com/
+
+Abs!"
