@@ -19,3 +19,5 @@ Convido-o a participar deste espaço onde abordarei temas variados: arquitetura,
 
   
 Obrigado pela visita, seja bem-vindo(a)!
+
+{% include comments.html %}
