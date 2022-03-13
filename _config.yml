@@ -63,6 +63,9 @@ algolia:
 # languages: ["en", "pt"] 
 # permalink: /:categories/:year/:month/:day/:title/
 
+# used for exported comments from WordPress, so sort function can work due to a couple of restrictions in Jekyll
+emptyArray: []
+
 # SEO Related
 google_site_verification :
 bing_site_verification   :
