@@ -20,8 +20,11 @@
     {% include_cached masthead.html %}
 
     <div class="initial-content">
-      {{ content }}
-      {% include comments.html %}
+      {{ content }}      
+    </div>
+
+    <div class="post {{ page.class }}">
+        {% include comments.html %}
     </div>
 
     {% if site.search == true %}
