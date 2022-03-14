@@ -129,7 +129,7 @@ Note que no código acima não definimos em momento algum qual seria a implement
 Se quiséssemos agora alterar a implementação de classe concreta que resolveria o log bastaria modificar no arquivo de configuração, como no exemplo a seguir:
 
 ```xml
-<pre class="brush: xml;"><containers>
+<containers>
     <container>
         <types>
             <type type="ILogger" mapTo="ConsoleLogger" />

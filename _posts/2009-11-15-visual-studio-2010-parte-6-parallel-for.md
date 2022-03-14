@@ -15,8 +15,8 @@ tags:
 
 O C# 4.0, presente no Visual Studio 2010, introduz um recurso para processamento paralelo, aproveitando de fato o poder dos novos processadores com 2 ou mais núcleos. Esse recurso é chamado de *Task Parallel Library* (TPL), disponível no *namespace* ***System.Threading.Tasks***. Vejamos a seguir um exemplo muito simples, adaptado de um vídeo apresentado por Danny Shih.
 
-```
-<pre class="brush: csharp;">using System;
+```csharp
+using System;
 using System.Diagnostics;
 using System.Threading.Tasks;
 

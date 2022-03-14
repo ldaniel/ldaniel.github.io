@@ -17,8 +17,8 @@ No meu [último post da série sobre a Enterprise Library](/tags/#enterprise-lib
 
 Dentro do arquivo de configuração, adicione dentro da sessão ***typeAliases*** os tipos descritos abaixo:
 
-```
-<pre class="brush: xml;"><typeAliases>
+```xml
+<typeAliases>
  
     ...
 
@@ -36,8 +36,8 @@ Dentro do arquivo de configuração, adicione dentro da sessão ***typeAliases**
 
 Em seguida adicione um novo container dentro da sessão ***Containers***, conforme descrito abaixo:
 
-```
-<pre class="brush: xml;"><container name="InterfaceInterceptionContainer">
+```xml
+<container name="InterfaceInterceptionContainer">
     <extensions>
         <add type="Microsoft.Practices.Unity.InterceptionExtension.Interception, Microsoft.Practices.Unity.Interception" />
     </extensions>
@@ -59,8 +59,8 @@ Em seguida adicione um novo container dentro da sessão ***Containers***, confor
 
 Por fim o construtor da classe ***Servico*** deve ser alterado da seguinte forma:
 
-```
-<pre class="brush: csharp;">public Servico()
+```csharp
+public Servico()
 {
     container = new UnityContainer(); 
     section = (UnityConfigurationSection)ConfigurationManager.GetSection("unity");

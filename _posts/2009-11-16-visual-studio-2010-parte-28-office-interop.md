@@ -15,8 +15,8 @@ tags:
 
 O exemplo abaixo ilustra como o C# 4.0 trabalha interoperabilidade – palavrinha difícil de falar numa palestra…:) – aproveitando dos novos recursos de parâmetros opcionais e nomeados, dentre outros recursos, para criar uma aplicação C# application que conversa com o Microsoft Office.
 
-```
-<pre class="brush: csharp;">using System;
+```csharp
+using System;
 using System.Collections.Generic;
 
 using Excel = Microsoft.Office.Interop.Excel;
@@ -88,8 +88,8 @@ Notem que na linha 43 foi utilizado o recurso de ***named and optional parameter
 
 Tradicionalmente, você teria que usar o seguinte código para setar uma propriedade de uma celula:
 
-```
-<pre class="brush: csharp;">((Excel.Range)excel.Cells[1, 1]).Value2 = "ID";
+```csharp
+((Excel.Range)excel.Cells[1, 1]).Value2 = "ID";
 ```
 
 Observe na linha 53 que utilizando o novo recurso dinâmico do C# 4.0 a declaração fica bem mais elegante e enxuta. Bacana, não?

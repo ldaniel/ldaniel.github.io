@@ -30,8 +30,8 @@ A nova versão do SQL Server trouxe novos tipos de dados para facilitar e otimiz
 
 Vejamos agora a criação de uma tabela de exemplo com os novos *data types*, faremos a inserção de um registro para observarmos o resultado final.
 
-```
-<pre class="brush: sql;">CREATE TABLE [dbo].[ExemploDataType]
+```sql
+CREATE TABLE [dbo].[ExemploDataType]
 (
 	[ExemploId] [int] IDENTITY(1,1) NOT NULL PRIMARY KEY,
 	[DataTipo1] [smalldatetime] NULL,
