@@ -19,8 +19,8 @@ Abaixo coloquei um exemplo simples de como podemos criar um *client* *JavaScript
 
 O código abaixo mostra como devemos escrever nossa interface de serviço.
 
-```
-<pre class="brush: csharp;">using System.ServiceModel;
+```csharp
+using System.ServiceModel;
 using System.ServiceModel.Web;
 
 namespace WCFTestes
@@ -41,8 +41,8 @@ O detalhe importante no código acima é decorar o método **Ping** com o atribu
 
 Em seguida, vemos como devemos decorar o nosso método (linha 6) para que possamos compatibilizar o serviço com o *client* JavaScript.
 
-```
-<pre class="brush: csharp;">using System.ServiceModel;
+```csharp
+using System.ServiceModel;
 using System.ServiceModel.Activation;
 
 namespace WCFTestes
@@ -61,8 +61,8 @@ namespace WCFTestes
 
 Por fim, devemos criar um *behavior* no ***web.config*** indicando o atributo **enableWebScript**, conforme a linha 13, e devemos associar o *behavior* criado ao *endpoint* (linha 6).
 
-```
-<pre class="brush: xml;"><system.serviceModel>
+```xml
+<system.serviceModel>
     <serviceHostingEnvironment aspNetCompatibilityEnabled="true"/>
     <services>
         <service name="WCFTestes.Servicos" 
@@ -92,8 +92,8 @@ Os detalhes acima descritos são importantes para que o serviço WCF consiga ger
 
 Para utilizar a biblioteca **ServiceProxy.js** você deve fazer como no exemplo abaixo. Na linha 2 criamos o *proxy* passando como parâmetro o endereço do nosso serviço WCF. Da linha 5 a 10 invocamos o serviço passando como primeiro parâmetro o nome do WebMethod, em seguida passamos os parâmetros do WebMethod. Em seguida, manipulamos o resultado, exibindo o resultado em um *alert*.
 
-```
-<pre class="brush: js;"><script language="javascript">
+```js
+<script language="javascript">
     var proxy = new ServiceProxy("http://localhost:50564/Servicos.svc/");
     
     function InvokeWCF() {

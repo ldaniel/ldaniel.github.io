@@ -52,7 +52,7 @@ Repare que nas linhas 4 e 5 o cache é criado e a variável **fotoProduto** rece
 O arquivo de configuração da aplicação deve ser alterado adicionando-se as tags a seguir:
 
 ```xml
-<pre class="brush: xml;"><?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <configuration>
   <configSections>
 

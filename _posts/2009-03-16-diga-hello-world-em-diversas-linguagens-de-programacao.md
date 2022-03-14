@@ -21,8 +21,8 @@ O *brainfuck* possui apenas 8 comandos, sendo eles:
 
 É isso mesmo, esses são os únicos comandos existentes na linguagem, o código abaixo ilustra a sintaxe necessária para codificar o famoso *“Hello world!”*:
 
-```
-<pre class="brush: csharp;">++++++++++[>++++++++>+++++++++++
+```csharp
+++++++++++[>++++++++>+++++++++++
 >---------->+++>++++++++>+++++++
 +++++>+++++++++++>++++++++++>+++
 ++++++++>+++<<<<<<<<<<-]>-.>--.>

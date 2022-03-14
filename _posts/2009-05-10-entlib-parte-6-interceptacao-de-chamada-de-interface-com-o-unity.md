@@ -20,8 +20,8 @@ O Unity Application Block, além de resolver problemas de alto acoplamento tamb�
 
 Vamos pegar o mesmo exemplo utilizado no meu [post anterior da série](/EntLib-(parte-5)-e28093-Unity-Application-Block), e modifica-lo para vermos como podemos usar uma interceptação para a interface ***ILogger***. Tomaremos o resultado final da classe ***Servico*** e faremos a alteração no seu construtor, indicada nas linhas **20** a **28**. Basicamente, dizemos ao container que toda vez que o mapeamento da interface ***ILogger*** for para a classe concreta ***ConsoleLogger*** interceptaremos as chamadas para essa interface (InterfaceInterceptor), aplicando alguma nova característica. Repare que na linha **4** adicionamos o *namespace* que contém a extensão de interceptação do Unity.
 
-```
-<pre class="brush: csharp;">using System.Configuration;
+```csharp
+using System.Configuration;
 using Microsoft.Practices.Unity;
 using Microsoft.Practices.Unity.Configuration;
 using Microsoft.Practices.Unity.InterceptionExtension;
@@ -78,8 +78,8 @@ namespace Reverb.InterceptionSample
 
 Adicionaremos uma nova classe que manipulará a chamada interceptada pelo Unity adicionando um GUID para cada evento, exatamente como o código a seguir:
 
-```
-<pre class="brush: csharp;">using System;
+```csharp
+using System;
 using Microsoft.Practices.Unity;
 using Microsoft.Practices.Unity.InterceptionExtension;
 
@@ -112,8 +112,8 @@ namespace Reverb.Handlers
 
 Por fim, decoraremos a interface ***ILogger*** com o atributo criado no código anterior:
 
-```
-<pre class="brush: csharp;">using System.Diagnostics;
+```csharp
+using System.Diagnostics;
 using Reverb.Handlers;
 
 namespace Reverb.Loggers

@@ -36,8 +36,8 @@ Alguns passos são necessários para utilizarmos do TDE são eles:
 
 Abaixo segue um exemplo de código do MSDN:
 
-```
-<pre class="brush: sql;">USE master;
+```sql
+USE master;
 GO
 
 CREATE MASTER KEY ENCRYPTION BY PASSWORD = '<usestrongpasswordhere>';

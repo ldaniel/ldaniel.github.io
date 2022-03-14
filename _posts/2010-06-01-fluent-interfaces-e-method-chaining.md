@@ -19,8 +19,8 @@ Em C#, a base para construção de *Fluent Interfaces* é o suporte oferecido pe
 
 Abaixo vemos um exemplo de utilização de código com *Fluent Interfaces*. Observe que da linha 10 a 13 a leitura do código fica muito simplificada, pois codificamos da mesma forma que encadeamos as ações a serem feitas. Ou seja, o código além de semântico é fluente.
 
-```
-<pre class="brush: csharp;">using System;
+```csharp
+using System;
 
 namespace Estudo.FluentInterface.App
 {
@@ -48,8 +48,8 @@ O que vemos no código acima é um encadeamento de métodos da classe **Vendedor
 
 O código abaixo mostra como foi criada a interface utilizada pela classe **Vendedora**. Note que ao criarmos os métodos “Oferecer”, “ComDescontoDe” e “ValendoAte” como sendo do tipo **IFluentConversa** estamos criando o encadeamento dos métodos, por inferência de tipos.
 
-```
-<pre class="brush: csharp;">using System;
+```csharp
+using System;
 
 namespace Estudo.FluentInterface
 {
@@ -68,8 +68,8 @@ namespace Estudo.FluentInterface
    
 A seguir, temos a enumeração de produtos existentes.
 
-```
-<pre class="brush: csharp;">namespace Estudo.FluentInterface
+```csharp
+namespace Estudo.FluentInterface
 {
     public enum Produto
     {
@@ -84,8 +84,8 @@ A seguir, temos a enumeração de produtos existentes.
    
 Abaixo vemos como fica a implementação da classe **Vendedora**. Apenas para tornar o exemplo um pouquinho mais interessante, o método **Falar** utiliza o a classe **SpeechSynthesizer** (disponível no Windows 7) que permite informarmos um texto para o sintetizador de voz do Windows para que o mesmo seja narrado por uma mulher (“Microsoft Anna”).
 
-```
-<pre class="brush: csharp;">using System;
+```csharp
+using System;
 using System.Text;
 using System.Speech.Synthesis;
 
