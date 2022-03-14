@@ -9,7 +9,7 @@
 {% if comment_count > 0 %}
   {% assign author = site.authors[page.author] %}
 <div id="comments">
-  <h3>{% if comment_count == 1 %}One reaction to this post{% else %}{{ comment_count }} reactions to this post{% endif %}</h3>
+  <h3>{% if comment_count == 1 %}One reaction to this post (archive){% else %}{{ comment_count }} reactions to this post (archive){% endif %}</h3>
   <ol>
   {% assign sorted_comments = comments | sort: 'date' %}
   {% for comment in sorted_comments %}
