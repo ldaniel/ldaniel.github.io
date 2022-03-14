@@ -27,8 +27,8 @@ Algumas outras novidades do ASP.NET 4:
 - Trabalha sem *ViewState*
 - Suporta *persisted selection*
 
-```
-<pre class="brush: xml;"><asp:GridView id="GridView2" runat="server" EnablePersistedSelection="true"> 
+```xml
+<asp:GridView id="GridView2" runat="server" EnablePersistedSelection="true"> 
 </asp:GridView> 
 ```
 

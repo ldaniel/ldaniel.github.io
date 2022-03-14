@@ -24,8 +24,8 @@ O novo Microsoft AJAX Library para o Framework 4.0 inclui um *client-loader scri
 
 Abaixo vemos um exemplo de carregamento de uma marca d’água:
 
-```
-<pre class="brush: xml;"><script src="../Scripts/MicrosoftAjax/start.js"  type="text/javascript"></script>
+```xml
+<script src="../Scripts/MicrosoftAjax/start.js"  type="text/javascript"></script>
 <script src="../Scripts/ACT/ACTRegisterExtended.js" type="text/javascript"></script>
  
 <script type="text/javascript">
