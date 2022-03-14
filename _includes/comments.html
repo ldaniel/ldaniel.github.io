@@ -1,5 +1,5 @@
 {% capture default_slug %}{{ page.title | slugify }}{% endcapture %}
-{% capture slug %}{{ page.slug | downcase | replace: '.', '-' | replace: '_' : '-' }}{% endcapture %}
+{% capture slug %}{{ page.slug | downcase | replace: '.' : '-' | replace: '_' : '-' }}{% endcapture %}
 {% assign comments_map = site.data.comments[slug] %}
 {% assign comments = site.emptyArray %}
 {% for comment in comments_map %}
