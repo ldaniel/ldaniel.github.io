@@ -15,8 +15,8 @@ tags:
 
 Talvez uma das novidades mais comentadas do novo C# seja o dinamismo acrescido à linguagem. Capaz de expor membros de classe (tais como propriedades ou métodos) em “*run time”* ao invés de “*compile time”*. Mas como isso funciona na prática? Vejamos o exemplo a seguir:
 
-```
-<pre class="brush: csharp;">using System;
+```csharp
+using System;
 using System.Dynamic;
 
 namespace VS2010.Console

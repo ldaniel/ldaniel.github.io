@@ -17,8 +17,8 @@ Um dos problemas combatidos pela utilização de boas práticas de desenvolvimen
 
 Quer ver um exemplo simples? O **IF**: essa natural instrução condicional, duas letrinhas, “I” e “F”, simples assim (desculpem o tom sarcástico, mas assim é mais engraçado). Aparentemente, não existe tanto segredo assim num **IF**, certo? Analisamos uma ou algumas condições, e executamos algum código caso o **IF** seja satisfeito. Mas vamos analisar o código abaixo, que peguei num *code review*.
 
-```
-<pre class="brush: csharp;">if ((txtWord.Text != "" || cblWords.Items.Count != 0)
+```csharp
+if ((txtWord.Text != "" || cblWords.Items.Count != 0)
      && VerifyAlias(txtAlias.Text, true)
      && (txtWord.Text == "") ? true : VerifyKeyword(txtWord.Text))
 {
@@ -45,8 +45,8 @@ Ou seja, procure colocar os testes que tem a maior chance de ocorrer antes dos d
 
 Em detrimento de algumas linhas a mais, podemos melhorar a leitura do código usado anteriormente fazendo conforme vemos abaixo.
 
-```
-<pre class="brush: csharp;">bool IsWordNotEmpty = (txtWord.Text != "");
+```csharp
+bool IsWordNotEmpty = (txtWord.Text != "");
 bool IsExistsWordsList = (cblWords.Items.Count != 0);
 bool IsFilterOk = IsWordNotEmpty || IsExistsWordsList;
 
@@ -74,8 +74,8 @@ Veja essas outras duas dicas na codificação de **IFs**:
    
 Caso a linguagem não suporte as chamadas “avaliações de curto-circuito” é melhor evitar uso de “AND” e “OR”. Por exemplo, no código a seguir:
 
-```
-<pre class="brush: csharp;">if (txtWord.Text != "" && VerifyKeyword(txtWord.Text))
+```csharp
+if (txtWord.Text != "" && VerifyKeyword(txtWord.Text))
 {
     // Código aqui...
 }
@@ -83,8 +83,8 @@ Caso a linguagem não suporte as chamadas “avaliações de curto-circuito” �
 
 Se a primeira condição for falsa, consequentemente o **IF** já falhou, então não é necessário checar a segunda condição <font face="Courier New">VerifyKeyword(txtWord.Text)</font>. Esse é o comportamento padrão do C#, mas em algumas linguagens isso não ocorre, sendo preferível você codificar da seguinte forma:
 
-```
-<pre class="brush: csharp;">if (txtWord.Text != "")
+```csharp
+if (txtWord.Text != "")
 {
 	if (VerifyKeyword(txtWord.Text))
          {
@@ -95,8 +95,8 @@ Se a primeira condição for falsa, consequentemente o **IF** já falhou, então
 
 Seguindo a última dica, utilizar uma avaliação preguiçosa é fazer algo semelhante às estratégias *just-in-time*, que executam o trabalho no momento mais próximo de quando ele é necessário. Isso significa não fazer trabalhos “caros” antes do tempo, ou da necessidade. Voltando ao código que utilizava checagens com booleanas, é o caso das seguintes linhas:
 
-```
-<pre class="brush: csharp;">bool IsAliasOk = VerifyAlias(txtAlias.Text, true);
+```csharp
+bool IsAliasOk = VerifyAlias(txtAlias.Text, true);
 bool IsKeywordOk = !IsWordNotEmpty ? true : VerifyKeyword(txtWord.Text);
 ```
 

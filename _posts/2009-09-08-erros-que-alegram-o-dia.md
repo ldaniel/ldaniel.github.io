@@ -19,8 +19,8 @@ Esse post era pra ter saído na sexta-feira passada, mas não tive tempo no dia,
 
 O erro estourou no seguinte trecho:
 
-```
-<pre class="brush: csharp; gutter: false; toolbar: false;">using (GZipStream file = new GZipStream(fileStream, CompressionMode.Decompress, false))
+```csharp
+using (GZipStream file = new GZipStream(fileStream, CompressionMode.Decompress, false))
 ```
 
 A mensagem apesar de não dizer muita coisa (diretamente) me fez notar que o erro estava no modo de compressão, o certo era ***CompressionMode.Compress***. Após alterar o código tudo funcionou corretamente.

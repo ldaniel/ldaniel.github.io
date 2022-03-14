@@ -13,8 +13,8 @@ tags:
     - 'Off'
 ---
 
-```
-<pre class="brush: csharp;">#light
+```csharp
+#light
 open System
 
 let listF = [70;76;65;77;69;78;71;79;32;72;69;

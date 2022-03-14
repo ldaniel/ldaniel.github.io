@@ -15,8 +15,8 @@ tags:
 
 Pra quem está iniciando os estudos com SharePoint 3.0, segue um código útil que permite coletar as informações de um site:
 
-```
-<pre class="brush: csharp;">using Microsoft.SharePoint;
+```csharp
+using Microsoft.SharePoint;
 using Microsoft.SharePoint.WebControls;
 using Microsoft.SharePoint.WebPartPages;
 using Microsoft.SharePoint.Utilities;

@@ -16,8 +16,8 @@ Em alguns casos o armazenamento dos dados deve ser cuidadosamente pensado para o
 
 Para criar uma *Sparce Column*, utilize a palavra reservada **SPARSE**, conforme código a seguir:
 
-```
-<pre class="brush: sql;">CREATE TABLE Colaborador
+```sql
+CREATE TABLE Colaborador
 (
 	ColaboradorId int PRIMARY KEY,
 	Nome varchar(80) NOT NULL,

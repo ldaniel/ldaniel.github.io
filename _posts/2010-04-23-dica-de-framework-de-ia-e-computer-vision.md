@@ -31,8 +31,8 @@ A seguir demonstro um exemplo de utilização da biblioteca **AForge.Vision**. U
 
 O painel cinza é um controle do tipo **VideoSourcePlayer**, disponível com a instalação do AForge.NET. Para carregar os dispositivos de vídeo presentes na máquina (webcams) basta utilizar o código a seguir:
 
-```
-<pre class="brush: csharp;">private void CarregarDispositivos()
+```csharp
+private void CarregarDispositivos()
 {
     dispositivos = new FilterInfoCollection(FilterCategory.VideoInputDevice);
 
@@ -51,8 +51,8 @@ Usei a classe **FilterInfoCollection** que é inicializada com a enumeração **
 
 Para ligar a webcam utilizei o seguinte código:
 
-```
-<pre class="brush: csharp;">private void AbrirDispositivoVideo(IVideoSource source)
+```csharp
+private void AbrirDispositivoVideo(IVideoSource source)
 {
     this.Cursor = Cursors.WaitCursor;            
     FecharDispositivosVideo();<br></br>
@@ -65,8 +65,8 @@ Para ligar a webcam utilizei o seguinte código:
 
 Reparem que antes de ligar a webcam existe um método chamado **FecharDispositivosVideo** que finaliza qualquer dispositivo previamente aberto. Esse método é descrito a seguir.
 
-```
-<pre class="brush: csharp;">private void FecharDispositivosVideo()
+```csharp
+private void FecharDispositivosVideo()
 {
     this.Cursor = Cursors.WaitCursor;
     videoSourcePlayer.SignalToStop();
@@ -91,8 +91,8 @@ Basicamente, o que é necessário fazer é checar se o controle **videoSourcePla
 
 Para o botão “Detectar Movimento” codifiquei o código a seguir:
 
-```
-<pre class="brush: csharp;">private void btnDetectarMovimento_Click(object sender, EventArgs e)
+```csharp
+private void btnDetectarMovimento_Click(object sender, EventArgs e)
 {
     IMotionDetector detectionAlgorithm;            
     IMotionProcessing detectionProcessing;
@@ -118,8 +118,8 @@ A detecção e o processamento das imagens são realizadas, respectivamente, pel
 
 O último passo necessário é codificar qual a taxa de diferença entre frames do vídeo iremos utilizar, fazendo através do evento **NewFrame** do controle **videoSourcePlayer** o seguinte:
 
-```
-<pre class="brush: csharp;">private void videoSourcePlayer_NewFrame(object sender, ref Bitmap image)
+```csharp
+private void videoSourcePlayer_NewFrame(object sender, ref Bitmap image)
 {
     lock (this)
     {

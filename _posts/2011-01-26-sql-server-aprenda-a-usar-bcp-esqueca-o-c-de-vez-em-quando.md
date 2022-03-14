@@ -53,8 +53,7 @@ Obviamente, não posso utilizar o cenário do cliente como exemplo, por isso far
 
 Quando trabalhamos com BPC é uma boa ideia gerar arquivos .BAT para executar as operações, já que estamos lidando com um utilitário de linha de comando. O exemplo de comando que veremos abaixo está dentro de um arquivo .BAT. A linha que realmente importa é a **12**, onde observamos que o comando inicia especificando a tabela usando “fully qualified name”. Em seguida informo que a operação é de extração de dados (OUT). Os argumentos posteriores definem o nome do arquivo a ser gerado, o arquivo de Log com os resultados da operação, e por fim o banco, usuário e senha para conexão.
 
-```
-<pre class="brush: sql;">
+```sql
 @ECHO OFF
 
 Set Server=NomeServidor

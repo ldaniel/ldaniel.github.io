@@ -15,8 +15,8 @@ tags:
 
 O exemplo de código abaixo mostra o suporte do C# 4.0 para Variância e Contravariância. Mas o que vem a ser esses conceitos afinal?
 
-```
-<pre class="brush: csharp;">using System;
+```csharp
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

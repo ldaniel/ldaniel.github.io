@@ -17,8 +17,8 @@ Como *regex* são úteis! Quer ver um exemplo? Hoje eu precisava encontrar núme
 
 O código ficou muito simples, abaixo coloco um exemplo parecido com o que utilizei:
 
-```
-<pre class="brush: csharp;">string texto = "Quero achar os números 5 e 255!";
+```csharp
+string texto = "Quero achar os números 5 e 255!";
 
 Regex regex = new Regex(@"\d+");
 Match match = regex.Match(texto);
@@ -29,8 +29,8 @@ Console.WriteLine(match.NextMatch().Value);
 
 Neste caso era de conhecimento prévio que haviam apenas dois números na *string* por isso foi possível utilizar **NextMatch()** para retornar a próxima ocorrência encontrada. Uma maneira mais elegante seria utilizar a classe **MatchCollection**, conforme demonstrado a seguir:
 
-```
-<pre class="brush: csharp;">string texto = "Quero achar os números 5, 78, 67 e 255!";
+```csharp
+string texto = "Quero achar os números 5, 78, 67 e 255!";
 
 Regex regex = new Regex(@"\d+");
 MatchCollection match = regex.Matches(texto);

@@ -17,8 +17,8 @@ tags:
 
 E é! Após instalar o [IronPhyton](http://www.codeplex.com/IronPython/Release/ProjectReleases.aspx?ReleaseId=15625) você pode desenvolver códigos integrando a linguagem IronPhyton com o novo recurso dinâmico do C# 4.0, veja o código abaixo:
 
-```
-<pre class="brush: csharp;">using System;
+```csharp
+using System;
 using IronPython.Hosting;
 using Microsoft.Scripting.Hosting;
 
@@ -47,8 +47,8 @@ namespace PythonSample
 
 A instrução da linha 14 carrega um script contendo o seguinte código Python:
 
-```
-<pre class="brush: sql;">def welcome(name):
+```sql
+def welcome(name):
     return "Hello '" + name + "' from IronPython"
 ```
 

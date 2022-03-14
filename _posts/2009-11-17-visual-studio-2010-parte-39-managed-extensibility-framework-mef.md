@@ -17,8 +17,8 @@ O Managed Extensibility Framework (MEF) é uma nova biblioteca no. NET Framework
 
 Abaixo vemos uma pequena amostra de código com o novo framework, representado pelos atributos que decoram a classe ***SimpleMortgageCalculator***.
 
-```
-<pre class="brush: csharp;">[Export(typeof(IMortgageCalculator))]
+```csharp
+[Export(typeof(IMortgageCalculator))]
 [ExportMetadata(“Calculation”, “Simple”)]
 [ExportMetadata(“Tax Aware”, null)]
 public class SimpleMortgageCalculator : IMortgageCalculator

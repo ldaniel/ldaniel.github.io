@@ -17,8 +17,8 @@ Nos *templates* de projeto para SharePoint 2010 teremos uma grande novidade: LIN
 
 Veja um exemplo simples de código:
 
-```
-<pre class="brush: csharp;">SPListItemCollection listPages = pagesList.Items;
+```csharp
+SPListItemCollection listPages = pagesList.Items;
             var latestPages = listPages.Cast<SPListItem>()
 		.Where(p => p.Name != defaultPageName);
             var latestPages = listPages.Cast<SPListItem>()

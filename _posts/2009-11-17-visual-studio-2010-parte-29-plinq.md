@@ -15,8 +15,8 @@ tags:
 
 Dentre os avanços trazidos pelo C# 4.0 um dos mais significativos com relação a performance de execução de tarefas é o suporte ao processamento paralelo. No exemplo de código abaixo veremos como isso foi adicionado ao LINQ com a criação do ***PLINQ*** (o “P” vem de *parallel*).
 
-```
-<pre class="brush: csharp;">using System.Collections.Generic;
+```csharp
+using System.Collections.Generic;
 using System.Linq;
 
 class ExemploPlinq

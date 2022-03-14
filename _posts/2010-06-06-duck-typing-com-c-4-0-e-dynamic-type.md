@@ -21,8 +21,8 @@ Numa tradução livre, seria algo como: *“Se isso anda como um pato e fala com
 
 Experimente descomentar o código das linhas 18 e 19, e observe que ocorrerá um erro. Isso porque ao utilizarmos o tipo **dynamic** a checagem será realizada apenas em tempo de execução.
 
-```
-<pre class="brush: csharp;">using System;
+```csharp
+using System;
 
 public class Program
 {
