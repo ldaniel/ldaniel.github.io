@@ -19,8 +19,8 @@ Dando continuidade na série de posts sobre as melhorias de desenvolvimento do S
 
 O T-SQL a partir da versão 2008 oferece uma maneira mais concisa para criarmos sentenças com *Insert*. Nas versões anteriores usávamos o seguinte método para inserimos novos registros numa tabela:
 
-```
-<pre class="brush: sql;">INSERT INTO [dbo].[Atividade] (Descricao, DataConclusao) 
+```sql
+INSERT INTO [dbo].[Atividade] (Descricao, DataConclusao) 
 VALUES ('Participar do evento', '01/03/2009')
 
 INSERT INTO [dbo].[Atividade] (Descricao, DataConclusao) 
@@ -32,8 +32,8 @@ VALUES ('Finalizar artigo', '11/03/2009')
 
 A construção nova para o exemplo anterior seria:
 
-```
-<pre class="brush: sql;">INSERT INTO 
+```sql
+INSERT INTO 
 	[dbo].[Atividade]
 VALUES 
 	('Participar do evento', '01/03/2009'), 

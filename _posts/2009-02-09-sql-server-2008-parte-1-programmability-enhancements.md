@@ -35,8 +35,8 @@ Antes de utilizarmos o *Merge*, vamos considerar o cenário ilustrado abaixo atr
 
 Além do fato de que o segundo colaborador escreveu uma quantidade imensa de artigos, rapidamente constatamos que, de acordo com as regras que queremos aplicar, teríamos o primeiro e o segundo colaboradores ganhando o bônus de 100 pontos, o terceiro permanecendo com a mesma quantidade e o último sendo deletado da tabela. Vejamos como fica a query usando *Merge* para executar a operação toda:
 
-```
-<pre class="brush: sql;">MERGE Colaborador AS target
+```sql
+MERGE Colaborador AS target
 USING 
  (
 	SELECT 

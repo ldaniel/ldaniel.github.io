@@ -25,8 +25,7 @@ Com tanta possibilidade/necessidade de acesso a boas informações e tanto a ser
 
  Ah, sim, a solução para o problema do início do post foi essa aqui:
 
-```
-<pre class="brush: sql;">
+```sql
 DECLARE @Data AS DATETIME   
 DECLARE @DiasCompensa INT    
 

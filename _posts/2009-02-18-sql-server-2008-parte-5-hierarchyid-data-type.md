@@ -35,8 +35,8 @@ Neste tipo de estratégia as linhas de cada nível da hierarquia são armazenada
 
 Vejamos agora um exemplo com uma tabela simples para ilustrar os conceitos apresentados. A seguir temos o código para criação do exemplo:
 
-```
-<pre class="brush: sql;">CREATE TABLE Equipe
+```sql
+CREATE TABLE Equipe
    (
     Lider hierarchyid,
     ReportaPara as Lider.GetLevel(), 
@@ -48,8 +48,8 @@ GO
 
 Vamos inserir alguns registros utilizando o código descrito a seguir:
 
-```
-<pre class="brush: sql;">INSERT Equipe (Lider, ColaboradorId, NomeColaborador)
+```sql
+INSERT Equipe (Lider, ColaboradorId, NomeColaborador)
 VALUES (hierarchyid::GetRoot(), 1, 'Lider A');
 GO
 
@@ -70,16 +70,16 @@ A sintaxe ***hierarchyid::GetRoot().GetDescendant(null, null)*** informa ao SQL 
 
 Se quiséssemos inserir outro elemento derivado de Root, bastaria utilizar o seguinte código:
 
-```
-<pre class="brush: sql;">INSERT Equipe (Lider, ColaboradorId, NomeColaborador)
+```sql
+INSERT Equipe (Lider, ColaboradorId, NomeColaborador)
 VALUES (hierarchyid::GetRoot(), 100, 'Lider B');
 GO
 ```
 
 Agora utilizaremos outra abordagem para inserimos alguns registros com outro nível de hierarquia.
 
-```
-<pre class="brush: sql;">DECLARE @Lider hierarchyid, @lc hierarchyid
+```sql
+DECLARE @Lider hierarchyid, @lc hierarchyid
 
 SELECT @Lider = Lider
 FROM Equipe
@@ -95,14 +95,14 @@ GO
 
 Para visualizarmos o resultados vamos executar a query a seguir:
 
-```
-<pre class="brush: sql;">SELECT Lider.ToString(), * FROM Equipe
+```sql
+SELECT Lider.ToString(), * FROM Equipe
 ```
 
 Repare que utilizei o método ToString() para fazer a conversão do tipo hierárquico para uma notação mais legível. Para visualizarmos todos os lideres do primeiro nível podemos utilizar a seguinte query:
 
-```
-<pre class="brush: sql;">SELECT Lider.ToString() AS OLider, *
+```sql
+SELECT Lider.ToString() AS OLider, *
 FROM Equipe
 WHERE Lider = hierarchyid::GetRoot() ;
 GO
@@ -110,8 +110,8 @@ GO
 
 A query a seguir retorna todos as linhas derivadas do colaborador com o Id 2:
 
-```
-<pre class="brush: sql;">DECLARE @Colaborador hierarchyid
+```sql
+DECLARE @Colaborador hierarchyid
 
 SELECT @Colaborador = Lider
 FROM Equipe

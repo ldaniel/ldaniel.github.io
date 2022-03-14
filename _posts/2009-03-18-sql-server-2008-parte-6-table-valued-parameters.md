@@ -21,8 +21,8 @@ Basicamente, table-value parameter é um novo tipo que pode ser definido com a e
 
 Para criar um table-value parameter utilize o código abaixo adaptando as colunas de acordo com sua necessidade.
 
-```
-<pre class="brush: sql;">CREATE TYPE ColaboradorTableType AS TABLE 
+```sql
+CREATE TYPE ColaboradorTableType AS TABLE 
 ( 
     Nome VARCHAR(50),
     Bonus INT 
@@ -35,8 +35,8 @@ Através da janela *Object Explorer* do *Microsoft SQL Server Management Studio*
 
 Uma vez definido e criado, podemos usá-lo conforme o exemplo a seguir:
 
-```
-<pre class="brush: sql;">CREATE PROCEDURE spInsereColaborador
+```sql
+CREATE PROCEDURE spInsereColaborador
 (
     @Colaboradores ColaboradorTableType READONLY
 )

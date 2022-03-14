@@ -31,8 +31,8 @@ Uma vez instalado devemos adicionar uma referência no projeto para a seguinte b
 
 Devemos também adicionar o seguinte *namespace* na classe que usará a instrumentação:
 
-```
-<pre class="brush: csharp;">...
+```csharp
+...
 using Microsoft.Practices.EnterpriseLibrary.Common.Instrumentation;
 ...
 ```
