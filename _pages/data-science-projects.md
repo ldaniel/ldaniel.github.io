@@ -13,7 +13,7 @@ Following there are some interesting projects:
 
 <ul>
   <li><a href="https://github.com/ldaniel/fgv-artificial-intelligence-applications" target="_blank">fgv-artificial-intelligence-applications</a>: Practicing Deep Learning in Python applied in the real world.</li>
-  <li><a href="https://github.com/ldaniel/fgv-predictive-analytics" target="_blank"fgv-predictive-analytics></a> / <a href="https://ldaniel.github.io/fgv-predictive-analytics" target="_blank">Website</a>: About
+  <li><a href="https://github.com/ldaniel/fgv-predictive-analytics" target="_blank">fgv-predictive-analytics</a> / <a href="https://ldaniel.github.io/fgv-predictive-analytics" target="_blank">Website</a>: About
 Practicing Predictive Analytics in R using a real anonymized Czech bank.</li>
   <li><a href="https://github.com/ldaniel/fgv-exploratory-data-analysis" target="_blank">
 fgv-exploratory-data-analysis</a> / <a href="https://ldaniel.github.io/
