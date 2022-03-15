@@ -12,5 +12,5 @@ I’m currently working on my Data Science skills and my repositories on <a href
 Following there are some interesting projects:
 
 <ul>
-  <li>[https://github.com/ldaniel/fgv-artificial-intelligence-applications](https://github.com/ldaniel/fgv-artificial-intelligence-applications): Practicing Deep Learning in Python applied in the real world.</li>
+  <li>[fgv-artificial-intelligence-applications](https://github.com/ldaniel/fgv-artificial-intelligence-applications): Practicing Deep Learning in Python applied in the real world.</li>
 </ul>
