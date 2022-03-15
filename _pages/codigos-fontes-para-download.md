@@ -36,8 +36,7 @@ sidebar:
 
 | Lista de downloads |
 |---|
-| [Revista .net Magazine Edição 79 (novembro de 2010)](https://www.devmedia.com.br/revista-net-magazine-edicao-79/18487): Integração com redes sociais (parte 3) 
-[Download da solução de exemplo (0,6 MB) ](/assets/artigos/NetMag.RedesSociais.Integracao.Solution.zip)  |
+| [Revista .net Magazine Edição 79 (novembro de 2010)](https://www.devmedia.com.br/revista-net-magazine-edicao-79/18487): Integração com redes sociais (parte 3) <br/> [Download da solução de exemplo (0,6 MB) ](/assets/artigos/NetMag.RedesSociais.Integracao.Solution.zip)  |
 
 ## Dúvidas?
 
