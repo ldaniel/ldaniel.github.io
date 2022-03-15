@@ -6,6 +6,8 @@ date: '2012-10-24T23:46:25-03:00'
 author: 'Leandro Daniel'
 guid: 'http://localhost:81/?page_id=361'
 permalink: /source-code-for-download/
+sidebar:
+  nav: "posts"
 ---
 
 ## Links
