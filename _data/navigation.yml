@@ -35,6 +35,8 @@ posts:
     children:
       - title: "Articles"
         url: "/categories/#articles"
+      - title: "Data Science Projects"
+        url: "/data-science-projects/"
       - title: "IT"
         url: "/categories/#it"
       - title: "Music"
