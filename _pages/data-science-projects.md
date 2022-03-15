@@ -7,7 +7,7 @@ permalink: /data-science-projects/
 
 ## data science projects I've developed
 
-I’m currently working on my Data Science skills and my repositories on <a href="https://github.com/ldaniel?tab=repositories">GitHub</a> are plenty of cool repos.
+I’m currently working on my Data Science skills and my repositories on <a href="https://github.com/ldaniel?tab=repositories">GitHub</a> are plenty of cool stuff.
 
 Following there are some interesting projects:
 
