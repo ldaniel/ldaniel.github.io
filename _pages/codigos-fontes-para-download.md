@@ -34,9 +34,10 @@ sidebar:
 
 - [Revista Easy .net Magazine Edição 6 (novembro de 2010)](https://www.devmedia.com.br/revista-easy-net-magazine-edicao-6/18473): Introdução ao GridView – Parte 1 - [Download da solução de exemplo (551 KB)](/assets/artigos/NetMag.IntroGridView.Solution.zip)
 
-| b |
+| Lista de downloads |
 |---|
-| teste  |
+| [Revista .net Magazine Edição 79 (novembro de 2010)](https://www.devmedia.com.br/revista-net-magazine-edicao-79/18487): Integração com redes sociais (parte 3) 
+[Download da solução de exemplo (0,6 MB) ](/assets/artigos/NetMag.RedesSociais.Integracao.Solution.zip)  |
 
 ## Dúvidas?
 
