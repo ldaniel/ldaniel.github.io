@@ -3,6 +3,8 @@ layout: single
 author_profile: true
 title: "Data Science Projects"
 permalink: /data-science-projects/
+sidebar:
+  nav: "posts"
 ---
 
 ## data science projects I've developed
