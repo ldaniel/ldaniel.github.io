@@ -1,0 +1,518 @@
+﻿<!DOCTYPE html>
+
+<html lang="pt-br">
+
+<head>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="generator" content="pandoc" />
+    <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+    <title>gerador de improbabilidades {in}finitas</title>
+
+    <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+    <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+    <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+    <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+    <script src="site_libs/navigation-1.1/tabsets.js"></script>
+    <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+    <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Chilanka|Gochi+Hand&display=swap" rel="stylesheet">
+
+    <link href="site_libs/prism.css" rel="stylesheet" />
+
+    <style type="text/css">
+        h1 {
+            font-size: 34px;
+        }
+
+            h1.title {
+                font-size: 38px;
+            }
+
+        h2 {
+            font-size: 30px;
+        }
+
+        h3 {
+            font-size: 24px;
+        }
+
+        h4 {
+            font-size: 18px;
+        }
+
+        h5 {
+            font-size: 16px;
+        }
+
+        h6 {
+            font-size: 12px;
+        }
+
+        .table th:not([align]) {
+            text-align: left;
+        }
+    </style>
+
+    <style type="text/css">
+        .main-container {
+            max-width: 940px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        code {
+            color: inherit;
+            background-color: rgba(0, 0, 0, 0.04);
+        }
+
+        img {
+            max-width: 100%;
+        }
+
+        .tabbed-pane {
+            padding-top: 12px;
+        }
+
+        .html-widget {
+            margin-bottom: 20px;
+        }
+
+        button.code-folding-btn:focus {
+            outline: none;
+        }
+
+        summary {
+            display: list-item;
+        }
+    </style>
+
+    <style type="text/css">
+        /* padding for bootstrap navbar */
+        body {
+            padding-top: 51px;
+            padding-bottom: 40px;
+        }
+        /* offset scroll position for anchor links (for fixed navbar)  */
+        .section h1 {
+            padding-top: 56px;
+            margin-top: -56px;
+        }
+
+        .section h2 {
+            padding-top: 56px;
+            margin-top: -56px;
+        }
+
+        .section h3 {
+            padding-top: 56px;
+            margin-top: -56px;
+        }
+
+        .section h4 {
+            padding-top: 56px;
+            margin-top: -56px;
+        }
+
+        .section h5 {
+            padding-top: 56px;
+            margin-top: -56px;
+        }
+
+        .section h6 {
+            padding-top: 56px;
+            margin-top: -56px;
+        }
+
+        .dropdown-submenu {
+            position: relative;
+        }
+
+            .dropdown-submenu > .dropdown-menu {
+                top: 0;
+                left: 100%;
+                margin-top: -6px;
+                margin-left: -1px;
+                border-radius: 0 6px 6px 6px;
+            }
+
+            .dropdown-submenu:hover > .dropdown-menu {
+                display: block;
+            }
+
+            .dropdown-submenu > a:after {
+                display: block;
+                content: " ";
+                float: right;
+                width: 0;
+                height: 0;
+                border-color: transparent;
+                border-style: solid;
+                border-width: 5px 0 5px 5px;
+                border-left-color: #cccccc;
+                margin-top: 5px;
+                margin-right: -10px;
+            }
+
+            .dropdown-submenu:hover > a:after {
+                border-left-color: #ffffff;
+            }
+
+            .dropdown-submenu.pull-left {
+                float: none;
+            }
+
+                .dropdown-submenu.pull-left > .dropdown-menu {
+                    left: -100%;
+                    margin-left: 10px;
+                    border-radius: 6px 0 6px 6px;
+                }
+    </style>
+
+    <script>
+        // manage active state of menu based on current page
+        $(document).ready(function () {
+            // active menu anchor
+            href = window.location.pathname
+            href = href.substr(href.lastIndexOf('/') + 1)
+            if (href === "")
+                href = "index.html";
+            var menuAnchor = $('a[href="' + href + '"]');
+
+            // mark it active
+            menuAnchor.parent().addClass('active');
+
+            // if it's got a parent navbar menu mark it active as well
+            menuAnchor.closest('li.dropdown').addClass('active');
+        });
+    </script>
+
+    <!-- tabsets -->
+
+    <style type="text/css">
+        .tabset-dropdown > .nav-tabs {
+            display: inline-table;
+            max-height: 500px;
+            min-height: 44px;
+            overflow-y: auto;
+            background: white;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+
+            .tabset-dropdown > .nav-tabs > li.active:before {
+                content: "";
+                font-family: 'Glyphicons Halflings';
+                display: inline-block;
+                padding: 10px;
+                border-right: 1px solid #ddd;
+            }
+
+            .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+                content: "&#xe258;";
+                border: none;
+            }
+
+            .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+                content: "";
+                font-family: 'Glyphicons Halflings';
+                display: inline-block;
+                padding: 10px;
+                border-right: 1px solid #ddd;
+            }
+
+            .tabset-dropdown > .nav-tabs > li.active {
+                display: block;
+            }
+
+            .tabset-dropdown > .nav-tabs > li > a,
+            .tabset-dropdown > .nav-tabs > li > a:focus,
+            .tabset-dropdown > .nav-tabs > li > a:hover {
+                border: none;
+                display: inline-block;
+                border-radius: 4px;
+            }
+
+            .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+                display: block;
+                float: none;
+            }
+
+            .tabset-dropdown > .nav-tabs > li {
+                display: none;
+            }
+    </style>
+
+    <!-- code folding -->
+
+</head>
+
+<body onload="generateTiGreets()">
+    
+    <div class="container-fluid main-container">
+        <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="index.html">megalotropia?</a>
+                </div>
+                <div id="navbar" class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li>
+                            <a href="index.html"><span class="fa fa-home"></span>&nbsp;home</a>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+                                <span class="fa fa-paw"></span>
+                                tigreets
+                                <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li>
+                                    <a href="tigreets_index.html"><span class="fa fa-infinity"></span>&nbsp;gerador</a>
+                                </li>
+                                <li>
+                                    <a href="tigreets_inside.html"><span class="fa fa-code"></span>&nbsp;olhe por dentro</a>
+                                </li>
+                                <li>
+                                    <a href="tigreets_outside.html"><span class="fa fa-refresh"></span>&nbsp;olhe por fora</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+                                <span class="fa fa-spider"></span>
+                                symposium
+                                <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li>
+                                    <a href="banquet_index.html"><span class="fa fa-heart"></span>&nbsp;experiência morfológica</a>
+                                </li>
+                                <li>
+                                    <a href="banquet_outside.html"><span class="fa fa-heartbeat"></span>&nbsp;experiência relatada</a>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul class="nav navbar-nav navbar-right"></ul>
+                </div><!--/.nav-collapse -->
+            </div><!--/.container -->
+        </div><!--/.navbar -->
+
+        <div class="fluid-row" id="header">
+            <h1 class="title toc-ignore">~ gerador de improbabilidades {in}finitas ~</h1>
+        </div>
+
+        <div id="myproject" class="section level1">
+        
+            <pre>
+            <code class="language-javascript">
+/*
+ * ... and Caf said:
+ * 
+ * Pessoal conforme combinado nos comprometemos a escrever TiGreets 1, 2, 3 e 4 
+ * para o início da próxima semana. Cada um deles deverá conter uma única frase 
+ * com 14 palavras perfazendo 40 sílabas e nada mais. Nem menos.
+ * */
+
+var syllabes = [
+    'a', 'e', 'i', 'o', 'u', 'ai', 'ao', 'au', 'ei', 'eu', 'ia', 'ou',
+    'lhe', 'lhes', 'lho', 'lhos', 'cha', 'che', 'chi', 'chu', 'cho',
+    'ba', 'ca', 'da', 'fa', 'ga', 'ha', 'ja', 'la', 'ma', 'na', 'pa',
+    'qua', 'ra', 'sa', 'ta', 'va', 'xa', 'za', 'be', 'ce', 'de',
+    'fe', 'ge', 'he', 'je', 'le', 'me', 'ne', 'pe', 'que', 're', 'se',
+    'te', 've', 'xe', 'ze', 'bi', 'ci', 'di', 'fi', 'gi', 'hi', 'ji',
+    'li', 'mi', 'ni', 'pi', 'qui', 'ri', 'si', 'ti', 'vi', 'xi', 'zi',
+    'bo', 'co', 'do', 'fo', 'go', 'ho', 'jo', 'lo', 'mo', 'no', 'po',
+    'quo', 'ro', 'so', 'to', 'vo', 'xo', 'zo', 'bu', 'cu', 'du', 'fu',
+    'gu', 'hu', 'ju', 'lu', 'mu', 'nu', 'pu', 'quas', 'ru', 'su', 'tu',
+    'vu', 'xu', 'zu', 'bas', 'cas', 'das', 'fas', 'gas', 'has', 'jas',
+    'las', 'mas', 'nas', 'pas', 'ques', 'ras', 'sas', 'tas', 'vas', 'xas',
+    'zas', 'bes', 'ces', 'des', 'fes', 'ges', 'hes', 'jes', 'les', 'mes',
+    'nes', 'pes', 'quis', 'res', 'ses', 'tes', 'ver', 'xes', 'zes', 'bis',
+    'cis', 'dis', 'fis', 'gis', 'his', 'jis', 'lis', 'mis', 'nis', 'pis',
+    'quos', 'ris', 'sis', 'tis', 'vis', 'xis', 'zis', 'bos', 'cos', 'dos',
+    'fos', 'gos', 'hos', 'jos', 'los', 'mos', 'nos', 'pos', 'quar', 'ros',
+    'sos', 'tos', 'vos', 'xos', 'zos', 'bus', 'cus', 'dus', 'fus', 'gus',
+    'hus', 'jus', 'lus', 'mus', 'nus', 'pus', 'quer', 'rus', 'sus', 'tus',
+    'vus', 'xus', 'zus', 'bar', 'car', 'dar', 'far', 'gar', 'har', 'jar',
+    'lar', 'mar', 'nar', 'par', 'quir', 'rar', 'sar', 'tar', 'var', 'xar',
+    'zar', 'ber', 'cer', 'der', 'fer', 'ger', 'her', 'jer', 'ler', 'mer',
+    'ner', 'per', 'quor', 'rer', 'ser', 'ter', 'ver', 'xer', 'zer', 'bir',
+    'cir', 'dir', 'fir', 'gir', 'hir', 'jir', 'lir', 'mir', 'nir', 'pir',
+    'qual', 'rir', 'sir', 'tir', 'vir', 'xir', 'zir', 'bor', 'cor', 'dor',
+    'for', 'gor', 'hor', 'jor', 'lor', 'mor', 'nor', 'por', 'as', 'ror',
+    'sor', 'tor', 'vor', 'xor', 'zor', 'bur', 'cur', 'dur', 'fur', 'gur',
+    'hur', 'jur', 'lur', 'mur', 'nur', 'pur', 'es', 'rur', 'sur', 'tur',
+    'vur', 'xur', 'zur', 'bal', 'cal', 'dal', 'fal', 'gal', 'hal', 'jal',
+    'lal', 'mal', 'nal', 'pal', 'is', 'ral', 'sal', 'tal', 'val', 'xal',
+    'zal', 'bel', 'cel', 'del', 'fel', 'gel', 'hel', 'jel', 'lel', 'mel',
+    'nel', 'pel', 'os', 'rel', 'sel', 'tel', 'vel', 'xel', 'zel', 'bil',
+    'cil', 'dil', 'fil', 'gil', 'hil', 'jil', 'lil', 'mil', 'nil', 'pil',
+    'us', 'ril', 'sil', 'til', 'vil', 'xil', 'zil', 'bol', 'col', 'dol',
+    'fol', 'gol', 'hol', 'jol', 'lol', 'mol', 'nol', 'pol', 'ar', 'rol',
+    'sol', 'tol', 'vol', 'xol', 'zol', 'bul', 'cul', 'dul', 'ful', 'gul',
+    'hul', 'jul', 'lul', 'mul', 'nul', 'pul', 'er', 'rul', 'sul', 'tul',
+    'vul', 'xul', 'zul', 'bam', 'cam', 'dam', 'fam', 'gam', 'ham', 'jam',
+    'lam', 'mam', 'man', 'pam', 'ir', 'ram', 'sam', 'tam', 'vam', 'xam',
+    'zam', 'bem', 'cem', 'dem', 'fem', 'gem', 'hem', 'jem', 'lem', 'mem',
+    'men', 'pem', 'or', 'rem', 'sem', 'tem', 'vem', 'xem', 'zem', 'bim',
+    'cim', 'dim', 'fim', 'gim', 'him', 'jim', 'lim', 'mim', 'min', 'pim',
+    'ur', 'rim', 'sim', 'tim', 'vim', 'xim', 'zim', 'bom', 'com', 'dom',
+    'fom', 'gom', 'hom', 'jom', 'lom', 'mom', 'mon', 'pom', 'al', 'rom',
+    'som', 'tom', 'vom', 'xom', 'zom', 'bum', 'cum', 'dum', 'fum', 'gum',
+    'hum', 'jum', 'lum', 'mum', 'mun', 'pum', 'el', 'rum', 'sum', 'tum',
+    'vum', 'xum', 'zum', 'nha', 'nhe', 'nhi', 'nho', 'nhu', 'exc', 'na',
+    'em', 'il', 'ol', 'ul', 'ex', 'in', 'on', 'um', '&eacute;', 
+    "&atilde;o", "&atilde;os", "&otilde;es", "&agrave;", "quei", "sei"
+]
+
+const max_words = 14;
+const max_syllabes_per_phrase = 40;
+
+var word_count = 0;
+var word_syllabes_count = 0;
+
+function getRandomSyllabe() {
+    return syllabes[Math.floor(Math.random() * syllabes.length)];
+}
+
+function createWord() {
+    var word, size;
+
+    word = "";
+    const min = 1;
+    const max = 4;    
+    
+    if (word_count == (max_words - 1)) {
+        if (word_syllabes_count < max_syllabes_per_phrase) {
+            size = max_syllabes_per_phrase - word_syllabes_count;
+        }
+        else {
+            size = 1;
+        }
+    }
+    else {
+        size = Math.floor(Math.random() * (max - min + 1)) + min;
+    }
+
+    for (i = min; i <= size; i++) {
+        word += getRandomSyllabe();
+        word_syllabes_count += 1;
+    }
+
+    return word;
+}
+
+function capitalizeFirstLetter(phrase) {
+    return phrase.replace(/^\w/, c => c.toUpperCase());
+}
+
+function getPause() {
+    middle_ponctuation =
+        [" ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ",
+         " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ",
+         ", ", ": ", "; "]
+    return middle_ponctuation[Math.floor(Math.random() * middle_ponctuation.length)];
+}
+
+function getIntention() {
+    terminal_ponctuation = [".", "!", "?", "..."]
+    return terminal_ponctuation[Math.floor(Math.random() * terminal_ponctuation.length)];
+}
+
+function writePhrase() {
+    var phrase, I_Am_Free;
+    
+    phrase = "";
+    I_Am_Free = true;
+
+    word_count = 0;
+    word_syllabes_count = 0;
+
+    while (I_Am_Free) {
+        if (word_count == max_words) {
+            I_Am_Free = false;
+        }
+        else {
+            phrase += createWord();
+            word_count += 1;
+
+            if (word_count < max_words) {
+                phrase += getPause();
+            }
+        }
+    }    
+        
+    phrase = capitalizeFirstLetter(phrase);
+    phrase += getIntention();
+    
+    /*
+    phrase = phrase + "<br /> word_count: " + word_count + 
+                " / word_syllabes_count: " + word_syllabes_count;
+    */
+
+    return phrase;
+}
+
+function generateTiGreets() {
+    document.getElementById('TiGreets1').innerHTML = writePhrase();
+    document.getElementById('TiGreets2').innerHTML = writePhrase();
+    document.getElementById('TiGreets3').innerHTML = writePhrase();
+    document.getElementById('TiGreets4').innerHTML = writePhrase();
+}
+</code>
+</pre>
+    
+        </div>
+
+    </div>
+
+    <script src="site_libs/prism.js"></script>
+
+    <script>
+        // add bootstrap table styles to pandoc tables
+        function bootstrapStylePandocTables() {
+            $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+        }
+        $(document).ready(function () {
+            bootstrapStylePandocTables();
+        });
+    </script>
+
+    <!-- tabsets -->
+
+    <script>
+        $(document).ready(function () {
+            window.buildTabsets("TOC");
+        });
+
+        $(document).ready(function () {
+            $('.tabset-dropdown > .nav-tabs > li').click(function () {
+                $(this).parent().toggleClass('nav-tabs-open')
+            });
+        });
+    </script>
+
+    <!-- code folding -->
+    <!-- dynamically load mathjax for compatibility with self-contained -->
+    <script>
+        (function () {
+            var script = document.createElement("script");
+            script.type = "text/javascript";
+            script.src = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+            document.getElementsByTagName("head")[0].appendChild(script);
+        })();
+    </script>
+
+</body>
+</html>
