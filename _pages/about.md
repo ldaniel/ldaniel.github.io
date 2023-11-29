@@ -17,7 +17,7 @@ In the beginning of 2009 I started to write [technical articles for .NET Magazin
 
 I’ve always been involved with IT community, [speaking in many events](http://reverb.leandrodaniel.com/category/Palestras): [DNAD 2009](http://leandrodaniel.com/category/net-architects/), [DNAD 2010](http://leandrodaniel.com/category/net-architects/), [DNAD 2011](http://leandrodaniel.com/category/net-architects/), [DNAD 2012](http://leandrodaniel.com/category/net-architects/), [TDC 2011](http://leandrodaniel.com/category/eventos/), [TDC 2012](http://leandrodaniel.com/category/eventos/) and [QCon 2011](http://leandrodaniel.com/?s=qconsp). 
 
-I’ve worked since middle of 2011 as a Systems Architect Specialist at [Rabobank](http://www.rabobank.com), one of the world’s most leading, sound and sustainable financial institutions.
+I've been working as a systems architecture specialist at [Rabobank](http://www.rabobank.com) since mid-2011, one of the world’s most leading, sound and sustainable financial institutions.
 
 ## I have this certifications
 
