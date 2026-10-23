@@ -12,7 +12,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "defa
 locale                   : "en-US"
 title                    : "Leandro Daniel"
 title_separator          : "-"
-subtitle                 : "Systems Architecture, development and music"
+subtitle                 : "Enterprise architecture, development and music"
 name                     : "Leandro Daniel"
 description              : "Leandro Daniel's personal website"
 url                      : "https://leandrodaniel.com"
